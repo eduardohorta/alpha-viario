@@ -7,6 +7,7 @@
 - [ ] **[C]** Obter o **Plano Funcional (Anexo 7)** e **confirmar o status de implantação** dos projetos já aprovados para **P1/P2/P3/P6/P7** — via administração do condomínio e órgãos (SMT/EPTC, SMAMUS). Ver [projetos já aprovados](relatorios/projetos-viarios-ja-aprovados.md).
 - [ ] **[G]** Preencher o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) quando o Anexo 7 chegar.
 - [ ] **[G]** Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
+- [ ] **[C/G]** Obter o **projeto da alça de acesso** (Três Meninas ↔ Costa Gama, **P7**) na documentação da prefeitura e confirmar status/desapropriação.
 - [ ] **[G]** **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
 - [ ] **[G]** Confirmar a **grafia oficial** "Cristiano Kraemer" na base SMAMUS.
