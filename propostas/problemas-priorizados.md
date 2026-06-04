@@ -134,6 +134,10 @@
 
 ---
 
+## Dimensões adicionais a investigar (contribuição comunitária)
+- **Drenagem / alagamento:** dimensão ainda **não mapeada** nos P1–P9 (que são circulação/segurança). Levantar **pontos de alagamento** no entorno da Estr. das Três Meninas e acessos.
+- **Escopo regional:** os problemas afetam também o **Terraville** e demais usuários da Zona Sul — reforça o **benefício público além do condomínio**.
+
 ## Próximos preenchimentos necessários
 - **Campo:** aplicar o [roteiro de vistoria](../campo/observacoes/roteiro-vistoria.md) e a [ficha](../campo/observacoes/modelo-observacao-campo.csv) nos picos.
 - **Sinistros:** **validar em campo/aerofoto os segmentos P4-S06/S01/S04** e os registros mais próximos — ver [segmentos](../dados/tratados/acidentes_p4_segmentos.csv), [revisão manual](../dados/tratados/acidentes_revisao_manual_notas.md) e [metodologia](../dados/tratados/acidentes_metodologia.md).

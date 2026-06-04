@@ -61,6 +61,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - **Marco urbanístico:** PDUS/LUOS **aprovados pela Câmara em 2026**; sanção/publicação e transição **a confirmar**.
 - A obra asfáltica da Cristiano Kraemer é **SMSUrb (pavimento)**, ≠ projeto PSVS da Monte Cristo.
 - **Privacidade:** nomes de moradores anonimizados (Morador A/B). Revisões internas (CODEX) e a base bruta de sinistros (~15 MB) não são versionadas.
+- **Escopo (contribuição comunitária):** além de circulação/segurança, investigar **drenagem/alagamento**; os impactos alcançam também o Terraville e demais usuários da região.
 
 ## Próximos passos
 1. **Validar o pacote com a comissão** ([guia](relatorios/guia-validacao-comissao.md)) e **iniciar a coleta de campo** ([plano](campo/plano-coleta-campo.md)) — destrava a ida à EPTC. *(decisão atual: validação interna + campo antes de protocolar)*
