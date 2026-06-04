@@ -26,7 +26,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 **Insumos brutos**
 - [sugs.md](sugs.md) — relato original (8 pontos + 3 propostas)
 - [starting-point.md](starting-point.md) — pedido inicial
-- [comments-vizinhos-comissao.md](comments-vizinhos-comissao.md) — *inbox* de comentários
+- [consultas/contribuicoes-comunitarias-publico.md](consultas/contribuicoes-comunitarias-publico.md) — contribuições da comunidade (versão neutra). *Inbox bruto mantido em `interno/`.*
 
 **Plano e propostas**
 - [plano-de-trabalho.md](plano-de-trabalho.md) — espinha dorsal (etapas 0–9)

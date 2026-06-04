@@ -1,6 +1,6 @@
 # Registro estruturado de demandas comunitárias
 
-> *Inbox* bruto: [comments-vizinhos-comissao.md](../comments-vizinhos-comissao.md). Aqui as falas viram itens **verificáveis**.
+> *Inbox* bruto: mantido em `interno/` (não publicado). Versão pública neutra: [contribuicoes-comunitarias-publico.md](contribuicoes-comunitarias-publico.md). Aqui as falas viram itens **verificáveis**.
 > **Regra:** toda demanda precisa de (a) localização precisa, (b) tipo, (c) **benefício público** (não só do condomínio) e (d) evidência a coletar.
 > ⚠️ **Atenção (princípio do plano e da revisão CODEX):** demandas de **fluidez/conveniência** (retornos, alargamentos) precisam passar pelo filtro de **benefício público** e de **segurança primeiro** — e não devem prejudicar pedestres, ciclistas, transporte coletivo ou o entorno. Referências internas do condomínio (Clube, Reserva, Toscana, Veneto, Lombardia) devem ser **traduzidas para vias/coordenadas** antes de qualquer peça externa.
 
