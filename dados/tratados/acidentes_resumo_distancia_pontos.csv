@@ -1,0 +1,9 @@
+ponto,rotulo_ponto,tipo_referencia,limiar_principal_m,contexto_m,ocorrencias_principal,ocorrencias_ate_50m,ocorrencias_ate_100m,ocorrencias_ate_200m,feridos_principal,feridos_graves_principal,fatais_principal,motos_principal,bicicletas_principal,onibus_principal,feridos_contexto,feridos_graves_contexto,fatais_contexto,motos_contexto,bicicletas_contexto,onibus_contexto,min_dist_m,observacao
+P1,Rotula Estr. 3 Meninas x Estr. Cristiano Kraemer,point,100.0,200.0,29,20,29,43,11,4,0,6,0,0,21,6,0,14,0,0,2.0,Associacao por distancia; nao implica causalidade.
+P2,Confluencia Cristiano Kraemer x Belem Velho x Monte Cristo,point,100.0,200.0,58,33,58,95,25,7,0,23,0,3,41,10,0,40,1,3,9.6,Associacao por distancia; nao implica causalidade.
+P3,Acesso Av. Vicente Monteggia via Joao Salomoni/Rodrigues,point,100.0,200.0,44,13,44,65,24,4,0,20,0,1,37,6,0,28,1,1,0.8,Associacao por distancia; nao implica causalidade.
+P4,Corredor Av. Vicente Monteggia,polyline,50.0,100.0,409,409,455,455,215,36,2,186,6,6,237,38,2,199,6,6,0.0,Associacao por distancia; nao implica causalidade.
+P5,Joao Salomoni x Av. da Cavalhada,point,100.0,200.0,71,60,71,102,29,3,0,14,1,1,43,6,1,22,1,4,4.0,Associacao por distancia; nao implica causalidade.
+P6,Rota Florestan Fernandes / Estrada Kanazawa,polyline,50.0,100.0,8,8,13,13,9,0,0,5,0,0,13,0,0,8,0,0,5.1,Associacao por distancia; nao implica causalidade.
+P7,Estr. 3 Meninas x Estr. Costa Gama,point,100.0,200.0,18,11,18,26,5,1,0,3,1,1,9,2,0,4,1,1,8.1,Associacao por distancia; nao implica causalidade.
+P8,Estr. Costa Gama x Estr. Afonso Lourenco Mariante,point,100.0,200.0,36,31,36,59,15,4,0,17,1,1,28,6,0,32,1,2,0.6,Associacao por distancia; nao implica causalidade.

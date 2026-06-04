@@ -1,0 +1,7 @@
+{
+  "eixo_osm": "Avenida Vicente Monteggia",
+  "comprimento_eixo_m": 2900.8,
+  "registros_p4_principais": 409,
+  "metodo": "projecao dos registros P4 no caminho OSM da Av. Vicente Monteggia; segmentos por marcos de intersecao observados nos logradouros dos proprios sinistros",
+  "limite": "segmentacao preliminar; marcos nao substituem base cadastral oficial nem validacao visual em mapa/aerofoto"
+}

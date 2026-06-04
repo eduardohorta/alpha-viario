@@ -1,0 +1,83 @@
+{
+  "totais_csv": {
+    "rows": 75176,
+    "valid_coord": 64003,
+    "invalid_coord": 11173,
+    "relevant_no_coord": 25
+  },
+  "referencias": {
+    "P1": {
+      "label": "Rotula Estr. 3 Meninas x Estr. Cristiano Kraemer",
+      "type": "point",
+      "lat": -30.11831,
+      "lon": -51.20319,
+      "primary_m": 100.0,
+      "context_m": 200.0
+    },
+    "P2": {
+      "label": "Confluencia Cristiano Kraemer x Belem Velho x Monte Cristo",
+      "type": "point",
+      "lat": -30.11756,
+      "lon": -51.20636,
+      "primary_m": 100.0,
+      "context_m": 200.0
+    },
+    "P3": {
+      "label": "Acesso Av. Vicente Monteggia via Joao Salomoni/Rodrigues",
+      "type": "point",
+      "lat": -30.1155,
+      "lon": -51.21248,
+      "primary_m": 100.0,
+      "context_m": 200.0
+    },
+    "P4": {
+      "label": "Corredor Av. Vicente Monteggia",
+      "type": "polyline",
+      "road_names": [
+        "Avenida Vicente Monteggia"
+      ],
+      "primary_m": 50.0,
+      "context_m": 100.0
+    },
+    "P5": {
+      "label": "Joao Salomoni x Av. da Cavalhada",
+      "type": "point",
+      "lat": -30.1131,
+      "lon": -51.2265,
+      "primary_m": 100.0,
+      "context_m": 200.0
+    },
+    "P6": {
+      "label": "Rota Florestan Fernandes / Estrada Kanazawa",
+      "type": "polyline",
+      "road_names": [
+        "Rua Florestan Fernandes",
+        "Estrada Kanazawa"
+      ],
+      "primary_m": 50.0,
+      "context_m": 100.0
+    },
+    "P7": {
+      "label": "Estr. 3 Meninas x Estr. Costa Gama",
+      "type": "point",
+      "lat": -30.13373,
+      "lon": -51.17574,
+      "primary_m": 100.0,
+      "context_m": 200.0
+    },
+    "P8": {
+      "label": "Estr. Costa Gama x Estr. Afonso Lourenco Mariante",
+      "type": "point",
+      "lat": -30.11518,
+      "lon": -51.17707,
+      "primary_m": 100.0,
+      "context_m": 200.0
+    }
+  },
+  "arquivos_saida": [
+    "dados/tratados/acidentes_resumo_distancia_pontos.csv",
+    "dados/tratados/acidentes_associados_distancia.csv",
+    "dados/tratados/acidentes_revisao_manual_proximos.csv",
+    "dados/tratados/acidentes_sem_coordenada_revisao.csv"
+  ]
+}

@@ -1,0 +1,12 @@
+# Base bruta de sinistros (~15 MB, reproduzível via scripts/processar_sinistros_distancia.py)
+dados/brutos/cat_acidentes.csv
+
+# Revisões internas (CODEX) — bastidores não publicados
+revisoes/
+
+# macOS / LaTeX
+.DS_Store
+*.aux
+*.log
+*.toc
+*.out
