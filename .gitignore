@@ -10,3 +10,6 @@ revisoes/
 *.log
 *.toc
 *.out
+
+# Documento privado (termo de compromisso) — não publicar
+TC Alphaville.pdf
