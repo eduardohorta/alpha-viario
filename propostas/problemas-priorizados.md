@@ -6,6 +6,7 @@
 >
 > **Princípio:** separar **problema → hipótese causal → solução**. As "soluções candidatas" são **hipóteses**.
 > **Grafia:** "Estrada Cristiano **Kraemer**" (corrigido de "Cremer"; confirmar na base SMAMUS).
+> **Projetos já aprovados:** vários pontos (**P1, P2, P3, P6, P7**) já contam com **Plano Funcional aprovado na SMT/EPTC** no eixo Três Meninas — ver [projetos-viarios-ja-aprovados.md](../relatorios/projetos-viarios-ja-aprovados.md); confirmar status de implantação.
 >
 > **Nota metodológica (sinistros):** a Rodada 01 usou *triagem* por bounding box; a Rodada 02 refez por **associação à distância real** da malha OSM (limiar **≤100 m** para interseções e **≤50 m** para corredores/rotas). Os números abaixo são os **refinados (R02)**. **Associação por distância ≠ prova causal** — exige geocodificação fina, base municipal e vistoria.
 
