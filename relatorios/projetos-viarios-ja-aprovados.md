@@ -1,6 +1,8 @@
 # Projetos viários já aprovados no eixo da Estrada das Três Meninas
 
-> **Achado relevante:** parte das melhorias do entorno **já conta com um Plano Funcional aprovado na SMT/EPTC**, vinculado ao licenciamento do empreendimento (2009). Ou seja, para vários pontos **não se parte do zero** — há solução técnica já estudada e aprovada. **O status de implantação precisa ser confirmado junto aos órgãos.**
+> **Achado relevante:** parte das melhorias do entorno **já conta com um Plano Funcional aprovado na SMT/EPTC**, vinculado ao licenciamento do empreendimento (2009). Ou seja, **para alguns pontos do eixo Três Meninas não se parte do zero** — há solução técnica já estudada e aprovada. **O status de implantação e a extensão da cobertura precisam ser confirmados junto aos órgãos.**
+>
+> *("SMT/EPTC" refere-se ao órgão/arranjo da época; a interlocução atual deve ser confirmada com SMMU/EPTC/SMAMUS.)*
 
 ## O que o Plano Funcional prevê
 Conforme o **"Plano Funcional da Estrada das Três Meninas"** aprovado na SMT/EPTC:
@@ -12,15 +14,14 @@ Conforme o **"Plano Funcional da Estrada das Três Meninas"** aprovado na SMT/EP
   - Belém Velho/Sarmento Barata × Costa Gama/Oscar Pereira.
 - **Projeto de sinalização** (vertical, horizontal e semafórica) ao longo do eixo.
 
-## Relação com os nossos pontos
-| Melhoria já prevista no Plano Funcional | Nosso ponto |
-|---|---|
-| Interseção Cristiano Kraemer × Três Meninas | **P1** |
-| Interseção Monte Cristo / Belém Velho / Cristiano Kraemer / Rodrigues da Fonseca | **P2 / P3** |
-| Interseção Três Meninas × Costa Gama | **P7** |
-| Corredor Três Meninas (passeios, ciclovia/hipovia, paradas, retornos) | **P6 / P7 / P9** |
+## Relação com os nossos pontos *(a confirmar nos desenhos)*
+| Cobertura | Pontos | Formulação segura |
+|---|---|---|
+| **Direta provável** | P1, P2, P7 | há item específico do Plano Funcional **a confirmar nos anexos** |
+| **Parcial / indireta** | P3, P6, P9 | há relação com o eixo Três Meninas / seus acessos — **confirmar a extensão nos desenhos** |
+| **Fora do Plano Funcional** | P4, P5, P8 | seguem como **pleitos novos / estudos próprios** |
 
-→ Para **P4, P5 e P8** **não há** projeto nesse plano; seguem como pleito a estudar.
+> O Plano Funcional cobre o **eixo da Estr. das Três Meninas** (Cristiano Kraemer → Costa Gama) e interseções associadas. A cobertura exata de cada ponto **só se confirma com os desenhos (Anexo 7)**.
 
 ## Encaminhamento
 1. **Obter o Plano Funcional aprovado** (e peças técnicas associadas) junto à administração do condomínio e/ou aos órgãos (SMT/EPTC, SMAMUS).

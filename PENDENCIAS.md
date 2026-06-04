@@ -5,6 +5,7 @@
 
 ## A. Documentos e órgãos
 - [ ] **[C]** Obter o **Plano Funcional (Anexo 7)** e **confirmar o status de implantação** dos projetos já aprovados para **P1/P2/P3/P6/P7** — via administração do condomínio e órgãos (SMT/EPTC, SMAMUS). Ver [projetos já aprovados](relatorios/projetos-viarios-ja-aprovados.md).
+- [ ] **[G]** Preencher o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) quando o Anexo 7 chegar.
 - [ ] **[G]** Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
 - [ ] **[G]** **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
@@ -24,9 +25,12 @@
 - [ ] **[C]** Definir o **destino de D2/D3** (manter internas até prova de benefício público).
 - [ ] **[C]** Definir **postura e canais** de encaminhamento e **o que tornar público**.
 - [ ] **[C]** Definir **quem assina/protocola**.
+- [x] **[C/G]** Inbox bruto **internalizado** (movido para `interno/`); publicada [versão neutra](consultas/contribuicoes-comunitarias-publico.md).
+- [ ] **[G]** **Validar quais arquivos são públicos antes de cada push.**
+- [ ] **[C]** Decidir sobre **limpeza do histórico do git** — o inbox bruto saiu do HEAD, mas **permanece no histórico público** (remoção total exige reescrever o histórico).
 
 ## D. Técnico / gabinete
-- [ ] **[G]** **Reconciliar os 10 temas do Morador C** com os P1–P9 (+ drenagem).
+- [x] **[G]** **Reconciliar os 10 temas do Morador C** com os P1–P9 (+ drenagem): ver [tabela de reconciliação](consultas/temas-morador-c-reconciliacao.md).
 - [ ] **[G]** **Incorporar os desenhos** do Plano Funcional à matriz quando obtidos.
 - [ ] **[G]** Manter a **versão enxuta da matriz** ([anexo](relatorios/anexo-matriz-pontos.md)) atualizada.
 - [ ] **[G]** Documentar o **plano de evidência leve** (substitui o plano de campo "pesado").
