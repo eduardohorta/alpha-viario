@@ -1,4 +1,6 @@
-# Plano de coleta de campo
+# Plano de coleta de campo (técnico — referência)
+
+> ⚙️ Plano técnico completo, **referência para a vistoria conjunta com a EPTC**. Para a coleta **comunitária** do dia a dia, use o [plano de evidência leve](plano-evidencia-leve.md).
 
 > Operacionaliza a ida a campo. Use com o [roteiro de vistoria](observacoes/roteiro-vistoria.md) (o que medir por ponto) e a [ficha CSV](observacoes/modelo-observacao-campo.csv) (onde registrar).
 > **Objetivo:** transformar as hipóteses da [matriz](../propostas/problemas-priorizados.md) em evidência verificável.

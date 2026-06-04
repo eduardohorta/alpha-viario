@@ -30,7 +30,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 **Plano e propostas**
 - [plano-de-trabalho.md](plano-de-trabalho.md) — espinha dorsal (etapas 0–9)
-- [propostas/problemas-priorizados.md](propostas/problemas-priorizados.md) — **matriz dos 8 pontos (v3)**
+- [propostas/problemas-priorizados.md](propostas/problemas-priorizados.md) — **matriz dos pontos — 8 + P9 preliminar (v4)**
 - [propostas/avaliacao-solucoes-iniciais.md](propostas/avaliacao-solucoes-iniciais.md) — avaliação das 3 soluções + escada de intervenção
 
 **Relatórios e peças**
@@ -43,9 +43,10 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [relatorios/projetos-viarios-ja-aprovados.md](relatorios/projetos-viarios-ja-aprovados.md) — **projetos já aprovados no eixo Três Meninas (Plano Funcional)**
 
 **Campo e consulta**
-- [campo/plano-coleta-campo.md](campo/plano-coleta-campo.md) — **plano de coleta (clusters/horários)**
+- [campo/plano-evidencia-leve.md](campo/plano-evidencia-leve.md) — **plano de coleta comunitária (recomendado)** · [plano técnico completo](campo/plano-coleta-campo.md)
 - [campo/observacoes/roteiro-vistoria.md](campo/observacoes/roteiro-vistoria.md) — o que medir por ponto
 - [campo/observacoes/modelo-observacao-campo.csv](campo/observacoes/modelo-observacao-campo.csv) — planilha de campo
+- [campo/observacoes/ficha-drenagem.csv](campo/observacoes/ficha-drenagem.csv) — ficha de alagamento/drenagem
 - [consultas/moradores/questionario-base.md](consultas/moradores/questionario-base.md) — questionário
 - [consultas/registro-demandas-comunitarias.md](consultas/registro-demandas-comunitarias.md) — demandas estruturadas
 
