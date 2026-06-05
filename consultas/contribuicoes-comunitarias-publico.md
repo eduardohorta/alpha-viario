@@ -7,7 +7,7 @@
 - **D2** — Retorno mais curto no eixo Três Meninas/Cristiano Kraemer *(a avaliar quanto ao benefício público)*.
 - **D3** — Melhoria de capacidade/geometria no eixo Cristiano Kraemer *(a avaliar; hipótese de maior custo)*.
 - **D4 → P9 (preliminar)** — Ajuste geométrico/moderação na Rótula da Vila Nova.
-- **P7** — relato de que há **projeto de uma alça de acesso à esquerda** (Três Meninas → Costa Gama) na documentação da prefeitura; a conversão direta foi descartada (depende de etapas de desapropriação).
+- **P7** — relato a confirmar de que há **projeto de uma alça de acesso à esquerda** (Três Meninas → Costa Gama) na documentação da prefeitura; a solução dependeria de etapas de implantação/desapropriação a verificar.
 
 ## Diretrizes de método sugeridas pela comunidade
 - Abordagem **técnica e propositiva** (diagnóstico antes da solução), com material visual (fotos, vídeos, registros 360°).

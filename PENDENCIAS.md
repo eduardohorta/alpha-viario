@@ -7,7 +7,7 @@
 - [ ] **[C]** Obter o **Plano Funcional (Anexo 7)** e **confirmar o status de implantação** dos projetos já aprovados para **P1/P2/P3/P6/P7** — via administração do condomínio e órgãos (SMT/EPTC, SMAMUS). Ver [projetos já aprovados](relatorios/projetos-viarios-ja-aprovados.md).
 - [ ] **[G]** Preencher o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) quando o Anexo 7 chegar.
 - [ ] **[G]** Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
-- [ ] **[C/G]** Obter o **projeto da alça de acesso** (Três Meninas ↔ Costa Gama, **P7**) na documentação da prefeitura e confirmar status/desapropriação.
+- [ ] **[C/G]** Obter o **projeto relatado da alça de acesso** (Três Meninas ↔ Costa Gama, **P7**) na documentação da prefeitura e confirmar status/implantação/desapropriação.
 - [ ] **[G]** **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
 - [ ] **[G]** Confirmar a **grafia oficial** "Cristiano Kraemer" na base SMAMUS.
@@ -28,13 +28,15 @@
 - [ ] **[C]** Definir **quem assina/protocola**.
 - [x] **[C/G]** Inbox bruto **internalizado** (movido para `interno/`); publicada [versão neutra](consultas/contribuicoes-comunitarias-publico.md).
 - [ ] **[G]** **Validar quais arquivos são públicos antes de cada push.**
-- [ ] **[C]** Decidir sobre **limpeza do histórico do git** — o inbox bruto saiu do HEAD, mas **permanece no histórico público** (remoção total exige reescrever o histórico).
+- [x] **[C]** Histórico do git reescrito para remover o inbox bruto; **não reintroduzir** conteúdo sensível em arquivos públicos.
 
 ## D. Técnico / gabinete
 - [x] **[G]** **Reconciliar os 10 temas do Morador C** com os P1–P9 (+ drenagem): ver [tabela de reconciliação](consultas/temas-morador-c-reconciliacao.md).
+- [x] **[G]** **Georreferenciar preliminarmente P9/D1–D4/P7**: ver [georreferenciamento](dados/tratados/georreferenciamento_referencias_demandas.md). Pins de campo seguem necessários para referências de baixa confiança.
+- [x] **[G]** Esboçar **matriz pública de status** do Plano Funcional: ver [matriz pública](relatorios/matriz-publica-status-plano-funcional.md).
 - [ ] **[G]** **Incorporar os desenhos** do Plano Funcional à matriz quando obtidos.
 - [ ] **[G]** Manter a **versão enxuta da matriz** ([anexo](relatorios/anexo-matriz-pontos.md)) atualizada.
-- [ ] **[G]** Documentar o **plano de evidência leve** (substitui o plano de campo "pesado").
+- [x] **[G]** Documentar o **plano de evidência leve** (substitui o plano de campo "pesado"): ver [plano de evidência leve](campo/plano-evidencia-leve.md).
 
 ## E. Estratégia (alavancas — detalhe em `interno/`)
 - Execução direta do Município; **contrapartidas urbanísticas** de novos empreendimentos (Zona Sul / novo PDUS); **conclusão dos projetos já aprovados** no eixo Três Meninas.

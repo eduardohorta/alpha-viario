@@ -24,7 +24,7 @@ Conforme o **"Plano Funcional da Estrada das Três Meninas"** aprovado na SMT/EP
 > O Plano Funcional cobre o **eixo da Estr. das Três Meninas** (Cristiano Kraemer → Costa Gama) e interseções associadas. A cobertura exata de cada ponto **só se confirma com os desenhos (Anexo 7)**.
 
 ## Outro projeto existente — alça de acesso (P7)
-Há relato de que, no acesso à Estr. Costa Gama (sentido Três Meninas → Costa Gama), a **conversão à esquerda direta foi descartada** e existe **projeto de uma alça de acesso** na documentação da prefeitura, com **etapas de desapropriação pendentes**. Recomenda-se **obter o projeto e confirmar o status** — se confirmado, o pleito do **P7** passa a ser a **conclusão de um projeto já existente**, não um estudo do zero.
+Há relato a confirmar de que, no acesso à Estr. Costa Gama (sentido Três Meninas → Costa Gama), a **conversão à esquerda direta teria sido substituída por projeto de uma alça de acesso** na documentação da prefeitura, com **etapas de implantação/desapropriação a verificar**. Recomenda-se **obter o projeto e confirmar o status** — se confirmado, o pleito do **P7** passa a ser a **conclusão de um projeto já existente**, não um estudo do zero.
 
 ## Encaminhamento
 1. **Obter o Plano Funcional aprovado** (e peças técnicas associadas) junto à administração do condomínio e/ou aos órgãos (SMT/EPTC, SMAMUS).

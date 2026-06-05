@@ -106,13 +106,13 @@
 ### P7 — Acesso à Estr. Costa Gama bairro→centro (sem conversão à esquerda)
 - **Sinistros (R02, ≤100 m):** 18 ocorr. · 1 grave.
 - **Problema operacional:** não é possível converter à esquerda; exige retorno em rótula distante.
-- **Achado (contribuição comunitária):** a conversão à esquerda direta foi **descartada pelo município**; há **projeto de uma alça de acesso à esquerda** (sentido Três Meninas → Costa Gama) **na documentação da prefeitura**, dependente de **etapas de desapropriação**. → **obter o projeto e confirmar o status** (pode tornar o pleito muito mais concreto).
+- **Achado (contribuição comunitária):** há relato a confirmar de que a conversão à esquerda direta teria sido **substituída por projeto de uma alça de acesso à esquerda** (sentido Três Meninas → Costa Gama) **na documentação da prefeitura**, dependente de **etapas de implantação/desapropriação a verificar**. → **obter o projeto e confirmar o status** (pode tornar o pleito muito mais concreto).
 - **Problema de segurança:** abrir conversão à esquerda pode **criar** conflito pior que o desvio atual.
 - **Hipótese causal:** o problema real pode ser a **distância/tempo do retorno**, não a proibição.
 - **Evidência mínima a coletar:** distância e tempo do retorno atual + volume do movimento desejado + velocidade na Costa Gama + fila/armazenagem para baia + visibilidade + acidentes no entorno.
 - **Modos vulneráveis:** *a levantar*.
 - **Benefício público:** redução de quilometragem/tempo improdutivo e de risco no retorno.
-- **Solução candidata (hipótese — manter alternativas):** **concluir a alça de acesso já projetada (a confirmar)** · retorno protegido · conversão semaforizada · rota alternativa · **ou** manter a restrição melhorando o retorno existente.
+- **Solução candidata (hipótese — manter alternativas):** **concluir a alça de acesso relatada, se confirmada documentalmente** · retorno protegido · conversão semaforizada · rota alternativa · **ou** manter a restrição melhorando o retorno existente.
 
 ### P8 — Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante (bairro→centro)
 - **Sinistros (R02, ≤100 m):** 36 ocorr. · 4 graves · 0 fatais · 17 motos. Nó OSM ~`-30.1152, -51.1771`.

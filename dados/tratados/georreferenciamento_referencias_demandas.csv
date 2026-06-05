@@ -1,0 +1,8 @@
+id,referencia,relacao,latitude,longitude,fonte,confianca,observacoes
+P9,Rotula da Vila Nova,P9/D4,-30.1476851,-51.2045098,OSM local: junction=circular na Estrada Cristiano Kraemer,alta,"Centroide aproximado dos ways OSM 287980458 e 287980468; validar em campo."
+P7_ALCA_APROX,Area aproximada da alca relatada,P7,-30.1337323,-51.1757412,OSM local + referencia P7 ja usada na base de sinistros,media,"Ponto de referencia no encontro Estrada das 3 Meninas x Estrada Costa Gama; nao representa o tracado da alca."
+CLUBE,Alphaville Clube,D2,-30.1259442,-51.1892160,Nominatim/OSM: Alphaville Clube 1701 Estrada das 3 Meninas,alta,"Amenity OSM com bounding box; usar como referencia do clube, nao como portao especifico."
+TOSCANA,Residencial Toscana,D2,-30.1186191,-51.1983332,Fonte publica informa Estrada das Tres Meninas 1501; Nominatim retornou segmento da via,baixa,"Coordenada e do segmento de via associado ao endereco; precisa de pin de morador para portaria/acesso."
+VENETO,Residencial Veneto,D1,-30.1221363,-51.1942395,Fonte publica informa Estrada das Tres Meninas 2000; Nominatim retornou segmento da via,baixa,"Coordenada e do segmento de via associado ao endereco; precisa de pin de morador para o ponto exato antes do Veneto."
+LOMBARDIA,Residencial Lombardia,D1/D2,-30.1259442,-51.1892160,Fontes publicas associam Lombardia ao endereco 1701; Nominatim tem Alphaville Clube nesse endereco,baixa,"Ha fontes publicas com enderecos variados para Lombardia; usar apenas como referencia provisoria e exigir pin."
+RESERVA,Residencial Reserva,D2,,,Fonte publica localiza na Estrada das Tres Meninas sem numero confiavel,indeterminada,"Nao foi localizada coordenada publica suficientemente confiavel; coletar pin GPS com morador."

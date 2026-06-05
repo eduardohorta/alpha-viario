@@ -1,4 +1,4 @@
-ponto_ref,local,data,hora,chuva_recente,altura_lamina_cm,area_aprox_m2,obstrucao_bueiro,sentido_escoamento,impacto_pedestre,impacto_veiculo,evidencia_foto_video,observacoes
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
+ponto_ref,local,latitude,longitude,data,hora,chuva_recente,altura_lamina_cm,area_aprox_m2,obstrucao_bueiro,sentido_escoamento,impacto_pedestre,impacto_veiculo,evidencia_foto_video,observacoes
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

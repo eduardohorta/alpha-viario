@@ -41,6 +41,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [relatorios/anexo-matriz-pontos.md](relatorios/anexo-matriz-pontos.md) — **anexo externo (1 linha por ponto)**
 - [relatorios/guia-validacao-comissao.md](relatorios/guia-validacao-comissao.md) — **pauta de validação + kickoff de campo**
 - [relatorios/projetos-viarios-ja-aprovados.md](relatorios/projetos-viarios-ja-aprovados.md) — **projetos já aprovados no eixo Três Meninas (Plano Funcional)**
+- [relatorios/matriz-publica-status-plano-funcional.md](relatorios/matriz-publica-status-plano-funcional.md) — **matriz de status (a preencher com os desenhos)**
 
 **Campo e consulta**
 - [campo/plano-evidencia-leve.md](campo/plano-evidencia-leve.md) — **plano de coleta comunitária (recomendado)** · [plano técnico completo](campo/plano-coleta-campo.md)
@@ -55,6 +56,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [dados/tratados/acidentes_metodologia.md](dados/tratados/acidentes_metodologia.md) · [revisão manual](dados/tratados/acidentes_revisao_manual_notas.md)
 - [scripts/processar_sinistros_distancia.py](scripts/processar_sinistros_distancia.py)
 - [Segmentação do P4](dados/tratados/acidentes_p4_segmentos.csv) · [hot spots](dados/tratados/acidentes_p4_hotspots_250m.csv) · [script](scripts/segmentar_p4_monteggia.py)
+- [Georreferenciamento de referências](dados/tratados/georreferenciamento_referencias_demandas.md) (P9/D1–D4/P7 — preliminar, a validar em campo)
 
 **Revisões técnicas (CODEX)**
 - Mantidas fora deste repositório público (bastidores de revisão interna).
