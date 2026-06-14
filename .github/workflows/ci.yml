@@ -17,6 +17,9 @@ jobs:
       - name: Cadastro de pontos válido
         run: python3 scripts/pontos.py validate
 
+      - name: Documentos em dia com o cadastro
+        run: python3 scripts/pontos.py sync --check
+
       - name: public-check (porteiro de publicação)
         run: python3 scripts/public_check.py
 

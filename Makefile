@@ -2,7 +2,8 @@
 #
 # Alvos principais:
 #   make all          registra pontos (GeoJSON), reproduz dados e gera o pacote
-#   make check        roda o public-check (porteiro de publicação)
+#   make check        public-check em modo desenvolvimento (avisos não bloqueiam)
+#   make release-check  public-check ESTRITO — antes de publicar/protocolar (avisos bloqueiam)
 #   make test         roda os testes
 #
 # Reprodução dos dados de sinistros (insumo bruto não versionado):
@@ -14,7 +15,7 @@ PY := python3
 RAW := dados/brutos/cat_acidentes.csv
 URL := https://dadosabertos.poa.br/dataset/d6cfbe48-ee1f-450f-87f5-9426f6a09328/resource/b56f8123-716a-4893-9348-23945f1ea1b9/download/cat_acidentes.csv
 
-.PHONY: all geojson pacote data fetch-data verify-data check test clean help
+.PHONY: all geojson pacote data fetch-data verify-data check release-check test clean help
 
 help:
 	@awk 'sub(/^# ?/, "")' Makefile
@@ -44,6 +45,12 @@ data:
 
 check:
 	$(PY) scripts/public_check.py
+
+# Gate de liberação: avisos (placeholders, lista de termos sensíveis ausente)
+# passam a bloquear. Use antes de circular o questionário ou protocolar na EPTC.
+release-check:
+	$(PY) scripts/pontos.py sync --check
+	$(PY) scripts/public_check.py --strict
 
 test:
 	$(PY) -m unittest discover -s tests -v
