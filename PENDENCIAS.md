@@ -19,6 +19,7 @@
 - [ ] **[F]** **Cronometrar** o retorno distante (P7/D2); **fotografar** a rota de chão batido (P6).
 - [ ] **[F]** Mapear **pontos de alagamento/drenagem** (nova dimensão).
 - [ ] **[F]** **Validar em campo** os segmentos prioritários do P4 (**S06/S01/S04**).
+- [ ] **[F]** Registrar cada evidência no [inventário](campo/observacoes/inventario-evidencias.csv) (rastreabilidade + classificação público/interno).
 
 ## C. Decisões da comissão
 - [ ] **[C]** Validar a lista de pontos (**8 + P9**) e confirmar o P9.
@@ -27,7 +28,8 @@
 - [ ] **[C]** Definir **postura e canais** de encaminhamento e **o que tornar público**.
 - [ ] **[C]** Definir **quem assina/protocola**.
 - [x] **[C/G]** Inbox bruto **internalizado** (movido para `interno/`); publicada [versão neutra](consultas/contribuicoes-comunitarias-publico.md).
-- [ ] **[G]** **Validar quais arquivos são públicos antes de cada push.**
+- [x] **[G]** Validação **automática** de publicação no CI a cada push (**`public-check`**): links quebrados, vazamento de `interno/`/`revisoes/`, placeholders e consistência dos pontos.
+- [ ] **[C/G]** **Revisão humana final** antes de publicar/protocolar: rodar **`make release-check`** (estrito) e resolver os avisos restantes (placeholders, `interno/termos-sensiveis.txt`).
 - [x] **[C]** Histórico do git reescrito para remover o inbox bruto; **não reintroduzir** conteúdo sensível em arquivos públicos.
 
 ## D. Técnico / gabinete

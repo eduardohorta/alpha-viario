@@ -16,13 +16,21 @@
 - [ ] **Quem assina e protocola**, e por qual canal (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
 
 ## 3. Kickoff da coleta de campo
-- **Dividir os clusters** (ver [plano](../campo/plano-coleta-campo.md)): **A** = P3/P4/P5 (Monteggia/Cavalhada); **B** = P1/P2/P6/P7/P8/P9 (Três Meninas/Cristiano Kraemer/Costa Gama).
-- **Definir duplas e datas:** 3 janelas por ponto (pico manhã / pico tarde / entrepico) + 1 fim de semana + 1 sessão de **georreferenciamento** (D1–D4/P9).
-- **Prioridade de segurança:** **P4** (trechos S06/S01/S04) e **P5** primeiro.
-- **Levar:** roteiro + ficha CSV + celular (vídeo/GPS) + cronômetro.
+> **Abordagem operacional única: [plano de evidência leve](../campo/plano-evidencia-leve.md).** A comissão **documenta o problema** (fotos, vídeo curto, pin de GPS, relato padronizado); a **medição técnica** (contagens, tempos de semáforo, nível de serviço) é **solicitada à EPTC**. O [plano de campo técnico](../campo/plano-coleta-campo.md) fica **apenas como referência para a vistoria conjunta**, não como tarefa da comissão.
 
-## 4. Gate — quando protocolar na EPTC
-Protocolar **após** ter evidência de campo nos pontos prioritários (**P4 trechos, P1/P2, P5**), para que o memorando deixe de depender só de dados preliminares. Até lá, manter o pacote como rascunho interno.
+- **Adotar pontos:** cada voluntário cobre 1–2 pontos que conhece (P1–P9), em pico e fora de pico.
+- **Prioridade:** **P4 (trechos S06/S01/S04), P1, P2 e P5** — foto + vídeo curto + pin de GPS.
+- **Registrar tudo** no [inventário de evidências](../campo/observacoes/inventario-evidencias.csv) (id, ponto, data, GPS, arquivo, responsável, validação, público/interno).
+- **Crowdsourcing:** distribuir o [questionário curto](../consultas/moradores/questionario-curto.md).
+- **Levar:** celular (vídeo/GPS) + o [relato padronizado](../campo/plano-evidencia-leve.md).
+
+## 4. Mínimo suficiente para protocolar na EPTC
+> **Gate único — a confirmar pela comissão.** Protocolar quando **todos** estiverem cumpridos; até lá, o pacote externo fica como **rascunho interno**.
+
+- [ ] Evidência leve (foto + vídeo + pin de GPS + relato) nos **pontos prioritários**: **P4 (S06/S01/S04), P1, P2, P5**.
+- [ ] **Questionário** com volume mínimo de respostas: **≥ [a definir pela comissão] respostas**.
+- [ ] **Peças externas sem placeholders** — `make release-check` verde (memorando, ofício, anexo e aviso de privacidade preenchidos).
+- [ ] **Quem assina/protocola** definido e **canal** escolhido (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
 
 ## 5. Depois da coleta
 1. Consolidar a evidência na matriz (substituir "a coletar" por dados de campo).

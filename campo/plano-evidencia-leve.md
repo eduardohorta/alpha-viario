@@ -25,5 +25,13 @@
 - **Voluntários:** cada um adota 1–2 pontos que conhece bem.
 - **Consolidação (gabinete):** as evidências entram na matriz e fundamentam o **pedido de medição técnica à EPTC**.
 
+## Inventário de evidências (registro central)
+Toda evidência coletada entra no [inventário](observacoes/inventario-evidencias.csv) — **uma linha por arquivo**, para dar rastreabilidade (quem, quando, onde) e separar o que pode ir à EPTC/público do que fica em `interno/`:
+
+- `evidencia_id` (EV-0001…), `ponto_id` (P1–P9 ou D1–D4), `tipo` (foto/video/360/gps/relato/cronometragem/drenagem);
+- `data`, `gps_lat`/`gps_lon`, `arquivo`, `descricao`;
+- `responsavel` (quem coletou); `validacao` (`pendente`/`validada`/`descartada`);
+- `classificacao` (`publico`/`interno`) — fotos com placas, rostos ou dados de terceiros entram como **interno** (ver [aviso de privacidade](../consultas/moradores/aviso-privacidade.md)).
+
 ## O que NÃO precisamos fazer
 Contagens volumétricas classificadas, medição de tempos de semáforo, nível de serviço, microssimulação — **isso é competência da EPTC**. Nós documentamos o problema e pedimos a medição.

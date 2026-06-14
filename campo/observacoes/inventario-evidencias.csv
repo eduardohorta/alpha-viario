@@ -1,0 +1,2 @@
+evidencia_id,ponto_id,tipo,data,gps_lat,gps_lon,arquivo,descricao,responsavel,validacao,classificacao,observacoes
+EV-0000,P1,foto,2026-06-15,-30.11831,-51.20319,p1_2026-06-15_pico-manha.jpg,EXEMPLO — apague esta linha; mostra o formato esperado,Fulano,pendente,publico,Pin aproximado; conferir no local

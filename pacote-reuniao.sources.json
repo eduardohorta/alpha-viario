@@ -2,11 +2,11 @@
   "gerado_por": "scripts/build_pacote.py",
   "comando": "python3 scripts/build_pacote.py",
   "fontes": {
-    "relatorios/guia-validacao-comissao.md": "c1dcb3f8e977cd8237658561cd60a53be321986d7a37e224690712cb5abb19c4",
+    "relatorios/guia-validacao-comissao.md": "29d024cf4525d8e5fd4c778ca26802e23412d71ca195a67fc71fdef01202162a",
     "relatorios/memorando-externo.md": "4b625279f5bdb76f07e9e527ac6ad9d999c2f10c5037a3bdaf709c0b3e8dfb4c",
     "relatorios/anexo-matriz-pontos.md": "ad7908b9b3742323c88d25947b7faf2544632079367332d4bc517596d5e28d81",
     "campo/plano-coleta-campo.md": "db0f9142dee1c3e8fe3f13a27faefa81672c277ab01e19afcd936b6ad5913efb",
     "scripts/build_pacote.py": "3fe56ae5b025c0d0976b3fe8953fd6f736ea5e21d9bebe01935dc69d7aacc3cd"
   },
-  "saida_md_sha256": "58edcb82bf52dcbbbcb22b5a7df9e845f829c5cf4689cc1184926e7a01049095"
+  "saida_md_sha256": "c7d4094ce4d6c10337f8ed10c351144e325fc9650c3d454f1292c11437cdf4a3"
 }
