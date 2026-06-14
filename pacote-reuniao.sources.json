@@ -6,7 +6,10 @@
     "relatorios/memorando-externo.md": "4b625279f5bdb76f07e9e527ac6ad9d999c2f10c5037a3bdaf709c0b3e8dfb4c",
     "relatorios/anexo-matriz-pontos.md": "ad7908b9b3742323c88d25947b7faf2544632079367332d4bc517596d5e28d81",
     "campo/plano-coleta-campo.md": "db0f9142dee1c3e8fe3f13a27faefa81672c277ab01e19afcd936b6ad5913efb",
-    "scripts/build_pacote.py": "3fe56ae5b025c0d0976b3fe8953fd6f736ea5e21d9bebe01935dc69d7aacc3cd"
+    "scripts/build_pacote.py": "e1a2bb506b3c5174cfaf9facf6168ad84985640fe24668bd33b30a13320800e5"
   },
-  "saida_md_sha256": "c7d4094ce4d6c10337f8ed10c351144e325fc9650c3d454f1292c11437cdf4a3"
+  "saida_md_sha256": "c7d4094ce4d6c10337f8ed10c351144e325fc9650c3d454f1292c11437cdf4a3",
+  "pdf_proveniencia": {
+    "gerador": "pandoc 2.18"
+  }
 }

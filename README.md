@@ -5,7 +5,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 ## Status atual — 2026-06-14
 **Fase 0 madura.** Concluídos: revisão documental (Etapa 1), base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. **5 rodadas de revisão CODEX** incorporadas. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)). **Gatekeeper para ir à EPTC: coleta de campo.**
 
-**Pendências abertas:** ver [PENDENCIAS.md](PENDENCIAS.md).
+**Pendências abertas:** ver [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`).
 
 ## Fluxo de trabalho
 **CLAUDE conduz** (estrutura, pesquisa, redação técnica, decisões). **CODEX revisa e complementa** quando acionado. As rodadas de revisão são mantidas **fora do repositório público** (revisões internas). Ver §8 do [plano-de-trabalho.md](plano-de-trabalho.md).

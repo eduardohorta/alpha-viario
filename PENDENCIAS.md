@@ -1,6 +1,7 @@
 # Pendências e próximos passos
 
 > Status consolidado do projeto. Itens de **estratégia jurídica** ficam em `interno/` (não versionado).
+> **Checklist de liberação** (preencher antes de circular/protocolar): [LIBERACAO.md](LIBERACAO.md).
 > **Responsável:** **[C]** comissão · **[F]** campo/comunidade · **[G]** gabinete (CLAUDE/CODEX).
 
 ## A. Documentos e órgãos

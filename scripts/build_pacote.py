@@ -7,9 +7,10 @@ os links relativos reescritos para resolver a partir da raiz do repositório
 manifesto de fontes (pacote-reuniao.sources.json) usado pelo public-check para
 detectar quando o pacote fica defasado em relação às fontes.
 
-Uso:
-  python3 scripts/build_pacote.py            # gera .md, manifesto e .pdf (se houver pandoc)
-  python3 scripts/build_pacote.py --no-pdf   # só .md e manifesto
+Dois modos, explicitamente separados:
+  python3 scripts/build_pacote.py            # build de LIBERAÇÃO: .md + .pdf + manifesto
+                                             # (exige Pandoc/XeLaTeX; falha se ausentes)
+  python3 scripts/build_pacote.py --no-pdf   # build de DESENVOLVIMENTO: só .md + manifesto
 """
 
 from __future__ import annotations
@@ -100,7 +101,17 @@ def _sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def write_manifest() -> None:
+def _pandoc_version() -> str:
+    try:
+        out = subprocess.run(["pandoc", "--version"], capture_output=True, text=True)
+        if out.returncode == 0 and out.stdout.strip():
+            return out.stdout.splitlines()[0].strip()
+    except OSError:
+        pass
+    return "desconhecida"
+
+
+def write_manifest(pandoc_version: str | None = None) -> None:
     fontes = {src: _sha256(ROOT / src) for src in SOURCES}
     fontes["scripts/build_pacote.py"] = _sha256(Path(__file__).resolve())
     manifest = {
@@ -111,12 +122,15 @@ def write_manifest() -> None:
         # criação, então não é byte-reprodutível e não tem hash registrado aqui.
         "saida_md_sha256": _sha256(OUT_MD),
     }
+    if pandoc_version:  # proveniência do PDF (só no build de liberação)
+        manifest["pdf_proveniencia"] = {"gerador": pandoc_version}
     MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--no-pdf", action="store_true", help="não gerar o PDF")
+    parser.add_argument("--no-pdf", action="store_true",
+                        help="build de desenvolvimento: só Markdown + manifesto (não exige Pandoc)")
     args = parser.parse_args(argv)
 
     missing = [s for s in SOURCES if not (ROOT / s).exists()]
@@ -126,18 +140,23 @@ def main(argv: list[str] | None = None) -> int:
 
     md_text = build_markdown()
 
-    # Sem PDF (ou sem pandoc): atualiza Markdown + manifesto e sai.
-    if args.no_pdf or not shutil.which("pandoc"):
+    # Build de DESENVOLVIMENTO: só Markdown + manifesto.
+    if args.no_pdf:
         OUT_MD.write_text(md_text, encoding="utf-8")
         write_manifest()
-        print(f"Gerado {OUT_MD.name} a partir de {len(SOURCES)} fontes + manifesto.")
-        if not args.no_pdf:
-            print("pandoc não encontrado — PDF NÃO atualizado.", file=sys.stderr)
+        print(f"Gerado {OUT_MD.name} (sem PDF) a partir de {len(SOURCES)} fontes + manifesto.")
         return 0
 
-    # Com PDF: build transacional. Gera .md e .pdf em arquivos temporários e só
-    # substitui os definitivos se o Pandoc/XeLaTeX tiver sucesso — assim nunca
-    # fica um PDF obsoleto ao lado de um Markdown novo, nem um sucesso silencioso.
+    # Build de LIBERAÇÃO: exige Pandoc/XeLaTeX. Sem eles, falha em vez de deixar
+    # um PDF obsoleto passar por atualizado.
+    if not shutil.which("pandoc"):
+        print("Build de liberação exige Pandoc/XeLaTeX para o PDF. "
+              "Instale o Pandoc ou use --no-pdf para gerar só o Markdown.", file=sys.stderr)
+        return 1
+
+    # Build transacional: gera .md e .pdf em temporários e só substitui os
+    # definitivos se o Pandoc tiver sucesso — nunca um sucesso silencioso nem um
+    # PDF obsoleto ao lado de um Markdown novo.
     with tempfile.NamedTemporaryFile("w", suffix=".md", dir=str(ROOT), delete=False, encoding="utf-8") as tf:
         tf.write(md_text)
         tmp_md = Path(tf.name)
@@ -157,7 +176,7 @@ def main(argv: list[str] | None = None) -> int:
             if leftover.exists():
                 leftover.unlink()
 
-    write_manifest()
+    write_manifest(pandoc_version=_pandoc_version())
     print(f"Gerado {OUT_MD.name} + {OUT_PDF.name} a partir de {len(SOURCES)} fontes + manifesto.")
     return 0
 

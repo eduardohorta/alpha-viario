@@ -15,7 +15,7 @@ PY := python3
 RAW := dados/brutos/cat_acidentes.csv
 URL := https://dadosabertos.poa.br/dataset/d6cfbe48-ee1f-450f-87f5-9426f6a09328/resource/b56f8123-716a-4893-9348-23945f1ea1b9/download/cat_acidentes.csv
 
-.PHONY: all geojson pacote data fetch-data verify-data check release-check test clean help
+.PHONY: all geojson pacote pacote-md data fetch-data verify-data check release-check test clean help
 
 help:
 	@awk 'sub(/^# ?/, "")' Makefile
@@ -26,8 +26,11 @@ geojson:
 	$(PY) scripts/pontos.py validate
 	$(PY) scripts/pontos.py geojson
 
-pacote:
+pacote:           # build de liberação: Markdown + PDF (exige Pandoc/XeLaTeX)
 	$(PY) scripts/build_pacote.py
+
+pacote-md:        # build de desenvolvimento: só Markdown
+	$(PY) scripts/build_pacote.py --no-pdf
 
 fetch-data:
 	curl -fSL -o $(RAW) '$(URL)'

@@ -1,0 +1,26 @@
+name: reproducao-integral
+
+# Reprodução COMPLETA dos derivados a partir do bruto (~15 MB), sob demanda.
+# O CI a cada push usa a fixture (test_associacao_fixture); este job baixa o
+# insumo real, confere o SHA-256 e exige reprodução byte a byte.
+on:
+  workflow_dispatch:
+
+jobs:
+  reproduzir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Baixar o bruto e conferir SHA-256
+        run: make fetch-data
+
+      - name: Reproduzir os derivados
+        run: make data
+
+      - name: Exigir reprodução byte a byte (sem diff)
+        run: git diff --exit-code -- dados/tratados/
