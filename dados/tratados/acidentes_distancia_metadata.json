@@ -5,6 +5,24 @@
     "invalid_coord": 11173,
     "relevant_no_coord": 25
   },
+  "janela_temporal_fonte": {
+    "campo": "data",
+    "inicio": "2020-01-01",
+    "fim": "2025-08-31"
+  },
+  "associacoes": {
+    "todas": {
+      "linhas": 858,
+      "sinistros_distintos": 800,
+      "sinistros_multi_ponto": 58
+    },
+    "principais": {
+      "linhas": 673,
+      "sinistros_distintos": 647,
+      "sinistros_multi_ponto": 26
+    },
+    "nota": "Totais por ponto NÃO são somáveis: 'sinistros_multi_ponto' contam em mais de um ponto. Para um agregado, use 'sinistros_distintos'."
+  },
   "referencias": {
     "P1": {
       "label": "Rotula Estr. 3 Meninas x Estr. Cristiano Kraemer",

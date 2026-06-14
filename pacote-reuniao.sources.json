@@ -1,0 +1,15 @@
+{
+  "gerado_por": "scripts/build_pacote.py",
+  "comando": "python3 scripts/build_pacote.py",
+  "saida": [
+    "pacote-reuniao.md",
+    "pacote-reuniao.pdf"
+  ],
+  "fontes": {
+    "relatorios/guia-validacao-comissao.md": "c1dcb3f8e977cd8237658561cd60a53be321986d7a37e224690712cb5abb19c4",
+    "relatorios/memorando-externo.md": "4b625279f5bdb76f07e9e527ac6ad9d999c2f10c5037a3bdaf709c0b3e8dfb4c",
+    "relatorios/anexo-matriz-pontos.md": "ad7908b9b3742323c88d25947b7faf2544632079367332d4bc517596d5e28d81",
+    "campo/plano-coleta-campo.md": "db0f9142dee1c3e8fe3f13a27faefa81672c277ab01e19afcd936b6ad5913efb",
+    "scripts/build_pacote.py": "a7ce9b75ab906fa6880034532d52c04ac2904bff2aabaff60092735a5f92be88"
+  }
+}

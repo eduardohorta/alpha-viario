@@ -16,6 +16,9 @@ Estamos organizando, de forma comunitária, um pedido de melhorias viárias no e
 Alphaville Porto Alegre para apresentar à Prefeitura/EPTC. São **6 perguntas rápidas** e suas
 respostas serão usadas de forma **agregada e anônima**. Leva cerca de 2 minutos. Obrigado!
 
+> **Privacidade:** respostas **anônimas** e de uso **agregado**; o formulário **não coleta e-mail**.
+> Detalhes, base legal (LGPD) e contato no [aviso de privacidade](aviso-privacidade.md).
+
 ---
 
 ## 1. Você é: *(escolha uma)*
@@ -25,15 +28,18 @@ respostas serão usadas de forma **agregada e anônima**. Leva cerca de 2 minuto
 - [ ] Usa as vias com frequência, mas não mora aqui
 
 ## 2. Qual é o ponto **mais crítico** para você? *(escolha um)*
+<!-- BEGIN pontos:questionario-curto (gerado por scripts/pontos.py — não editar à mão) -->
 - [ ] P1 — Rótula Três Meninas × Cristiano Kraemer
 - [ ] P2 — Trevo Cristiano Kraemer × Belém Velho × Monte Cristo
 - [ ] P3 — Acesso à Vicente Monteggia (Rodrigues da Fonseca / João Salomoni)
 - [ ] P4 — Fluxo na Avenida Vicente Monteggia
-- [ ] P5 — Conversão à direita João Salomoni → Cavalhada
-- [ ] P6 — Acesso à Dr. Vergara (Florestan Fernandes / Estrada Kanazawa)
-- [ ] P7 — Acesso à Costa Gama a partir da Estrada das Três Meninas
+- [ ] P5 — Conversão João Salomoni → Cavalhada
+- [ ] P6 — Acesso à Dr. Vergara (Florestan Fernandes / Kanazawa)
+- [ ] P7 — Acesso à Costa Gama a partir da Estr. das Três Meninas
 - [ ] P8 — Semáforo Costa Gama × Afonso Lourenço Mariante
+- [ ] P9 — Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
 - [ ] Outro: __________________________
+<!-- END pontos:questionario-curto -->
 
 ## 3. Quando o problema é **mais grave**? *(escolha um)*
 - [ ] Pico da manhã (6h–9h)

@@ -55,7 +55,7 @@ As **cinco diretrizes centrais do novo PDUS** são: adaptação às mudanças cl
 - [x] **Escopo da requalificação da Av. Monte Cristo** — *resolvido (ver §6):* trecho Eduardo Prado ↔ Estr. Cristiano Kraemer, 1.500 m, prioridade a travessias/acessibilidade/paradas; **termina no nosso P2**. Projeto anunciado em **fev/2025** (asfalto já concluído pela SMSUrb; sinalização/desenho em implantação); **sem data pública de conclusão** — confirmar status atual com a EPTC. Atende Acergs, escola especial e hospital no trecho.
 - [x] **Região/subprefeitura de Vila Nova** — *resolvido (ver §6):* Subprefeitura Centro-Sul (Região 12 do OP); Região de Planejamento 6 (Centro-Sul e Sul).
 - [ ] **Diretrizes detalhadas da PMU** (LC 951/2022): baixar o texto integral para hierarquia viária e gestão de velocidade.
-- [ ] **Dados de acidentes** nos 8 pontos (Dados Abertos POA) — em andamento via CODEX.
+- [x] **Dados de acidentes** nos 8 pontos (Dados Abertos POA) — *concluído:* triagem por distância (R02) e segmentação do P4 (R03); ver [metodologia](../dados/tratados/acidentes_metodologia.md) e [resumo](../dados/tratados/acidentes_resumo_distancia_pontos.csv). **Validação de campo/aerofoto pendente.**
 
 ## 6. Achados institucionais (2026-06-04)
 

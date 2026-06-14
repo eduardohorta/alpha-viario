@@ -1,6 +1,6 @@
 # Matriz de problemas — pontos de estrangulamento
 
-> **Status:** versão 4 (Fase 0 — incorpora CODEX Rodadas 01–03, ver [codex-03-resposta.md](../revisoes/codex-03-resposta.md)). **P4 segmentado por trecho**; **P9 (preliminar)** adicionado a partir da demanda D4.
+> **Status:** versão 4 (Fase 0 — incorpora CODEX Rodadas 01–03; revisões internas, não publicadas). **P4 segmentado por trecho**; **P9 (preliminar)** adicionado a partir da demanda D4.
 > Fonte primária: [sugs.md](../sugs.md). Sinistros: [dados/tratados/acidentes_resumo_distancia_pontos.csv](../dados/tratados/acidentes_resumo_distancia_pontos.csv).
 > **Jurisdição: municipal — Porto Alegre (EPTC/SMMU).**
 >

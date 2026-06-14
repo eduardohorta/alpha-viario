@@ -1,8 +1,10 @@
 # Metodologia preliminar - acidentes de trânsito
 
-Fonte consultada: Dados Abertos POA, conjunto "Acidentes de Trânsito - Acidentes", recurso CSV/API `b56f8123-716a-4893-9348-23945f1ea1b9`.
+Fonte consultada: Dados Abertos POA, conjunto "Acidentes de Trânsito - Acidentes", recurso CSV/API `b56f8123-716a-4893-9348-23945f1ea1b9`. Licença **CC-BY**. Origem, URL, SHA-256 e comando de download em [`dados/brutos/manifest.json`](../brutos/manifest.json); reprodução via `make data`.
 
 Consultas realizadas em: 2026-06-04.
+
+**Janela temporal da base.** O arquivo bruto `cat_acidentes.csv` cobre **2020-01-01 a 2025-08-31** (75.176 registros; fonte atualizada em 2025-09-01). Toda a análise abaixo está limitada a essa janela — sinistros anteriores a 2020 ou posteriores a ago/2025 não entram.
 
 ## Arquivos
 
@@ -65,6 +67,8 @@ Resumo refinado pelo limiar principal:
 
 Observação sobre P5: a fatalidade capturada na triagem por bounding box fica a cerca de 128 m da referência P5 e aparece apenas no contexto ampliado, associada a `AV CAVALHADA` sem logradouro secundário. Portanto, ela deve ser tratada como alerta de contexto, não como evidência direta da conversão João Salomoni -> Cavalhada sem revisão manual.
 
+**Sobreposição entre pontos (totais não somáveis).** Considerando todas as associações (limiar principal + contexto ampliado), há **858 linhas** em `acidentes_associados_distancia.csv` para **800 sinistros distintos**: **58 sinistros aparecem em mais de um ponto** (o mesmo registro fica perto de duas referências, p. ex. P1/P9 na Cristiano Kraemer ou P7/P8 no eixo Costa Gama). **Logo, os totais por ponto não podem ser somados** — a soma superestima o total real. Restringindo às associações principais (`associacao_principal=sim`), são 673 linhas para 647 sinistros distintos (26 em mais de um ponto). Use sempre a contagem de sinistros **distintos** ao falar de um total agregado.
+
 ## Rodada 03 - segmentação do P4 por trecho
 
 A Rodada 03 segmentou os 409 registros principais do P4 ao longo da geometria OSM da `Avenida Vicente Monteggia`. O script projeta cada sinistro no eixo longitudinal Cavalhada/Nonoai -> João Salomoni/Rodrigues da Fonseca e usa marcos observados nos próprios logradouros dos registros para formar trechos preliminares entre interseções.
@@ -106,6 +110,7 @@ Limite adicional: esta segmentação é suficiente para priorizar vistoria e map
 - Registros sem coordenada válida não foram inventados nem posicionados artificialmente.
 - A grafia dos logradouros precisa ser confirmada com base municipal oficial antes de protocolo.
 - Os totais não devem ser usados como prova causal sem inspeção dos registros individuais, mapa e vistoria de campo.
+- **Totais por ponto não são somáveis:** 58 dos 800 sinistros distintos associam-se a mais de um ponto (ver "Sobreposição entre pontos"). Para um agregado, conte sinistros distintos.
 
 ## Próximo passo técnico
 

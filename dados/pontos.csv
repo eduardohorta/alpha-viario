@@ -1,0 +1,10 @@
+id,nome,nome_curto,tipo,geometria,status,lat,lon,confianca_coord,plano_funcional,demanda_origem,aliases
+P1,Rótula Estr. das Três Meninas × Estr. Cristiano Kraemer,Rótula Três Meninas × Cristiano Kraemer,intersecao,point,consolidado,-30.11831,-51.20319,media,direta,,Rótula 3 Meninas x Cristiano Kraemer
+P2,Trevo Estr. Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo,Trevo Cristiano Kraemer × Belém Velho × Monte Cristo,intersecao,point,consolidado,-30.11756,-51.20636,media,direta,,Confluência Cristiano Kraemer × Belém Velho × Monte Cristo
+P3,Acesso à Av. Vicente Monteggia (Av. Rodrigues da Fonseca / Av. João Salomoni),Acesso à Vicente Monteggia (Rodrigues da Fonseca / João Salomoni),acesso,point,consolidado,-30.11550,-51.21248,media,parcial,,Acesso à Vicente Monteggia
+P4,Corredor da Av. Vicente Monteggia,Fluxo na Avenida Vicente Monteggia,corredor,polyline,consolidado,-30.1049939,-51.2208079,referencia_corredor,fora,,Av. Vicente Monteggia
+P5,Conversão Av. João Salomoni → Av. da Cavalhada,Conversão João Salomoni → Cavalhada,conversao,point,consolidado,-30.11310,-51.22650,media,fora,,Conversão João Salomoni → Cavalhada
+P6,Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa),Acesso à Dr. Vergara (Florestan Fernandes / Kanazawa),rota,polyline,consolidado,-30.1185917,-51.1923301,referencia_corredor,parcial,,Rota Florestan Fernandes / Kanazawa
+P7,Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda,Acesso à Costa Gama a partir da Estr. das Três Meninas,acesso,point,consolidado,-30.13373,-51.17574,media,direta,,Alça Três Meninas → Costa Gama
+P8,Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante,Semáforo Costa Gama × Afonso Lourenço Mariante,intersecao,point,consolidado,-30.11518,-51.17707,media,fora,,Semáforo Costa Gama × Afonso Lourenço Mariante
+P9,Rótula da Vila Nova (Estr. Cristiano Kraemer),Rótula da Vila Nova (Estr. Cristiano Kraemer),intersecao,point,preliminar,-30.1476851,-51.2045098,alta,parcial,D4,Rótula da Vila Nova

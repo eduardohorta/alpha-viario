@@ -11,6 +11,8 @@
 
 Estamos organizando informações para subsidiar um projeto viário comunitário no entorno do Alphaville Porto Alegre. O questionário busca identificar problemas recorrentes, horários críticos e medidas que a comunidade aceitaria apoiar. As respostas serão usadas de forma agregada.
 
+> **Privacidade:** respostas **anônimas** e de uso **agregado**; o formulário **não coleta e-mail**. Detalhes, base legal (LGPD), retenção e contato no [aviso de privacidade](aviso-privacidade.md).
+
 ## 1. Perfil do respondente
 
 1. Você é:
@@ -39,19 +41,23 @@ Estamos organizando informações para subsidiar um projeto viário comunitário
 
 Marque os pontos que você usa ou observa com frequência:
 
-- [ ] P1 - Rótula Estrada das Três Meninas x Estrada Cristiano Kraemer
-- [ ] P2 - Trevo/confluência Estrada Cristiano Kraemer x Avenida Belém Velho x Avenida Monte Cristo
-- [ ] P3 - Acesso à Avenida Vicente Monteggia a partir da Avenida Rodrigues da Fonseca/Avenida João Salomoni
-- [ ] P4 - Fluxo na Avenida Vicente Monteggia
-- [ ] P5 - Conversão à direita da Avenida João Salomoni para a Avenida da Cavalhada
-- [ ] P6 - Acesso à Avenida Dr. Vergara via Rua Florestan Fernandes/Estrada Kanazawa
-- [ ] P7 - Acesso à Estrada Costa Gama a partir da Estrada das Três Meninas
-- [ ] P8 - Semáforo Estrada Costa Gama x Estrada Afonso Lourenço Mariante
+<!-- BEGIN pontos:questionario-base (gerado por scripts/pontos.py — não editar à mão) -->
+- [ ] P1 - Rótula Estr. das Três Meninas × Estr. Cristiano Kraemer
+- [ ] P2 - Trevo Estr. Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo
+- [ ] P3 - Acesso à Av. Vicente Monteggia (Av. Rodrigues da Fonseca / Av. João Salomoni)
+- [ ] P4 - Corredor da Av. Vicente Monteggia
+- [ ] P5 - Conversão Av. João Salomoni → Av. da Cavalhada
+- [ ] P6 - Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa)
+- [ ] P7 - Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda
+- [ ] P8 - Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante
+- [ ] P9 - Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
 - [ ] Outro ponto: ______________________________
+<!-- END pontos:questionario-base -->
 
 ## 3. Priorização
 
 4. Qual é o ponto mais crítico para você?
+<!-- BEGIN pontos:bare-mais-critico (gerado por scripts/pontos.py — não editar à mão) -->
    - [ ] P1
    - [ ] P2
    - [ ] P3
@@ -60,9 +66,12 @@ Marque os pontos que você usa ou observa com frequência:
    - [ ] P6
    - [ ] P7
    - [ ] P8
+   - [ ] P9
    - [ ] Outro: ______________________________
+<!-- END pontos:bare-mais-critico -->
 
 5. Qual é o segundo ponto mais crítico?
+<!-- BEGIN pontos:bare-segundo (gerado por scripts/pontos.py — não editar à mão) -->
    - [ ] P1
    - [ ] P2
    - [ ] P3
@@ -71,7 +80,9 @@ Marque os pontos que você usa ou observa com frequência:
    - [ ] P6
    - [ ] P7
    - [ ] P8
+   - [ ] P9
    - [ ] Outro: ______________________________
+<!-- END pontos:bare-segundo -->
 
 6. Em quais horários o problema é mais grave?
    - [ ] Pico da manhã, entre 6h e 9h
@@ -189,7 +200,7 @@ Resposta: ______________________________________________________________________
 
 ## 7. Campo aberto
 
-21. Há algum ponto crítico que não aparece na lista P1-P8?
+21. Há algum ponto crítico que não aparece na lista P1-P9?
 
 Resposta: ______________________________________________________________________
 

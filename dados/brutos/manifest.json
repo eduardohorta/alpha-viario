@@ -1,0 +1,49 @@
+{
+  "descricao": "Manifesto dos insumos brutos do projeto. Registra origem, integridade (SHA-256), licença, janela temporal e commit em que foram obtidos, para que os derivados em dados/tratados/ sejam reproduzíveis. Veja dados/tratados/acidentes_metodologia.md.",
+  "obtido_em": "2026-06-04",
+  "commit_referencia": "c037c77adc0c9a5d0107f7695ee64abd8d5f5fdd",
+  "insumos": [
+    {
+      "arquivo": "dados/brutos/cat_acidentes.csv",
+      "fonte": "Dados Abertos POA — conjunto \"Acidentes de Trânsito - Acidentes\" (EPTC)",
+      "resource_id": "b56f8123-716a-4893-9348-23945f1ea1b9",
+      "url": "https://dadosabertos.poa.br/dataset/d6cfbe48-ee1f-450f-87f5-9426f6a09328/resource/b56f8123-716a-4893-9348-23945f1ea1b9/download/cat_acidentes.csv",
+      "pagina": "https://dadosabertos.poa.br/dataset/acidentes-de-transito-acidentes/resource/b56f8123-716a-4893-9348-23945f1ea1b9",
+      "comando_download": "curl -fSL -o dados/brutos/cat_acidentes.csv 'https://dadosabertos.poa.br/dataset/d6cfbe48-ee1f-450f-87f5-9426f6a09328/resource/b56f8123-716a-4893-9348-23945f1ea1b9/download/cat_acidentes.csv'",
+      "sha256": "0e3f977f8e8a9c2026405d9fe62e29cd843250413ec4b22edd309f839f3f061f",
+      "tamanho_bytes": 15319972,
+      "licenca": "Creative Commons Attribution (CC-BY)",
+      "licenca_url": "http://www.opendefinition.org/licenses/cc-by",
+      "registros": 75176,
+      "janela_temporal": {
+        "campo": "data",
+        "inicio": "2020-01-01",
+        "fim": "2025-08-31",
+        "fonte_atualizada_em": "2025-09-01",
+        "observacao": "Janela coberta pelo arquivo bruto na data de obtenção. Distribuição por ano: 2020=9294, 2021=12398, 2022=13921, 2023=15517, 2024=15015, 2025=9031 (até 31/ago)."
+      },
+      "versionado": false,
+      "nota": "Não versionado (~15 MB, gitignored). Baixe com o comando acima e confira o SHA-256 (make verify-data)."
+    },
+    {
+      "arquivo": "dados/brutos/osm_vias_alpha_viario.json",
+      "fonte": "OpenStreetMap via Overpass API — recorte das vias usadas como geometria preliminar",
+      "url": "https://overpass-api.de/api/interpreter",
+      "sha256": "34fa4db4480e369b05e24857a52f2a7675dcb9f5ad863515b1d20b7245725ca5",
+      "licenca": "Open Database License (ODbL) — © OpenStreetMap contributors",
+      "licenca_url": "https://www.openstreetmap.org/copyright",
+      "versionado": true,
+      "nota": "Geometria preliminar; validar contra base municipal oficial (SMAMUS) antes de protocolo."
+    },
+    {
+      "arquivo": "dados/brutos/acidentes_resumo_pontos_api.json",
+      "fonte": "Dados Abertos POA — resposta bruta da API CKAN datastore_search_sql (consulta agregada por ponto, Rodada 01)",
+      "resource_id": "b56f8123-716a-4893-9348-23945f1ea1b9",
+      "consulta": "dados/tratados/acidentes-resumo-query.sql",
+      "sha256": "2439de8a80f4eff4524e827a24b65b39e60f115325a906fb95a966fe02dcfaf6",
+      "licenca": "Creative Commons Attribution (CC-BY)",
+      "licenca_url": "http://www.opendefinition.org/licenses/cc-by",
+      "versionado": true
+    }
+  ]
+}

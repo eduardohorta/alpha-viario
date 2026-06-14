@@ -266,11 +266,17 @@ def main() -> None:
         "invalid_coord": 0,
         "relevant_no_coord": 0,
     }
+    data_min: str | None = None
+    data_max: str | None = None
 
     with CSV_PATH.open(newline="", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f, delimiter=";")
         for row in reader:
             totals["rows"] += 1
+            d = (row.get("data") or "")[:10]
+            if d:
+                data_min = d if data_min is None or d < data_min else data_min
+                data_max = d if data_max is None or d > data_max else data_max
             coord = valid_coord(row)
             n1 = norm(row.get("log1"))
             n2 = norm(row.get("log2"))
@@ -441,8 +447,27 @@ def main() -> None:
     write_csv(OUT_DIR / "acidentes_revisao_manual_proximos.csv", manual_rows, manual_fields)
     write_csv(OUT_DIR / "acidentes_sem_coordenada_revisao.csv", no_coord_review, no_coord_fields)
 
+    def overlap_stats(rows: list[dict[str, object]]) -> dict[str, int]:
+        by_id: dict[str, set[str]] = defaultdict(set)
+        for r in rows:
+            by_id[str(r["idacidente"])].add(str(r["ponto"]))
+        return {
+            "linhas": len(rows),
+            "sinistros_distintos": len(by_id),
+            "sinistros_multi_ponto": sum(1 for pts in by_id.values() if len(pts) > 1),
+        }
+
+    principais = [r for r in associated if r["associacao_principal"] == "sim"]
+
     metadata = {
         "totais_csv": totals,
+        "janela_temporal_fonte": {"campo": "data", "inicio": data_min, "fim": data_max},
+        "associacoes": {
+            "todas": overlap_stats(associated),
+            "principais": overlap_stats(principais),
+            "nota": "Totais por ponto NÃO são somáveis: 'sinistros_multi_ponto' contam em mais de "
+            "um ponto. Para um agregado, use 'sinistros_distintos'.",
+        },
         "referencias": POINTS,
         "arquivos_saida": [
             "dados/tratados/acidentes_resumo_distancia_pontos.csv",

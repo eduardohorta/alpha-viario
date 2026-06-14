@@ -1,6 +1,6 @@
 # Avaliação preliminar das soluções propostas
 
-> **Status:** versão 2 (condução: CLAUDE; incorpora a revisão CODEX Rodada 01 — [revisoes/codex-01-resposta.md](../revisoes/codex-01-resposta.md)).
+> **Status:** versão 2 (condução: CLAUDE; incorpora a revisão CODEX Rodada 01 — revisão interna, não publicada).
 > As três soluções do [sugs.md](../sugs.md) são **hipóteses**, não pontos de partida. Princípio endurecido pela revisão: **cada intervenção precisa provar que resolve um problema público identificado, melhora a segurança e não apenas desloca o congestionamento.**
 
 ## Reenquadramento à luz dos dados
