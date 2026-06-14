@@ -83,3 +83,6 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 1. **Validar o pacote com a comissão** ([guia](relatorios/guia-validacao-comissao.md)) e **iniciar a coleta de campo** ([plano](campo/plano-coleta-campo.md)) — destrava a ida à EPTC. *(decisão atual: validação interna + campo antes de protocolar)*
 2. **Validar em campo os segmentos P4-S06/S01/S04** (hot spots do corredor).
 3. **Pendências de gabinete:** zoneamento de Vila Nova no PDUS (Anexo 5 / Regramento Construtivo); status atual do projeto da Monte Cristo.
+
+## Licença
+Licenciamento duplo — **código** (`scripts/`, `tests/`, `Makefile`, `.github/`) sob **MIT**; **conteúdo** (textos, questionários, dados próprios) sob **CC BY 4.0**. Dados de terceiros mantêm suas licenças. Ver [LICENSE](LICENSE).

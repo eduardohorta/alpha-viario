@@ -1,0 +1,17 @@
+# Licença
+
+Este repositório usa **licenciamento duplo**:
+
+- **Código** — arquivos em `scripts/` e `tests/`, o `Makefile` e os workflows em
+  `.github/`: **MIT** (ver [LICENSE-MIT](LICENSE-MIT)).
+- **Conteúdo** — textos, relatórios, questionários, planilhas e dados próprios
+  (inclusive `dados/pontos.csv` e os derivados em `dados/tratados/`):
+  **CC BY 4.0** (ver [LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0)).
+
+**Dados de terceiros mantêm as suas próprias licenças** (ver
+`dados/brutos/manifest.json`): sinistros dos Dados Abertos POA / EPTC sob
+**CC BY**; malha viária do OpenStreetMap sob **ODbL**
+(© colaboradores do OpenStreetMap).
+
+© 2026 Comissão de Mobilidade — Moradores do Alphaville Porto Alegre
+(Vila Nova / Zona Sul).
