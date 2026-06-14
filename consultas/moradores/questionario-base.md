@@ -1,5 +1,10 @@
-# Questionário base - Projeto viário Alphaville Porto Alegre
+# Questionário base (completo) - Projeto viário Alphaville Porto Alegre
 
+> **Versão de aprofundamento (~5 min).** Para circulação em massa, use primeiro o
+> [questionário curto](questionario-curto.md) (6 perguntas, ~2 min) — ele é a porta de
+> entrada e basta para a matriz de priorização. Este completo é o convite opcional a quem
+> quiser detalhar movimentos específicos, mais de um ponto ou relatar acidentes.
+>
 > Objetivo: coletar percepções de uso, segurança e congestionamento de forma mapeável, sem substituir dados técnicos de campo. As respostas devem ser consolidadas por ponto crítico, horário, tipo de problema e perfil de usuário.
 
 ## Instruções ao respondente
