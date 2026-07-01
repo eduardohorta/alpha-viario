@@ -26,14 +26,17 @@ Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrang
 ## Uma oportunidade de sinergia
 O ponto 2 conversa diretamente com o **projeto da Prefeitura para a Av. Monte Cristo** (qualificação viária do PSVS, cujo trecho se encerra na Estr. Cristiano Kraemer). Acreditamos que parte das melhorias pode ser **integrada a iniciativas já em curso** no mesmo eixo, com ganho de eficiência **e sem prejuízo da segurança e dos modos vulneráveis**.
 
+Além disso, expedientes administrativos do licenciamento do Alphaville registram um **Plano Funcional aprovado para a Estr. das Três Meninas**, obrigações sobre interseções e uma conexão em etapas com a Estr. Costa Gama. Há evidência de recebimento provisório de parte da pavimentação em 2013, mas os documentos disponíveis não esclarecem o **saldo atual das obras, as desapropriações ou quais projetos continuam vigentes**. Esse histórico permite partir de soluções já estudadas, desde que sejam atualizadas e confrontadas com as condições atuais.
+
 ## Como pretendemos colaborar
 Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **medidas faseadas, começando pelas de menor custo** (sinalização, ajuste de tempos semafóricos, qualificação de rotas). Nossa intenção é **somar à atuação técnica da EPTC/SMMU**, não substituí-la.
 
 ## O que solicitamos
 1. **Vistoria técnica conjunta** dos oito pontos;
 2. **Disponibilização dos dados disponíveis** (tempos semafóricos, sinistros georreferenciados, contagens), conforme as possibilidades da EPTC;
-3. **Abertura de um canal de diálogo** com a EPTC/SMMU (com apoio da Subprefeitura Centro-Sul e demais instâncias territoriais pertinentes);
-4. **Implantação de medidas rápidas de baixo custo** nos pontos em que a vistoria e os dados confirmarem evidência suficiente.
+3. **Acesso aos desenhos vigentes e ao status de implantação** do Plano Funcional da Estr. das Três Meninas, inclusive a conexão com a Costa Gama e os projetos complementares;
+4. **Abertura de um canal de diálogo** com a EPTC/SMMU (com apoio da Subprefeitura Centro-Sul e demais instâncias territoriais pertinentes);
+5. **Implantação de medidas rápidas de baixo custo** nos pontos em que a vistoria e os dados confirmarem evidência suficiente.
 
 ---
 *Anexos sugeridos: matriz dos pontos críticos e diagnóstico detalhado. Contato: [nome / e-mail / telefone da comissão].*

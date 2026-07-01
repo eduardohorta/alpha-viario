@@ -3,12 +3,12 @@
   "comando": "python3 scripts/build_pacote.py",
   "fontes": {
     "relatorios/guia-validacao-comissao.md": "29d024cf4525d8e5fd4c778ca26802e23412d71ca195a67fc71fdef01202162a",
-    "relatorios/memorando-externo.md": "4b625279f5bdb76f07e9e527ac6ad9d999c2f10c5037a3bdaf709c0b3e8dfb4c",
-    "relatorios/anexo-matriz-pontos.md": "ad7908b9b3742323c88d25947b7faf2544632079367332d4bc517596d5e28d81",
+    "relatorios/memorando-externo.md": "ccb49b4a3b4694a1ada6a060176bb99e4dc47b0cc6509db52620f1a8750c5040",
+    "relatorios/anexo-matriz-pontos.md": "59bccd61122925d8435e1385926ac5b37cd75d6ac28bd31bd3d2f06d977c5d64",
     "campo/plano-coleta-campo.md": "db0f9142dee1c3e8fe3f13a27faefa81672c277ab01e19afcd936b6ad5913efb",
     "scripts/build_pacote.py": "e1a2bb506b3c5174cfaf9facf6168ad84985640fe24668bd33b30a13320800e5"
   },
-  "saida_md_sha256": "c7d4094ce4d6c10337f8ed10c351144e325fc9650c3d454f1292c11437cdf4a3",
+  "saida_md_sha256": "375cfac9c3151709e26d498328be8e55cbf7cb2f00261e8e516c76cfa014ad65",
   "pdf_proveniencia": {
     "gerador": "pandoc 2.18"
   }

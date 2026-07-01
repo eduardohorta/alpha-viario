@@ -1,12 +1,12 @@
 # Matriz de problemas — pontos de estrangulamento
 
-> **Status:** versão 4 (Fase 0 — incorpora CODEX Rodadas 01–03; revisões internas, não publicadas). **P4 segmentado por trecho**; **P9 (preliminar)** adicionado a partir da demanda D4.
+> **Status:** versão 5 (Fase 0 — incorpora a leitura dos expedientes administrativos do Alphaville). **P4 segmentado por trecho**; **P9 (preliminar)** adicionado a partir da demanda D4.
 > Fonte primária: [sugs.md](../sugs.md). Sinistros: [dados/tratados/acidentes_resumo_distancia_pontos.csv](../dados/tratados/acidentes_resumo_distancia_pontos.csv).
 > **Jurisdição: municipal — Porto Alegre (EPTC/SMMU).**
 >
 > **Princípio:** separar **problema → hipótese causal → solução**. As "soluções candidatas" são **hipóteses**.
 > **Grafia:** "Estrada Cristiano **Kraemer**" (corrigido de "Cremer"; confirmar na base SMAMUS).
-> **Projetos já aprovados:** o eixo Três Meninas e pontos relacionados dialogam com **Plano Funcional aprovado na SMT/EPTC** — cobertura **direta provável em P1/P2/P7** e **parcial/indireta em P3/P6/P9** (P4/P5/P8 fora). Ver [projetos-viarios-ja-aprovados.md](../relatorios/projetos-viarios-ja-aprovados.md); confirmar nos desenhos e o status de implantação.
+> **Projetos documentados:** os expedientes administrativos confirmam **Plano Funcional aprovado na SMT/EPTC**, obrigações específicas para P1/P2, estudos nos acessos de P6 e conexão em etapas para P7. P3 e P9 mantêm relação parcial/indireta; P4/P5/P8 permanecem fora da cobertura identificada. Ver [projetos-viarios-ja-aprovados.md](../relatorios/projetos-viarios-ja-aprovados.md). **A execução integral e o status atual continuam a confirmar.**
 >
 > **Nota metodológica (sinistros):** a Rodada 01 usou *triagem* por bounding box; a Rodada 02 refez por **associação à distância real** da malha OSM (limiar **≤100 m** para interseções e **≤50 m** para corredores/rotas). Os números abaixo são os **refinados (R02)**. **Associação por distância ≠ prova causal** — exige geocodificação fina, base municipal e vistoria.
 
@@ -95,6 +95,7 @@
 ### P6 — Acesso à Av. Dr. Vergara (chão batido)
 - **Sinistros (R02, ≤50 m):** 8 ocorr. (vários dos mais próximos estão na Estr. Três Meninas, perto da conexão) — **evidência de sinistro fraca; não usar como argumento central**.
 - **Problema operacional:** acesso por chão batido (R. Florestan Fernandes + Estr. Kanazawa); rota precária.
+- **Achado documental:** o segundo aditamento de 2013 exigiu novos estudos das interseções da Estr. das Três Meninas com **Kanazawa** e **Florestan Fernandes**, seguidos de projetos de pavimento. Não foi localizada comprovação de aprovação/execução desses projetos, e a obrigação não cobre necessariamente toda a rota até a Av. Dr. Vergara.
 - **Checagem OSM:** Estr. Kanazawa `unpaved/dirt`; R. Florestan Fernandes asfalto porém `smoothness=very_bad`, `sidewalk=no`.
 - **Problema (eixo do argumento):** **precariedade física** — pavimento, drenagem, calçada, iluminação, seção; risco de tráfego de passagem em via residencial.
 - **Hipótese causal:** ausência de rota pavimentada adequada força desvios; via despreparada.
@@ -106,13 +107,13 @@
 ### P7 — Acesso à Estr. Costa Gama bairro→centro (sem conversão à esquerda)
 - **Sinistros (R02, ≤100 m):** 18 ocorr. · 1 grave.
 - **Problema operacional:** não é possível converter à esquerda; exige retorno em rótula distante.
-- **Achado (contribuição comunitária):** há relato a confirmar de que a conversão à esquerda direta teria sido **substituída por projeto de uma alça de acesso à esquerda** (sentido Três Meninas → Costa Gama) **na documentação da prefeitura**, dependente de **etapas de implantação/desapropriação a verificar**. → **obter o projeto e confirmar o status** (pode tornar o pleito muito mais concreto).
+- **Achado documental:** o expediente-mãe confirma projeto geométrico aprovado para a conexão Três Meninas–Costa Gama, dividido em **primeira etapa sem desapropriação** e **solução definitiva após desapropriações**. Correspondência de 2013 informa que a nova ligação estava aprovada na CTAAPS. A geometria específica de uma **“alça à esquerda” não foi confirmada** nas peças identificadas.
 - **Problema de segurança:** abrir conversão à esquerda pode **criar** conflito pior que o desvio atual.
 - **Hipótese causal:** o problema real pode ser a **distância/tempo do retorno**, não a proibição.
 - **Evidência mínima a coletar:** distância e tempo do retorno atual + volume do movimento desejado + velocidade na Costa Gama + fila/armazenagem para baia + visibilidade + acidentes no entorno.
 - **Modos vulneráveis:** *a levantar*.
 - **Benefício público:** redução de quilometragem/tempo improdutivo e de risco no retorno.
-- **Solução candidata (hipótese — manter alternativas):** **concluir a alça de acesso relatada, se confirmada documentalmente** · retorno protegido · conversão semaforizada · rota alternativa · **ou** manter a restrição melhorando o retorno existente.
+- **Solução candidata (hipótese — manter alternativas):** verificar e, se tecnicamente atual, **concluir a conexão/interseção projetada** · alça, somente se confirmada pelo desenho · retorno protegido · conversão semaforizada · rota alternativa · **ou** manter a restrição melhorando o retorno existente.
 
 ### P8 — Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante (bairro→centro)
 - **Sinistros (R02, ≤100 m):** 36 ocorr. · 4 graves · 0 fatais · 17 motos. Nó OSM ~`-30.1152, -51.1771`.

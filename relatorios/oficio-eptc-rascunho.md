@@ -21,13 +21,16 @@ Prezados(as) Senhores(as),
 
 3. Registramos, em especial, a **sinergia** entre um desses pontos (confluência da Estr. Cristiano Kraemer com a Av. Monte Cristo) e o **projeto de qualificação viária da Av. Monte Cristo** já conduzido por essa Empresa, o que pode favorecer ganhos de eficiência, sem prejuízo da segurança e dos modos vulneráveis.
 
-4. Diante do exposto, e na condição de **colaboradores da atuação técnica da EPTC/SMMU**, solicitamos:
+4. Expedientes administrativos do licenciamento do Alphaville também registram **Plano Funcional aprovado para a Estr. das Três Meninas**, intervenções em interseções e conexão em etapas com a Estr. Costa Gama. A documentação examinada indica execução parcial em 2013, mas não permite determinar quais desenhos continuam vigentes nem o saldo atual das obras e desapropriações.
+
+5. Diante do exposto, e na condição de **colaboradores da atuação técnica da EPTC/SMMU**, solicitamos:
    a) **vistoria técnica conjunta** dos oito pontos indicados;
    b) a **disponibilização dos dados disponíveis** (tempos semafóricos, sinistros georreferenciados e contagens), conforme as possibilidades da EPTC;
-   c) a **abertura de um canal de diálogo** para o encaminhamento das demandas;
-   d) a **avaliação de medidas rápidas e de baixo custo** nos pontos em que a vistoria e os dados confirmarem evidência suficiente.
+   c) a disponibilização dos **desenhos vigentes, projetos complementares e quadro de execução** do Plano Funcional, incluindo a conexão Três Meninas–Costa Gama;
+   d) a **abertura de um canal de diálogo** para o encaminhamento das demandas;
+   e) a **avaliação de medidas rápidas e de baixo custo** nos pontos em que a vistoria e os dados confirmarem evidência suficiente.
 
-5. O material anexo **não pretende substituir a avaliação técnica da EPTC/SMMU**; seu objetivo é organizar relatos, evidências preliminares e pontos para vistoria conjunta. Colocamo-nos à disposição para uma reunião técnica e para o compartilhamento do material de diagnóstico que produzimos.
+6. O material anexo **não pretende substituir a avaliação técnica da EPTC/SMMU**; seu objetivo é organizar relatos, evidências preliminares e pontos para vistoria conjunta. Colocamo-nos à disposição para uma reunião técnica e para o compartilhamento do material de diagnóstico que produzimos.
 
 Atenciosamente,
 

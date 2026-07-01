@@ -25,7 +25,7 @@
 Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS §A](PENDENCIAS.md):
 - [ ] **PDUS/LUOS** — sanção/publicação e transição.
 - [ ] **Projeto da Av. Monte Cristo** — status atual (EPTC); afeta P2.
-- [ ] **Plano Funcional (Anexo 7)** — status de implantação (P1/P2/P3/P6/P7).
+- [ ] **Plano Funcional** — desenhos vigentes, reconciliação de estacas e status de implantação (P1/P2/P3/P6/P7); os termos históricos e a execução parcial já estão documentados.
 - [ ] **Canais institucionais** da EPTC / Subprefeitura.
 - [ ] **Grafia oficial** "Cristiano Kraemer" (SMAMUS).
 

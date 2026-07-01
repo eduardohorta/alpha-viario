@@ -5,10 +5,12 @@
 > **Responsável:** **[C]** comissão · **[F]** campo/comunidade · **[G]** gabinete (CLAUDE/CODEX).
 
 ## A. Documentos e órgãos
-- [ ] **[C]** Obter o **Plano Funcional (Anexo 7)** e **confirmar o status de implantação** dos projetos já aprovados para **P1/P2/P3/P6/P7** — via administração do condomínio e órgãos (SMT/EPTC, SMAMUS). Ver [projetos já aprovados](relatorios/projetos-viarios-ja-aprovados.md).
-- [ ] **[G]** Preencher o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) quando o Anexo 7 chegar.
+- [x] **[G]** Examinar os Expedientes Únicos `002.302984.00.0`, `002.322284.00.5` e `002.322291.00.8` e consolidar as obrigações viárias documentadas. Ver [projetos documentados](relatorios/projetos-viarios-ja-aprovados.md).
+- [ ] **[C]** Obter cópia **identificada e legível dos desenhos vigentes** do Plano Funcional — inclusive Anexo 7, projeto geométrico reaprovado em 2013 e eventuais substituições — via EPTC/SMMU/SMAMUS.
+- [ ] **[C/G]** Solicitar quadro oficial de **execução por trecho/interseção**, reconciliando as estacas do Plano Funcional com o trecho provisoriamente recebido em 2013 e distinguindo recebimento provisório, definitivo e saldo pendente.
+- [ ] **[G]** Atualizar o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) com os achados dos expedientes e completá-lo quando os desenhos identificados chegarem.
 - [ ] **[G]** Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
-- [ ] **[C/G]** Obter o **projeto relatado da alça de acesso** (Três Meninas ↔ Costa Gama, **P7**) na documentação da prefeitura e confirmar status/implantação/desapropriação.
+- [ ] **[C/G]** Obter o desenho da **conexão/interseção Três Meninas ↔ Costa Gama** (**P7**) e confirmar geometria, primeira etapa, solução definitiva e desapropriações. Não designar a solução como “alça” antes dessa conferência.
 - [ ] **[G]** **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
 - [ ] **[G]** Confirmar a **grafia oficial** "Cristiano Kraemer" na base SMAMUS.
@@ -37,7 +39,8 @@
 - [x] **[G]** **Reconciliar os 10 temas do Morador C** com os P1–P9 (+ drenagem): ver [tabela de reconciliação](consultas/temas-morador-c-reconciliacao.md).
 - [x] **[G]** **Georreferenciar preliminarmente P9/D1–D4/P7**: ver [georreferenciamento](dados/tratados/georreferenciamento_referencias_demandas.md). Pins de campo seguem necessários para referências de baixa confiança.
 - [x] **[G]** Esboçar **matriz pública de status** do Plano Funcional: ver [matriz pública](relatorios/matriz-publica-status-plano-funcional.md).
-- [ ] **[G]** **Incorporar os desenhos** do Plano Funcional à matriz quando obtidos.
+- [x] **[G]** Incorporar à matriz as previsões textuais, o aditamento de 2013 e a evidência de execução parcial localizadas nos expedientes.
+- [ ] **[G]** Incorporar à matriz os **desenhos identificados** do Plano Funcional e mapear suas estacas quando obtidos.
 - [ ] **[G]** Manter a **versão enxuta da matriz** ([anexo](relatorios/anexo-matriz-pontos.md)) atualizada.
 - [x] **[G]** Documentar o **plano de evidência leve** (substitui o plano de campo "pesado"): ver [plano de evidência leve](campo/plano-evidencia-leve.md).
 

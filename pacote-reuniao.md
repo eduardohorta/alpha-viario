@@ -85,14 +85,17 @@ Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrang
 ## Uma oportunidade de sinergia
 O ponto 2 conversa diretamente com o **projeto da Prefeitura para a Av. Monte Cristo** (qualificação viária do PSVS, cujo trecho se encerra na Estr. Cristiano Kraemer). Acreditamos que parte das melhorias pode ser **integrada a iniciativas já em curso** no mesmo eixo, com ganho de eficiência **e sem prejuízo da segurança e dos modos vulneráveis**.
 
+Além disso, expedientes administrativos do licenciamento do Alphaville registram um **Plano Funcional aprovado para a Estr. das Três Meninas**, obrigações sobre interseções e uma conexão em etapas com a Estr. Costa Gama. Há evidência de recebimento provisório de parte da pavimentação em 2013, mas os documentos disponíveis não esclarecem o **saldo atual das obras, as desapropriações ou quais projetos continuam vigentes**. Esse histórico permite partir de soluções já estudadas, desde que sejam atualizadas e confrontadas com as condições atuais.
+
 ## Como pretendemos colaborar
 Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **medidas faseadas, começando pelas de menor custo** (sinalização, ajuste de tempos semafóricos, qualificação de rotas). Nossa intenção é **somar à atuação técnica da EPTC/SMMU**, não substituí-la.
 
 ## O que solicitamos
 1. **Vistoria técnica conjunta** dos oito pontos;
 2. **Disponibilização dos dados disponíveis** (tempos semafóricos, sinistros georreferenciados, contagens), conforme as possibilidades da EPTC;
-3. **Abertura de um canal de diálogo** com a EPTC/SMMU (com apoio da Subprefeitura Centro-Sul e demais instâncias territoriais pertinentes);
-4. **Implantação de medidas rápidas de baixo custo** nos pontos em que a vistoria e os dados confirmarem evidência suficiente.
+3. **Acesso aos desenhos vigentes e ao status de implantação** do Plano Funcional da Estr. das Três Meninas, inclusive a conexão com a Costa Gama e os projetos complementares;
+4. **Abertura de um canal de diálogo** com a EPTC/SMMU (com apoio da Subprefeitura Centro-Sul e demais instâncias territoriais pertinentes);
+5. **Implantação de medidas rápidas de baixo custo** nos pontos em que a vistoria e os dados confirmarem evidência suficiente.
 
 ---
 *Anexos sugeridos: matriz dos pontos críticos e diagnóstico detalhado. Contato: [nome / e-mail / telefone da comissão].*
@@ -107,13 +110,13 @@ Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **med
 
 | Ponto | Localização | Problema relatado (a verificar) | Indício preliminar | A vistoriar / coletar |
 |-------|-------------|----------------------------------|--------------------|------------------------|
-| **P1** | Rótula Estr. Três Meninas × Estr. Cristiano Kraemer | Estrangulamento e conflito na rótula | ~29 sinistros no entorno (4 graves) | Geometria, velocidade de entrada, contagem direcional |
+| **P1** | Rótula Estr. Três Meninas × Estr. Cristiano Kraemer | Estrangulamento e conflito na rótula | ~29 sinistros (4 graves) + adequação prevista no Plano Funcional | Projeto vigente, geometria executada, velocidade e contagem direcional |
 | **P2** | Confluência Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo | Conflito na confluência de três vias | ~58 sinistros (7 graves; motos) | Movimentos direcionais; **sinergia com o projeto da Av. Monte Cristo** |
 | **P3** | Acesso à Av. Vicente Monteggia (Rodrigues da Fonseca / João Salomoni) | Dificuldade/conflito de acesso | ~44 sinistros (4 graves; motos) | Brechas de entrada, prioridade, contagem |
 | **P4** | Corredor da Av. Vicente Monteggia | Sobrecarga e gravidade no corredor | Sinistros graves e **fatais**; trechos já priorizados | Contagem por trecho; velocidades; **vistoriar trechos prioritários** |
 | **P5** | Conversão Av. João Salomoni → Av. da Cavalhada | Conversão problemática | Sinistralidade no entorno da Cavalhada | Volume da conversão, travessia, ônibus, fase semafórica |
-| **P6** | Acesso à Av. Dr. Vergara (via Florestan Fernandes / Estr. Kanazawa) | Rota precária (trecho não pavimentado) | Precariedade física (pavimento/drenagem/calçada) | Largura, drenagem, calçadas, função de rede |
-| **P7** | Acesso à Estr. Costa Gama, sentido bairro–centro | Sem conversão à esquerda; retorno distante | ~18 sinistros no entorno | Distância/tempo do retorno atual; volume do movimento |
+| **P6** | Acesso à Av. Dr. Vergara (via Florestan Fernandes / Estr. Kanazawa) | Rota precária (trecho não pavimentado) | Precariedade física + estudos dos dois acessos exigidos em 2013 | Projetos existentes, largura, drenagem, calçadas e função de rede |
+| **P7** | Acesso à Estr. Costa Gama, sentido bairro–centro | Sem conversão à esquerda; retorno distante | ~18 sinistros + conexão em duas etapas documentada | Desenho vigente, implantação/desapropriações, tempo do retorno e volume |
 | **P8** | Cruzamento semaforizado Estr. Costa Gama × Estr. Afonso Lourenço Mariante | Filas no pico | ~36 sinistros (4 graves; motos) | Tempos de semáforo, fila residual, volume por aproximação |
 | **P9** *(preliminar)* | Rótula da Vila Nova (Estr. Cristiano Kraemer) | Ajuste geométrico/moderação na rótula | A levantar | Georreferenciar; geometria, velocidade, conflitos, pedestres |
 
