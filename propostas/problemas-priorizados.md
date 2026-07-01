@@ -5,7 +5,7 @@
 > **Jurisdição: municipal — Porto Alegre (EPTC/SMMU).**
 >
 > **Princípio:** separar **problema → hipótese causal → solução**. As "soluções candidatas" são **hipóteses**.
-> **Grafia:** "Estrada Cristiano **Kraemer**" (corrigido de "Cremer"; confirmar na base SMAMUS).
+> **Grafia:** "Estrada Cristiano **Kraemer**" (corrigido de "Cremer"; confirmada pela comissão).
 > **Projetos documentados:** os expedientes administrativos confirmam **Plano Funcional aprovado na SMT/EPTC**, obrigações específicas para P1/P2, estudos nos acessos de P6 e conexão em etapas para P7. P3 e P9 mantêm relação parcial/indireta; P4/P5/P8 permanecem fora da cobertura identificada. Ver [projetos-viarios-ja-aprovados.md](../relatorios/projetos-viarios-ja-aprovados.md). **A execução integral e o status atual continuam a confirmar.**
 >
 > **Nota metodológica (sinistros):** a Rodada 01 usou *triagem* por bounding box; a Rodada 02 refez por **associação à distância real** da malha OSM (limiar **≤100 m** para interseções e **≤50 m** para corredores/rotas). Os números abaixo são os **refinados (R02)**. **Associação por distância ≠ prova causal** — exige geocodificação fina, base municipal e vistoria.

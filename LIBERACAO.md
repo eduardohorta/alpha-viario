@@ -27,7 +27,6 @@ Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS 
 - [ ] **Projeto da Av. Monte Cristo** — status atual (EPTC); afeta P2.
 - [ ] **Plano Funcional** — desenhos vigentes, reconciliação de estacas e status de implantação (P1/P2/P3/P6/P7); os termos históricos e a execução parcial já estão documentados.
 - [ ] **Canais institucionais** da EPTC / Subprefeitura.
-- [ ] **Grafia oficial** "Cristiano Kraemer" (SMAMUS).
 
 ## 3. Evidência de campo
 Mínimo suficiente para protocolar: [guia §4](relatorios/guia-validacao-comissao.md).

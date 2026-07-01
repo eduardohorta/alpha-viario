@@ -74,7 +74,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 ## Notas importantes
 - **Dados de sinistros = associação preliminar por distância, não prova causal.** Exigem validação de campo.
-- **Grafia:** "Estr. Cristiano **Kraemer**" (confirmar na base SMAMUS).
+- **Grafia:** "Estr. Cristiano **Kraemer**" (confirmada pela comissão).
 - **Marco urbanístico:** PDUS/LUOS **aprovados pela Câmara em 2026**; sanção/publicação e transição **a confirmar**.
 - A obra asfáltica da Cristiano Kraemer é **SMSUrb (pavimento)**, ≠ projeto PSVS da Monte Cristo.
 - **Privacidade:** nomes de moradores anonimizados (Morador A/B). Revisões internas, expedientes administrativos brutos (com dados pessoais/registrais) e a base bruta de sinistros (~15 MB) não são versionados.

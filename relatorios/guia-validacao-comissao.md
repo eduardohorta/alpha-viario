@@ -9,7 +9,7 @@
 
 ## 2. Decisões da comissão (checklist)
 - [ ] **Validar a lista de pontos** (8 + P9). Algum a remover, fundir ou incluir?
-- [ ] **Confirmar a grafia** "Estr. Cristiano **Kraemer**" na base oficial (SMAMUS).
+- [x] **Grafia** "Estr. Cristiano **Kraemer**" — confirmada pela comissão.
 - [ ] **Aprovar/editar** o texto do memorando externo e do ofício; preencher `[nome / contato]`.
 - [ ] **Destino de D2 (retorno) e D3 (alargamento):** manter **internas** até provar benefício público? *(recomendação: sim)*
 - [ ] **P9 (Rótula da Vila Nova):** confirmar como ponto rastreado.

@@ -13,7 +13,7 @@
 - [ ] **[C/G]** Obter o desenho da **conexão/interseção Três Meninas ↔ Costa Gama** (**P7**) e confirmar geometria, primeira etapa, solução definitiva e desapropriações. Não designar a solução como “alça” antes dessa conferência.
 - [ ] **[G]** **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
-- [ ] **[G]** Confirmar a **grafia oficial** "Cristiano Kraemer" na base SMAMUS.
+- [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
 
 ## B. Campo / evidência (versão leve)
 - [ ] **[C]** Distribuir o **questionário** a moradores e entorno (crowdsourced).
