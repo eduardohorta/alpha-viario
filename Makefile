@@ -17,7 +17,7 @@ PY := python3
 RAW := dados/brutos/cat_acidentes.csv
 URL := https://dadosabertos.poa.br/dataset/d6cfbe48-ee1f-450f-87f5-9426f6a09328/resource/b56f8123-716a-4893-9348-23945f1ea1b9/download/cat_acidentes.csv
 
-.PHONY: all geojson mapa respostas pacote pacote-md data fetch-data verify-data check release-check test clean help
+.PHONY: all geojson mapa respostas sonda pacote pacote-md data fetch-data verify-data check release-check test clean help
 
 help:
 	@awk 'sub(/^# ?/, "")' Makefile
@@ -34,6 +34,9 @@ mapa:
 respostas:
 	@test -f consultas/respostas/respostas.csv || { echo "Ausente: consultas/respostas/respostas.csv (exporte do formulário — ver consultas/respostas/README.md)."; exit 1; }
 	$(PY) scripts/processar_respostas.py
+
+sonda:            # uma rodada da sonda de tempos (setup: campo/sonda-tempos-google.md)
+	$(PY) scripts/coletar_tempos_google.py
 
 pacote:           # build de liberação: Markdown + PDF (exige Pandoc/XeLaTeX)
 	$(PY) scripts/build_pacote.py

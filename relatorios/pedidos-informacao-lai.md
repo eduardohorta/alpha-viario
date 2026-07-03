@@ -124,6 +124,25 @@ encaminhamento interno no que couber).
 > relação de **empreendimentos em licenciamento** na área com **contrapartidas viárias**
 > vinculadas, com número dos respectivos expedientes.
 
+## Pedido 7 — Dados de tráfego existentes na EPTC (Waze, contagens, semáforos)
+
+**Órgão:** EPTC/SMMU.
+**Destrava:** base de fluidez do dossiê (complementa a sonda própria de tempos de viagem); planos semafóricos de P8/P5.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, solicito informações sobre as fontes de dados de
+> tráfego utilizadas pela EPTC: (a) se o Município participa do programa **Waze for
+> Cities** (antigo Connected Citizens) ou equivalente e, em caso positivo, quais dados
+> recebe, desde quando e se há séries históricas armazenadas; (b) quais **contagens
+> volumétricas, medições de velocidade ou estudos de tráfego** dos últimos 10 anos
+> existem para as vias Av. Vicente Monteggia, Estr. das Três Meninas, Estr. Cristiano
+> Kraemer, Estr. Costa Gama, Av. da Cavalhada, Av. João Salomoni, Av. Rodrigues da
+> Fonseca e Av. Belém Velho, com cópia dos dados ou relatórios não sigilosos; e (c) os
+> **planos semafóricos vigentes** (ciclo, estágios e defasagens) da interseção Estr.
+> Costa Gama × Estr. Afonso Lourenço Mariante e do cruzamento Av. João Salomoni ×
+> Av. da Cavalhada.
+
 ---
 
 ## Acompanhamento
@@ -136,6 +155,7 @@ encaminhamento interno no que couber).
 | 4 — Expedientes complementares (P6) | SMAMUS | — | — | — | não protocolado |
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | — | — | — | não protocolado |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | — | — | — | não protocolado |
+| 7 — Dados de tráfego da EPTC | EPTC/SMMU | — | — | — | não protocolado |
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a

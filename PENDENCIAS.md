@@ -10,7 +10,7 @@
 
 - [x] **[G]** Examinar os Expedientes Únicos `002.302984.00.0`, `002.322284.00.5` e `002.322291.00.8` e consolidar as obrigações viárias documentadas. Ver [projetos documentados](relatorios/projetos-viarios-ja-aprovados.md).
 - [x] **[G]** Redigir os **pedidos LAI** para as informações que só a Prefeitura tem: [pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md).
-- [ ] **[C/F]** **Protocolar os pedidos LAI 1–6** no e-SIC e registrar números/datas na tabela de acompanhamento.
+- [ ] **[C/F]** **Protocolar os pedidos LAI 1–7** no e-SIC e registrar números/datas na tabela de acompanhamento (o 7 cobre dados de tráfego da EPTC: Waze for Cities, contagens, planos semafóricos).
 - [ ] **[C]** *(LAI — pedido 1)* Obter cópia **identificada e legível dos desenhos vigentes** do Plano Funcional — inclusive Anexo 7, projeto geométrico reaprovado em 2013 e eventuais substituições — via EPTC/SMMU/SMAMUS.
 - [ ] **[C/G]** *(LAI — pedido 2)* Solicitar quadro oficial de **execução por trecho/interseção**, reconciliando as estacas do Plano Funcional com o trecho provisoriamente recebido em 2013 e distinguindo recebimento provisório, definitivo e saldo pendente.
 - [ ] **[G]** Atualizar o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) com os achados dos expedientes e completá-lo quando os desenhos identificados chegarem.
@@ -26,6 +26,8 @@
 - [ ] **[F]** **Fotos/vídeos** nos picos + **pins de GPS** dos pontos das demandas (D1–D4/P9).
 - [ ] **[F]** **Cronometrar** o retorno distante (P7/D2); **fotografar** a rota de chão batido (P6).
 - [ ] **[F]** Mapear **pontos de alagamento/drenagem** (nova dimensão).
+- [ ] **[G]** Ligar a **sonda de tempos de viagem** (2–4 semanas nos picos): [setup e travas de custo](campo/sonda-tempos-google.md); rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv).
+- [ ] **[G/F]** **Capturas do trânsito típico** (Google Maps) por ponto/horário: [roteiro](campo/observacoes/transito-tipico/README.md).
 - [ ] **[F]** **Validar em campo** os segmentos prioritários do P4 (**S06/S01/S04**).
 - [ ] **[F]** Registrar cada evidência no [inventário](campo/observacoes/inventario-evidencias.csv) (rastreabilidade + classificação público/interno).
 

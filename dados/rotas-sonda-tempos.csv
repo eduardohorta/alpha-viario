@@ -1,0 +1,13 @@
+rota_id,ponto_id,descricao,origem_lat,origem_lon,destino_lat,destino_lon,ativa
+R01,P4,Corredor Monteggia completo — Salomoni para Cavalhada/Nonoai,-30.115534,-51.212535,-30.095173,-51.225821,1
+R02,P4,Corredor Monteggia completo — Cavalhada/Nonoai para Salomoni,-30.095173,-51.225821,-30.115534,-51.212535,1
+R03,P4,Trecho S06 — Joao Vedana para Joao Passuelo,-30.110433,-51.219027,-30.113356,-51.213044,1
+R04,P4,Trecho S06 — Joao Passuelo para Joao Vedana,-30.113356,-51.213044,-30.110433,-51.219027,1
+R05,P7,Tres Meninas para Costa Gama sentido centro (rota legal inclui o retorno distante),-30.127475,-51.182782,-30.126457,-51.174290,1
+R06,P7,Costa Gama para Tres Meninas (movimento permitido — linha de base),-30.126457,-51.174290,-30.127475,-51.182782,1
+R07,P8,Costa Gama sul para Mariante leste atravessando o semaforo,-30.123559,-51.174136,-30.116337,-51.172320,1
+R08,P8,Mariante leste para Costa Gama sul atravessando o semaforo,-30.116337,-51.172320,-30.123559,-51.174136,1
+R09,P1,Tres Meninas leste do P1 para Monte Cristo oeste do P2 (atravessa P1 e P2),-30.119611,-51.197327,-30.118941,-51.211709,1
+R10,P2,Monte Cristo oeste do P2 para Tres Meninas leste do P1 (atravessa P2 e P1),-30.118941,-51.211709,-30.119611,-51.197327,1
+R11,P5,Salomoni para Cavalhada norte (inclui a conversao a direita do P5),-30.113122,-51.220381,-30.109938,-51.227031,1
+R12,P3,Rodrigues da Fonseca para Monteggia norte (acesso do P3),-30.116728,-51.208289,-30.110433,-51.219027,1

@@ -49,7 +49,7 @@ minutos que pode ser tomada por mensagem, sem reunião.
 
 | Até | Entrega | Trilha |
 |-----|---------|--------|
-| **10/jul** | Pedidos LAI 1–6 protocolados no e-SIC; formulário online do questionário curto montado (rascunho) | A, D |
+| **10/jul** | Pedidos LAI 1–7 protocolados no e-SIC; formulário online do questionário curto montado (rascunho); sonda de tempos de viagem ligada ([setup](campo/sonda-tempos-google.md)) | A, D |
 | **15/jul** | Decisões mínimas da comissão obtidas (reunião ou mensagem): aviso de privacidade preenchido, quem assina, canal, D2/D3, P9, volume mínimo | B |
 | **20/jul** | Questionário circulando; campo solo iniciado (P7 cronometrado, pins D1–D4, fotos de pico em P4-S06/P1/P2/P5) | C |
 | **10/ago** | Respostas LAI incorporadas à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md); questionário no volume mínimo; evidência leve nos pontos prioritários registrada no [inventário](campo/observacoes/inventario-evidencias.csv) | A→D, C |
@@ -84,6 +84,7 @@ A, C e D. Se não houver reunião até **15/jul**:
   [ofício](relatorios/oficio-eptc-rascunho.md) · [anexo](relatorios/anexo-matriz-pontos.md))
   — faltam apenas os campos da comissão.
 - [Pedidos LAI redigidos](relatorios/pedidos-informacao-lai.md) — prontos para colar no e-SIC.
+- [Sonda de tempos de viagem](campo/sonda-tempos-google.md) — 12 rotas cadastradas, coletor com travas de custo (`make sonda`).
 - [Mapa dos pontos](mapas/mapa-pontos.png) — gerado do cadastro canônico (`make mapa`).
 - [Pipeline de respostas do questionário](consultas/respostas/README.md) — tabulação
   automática quando as respostas chegarem (`make respostas`).

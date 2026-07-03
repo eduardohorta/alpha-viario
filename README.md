@@ -47,6 +47,8 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 **Campo e consulta**
 - [campo/plano-evidencia-leve.md](campo/plano-evidencia-leve.md) — **plano de coleta comunitária (recomendado)** · [plano técnico completo](campo/plano-coleta-campo.md)
+- [campo/sonda-tempos-google.md](campo/sonda-tempos-google.md) — **sonda de tempos de viagem** (Routes API, travas de custo; `make sonda`) · [rotas](dados/rotas-sonda-tempos.csv)
+- [campo/observacoes/transito-tipico/README.md](campo/observacoes/transito-tipico/README.md) — **roteiro de capturas do trânsito típico** (Google Maps)
 - [campo/observacoes/roteiro-vistoria.md](campo/observacoes/roteiro-vistoria.md) — o que medir por ponto
 - [campo/observacoes/modelo-observacao-campo.csv](campo/observacoes/modelo-observacao-campo.csv) — planilha de campo
 - [campo/observacoes/inventario-evidencias.csv](campo/observacoes/inventario-evidencias.csv) — **inventário central de evidências** (rastreabilidade + público/interno)
