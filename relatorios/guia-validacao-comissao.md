@@ -4,7 +4,7 @@
 
 ## 1. O que está pronto para revisão
 - **Peças externas:** [memorando institucional](memorando-externo.md) · [rascunho de ofício](oficio-eptc-rascunho.md) · [anexo de pontos](anexo-matriz-pontos.md).
-- **Técnico:** [matriz dos pontos (8 + P9)](../propostas/problemas-priorizados.md) · [avaliação das soluções](../propostas/avaliacao-solucoes-iniciais.md) · [base de sinistros](../dados/tratados/acidentes_resumo_distancia_pontos.csv).
+- **Técnico:** [mapa dos pontos](../mapas/mapa-pontos.png) · [matriz dos pontos (8 + P9)](../propostas/problemas-priorizados.md) · [avaliação das soluções](../propostas/avaliacao-solucoes-iniciais.md) · [base de sinistros](../dados/tratados/acidentes_resumo_distancia_pontos.csv).
 - **Instrumentos de campo:** [plano de coleta](../campo/plano-coleta-campo.md) · [roteiro](../campo/observacoes/roteiro-vistoria.md) · [ficha CSV](../campo/observacoes/modelo-observacao-campo.csv) · [questionário](../consultas/moradores/questionario-base.md).
 
 ## 2. Decisões da comissão (checklist)
@@ -28,7 +28,7 @@
 > **Gate único — a confirmar pela comissão.** Protocolar quando **todos** estiverem cumpridos; até lá, o pacote externo fica como **rascunho interno**.
 
 - [ ] Evidência leve (foto + vídeo + pin de GPS + relato) nos **pontos prioritários**: **P4 (S06/S01/S04), P1, P2, P5**.
-- [ ] **Questionário** com volume mínimo de respostas: **≥ [a definir pela comissão] respostas**.
+- [ ] **Questionário** com volume mínimo de respostas: **≥ [a definir pela comissão — proposta do gabinete: 50, sendo ≥ 10 de fora do condomínio] respostas** (tabulação e verificação automáticas: `make respostas`).
 - [ ] **Peças externas sem placeholders** — `make release-check` verde (memorando, ofício, anexo e aviso de privacidade preenchidos).
 - [ ] **Quem assina/protocola** definido e **canal** escolhido (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
 

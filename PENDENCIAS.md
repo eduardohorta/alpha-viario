@@ -1,22 +1,27 @@
 # Pendências e próximos passos
 
 > Status consolidado do projeto. Itens de **estratégia jurídica** ficam em `interno/` (não versionado).
+> **Ordem, dependências e datas:** [ROTEIRO.md](ROTEIRO.md).
 > **Checklist de liberação** (preencher antes de circular/protocolar): [LIBERACAO.md](LIBERACAO.md).
 > **Responsável:** **[C]** comissão · **[F]** campo/comunidade · **[G]** gabinete (CLAUDE/CODEX).
 
 ## A. Documentos e órgãos
+> **Atalho:** os cinco itens marcados *(LAI)* têm **pedido pronto para protocolar** em [relatorios/pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md) — pessoa física protocola no e-SIC, sem depender da comissão; prazo legal de resposta: 20 dias.
+
 - [x] **[G]** Examinar os Expedientes Únicos `002.302984.00.0`, `002.322284.00.5` e `002.322291.00.8` e consolidar as obrigações viárias documentadas. Ver [projetos documentados](relatorios/projetos-viarios-ja-aprovados.md).
-- [ ] **[C]** Obter cópia **identificada e legível dos desenhos vigentes** do Plano Funcional — inclusive Anexo 7, projeto geométrico reaprovado em 2013 e eventuais substituições — via EPTC/SMMU/SMAMUS.
-- [ ] **[C/G]** Solicitar quadro oficial de **execução por trecho/interseção**, reconciliando as estacas do Plano Funcional com o trecho provisoriamente recebido em 2013 e distinguindo recebimento provisório, definitivo e saldo pendente.
+- [x] **[G]** Redigir os **pedidos LAI** para as informações que só a Prefeitura tem: [pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md).
+- [ ] **[C/F]** **Protocolar os pedidos LAI 1–6** no e-SIC e registrar números/datas na tabela de acompanhamento.
+- [ ] **[C]** *(LAI — pedido 1)* Obter cópia **identificada e legível dos desenhos vigentes** do Plano Funcional — inclusive Anexo 7, projeto geométrico reaprovado em 2013 e eventuais substituições — via EPTC/SMMU/SMAMUS.
+- [ ] **[C/G]** *(LAI — pedido 2)* Solicitar quadro oficial de **execução por trecho/interseção**, reconciliando as estacas do Plano Funcional com o trecho provisoriamente recebido em 2013 e distinguindo recebimento provisório, definitivo e saldo pendente.
 - [ ] **[G]** Atualizar o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) com os achados dos expedientes e completá-lo quando os desenhos identificados chegarem.
-- [ ] **[G]** Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
-- [ ] **[C/G]** Obter o desenho da **conexão/interseção Três Meninas ↔ Costa Gama** (**P7**) e confirmar geometria, primeira etapa, solução definitiva e desapropriações. Não designar a solução como “alça” antes dessa conferência.
-- [ ] **[G]** **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
+- [ ] **[G]** *(LAI — pedido 5)* Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
+- [ ] **[C/G]** *(LAI — pedido 3)* Obter o desenho da **conexão/interseção Três Meninas ↔ Costa Gama** (**P7**) e confirmar geometria, primeira etapa, solução definitiva e desapropriações. Não designar a solução como “alça” antes dessa conferência.
+- [ ] **[G]** *(LAI — pedido 6)* **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
 - [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
 
 ## B. Campo / evidência (versão leve)
-- [ ] **[C]** Distribuir o **questionário** a moradores e entorno (crowdsourced).
+- [ ] **[C]** Distribuir o **questionário** a moradores e entorno (crowdsourced). Tabulação automática pronta: [pipeline de respostas](consultas/respostas/README.md) (`make respostas`).
 - [ ] **[F]** **Levantamento fotográfico/360°** dos pontos (em organização pelos moradores).
 - [ ] **[F]** **Fotos/vídeos** nos picos + **pins de GPS** dos pontos das demandas (D1–D4/P9).
 - [ ] **[F]** **Cronometrar** o retorno distante (P7/D2); **fotografar** a rota de chão batido (P6).
@@ -43,6 +48,9 @@
 - [ ] **[G]** Incorporar à matriz os **desenhos identificados** do Plano Funcional e mapear suas estacas quando obtidos.
 - [ ] **[G]** Manter a **versão enxuta da matriz** ([anexo](relatorios/anexo-matriz-pontos.md)) atualizada.
 - [x] **[G]** Documentar o **plano de evidência leve** (substitui o plano de campo "pesado"): ver [plano de evidência leve](campo/plano-evidencia-leve.md).
+- [x] **[G]** Gerar o **mapa dos pontos P1–P9** do cadastro canônico ([mapa](mapas/mapa-pontos.png), `make mapa`) e incluí-lo no anexo externo.
+- [x] **[G]** Montar o **pipeline de tabulação das respostas** do questionário ([respostas](consultas/respostas/README.md), `make respostas`, com gate de volume).
+- [x] **[G]** Consolidar o **roteiro operacional com caminho crítico e datas-alvo**: [ROTEIRO.md](ROTEIRO.md).
 
 ## E. Estratégia (alavancas — detalhe em `interno/`)
 - Execução direta do Município; **contrapartidas urbanísticas** de novos empreendimentos (Zona Sul / novo PDUS); **conclusão dos projetos já aprovados** no eixo Três Meninas.

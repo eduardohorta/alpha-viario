@@ -5,7 +5,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 ## Status atual — 2026-07-01
 **Fase 0 madura.** Concluídos: revisão documental (Etapa 1), leitura dos expedientes administrativos do Alphaville, base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. Os expedientes confirmam o Plano Funcional, obrigações para o eixo Três Meninas e execução parcial; **desenhos vigentes e status atual ainda dependem de confirmação municipal**. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)). **Gatekeeper para ir à EPTC: coleta de campo.**
 
-**Pendências abertas:** ver [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`).
+**Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`).
 
 ## Fluxo de trabalho
 **CLAUDE conduz** (estrutura, pesquisa, redação técnica, decisões). **CODEX revisa e complementa** quando acionado. As rodadas de revisão são mantidas **fora do repositório público** (revisões internas). Ver §8 do [plano-de-trabalho.md](plano-de-trabalho.md).
@@ -29,7 +29,8 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [consultas/contribuicoes-comunitarias-publico.md](consultas/contribuicoes-comunitarias-publico.md) — contribuições da comunidade (versão neutra). *Inbox bruto mantido em `interno/`.*
 
 **Plano e propostas**
-- [plano-de-trabalho.md](plano-de-trabalho.md) — espinha dorsal (etapas 0–9)
+- [ROTEIRO.md](ROTEIRO.md) — **caminho crítico, trilhas paralelas e datas-alvo (jul–out 2026)**
+- [plano-de-trabalho.md](plano-de-trabalho.md) — plano fundador (histórico; etapas 0–9)
 - [propostas/problemas-priorizados.md](propostas/problemas-priorizados.md) — **matriz dos pontos — 8 + P9 preliminar (v4)**
 - [propostas/avaliacao-solucoes-iniciais.md](propostas/avaliacao-solucoes-iniciais.md) — avaliação das 3 soluções + escada de intervenção
 
@@ -42,6 +43,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [relatorios/guia-validacao-comissao.md](relatorios/guia-validacao-comissao.md) — **pauta de validação + kickoff de campo**
 - [relatorios/projetos-viarios-ja-aprovados.md](relatorios/projetos-viarios-ja-aprovados.md) — **evidência administrativa, obrigações e execução parcial no eixo Três Meninas**
 - [relatorios/matriz-publica-status-plano-funcional.md](relatorios/matriz-publica-status-plano-funcional.md) — **matriz de previsão documental × execução × verificação atual**
+- [relatorios/pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md) — **pedidos LAI prontos para protocolo (trilha independente do pleito)**
 
 **Campo e consulta**
 - [campo/plano-evidencia-leve.md](campo/plano-evidencia-leve.md) — **plano de coleta comunitária (recomendado)** · [plano técnico completo](campo/plano-coleta-campo.md)
@@ -52,6 +54,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [consultas/moradores/questionario-curto.md](consultas/moradores/questionario-curto.md) — **questionário curto (~2 min, porta de entrada)** · [completo](consultas/moradores/questionario-base.md)
 - [consultas/moradores/aviso-privacidade.md](consultas/moradores/aviso-privacidade.md) — **aviso de privacidade (LGPD)** — preencher responsável/retenção antes de circular
 - [consultas/registro-demandas-comunitarias.md](consultas/registro-demandas-comunitarias.md) — demandas estruturadas
+- [consultas/respostas/README.md](consultas/respostas/README.md) — **pipeline de tabulação das respostas** (`make respostas`)
 
 **Dados (sinistros)**
 - [dados/tratados/acidentes_resumo_distancia_pontos.csv](dados/tratados/acidentes_resumo_distancia_pontos.csv) — **resumo refinado por ponto**
@@ -62,7 +65,8 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 **Cadastro e governança**
 - [dados/pontos.csv](dados/pontos.csv) — **cadastro canônico dos pontos** (fonte única: ID, nome, status, coordenadas, confiança, aliases). As listas dos questionários são geradas dele (`make` / `scripts/pontos.py sync`).
-- [dados/tratados/pontos.geojson](dados/tratados/pontos.geojson) — **mapa dos pontos** (gerado do cadastro)
+- [dados/tratados/pontos.geojson](dados/tratados/pontos.geojson) — geometrias dos pontos (geradas do cadastro)
+- [mapas/mapa-pontos.png](mapas/mapa-pontos.png) — **mapa dos pontos P1–P9** (`make mapa`; incluído no anexo externo)
 - [dados/brutos/manifest.json](dados/brutos/manifest.json) — **manifesto dos insumos** (URL, SHA-256, licença, janela temporal). Reprodução: `make data`.
 - [scripts/public_check.py](scripts/public_check.py) — **porteiro de publicação** (`make check`): links quebrados, vazamento de áreas privadas, placeholders, pontos inconsistentes.
 - [scripts/build_pacote.py](scripts/build_pacote.py) — **gera o pacote de reunião** a partir das fontes (`make pacote`).
@@ -81,10 +85,11 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - **Escopo (contribuição comunitária):** além de circulação/segurança, investigar **drenagem/alagamento**; os impactos alcançam também o Terraville e demais usuários da região.
 
 ## Próximos passos
-1. **Validar o pacote com a comissão** ([guia](relatorios/guia-validacao-comissao.md)) e **iniciar a coleta de campo** ([plano](campo/plano-coleta-campo.md)) — destrava a ida à EPTC. *(decisão atual: validação interna + campo antes de protocolar)*
-2. **Validar em campo os segmentos P4-S06/S01/S04** (hot spots do corredor).
-3. **Pendências de gabinete:** zoneamento de Vila Nova no PDUS (Anexo 5 / Regramento Construtivo); status atual do projeto da Monte Cristo.
-4. **Plano Funcional:** obter desenhos vigentes, reconciliar estacas e confirmar execução/desapropriações por trecho e interseção.
+Detalhe, dependências e datas-alvo: [ROTEIRO.md](ROTEIRO.md). Em síntese (trilhas paralelas):
+1. **Protocolar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)** (desenhos do Plano Funcional, execução por trecho, conexão Costa Gama, Monte Cristo, zoneamento PDUS) — não depende da comissão nem do campo.
+2. **Validar o pacote com a comissão** ([guia](relatorios/guia-validacao-comissao.md)) e obter as decisões mínimas ([LIBERACAO.md](LIBERACAO.md)).
+3. **Iniciar a coleta de campo** ([plano leve](campo/plano-evidencia-leve.md)) e **circular o questionário** — inclusive os segmentos P4-S06/S01/S04 (hot spots do corredor).
+4. **Consolidar e protocolar na EPTC** dentro da janela da LOA 2027 (meta: até 20/ago — ver [ROTEIRO §3](ROTEIRO.md)).
 
 ## Licença
 Licenciamento duplo — **código** (`scripts/`, `tests/`, `Makefile`, `.github/`) sob **MIT**; **conteúdo** (textos, questionários, dados próprios) sob **CC BY 4.0**. Dados de terceiros mantêm suas licenças. Ver [LICENSE](LICENSE).

@@ -1,5 +1,14 @@
 # Plano de trabalho - Projeto viario Alphaville Porto Alegre
 
+> **Documento histórico (jun/2026).** Este foi o plano fundador do projeto e permanece
+> como referência conceitual (princípios, etapas, cuidados). A **condução operacional
+> atual** está em: [README.md](README.md) (índice e status) ·
+> [ROTEIRO.md](ROTEIRO.md) (caminho crítico e datas) ·
+> [PENDENCIAS.md](PENDENCIAS.md) (backlog por responsável) ·
+> [LIBERACAO.md](LIBERACAO.md) (gate de liberação).
+> Divergências entre este texto e a realidade do repositório (ex.: pastas `fontes/`,
+> `mapas/qgis/`, entregáveis renomeados) resolvem-se a favor do README.
+
 ## 1. Objetivo
 
 Estruturar um projeto viario completo para o entorno do Alphaville Porto Alegre, com qualidade tecnica suficiente para dialogar com moradores, associacao/administracao do condominio, comunidades vizinhas, EPTC/SMMU, SMAMUS e Prefeitura de Porto Alegre.

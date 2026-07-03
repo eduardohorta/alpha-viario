@@ -20,7 +20,7 @@ fontsize: 11pt
 
 ## 1. O que está pronto para revisão
 - **Peças externas:** [memorando institucional](relatorios/memorando-externo.md) · [rascunho de ofício](relatorios/oficio-eptc-rascunho.md) · [anexo de pontos](relatorios/anexo-matriz-pontos.md).
-- **Técnico:** [matriz dos pontos (8 + P9)](propostas/problemas-priorizados.md) · [avaliação das soluções](propostas/avaliacao-solucoes-iniciais.md) · [base de sinistros](dados/tratados/acidentes_resumo_distancia_pontos.csv).
+- **Técnico:** [mapa dos pontos](mapas/mapa-pontos.png) · [matriz dos pontos (8 + P9)](propostas/problemas-priorizados.md) · [avaliação das soluções](propostas/avaliacao-solucoes-iniciais.md) · [base de sinistros](dados/tratados/acidentes_resumo_distancia_pontos.csv).
 - **Instrumentos de campo:** [plano de coleta](campo/plano-coleta-campo.md) · [roteiro](campo/observacoes/roteiro-vistoria.md) · [ficha CSV](campo/observacoes/modelo-observacao-campo.csv) · [questionário](consultas/moradores/questionario-base.md).
 
 ## 2. Decisões da comissão (checklist)
@@ -44,7 +44,7 @@ fontsize: 11pt
 > **Gate único — a confirmar pela comissão.** Protocolar quando **todos** estiverem cumpridos; até lá, o pacote externo fica como **rascunho interno**.
 
 - [ ] Evidência leve (foto + vídeo + pin de GPS + relato) nos **pontos prioritários**: **P4 (S06/S01/S04), P1, P2, P5**.
-- [ ] **Questionário** com volume mínimo de respostas: **≥ [a definir pela comissão] respostas**.
+- [ ] **Questionário** com volume mínimo de respostas: **≥ [a definir pela comissão — proposta do gabinete: 50, sendo ≥ 10 de fora do condomínio] respostas** (tabulação e verificação automáticas: `make respostas`).
 - [ ] **Peças externas sem placeholders** — `make release-check` verde (memorando, ofício, anexo e aviso de privacidade preenchidos).
 - [ ] **Quem assina/protocola** definido e **canal** escolhido (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
 
@@ -108,19 +108,21 @@ Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **med
 
 > Anexo ao [ofício à EPTC/SMMU](relatorios/oficio-eptc-rascunho.md) e ao [memorando](relatorios/memorando-externo.md). **Diagnóstico preliminar da comissão**, para orientar **vistoria técnica conjunta** — não é laudo. Os dados de sinistros são **associação preliminar por proximidade** (Dados Abertos POA), **não prova de causa**. Solicita-se, para cada ponto, **vistoria e validação técnica da EPTC/SMMU**.
 
+![Mapa dos pontos P1–P9 (localização aproximada, a validar em campo)](mapas/mapa-pontos.png)
+
 | Ponto | Localização | Problema relatado (a verificar) | Indício preliminar | A vistoriar / coletar |
 |-------|-------------|----------------------------------|--------------------|------------------------|
 | **P1** | Rótula Estr. Três Meninas × Estr. Cristiano Kraemer | Estrangulamento e conflito na rótula | ~29 sinistros (4 graves) + adequação prevista no Plano Funcional | Projeto vigente, geometria executada, velocidade e contagem direcional |
 | **P2** | Confluência Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo | Conflito na confluência de três vias | ~58 sinistros (7 graves; motos) | Movimentos direcionais; **sinergia com o projeto da Av. Monte Cristo** |
 | **P3** | Acesso à Av. Vicente Monteggia (Rodrigues da Fonseca / João Salomoni) | Dificuldade/conflito de acesso | ~44 sinistros (4 graves; motos) | Brechas de entrada, prioridade, contagem |
-| **P4** | Corredor da Av. Vicente Monteggia | Sobrecarga e gravidade no corredor | Sinistros graves e **fatais**; trechos já priorizados | Contagem por trecho; velocidades; **vistoriar trechos prioritários** |
+| **P4** | Corredor da Av. Vicente Monteggia (≈2,9 km) | Sobrecarga e gravidade no corredor | Sinistros graves e **2 fatais** no corredor; trecho mais crítico entre Estr. João Vedana e Estr. João Passuelo (~67 sinistros, 9 graves, 1 fatal) | Contagem por trecho; velocidades; **vistoriar trechos prioritários** |
 | **P5** | Conversão Av. João Salomoni → Av. da Cavalhada | Conversão problemática | Sinistralidade no entorno da Cavalhada | Volume da conversão, travessia, ônibus, fase semafórica |
 | **P6** | Acesso à Av. Dr. Vergara (via Florestan Fernandes / Estr. Kanazawa) | Rota precária (trecho não pavimentado) | Precariedade física + estudos dos dois acessos exigidos em 2013 | Projetos existentes, largura, drenagem, calçadas e função de rede |
 | **P7** | Acesso à Estr. Costa Gama, sentido bairro–centro | Sem conversão à esquerda; retorno distante | ~18 sinistros + conexão em duas etapas documentada | Desenho vigente, implantação/desapropriações, tempo do retorno e volume |
 | **P8** | Cruzamento semaforizado Estr. Costa Gama × Estr. Afonso Lourenço Mariante | Filas no pico | ~36 sinistros (4 graves; motos) | Tempos de semáforo, fila residual, volume por aproximação |
 | **P9** *(preliminar)* | Rótula da Vila Nova (Estr. Cristiano Kraemer) | Ajuste geométrico/moderação na rótula | A levantar | Georreferenciar; geometria, velocidade, conflitos, pedestres |
 
-*Observação: dados de sinistros referentes a recortes por proximidade da malha viária (≤100 m em interseções; corredor inteiro em P4). Pontos sem número expressivo de sinistros (ex.: P6) sustentam-se por outras evidências (precariedade física, função de rede). Contato da comissão: [nome / e-mail / telefone].*
+*Observação: dados de sinistros referentes a recortes por proximidade da malha viária (≤100 m em interseções; corredor inteiro em P4 — escalas não comparáveis entre si, razão pela qual P4 é apresentado por trecho). Pontos sem número expressivo de sinistros (ex.: P6) sustentam-se por outras evidências (precariedade física, função de rede). Contato da comissão: [nome / e-mail / telefone].*
 
 ```{=latex}
 \newpage

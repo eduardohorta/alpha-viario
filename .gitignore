@@ -11,6 +11,11 @@ revisoes/
 *.toc
 *.out
 
+# Respostas brutas do questionário (observação livre pode conter dado pessoal)
+# e resumo gerado (a comissão decide o que publicar). O modelo é versionado.
+consultas/respostas/respostas.csv
+consultas/respostas/resumo-respostas.md
+
 # Documento privado (termo de compromisso) — não publicar
 TC Alphaville.pdf
 

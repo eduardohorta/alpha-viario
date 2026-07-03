@@ -17,14 +17,14 @@
 | P1 | Rótula Estr. Três Meninas × Estr. Cristiano Kraemer | 29 (4 graves, 6 motos) | Interseção (rótula) | Estudo de redesenho da interseção |
 | P2 | Trevo Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo | 58 (7 graves, 23 motos) | Interseção multi-ramo | Redesenho **em sinergia com o projeto PSVS da Monte Cristo** |
 | P3 | Acesso à Av. Vicente Monteggia (Rodrigues da Fonseca / João Salomoni) | 44 (4 graves, 20 motos) | Interseção/acesso | Redesenho de interseção (canalização/rótula compacta/semáforo) |
-| P4 | Fluxo na Av. Vicente Monteggia | **409 (36 graves, 2 fatais, 186 motos)** ² | Corredor | **Diagnóstico de segurança primeiro** (segmentar por trecho); faixa reversível = hipótese condicionada |
+| P4 | Fluxo na Av. Vicente Monteggia | **409 no corredor de ≈2,9 km (36 graves, 2 fatais, 186 motos)** ² | Corredor | **Diagnóstico de segurança primeiro** (segmentar por trecho); faixa reversível = hipótese condicionada |
 | P5 | Conversão à direita Av. João Salomoni → Av. da Cavalhada | 71 (3 graves, 14 motos) ³ | Movimento de conversão | Operacional/geométrico de baixo custo, com pedestres e ônibus |
 | P6 | Acesso à Av. Dr. Vergara (chão batido: Florestan Fernandes + Kanazawa) | 8 ² (evidência fraca — ver nota) | Conexão/rota | **Qualificação de rota alternativa** (sustentar por precariedade física, **não** por sinistros) |
 | P7 | Acesso à Estr. Costa Gama (bairro→centro), sem conversão à esquerda | 18 (1 grave) | Acesso/conversão | Comparar retorno atual × conversão; alternativas múltiplas |
 | P8 | Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante | 36 (4 graves, 17 motos) | Interseção semaforizada | **Diagnóstico semafórico-operacional primeiro** |
 | P9 | Rótula da Vila Nova (Estr. Cristiano Kraemer) — *preliminar (demanda D4)* | a levantar | Interseção (rótula) | Refinamento geométrico (divisória; revisão de quebra-mola) — **a verificar** |
 
-¹ associação por distância à malha (não causal). ² P4 e P6 são polilinha (corredor/rota), limiar ≤50 m; demais são ponto, limiar ≤100 m. ³ em P5, o contexto ampliado (≤200 m) inclui 1 fatal na Av. Cavalhada (~128 m), **a validar** — não atribuível à conversão.
+¹ associação por distância à malha (não causal). ² P4 e P6 são polilinha (corredor/rota), limiar ≤50 m; demais são ponto, limiar ≤100 m — **números de corredor somam a extensão inteira e não são comparáveis aos de interseção**; em peças externas, apresentar P4 por segmento (ver detalhamento). ³ em P5, o contexto ampliado (≤200 m) inclui 1 fatal na Av. Cavalhada (~128 m), **a validar** — não atribuível à conversão.
 
 ## Prioridades de segurança
 **P4** é a prioridade de segurança mais robusta — a segmentação (R03) aponta os trechos **S06 (João Vedana→João Passuelo: 9 graves, 1 fatal, 41 motos)**, **S01 (ponta Cavalhada/Nonoai)** e **S04 (Aracaju→Amapá: 1 fatal)** como prioridades de vistoria. **P5** segue como prioridade de **investigação** (sinistralidade no entorno), mas **a relação com a conversão é hipótese a comprovar em campo**, não dado. Regra: **não propor aumento de capacidade sem mitigação de risco.**

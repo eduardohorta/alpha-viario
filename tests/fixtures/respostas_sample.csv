@@ -1,0 +1,7 @@
+respondente_id,data,origem,perfil,ponto_mais_critico,ponto_outro_texto,periodo_critico,problemas,medidas_apoiadas,observacao
+R-0001,2026-07-20,curto,alphaville,P4,,pico_manha,congestionamento;acidente,ajuste_semaforo;reducao_velocidade,Fila diária na Monteggia.
+R-0002,2026-07-20,curto,entorno,P4,,pico_tarde,velocidade,reducao_velocidade,
+R-0003,2026-07-21,curto,alphaville,P1,,pico_manha,congestionamento,rotula_redesenho,
+R-0004,2026-07-21,base,trabalha,P8,,pico_tarde,semaforo,ajuste_semaforo,
+R-0005,2026-07-22,curto,usuario,outro,Esquina da minha rua,varia,drenagem,pavimentar_rota,Alaga quando chove.
+R-0006,2026-07-22,curto,alphaville,P99,,pico_manha,congestionamento,ajuste_semaforo,

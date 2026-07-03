@@ -18,6 +18,8 @@
 - [ ] **Canal de protocolo**: EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul.
 - [ ] **Gate de campo** ([guia §4](relatorios/guia-validacao-comissao.md)):
       definir o **volume mínimo de respostas** do questionário.
+      *Proposta do gabinete: 50 respostas, sendo ≥ 10 de fora do condomínio*
+      (verificável com `python3 scripts/processar_respostas.py --gate 50 --gate-entorno 10`).
 - [ ] **Termos sensíveis**: criar `interno/termos-sensiveis.txt` (nomes reais, um por linha)
       para ligar a checagem de vazamento — arquivo privado, não versionado.
 
