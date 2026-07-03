@@ -17,22 +17,25 @@
   [mapa](../../../mapas/mapa-pontos.png)) e um **por ponto** (zoom ~16, ponto no centro).
 - **Horários mínimos por ponto:** terça **08h**, terça **18h**, domingo **11h**
   (o domingo serve de linha de base).
-- **Nome do arquivo:** `Pn_dia_hora.png` (ex.: `P4_ter_18h.png`, `geral_ter_08h.png`).
+- **Nome do arquivo:** `Pn_dia_hora.jpg` (ex.: `P4_ter_18h.jpg`, `geral_ter_08h.jpg`).
 - **Registrar cada captura** no [inventário de evidências](../inventario-evidencias.csv)
   (`tipo=foto`, classificação `publico`), anotando a **data da captura** na descrição.
 
-## Lista de capturas (mínimo: 30)
+## Lista de capturas
+
+> Primeira rodada capturada em **2026-07-03** (arquivos nesta pasta; registradas como
+> EV-0001…EV-0018 no [inventário](../inventario-evidencias.csv)). O corredor P4 coube
+> num único enquadramento a 15z. Pendentes: P6, P9 e o eixo da Três Meninas.
 
 | Enquadramento | ter 08h | ter 18h | dom 11h |
 |---------------|:-------:|:-------:|:-------:|
-| Geral (todos os pontos) | ☐ | ☐ | ☐ |
-| P1/P2 (nós Kraemer) | ☐ | ☐ | ☐ |
-| P3/P5 (Salomoni/Cavalhada) | ☐ | ☐ | ☐ |
-| P4 norte (S01–S03) | ☐ | ☐ | ☐ |
-| P4 sul (S04–S07, inclui S06) | ☐ | ☐ | ☐ |
+| Geral (todos os pontos) | ☑ | ☑ | ☑ |
+| P1/P2 (nós Kraemer) | ☑ | ☑ | ☑ |
+| P3/P5 (Salomoni/Cavalhada) | ☑ | ☑ | ☑ |
+| P4 (corredor completo, 15z) | ☑ | ☑ | ☑ |
 | P6 (Florestan/Kanazawa) | ☐ | ☐ | ☐ |
-| P7 (Três Meninas × Costa Gama) | ☐ | ☐ | ☐ |
-| P8 (Costa Gama × Mariante) | ☐ | ☐ | ☐ |
+| P7 (Três Meninas × Costa Gama) | ☑ | ☑ | ☑ |
+| P8 (Costa Gama × Mariante) | ☑ | ☑ | ☑ |
 | P9 (Rótula Vila Nova) | ☐ | ☐ | ☐ |
 | Estr. das Três Meninas (eixo) | ☐ | ☐ | ☐ |
 
