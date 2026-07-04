@@ -51,10 +51,11 @@ Duas variantes, mesma lógica e mesmas travas:
 4. Definir o **teto de cota** (camada 1) e o **orçamento** (camada 2).
 5. Testar a seco (sem chave, nenhuma chamada): `python3 scripts/coletar_tempos_google.py --dry-run`
 6. Testar 1 rodada real fora de pico: `GOOGLE_MAPS_API_KEY=SUA_CHAVE python3 scripts/coletar_tempos_google.py --force`
-7. Agendar via cron (`crontab -e`), a cada 30 min nos picos, seg–sáb:
+7. Agendar via cron (`crontab -e`), a cada 30 min nos picos, todos os dias
+   (o domingo, sem trânsito intenso, serve de linha de base empírica):
 
 ```cron
-*/30 6-8,17-19 * * 1-6 cd $HOME/alpha-viario && GOOGLE_MAPS_API_KEY=SUA_CHAVE /usr/bin/python3 scripts/coletar_tempos_google.py >> dados/brutos/tempos_viagem/cron.log 2>&1
+*/30 6-8,17-19 * * * cd $HOME/alpha-viario && GOOGLE_MAPS_API_KEY=SUA_CHAVE /usr/bin/python3 scripts/coletar_tempos_google.py >> dados/brutos/tempos_viagem/cron.log 2>&1
 ```
 
 *(No macOS, dar "Full Disk Access" ao `cron` ou usar `launchd`, se o log ficar vazio.)*
