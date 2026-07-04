@@ -26,7 +26,7 @@
 - [ ] **[F]** **Fotos/vídeos** nos picos + **pins de GPS** dos pontos das demandas (D1–D4/P9).
 - [ ] **[F]** **Cronometrar** o retorno distante (P7/D2); **fotografar** a rota de chão batido (P6).
 - [ ] **[F]** Mapear **pontos de alagamento/drenagem** (nova dimensão).
-- [ ] **[G]** Ligar a **sonda de tempos de viagem** (2–4 semanas nos picos): [setup e travas de custo](campo/sonda-tempos-google.md); rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). **Infra pronta no repositório privado `alpha-viario-sonda` (GitHub Actions, smoke test verde) — falta só a chave da API (secret) + teto de cota no Google Cloud.**
+- [x] **[G]** **Sonda de tempos de viagem ATIVA desde 2026-07-04** (repositório privado `alpha-viario-sonda`, GitHub Actions nos picos): [travas de custo](campo/sonda-tempos-google.md) todas configuradas (cota 200/dia no Console, orçamento com alertas, chave restrita à Routes API, tetos do script). Rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). Meta: 2–4 semanas de série antes do protocolo.
 - [ ] **[G/F]** **Capturas do trânsito típico** (Google Maps) por ponto/horário: [roteiro](campo/observacoes/transito-tipico/README.md).
 - [ ] **[F]** **Validar em campo** os segmentos prioritários do P4 (**S06/S01/S04**).
 - [ ] **[F]** Registrar cada evidência no [inventário](campo/observacoes/inventario-evidencias.csv) (rastreabilidade + classificação público/interno).
