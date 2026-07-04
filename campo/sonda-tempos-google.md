@@ -30,6 +30,18 @@ Google Maps Platform (~10 mil chamadas/SKU nas SKUs Essentials na tabela de 2025
 **conferir a tabela vigente** e o SKU da `computeRoutes` com `TRAFFIC_AWARE` antes
 de ligar a sonda — se o SKU for de faixa menor, os tetos acima ainda mantêm folga).
 
+## Onde rodar — notebook × nuvem
+
+Duas variantes, mesma lógica e mesmas travas:
+
+- **GitHub Actions (recomendada):** repositório **privado** `alpha-viario-sonda`
+  (coletor + workflow agendado nos picos, fuso compensado; os dados são commitados
+  lá, fora deste repositório público). Não depende do notebook ligado. Ativação:
+  passos 1–4 abaixo + criar o secret `GOOGLE_MAPS_API_KEY` no repositório privado
+  (instruções no README de lá).
+- **Local (cron no notebook):** passos completos abaixo. Só vale se a máquina fica
+  acordada nas janelas 06–09h e 17–20h — cron não dispara com o Mac dormindo.
+
 ## Setup (uma vez, ~20 min)
 
 1. Criar projeto no [Google Cloud Console](https://console.cloud.google.com) (precisa
