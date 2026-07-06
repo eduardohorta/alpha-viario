@@ -14,25 +14,31 @@
 ## As fontes e a garantia de custo zero
 
 Todas rodam **apenas no nível gratuito** e o script nunca ultrapassa a cota. Chaves via
-ambiente (`TOMTOM_API_KEY`, `HERE_API_KEY`); sem a chave, a fonte é pulada.
+ambiente (`TOMTOM_API_KEY`, `HERE_API_KEY`, `GOOGLE_MAPS_API_KEY`); sem a chave, a fonte é pulada.
 
-| Fonte | Papel | Cota gratuita | Trava dura |
-|-------|-------|---------------|------------|
-| **TomTom** Routing | tempo com trânsito + tempo livre → índice | ~2.500/dia | chave freemium; teto do script |
-| **HERE** Routing v8 | tempo com trânsito + `baseDuration` (livre) | freemium | chave freemium; teto do script |
-| **Waze** (não oficial) | confirmação da comunidade | grátis | pausa entre chamadas; *zona cinzenta de ToS* |
-| **Google** (opcional) | árbitro; só com `--com-google` | já coberto pela [sonda Google](sonda-tempos-google.md) | teto da Routes API |
+| Fonte | Cota gratuita (jul/2026) | Estoura vira cobrança? | Teto no script (`CAPS`) |
+|-------|--------------------------|------------------------|--------------------------|
+| **TomTom** Routing | 2.500 req/dia | não — retorna `429` | **2.000/dia** |
+| **HERE** Routing v8 | 30.000 transações/mês (~1.000/dia) | cartão exigido; só cobra se passar | **950/dia** |
+| **Waze** (não oficial) | ilimitado (sem billing) | nunca | **900/dia** (anti-bloqueio) |
+| **Google** Routes | `TRAFFIC_AWARE` = **SKU Pro = 5.000/mês** (~166/dia) | **SIM, cobra se passar** ⚠️ | **150/dia** · só no pico |
 
-**Camadas de custo no script:** (1) só roda nas janelas **06–09h / 17–20h** (salvo
-`--force`); (2) **teto diário por fonte** (`--max-dia`, padrão 300) num livro-razão local
-`dados/brutos/tempos_viagem/ledger_multifonte.json`; (3) sem a chave da fonte, ela é pulada.
+**Cadência adaptativa** (o loop chama a sonda a cada 5 min; ela decide): pico (06–09/17–20h)
+**10 min** · ombro (09–11/14–16h) 20 · entrepico 30 · madrugada 60. **Google só no pico, a
+cada 30 min** → ~144/dia (~4.500/mês, sob os 5.000). Projeção validável: `python3
+scripts/coletar_tempos_multifonte.py --selftest`.
 
-Dimensionamento: 12 rotas × 2 coletas/h × 6 h de pico = **144 chamadas/dia por fonte** —
-folgado dentro de todas as cotas acima.
+**Camadas de custo:** (1) cadência acima; (2) **teto diário por fonte** (`CAPS` no script) num
+livro-razão local `dados/brutos/tempos_viagem/ledger_multifonte.json` — a fonte é recusada ao
+atingir o teto; (3) sem a chave, a fonte é pulada.
 
-> **Por que Google fica de fora por padrão:** a [sonda Google](sonda-tempos-google.md) já
-> mede estas mesmas rotas. O multi-fonte adiciona TomTom + HERE + Waze (gratuitas) e a
-> consolidação junta tudo na análise. Use `--com-google` só para uma janela de calibração.
+> ### ⚠️ Google — a trava DURA é no Console (obrigatória)
+> O teto do script é a 2ª camada. A garantia de **custo zero** é do lado do Google:
+> 1. **Cotas:** APIs & Services → Routes API → *Quotas* → **Compute Routes requests/day = 150**
+>    (acima disso a API retorna `429` e **não cobra**).
+> 2. **Orçamento:** Billing → Budgets → orçamento de **US$ 1** com alerta 50/90/100%.
+>    Qualquer e-mail = algo errado, pare tudo.
+> Sem esses dois passos, NÃO ative a fonte Google.
 
 ## Waze (opcional)
 

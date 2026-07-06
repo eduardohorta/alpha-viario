@@ -55,9 +55,14 @@ TIMEOUT = 20
 WAZE_REGION = "EU"        # servidor do Waze que responde para Porto Alegre
 WAZE_DELAY_S = 0.6        # pausa entre chamadas (gentil com o endpoint não oficial)
 
-# Janelas de coleta (hora local, início inclusivo / fim exclusivo). Iguais às da
-# sonda Google, para que as fontes fiquem comparáveis no mesmo instante.
-JANELAS = [(6, 9), (17, 20)]
+# Janelas de pico (hora local). Google só coleta aqui (SKU Pro, cota curta).
+PICOS = [(6, 9), (17, 20)]
+LOOP_STEP_MIN = 5          # o loop da stack chama a sonda a cada 5 min
+GOOGLE_CADENCIA_MIN = 30   # Google só no pico e neste ritmo (mantém < 5k/mês)
+
+# Teto diário POR FONTE — folga sob o grátis (ver campo/sonda-tempos-multifonte.md):
+#   TomTom 2500/dia · HERE ~1000/dia (30k/mês) · Waze ilimitado (anti-bloqueio) · Google ~166/dia (5k/mês Pro)
+CAPS = {"tomtom": 2000, "here": 950, "waze": 900, "google": 150}
 
 CAMPOS_SAIDA = ["timestamp", "rota_id", "ponto_id", "fonte",
                 "duracao_s", "duracao_livre_s", "distancia_m", "status"]
@@ -72,8 +77,28 @@ def carregar_rotas(path: Path = ROTAS) -> list[dict[str, str]]:
     return rotas
 
 
-def dentro_da_janela(agora: dt.datetime) -> bool:
-    return any(ini <= agora.hour < fim for ini, fim in JANELAS)
+def em_pico(agora: dt.datetime) -> bool:
+    return any(ini <= agora.hour < fim for ini, fim in PICOS)
+
+
+def cadencia_min(agora: dt.datetime) -> int:
+    """Minutos entre coletas por período: pico denso, madrugada esparso."""
+    if em_pico(agora):
+        return 10
+    if (9 <= agora.hour < 11) or (14 <= agora.hour < 16):
+        return 20
+    if 0 <= agora.hour < 6:
+        return 60
+    return 30
+
+
+def deve_coletar(agora: dt.datetime, force: bool) -> bool:
+    return force or (agora.minute % cadencia_min(agora) < LOOP_STEP_MIN)
+
+
+def google_agora(agora: dt.datetime, force: bool) -> bool:
+    """Google só no pico e a cada GOOGLE_CADENCIA_MIN (SKU Pro tem cota curta)."""
+    return force or (em_pico(agora) and agora.minute % GOOGLE_CADENCIA_MIN < LOOP_STEP_MIN)
 
 
 def ler_ledger(path: Path = LEDGER) -> dict[str, int]:
@@ -173,8 +198,9 @@ def via_google(rota: dict[str, str], key: str) -> tuple:
 
 
 # --------------------------------------------------------------------------- main
-def fontes_ativas(com_google: bool) -> list[tuple]:
-    """(nome, callable(rota), disponivel, motivo_indisponivel)."""
+def fontes_ativas() -> list[tuple]:
+    """(nome, callable(rota), disponivel, motivo). Google sempre listado; o gate de
+    pico/cadência é aplicado no main (SKU Pro tem cota curta)."""
     tomtom_key = os.environ.get("TOMTOM_API_KEY", "")
     here_key = os.environ.get("HERE_API_KEY", "")
     google_key = os.environ.get("GOOGLE_MAPS_API_KEY", "")
@@ -184,15 +210,43 @@ def fontes_ativas(com_google: bool) -> list[tuple]:
     except ImportError:
         waze_ok, waze_motivo = False, "SEM_LIB (pip install WazeRouteCalculator)"
 
-    fontes = [
+    return [
         ("tomtom", lambda r: via_tomtom(r, tomtom_key), bool(tomtom_key), "SEM_CHAVE"),
         ("here", lambda r: via_here(r, here_key), bool(here_key), "SEM_CHAVE"),
         ("waze", via_waze, waze_ok, waze_motivo),
+        ("google", lambda r: via_google(r, google_key), bool(google_key), "SEM_CHAVE"),
     ]
-    if com_google:
-        fontes.append(("google", lambda r: via_google(r, google_key),
-                       bool(google_key), "SEM_CHAVE"))
-    return fontes
+
+
+def _selftest() -> int:
+    """Projeta o volume de um dia e confere contra os tetos (guarda anti-cobrança)."""
+    try:
+        n = len(carregar_rotas())
+    except SystemExit:
+        n = 12
+    vol = {"tomtom": 0, "here": 0, "waze": 0, "google": 0}
+    for h in range(24):
+        for m in range(0, 60, LOOP_STEP_MIN):
+            agora = dt.datetime(2026, 1, 1, h, m)
+            if deve_coletar(agora, False):
+                for f in ("tomtom", "here", "waze"):
+                    vol[f] += n
+            if google_agora(agora, False):
+                vol["google"] += n
+    ok = True
+    for f, cap in CAPS.items():
+        estoura = vol[f] > cap
+        ok = ok and not estoura
+        print(f"  {f:7} {vol[f]:5}/dia  teto {cap:5}  {'ESTOURA' if estoura else 'OK'}")
+    mes_g = vol["google"] * 31
+    print(f"  google ~{mes_g}/mês (grátis 5000 Pro)  {'ESTOURA' if mes_g > 5000 else 'OK'}")
+    assert ok and mes_g <= 5000, "projeção estoura teto — ajuste CAPS/cadência"
+    assert cadencia_min(dt.datetime(2026, 1, 1, 8, 0)) == 10       # pico denso
+    assert cadencia_min(dt.datetime(2026, 1, 1, 3, 0)) == 60       # madrugada esparso
+    assert not google_agora(dt.datetime(2026, 1, 1, 3, 0), False)  # google não madrugada
+    assert google_agora(dt.datetime(2026, 1, 1, 8, 0), False)      # google no pico :00
+    print("selftest OK")
+    return 0
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -201,20 +255,20 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--dry-run", action="store_true",
                         help="não chama nenhuma API; mostra o que faria")
     parser.add_argument("--force", action="store_true",
-                        help="ignora a janela de pico (não ignora os tetos)")
-    parser.add_argument("--com-google", action="store_true",
-                        help="inclui a fonte Google (por padrão fica com a sonda Google)")
-    parser.add_argument("--max-dia", type=int, default=300,
-                        help="teto diário de chamadas POR FONTE (padrão 300)")
+                        help="força coleta agora (ignora cadência; respeita os tetos)")
+    parser.add_argument("--selftest", action="store_true",
+                        help="valida cadência/tetos/volume projetado e sai")
     args = parser.parse_args(argv)
+
+    if args.selftest:
+        return _selftest()
 
     agora = dt.datetime.now()
     rotas = carregar_rotas()
-    fontes = fontes_ativas(args.com_google)
+    fontes = fontes_ativas()
 
-    if not args.force and not dentro_da_janela(agora):
-        print(f"Fora da janela de pico ({JANELAS}) às {agora:%H:%M} — nada a fazer. "
-              "Use --force para coletar mesmo assim.")
+    if not deve_coletar(agora, args.force):
+        print(f"Não é hora ({agora:%H:%M}; cadência {cadencia_min(agora)}min) — nada a fazer.")
         return 0
 
     ledger = ler_ledger()
@@ -225,9 +279,12 @@ def main(argv: list[str] | None = None) -> int:
         if not disponivel:
             print(f"[{nome}] indisponível: {motivo} — pulando.", file=sys.stderr)
             continue
-        if not pode_gastar(ledger, nome, agora, len(rotas), args.max_dia):
-            print(f"[{nome}] teto diário atingido ({args.max_dia}) — pulando.",
-                  file=sys.stderr)
+        if nome == "google" and not google_agora(agora, args.force):
+            print("[google] fora do pico/cadência — pulando.", file=sys.stderr)
+            continue
+        cap = CAPS.get(nome, 500)
+        if not pode_gastar(ledger, nome, agora, len(rotas), cap):
+            print(f"[{nome}] teto diário atingido ({cap}) — pulando.", file=sys.stderr)
             continue
         if args.dry_run:
             print(f"[seco] {nome}: {len(rotas)} rotas seriam consultadas.")
