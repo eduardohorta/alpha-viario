@@ -58,29 +58,29 @@ Marque os pontos que você usa ou observa com frequência:
 
 4. Qual é o ponto mais crítico para você?
 <!-- BEGIN pontos:bare-mais-critico (gerado por scripts/pontos.py — não editar à mão) -->
-   - [ ] P1
-   - [ ] P2
-   - [ ] P3
-   - [ ] P4
-   - [ ] P5
-   - [ ] P6
-   - [ ] P7
-   - [ ] P8
-   - [ ] P9
+   - [ ] P1 - Rótula Estr. das Três Meninas × Estr. Cristiano Kraemer
+   - [ ] P2 - Trevo Estr. Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo
+   - [ ] P3 - Acesso à Av. Vicente Monteggia (Av. Rodrigues da Fonseca / Av. João Salomoni)
+   - [ ] P4 - Corredor da Av. Vicente Monteggia
+   - [ ] P5 - Conversão Av. João Salomoni → Av. da Cavalhada
+   - [ ] P6 - Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa)
+   - [ ] P7 - Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda
+   - [ ] P8 - Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante
+   - [ ] P9 - Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
    - [ ] Outro: ______________________________
 <!-- END pontos:bare-mais-critico -->
 
 5. Qual é o segundo ponto mais crítico?
 <!-- BEGIN pontos:bare-segundo (gerado por scripts/pontos.py — não editar à mão) -->
-   - [ ] P1
-   - [ ] P2
-   - [ ] P3
-   - [ ] P4
-   - [ ] P5
-   - [ ] P6
-   - [ ] P7
-   - [ ] P8
-   - [ ] P9
+   - [ ] P1 - Rótula Estr. das Três Meninas × Estr. Cristiano Kraemer
+   - [ ] P2 - Trevo Estr. Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo
+   - [ ] P3 - Acesso à Av. Vicente Monteggia (Av. Rodrigues da Fonseca / Av. João Salomoni)
+   - [ ] P4 - Corredor da Av. Vicente Monteggia
+   - [ ] P5 - Conversão Av. João Salomoni → Av. da Cavalhada
+   - [ ] P6 - Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa)
+   - [ ] P7 - Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda
+   - [ ] P8 - Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante
+   - [ ] P9 - Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
    - [ ] Outro: ______________________________
 <!-- END pontos:bare-segundo -->
 

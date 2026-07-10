@@ -149,13 +149,13 @@ encaminhamento interno no que couber).
 
 | Pedido | Órgão | Data do protocolo | Nº do protocolo | Prazo (20 dias) | Situação |
 |--------|-------|-------------------|-----------------|-----------------|----------|
-| 1 — Desenhos do Plano Funcional | SMAMUS | — | — | — | não protocolado |
-| 2 — Execução e recebimentos | SMAMUS | — | — | — | não protocolado |
-| 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | — | — | — | não protocolado |
-| 4 — Expedientes complementares (P6) | SMAMUS | — | — | — | não protocolado |
-| 5 — Av. Monte Cristo (P2) | EPTC/SMMU | — | — | — | não protocolado |
-| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | — | — | — | não protocolado |
-| 7 — Dados de tráfego da EPTC | EPTC/SMMU | — | — | — | não protocolado |
+| 1 — Desenhos do Plano Funcional | SMAMUS | 10/07/2026 | 017392-26-80 | 03/08/2026 | aguardando resposta |
+| 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | aguardando resposta |
+| 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | aguardando resposta |
+| 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | 03/08/2026 | aguardando resposta |
+| 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | 03/08/2026 | aguardando resposta |
+| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | 03/08/2026 | aguardando resposta |
+| 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | 03/08/2026 | aguardando resposta |
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a

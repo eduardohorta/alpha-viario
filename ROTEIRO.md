@@ -49,7 +49,7 @@ minutos que pode ser tomada por mensagem, sem reunião.
 
 | Até | Entrega | Trilha |
 |-----|---------|--------|
-| **10/jul** | Pedidos LAI 1–7 protocolados no e-SIC; formulário online do questionário curto montado (rascunho); sonda de tempos de viagem ligada ([setup](campo/sonda-tempos-google.md)) | A, D |
+| **10/jul** ✅ | Pedidos LAI 1–7 protocolados no e-SIC ([acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento)); formulário online do questionário curto **e do questionário completo (longo)** montados e prontos (rascunho, Google Forms — publicação aguarda decisão da comissão, ver §5; link a divulgar quando publicados); sonda de tempos de viagem ligada ([setup](campo/sonda-tempos-google.md)) | A, D |
 | **15/jul** | Decisões mínimas da comissão obtidas (reunião ou mensagem): aviso de privacidade preenchido, quem assina, canal, D2/D3, P9, volume mínimo | B |
 | **20/jul** | Questionário circulando; campo solo iniciado (P7 cronometrado, pins D1–D4, fotos de pico em P4-S06/P1/P2/P5) | C |
 | **10/ago** | Respostas LAI incorporadas à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md); questionário no volume mínimo; evidência leve nos pontos prioritários registrada no [inventário](campo/observacoes/inventario-evidencias.csv) | A→D, C |

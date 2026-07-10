@@ -193,7 +193,7 @@ def render_list(rows: list[dict[str, str]], style: str) -> str:
     elif style == "matriz":
         lines = [f"| **{r['id']}** | {r['nome']} | {r['status']} |" for r in rows]
     elif style in ("bare-mais-critico", "bare-segundo"):
-        lines = [f"   - [ ] {r['id']}" for r in rows]
+        lines = [f"   - [ ] {r['id']} - {_label(r, curto=False)}" for r in rows]
         lines.append("   - [ ] Outro: ______________________________")
     else:
         raise SystemExit(f"estilo desconhecido: {style}")
