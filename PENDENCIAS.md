@@ -32,6 +32,7 @@
 - [ ] **[F]** Registrar cada evidência no [inventário](campo/observacoes/inventario-evidencias.csv) (rastreabilidade + classificação público/interno).
 
 ## C. Decisões da comissão
+> **Plano B acionado em 15/07/2026** (reunião não ocorreu até a data-alvo do [ROTEIRO](ROTEIRO.md#4-plano-b--se-a-comissão-continuar-lenta)): mensagem com as 3 decisões mínimas (responsável/retenção, quem assina, canal) enviada à comissão no mesmo dia. Aguardando resposta.
 - [ ] **[C]** Validar a lista de pontos (**8 + P9**) e confirmar o P9.
 - [ ] **[C]** Aprovar/editar **memorando externo** e **ofício**; preencher contatos.
 - [ ] **[C]** Definir o **destino de D2/D3** (manter internas até prova de benefício público).

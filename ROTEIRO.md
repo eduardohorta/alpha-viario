@@ -50,20 +50,26 @@ minutos que pode ser tomada por mensagem, sem reunião.
 | Até | Entrega | Trilha |
 |-----|---------|--------|
 | **10/jul** ✅ | Pedidos LAI 1–7 protocolados no e-SIC ([acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento)); formulário online do questionário curto **e do questionário completo (longo)** montados e prontos (rascunho, Google Forms — publicação aguarda decisão da comissão, ver §5; link a divulgar quando publicados); sonda de tempos de viagem ligada ([setup](campo/sonda-tempos-google.md)) | A, D |
-| **15/jul** | Decisões mínimas da comissão obtidas (reunião ou mensagem): aviso de privacidade preenchido, quem assina, canal, D2/D3, P9, volume mínimo | B |
-| **20/jul** | Questionário circulando; campo solo iniciado (P7 cronometrado, pins D1–D4, fotos de pico em P4-S06/P1/P2/P5) | C |
+| **15/jul** ⚠️ | Decisões mínimas da comissão obtidas (reunião ou mensagem): aviso de privacidade preenchido, quem assina, canal, D2/D3, P9, volume mínimo. **Não houve reunião — Plano B acionado em 15/07** (mensagem com as 3 decisões reduzidas enviada à comissão; aguardando resposta). | B |
+| **20/jul** | Questionário circulando; campo solo iniciado (P7 cronometrado, pins D1–D4, fotos de pico em P4-S06/P1/P2/P5). **Em risco** se a comissão não responder a mensagem do Plano B a tempo — a publicação do questionário depende do aviso de privacidade preenchido. | C |
 | **10/ago** | Respostas LAI incorporadas à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md); questionário no volume mínimo; evidência leve nos pontos prioritários registrada no [inventário](campo/observacoes/inventario-evidencias.csv) | A→D, C |
 | **20/ago** | `make release-check` verde; **protocolo na EPTC** | convergência |
 | **set–out** | Acompanhamento: cobrança de prazos, reunião técnica, vistoria conjunta; acionamento do canal político **depois** do protocolo (sequência em `interno/`) | — |
 
 ## 4. Plano B — se a comissão continuar lenta
 
+> **ACIONADO em 15/07/2026.** A reunião não aconteceu até a data-alvo; a mensagem com
+> as 3 decisões reduzidas foi enviada à comissão (WhatsApp/e-mail) no mesmo dia.
+> Aguardando resposta — atualizar esta seção e o [LIBERACAO.md](LIBERACAO.md) assim que
+> ela chegar.
+
 A pausa atual (aguardando a comissão desde meados de junho) não pode paralisar as trilhas
 A, C e D. Se não houver reunião até **15/jul**:
 
-1. **Reduzir a pauta a 3 decisões** e colhê-las por mensagem (WhatsApp/e-mail), sem
+1. ✅ **Reduzir a pauta a 3 decisões** e colhê-las por mensagem (WhatsApp/e-mail), sem
    reunião: (a) responsável + retenção do aviso de privacidade; (b) quem assina;
    (c) canal de protocolo. Todo o resto tem default proposto pelo gabinete.
+   *(mensagem enviada em 15/07 — rascunho arquivado em `interno/`, não versionado)*
 2. **Campo e LAI não esperam** — são atos individuais de morador, não da comissão.
 3. **Última alternativa** (decisão a registrar): protocolo como **grupo de moradores
    nominados** em vez de "comissão", com adesões colhidas no questionário. Pior que o
