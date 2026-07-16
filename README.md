@@ -2,8 +2,8 @@
 
 Projeto comunitário para propor melhorias viárias no entorno do Alphaville Porto Alegre (Estr. das Três Meninas, bairro **Vila Nova**), com qualidade técnica para apresentação à **Prefeitura de Porto Alegre (EPTC/SMMU)**. **Todas as vias são municipais.**
 
-## Status atual — 2026-07-01
-**Fase 0 madura.** Concluídos: revisão documental (Etapa 1), leitura dos expedientes administrativos do Alphaville, base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. Os expedientes confirmam o Plano Funcional, obrigações para o eixo Três Meninas e execução parcial; **desenhos vigentes e status atual ainda dependem de confirmação municipal**. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)). **Gatekeeper para ir à EPTC: coleta de campo.**
+## Status atual — 2026-07-15
+**Fase 0 madura.** Concluídos: revisão documental (Etapa 1), leitura dos expedientes administrativos do Alphaville, base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. Os expedientes confirmam o Plano Funcional, obrigações para o eixo Três Meninas e execução parcial; **desenhos vigentes e status atual ainda dependem de confirmação municipal**. Os pedidos LAI 1–7 foram protocolados em 10/07/2026 e aguardam resposta; como a reunião da comissão não ocorreu até 15/07, o Plano B foi acionado por mensagem e aguarda retorno. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)). **Gatekeeper para ir à EPTC: coleta de campo.**
 
 **Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`).
 
