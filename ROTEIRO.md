@@ -13,23 +13,23 @@ andam **em paralelo**; só convergem no protocolo.
 | Trilha | O que é | Bloqueada por | Quem toca |
 |--------|---------|----------------|-----------|
 | **A — Informação (LAI)** | [Pedidos de acesso à informação](relatorios/pedidos-informacao-lai.md) sobre Plano Funcional, execução, Costa Gama, Monte Cristo, PDUS | **nada** — pessoa física protocola hoje | 1 morador (gabinete apoia) |
-| **B — Comissão** | Decisões mínimas: quem assina, canal, D2/D3, P9, volume mínimo do questionário | agenda da comissão | comissão |
-| **C — Campo e consulta** | Evidência leve (fotos, vídeos, pins, cronometragens) + questionário | parcialmente B (aviso de privacidade preenchido para o questionário); o resto, **nada** | moradores voluntários |
-| **D — Gabinete** | Mapa, matriz, pipeline de respostas, incorporação das respostas LAI | insumos de A e C | CLAUDE/CODEX |
+| **B — Comissão** | Decisões mínimas: quem assina, canal, D2/D3 e P9 | agenda da comissão | comissão |
+| **C — Dados independentes** | Série da [sonda de tempos](campo/sonda-tempos-google.md) nas 12 rotas e capturas já registradas do trânsito típico | **nada** | serviços Google Cloud → repositório privado |
+| **D — Gabinete** | Agregação da sonda, mapa, matriz e incorporação das respostas LAI | insumos de A e C | CLAUDE/CODEX |
 
 **Dependências reais (e só estas):**
 
 ```
-A (LAI) ────────────────┐
-C (campo + questionário) ┼─→ consolidação na matriz ─→ release-check verde ─→ PROTOCOLO
-B (assinatura + canal) ──┘                                                        │
-                                                             acompanhamento ←─────┘
-                                                     (técnico + político, ver interno/)
+A (LAI) ───────────────────┐
+C (sonda + capturas) ──────┼─→ consolidação na matriz ─→ release-check verde ─→ PROTOCOLO
+B (assinatura + canal) ────┘                                                        │
+                                                                acompanhamento ←─────┘
+                                                        (vistoria técnica EPTC + demais ações)
 ```
 
-O questionário depende da comissão **apenas** para preencher responsável/retenção do
-[aviso de privacidade](consultas/moradores/aviso-privacidade.md) — uma decisão de 10
-minutos que pode ser tomada por mensagem, sem reunião.
+Coleta física e questionário **não são premissas operacionais deste ciclo**: a mobilização
+necessária não está disponível. Permanecem documentados como instrumentos de contingência
+ou apoio a uma vistoria técnica, mas não condicionam a consolidação nem o protocolo.
 
 ## 2. Janelas de calendário (por que não dá para esperar indefinidamente)
 
@@ -49,11 +49,13 @@ minutos que pode ser tomada por mensagem, sem reunião.
 
 | Até | Entrega | Trilha |
 |-----|---------|--------|
-| **10/jul** ✅ | Pedidos LAI 1–7 protocolados no e-SIC ([acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento)); formulário online do questionário curto **e do questionário completo (longo)** montados e prontos (rascunho, Google Forms — publicação aguarda decisão da comissão, ver §5; link a divulgar quando publicados); sonda de tempos de viagem ligada ([setup](campo/sonda-tempos-google.md)) | A, D |
-| **15/jul** ⚠️ | Decisões mínimas da comissão obtidas (reunião ou mensagem): aviso de privacidade preenchido, quem assina, canal, D2/D3, P9, volume mínimo. **Não houve reunião — Plano B acionado em 15/07** (mensagem com as 3 decisões reduzidas enviada à comissão; aguardando resposta). | B |
-| **20/jul** | Questionário circulando; campo solo iniciado (P7 cronometrado, pins D1–D4, fotos de pico em P4-S06/P1/P2/P5). **Em risco** se a comissão não responder a mensagem do Plano B a tempo — a publicação do questionário depende do aviso de privacidade preenchido. | C |
-| **10/ago** | Respostas LAI incorporadas à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md); questionário no volume mínimo; evidência leve nos pontos prioritários registrada no [inventário](campo/observacoes/inventario-evidencias.csv) | A→D, C |
-| **20/ago** | `make release-check` verde; **protocolo na EPTC** | convergência |
+| **10/jul** ✅ | Pedidos LAI 1–7 protocolados no e-SIC ([acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento)); instrumentos de questionário montados, mas em espera; sonda de tempos de viagem ligada ([setup](campo/sonda-tempos-google.md)) | A, C |
+| **15/jul** ⚠️ | Decisões mínimas da comissão por reunião ou mensagem: quem assina, canal, D2/D3 e P9. **Não houve reunião — Plano B acionado em 15/07** (mensagem com as decisões reduzidas enviada; aguardando resposta). | B |
+| **20/jul–03/ago** | Sonda acumula série nos picos; gabinete confere continuidade e qualidade. Acompanhar os pedidos LAI até o prazo ordinário de resposta. | A, C, D |
+| **03/ago** | Respostas LAI recebidas, ou prorrogações/atrasos registrados no [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento). | A |
+| **10/ago** | Agregados preliminares da sonda + respostas LAI incorporados à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md); pré-pauta e peças para a reunião de 13/8. | A→D, C→D |
+| **13/ago** | Comissão valida pontos e peças, define assinatura/canal e encaminha o protocolo com pedido explícito de vistoria e dados técnicos da EPTC. | B |
+| **20/ago** | `make release-check` verde; **protocolo na EPTC**, sem dependência de coleta física ou questionário. | convergência |
 | **set–out** | Acompanhamento: cobrança de prazos, reunião técnica, vistoria conjunta; acionamento do canal político **depois** do protocolo (sequência em `interno/`) | — |
 
 ## 4. Plano B — se a comissão continuar lenta
@@ -67,22 +69,20 @@ A pausa atual (aguardando a comissão desde meados de junho) não pode paralisar
 A, C e D. Se não houver reunião até **15/jul**:
 
 1. ✅ **Reduzir a pauta a 3 decisões** e colhê-las por mensagem (WhatsApp/e-mail), sem
-   reunião: (a) responsável + retenção do aviso de privacidade; (b) quem assina;
-   (c) canal de protocolo. Todo o resto tem default proposto pelo gabinete.
+   reunião: (a) quem assina; (b) canal de protocolo; (c) confirmação dos pontos/D2–D3.
+   Todo o resto tem default proposto pelo gabinete.
    *(mensagem enviada em 15/07 — rascunho arquivado em `interno/`, não versionado)*
-2. **Campo e LAI não esperam** — são atos individuais de morador, não da comissão.
+2. **Sonda e LAI não esperam** — a coleta automática e a resposta institucional não
+   dependem da comissão.
 3. **Última alternativa** (decisão a registrar): protocolo como **grupo de moradores
-   nominados** em vez de "comissão", com adesões colhidas no questionário. Pior que o
-   ideal, melhor que perder a janela da LOA.
+   nominados** em vez de "comissão". Pior que o ideal, melhor que perder a janela da LOA.
 
 ## 5. Defaults propostos pelo gabinete (a confirmar pela comissão)
 
-- **Volume mínimo do questionário:** **50 respostas, sendo ≥ 10 de fora do condomínio**
-  (entorno/trabalhadores/usuários). Racional: estabiliza o ranking dos 9 pontos e
-  demonstra que a demanda não é só interna; é atingível em ~2 semanas de divulgação.
-- **Retenção das respostas:** 24 meses após o encerramento do projeto.
 - **Canal de protocolo:** EPTC – Solicitações de Trânsito, com cópia à Subprefeitura
   Centro-Sul.
+- **Questionário:** manter em espera; só definir responsável, retenção e meta de respostas
+  se a comissão decidir reabrir essa frente.
 
 ## 6. O que já está pronto e não bloqueia nada
 
@@ -92,6 +92,6 @@ A, C e D. Se não houver reunião até **15/jul**:
 - [Pedidos LAI redigidos](relatorios/pedidos-informacao-lai.md) — prontos para colar no e-SIC.
 - [Sonda de tempos de viagem](campo/sonda-tempos-google.md) — 12 rotas cadastradas, coletor com travas de custo (`make sonda`).
 - [Mapa dos pontos](mapas/mapa-pontos.png) — gerado do cadastro canônico (`make mapa`).
-- [Pipeline de respostas do questionário](consultas/respostas/README.md) — tabulação
-  automática quando as respostas chegarem (`make respostas`).
+- [Pipeline de respostas do questionário](consultas/respostas/README.md) — mantido em
+  espera, sem função de gate no ciclo atual.
 - Governança: `make check` / `make release-check` / testes / CI.

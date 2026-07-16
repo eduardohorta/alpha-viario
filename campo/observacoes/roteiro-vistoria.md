@@ -1,5 +1,9 @@
 # Roteiro de vistoria de campo — por ponto
 
+> **Referência para vistoria técnica, não tarefa comunitária ativa.** A coleta física não
+> integra o caminho crítico atual; o roteiro pode orientar uma vistoria conjunta com a EPTC
+> ou uma eventual mobilização futura.
+>
 > Use junto com a planilha [modelo-observacao-campo.csv](modelo-observacao-campo.csv): cada linha = um ponto + período + movimento.
 > **Quando ir:** 3 janelas por ponto — **pico manhã** (~7–9h), **pico tarde/noite** (~17–20h) e **entrepico**, em dia útil; repetir ao menos um **fim de semana** nos pontos de acesso/lazer.
 > **Segurança:** observe de local seguro, fora da pista, sem atrapalhar o trânsito; priorize **vídeo curto + planilha**.

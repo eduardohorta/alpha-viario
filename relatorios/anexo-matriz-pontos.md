@@ -2,7 +2,7 @@
 
 > Anexo ao [ofício à EPTC/SMMU](oficio-eptc-rascunho.md) e ao [memorando](memorando-externo.md). **Diagnóstico preliminar da comissão**, para orientar **vistoria técnica conjunta** — não é laudo. Os dados de sinistros são **associação preliminar por proximidade** (Dados Abertos POA), **não prova de causa**. Solicita-se, para cada ponto, **vistoria e validação técnica da EPTC/SMMU**.
 
-![Mapa dos pontos P1–P9 (localização aproximada, a validar em campo)](../mapas/mapa-pontos.png)
+![Mapa dos pontos P1–P9 (localização aproximada, a validar tecnicamente)](../mapas/mapa-pontos.png)
 
 | Ponto | Localização | Problema relatado (a verificar) | Indício preliminar | A vistoriar / coletar |
 |-------|-------------|----------------------------------|--------------------|------------------------|

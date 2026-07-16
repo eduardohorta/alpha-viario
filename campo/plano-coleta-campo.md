@@ -1,5 +1,9 @@
 # Plano de coleta de campo (técnico — referência)
 
+> **Status em 16/07/2026:** este plano não é uma tarefa ativa da comissão nem integra o
+> pacote de reunião. Fica como referência para uma eventual vistoria técnica conjunta com
+> a EPTC/SMMU ou mobilização futura; o ciclo atual usa a sonda, os sinistros e as LAIs.
+
 > ⚙️ Plano técnico completo, **referência para a vistoria conjunta com a EPTC**. Para a coleta **comunitária** do dia a dia, use o [plano de evidência leve](plano-evidencia-leve.md).
 
 > Operacionaliza a ida a campo. Use com o [roteiro de vistoria](observacoes/roteiro-vistoria.md) (o que medir por ponto) e a [ficha CSV](observacoes/modelo-observacao-campo.csv) (onde registrar).

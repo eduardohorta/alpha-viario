@@ -3,7 +3,8 @@
 > Status consolidado do projeto. Itens de **estratégia jurídica** ficam em `interno/` (não versionado).
 > **Ordem, dependências e datas:** [ROTEIRO.md](ROTEIRO.md).
 > **Checklist de liberação** (preencher antes de circular/protocolar): [LIBERACAO.md](LIBERACAO.md).
-> **Responsável:** **[C]** comissão · **[F]** campo/comunidade · **[G]** gabinete (CLAUDE/CODEX).
+> **Responsável:** **[C]** comissão · **[G]** gabinete (CLAUDE/CODEX). Coleta física
+> comunitária está em espera e não é requisito de protocolo neste ciclo.
 
 ## A. Documentos e órgãos
 > **Atalho:** os cinco itens marcados *(LAI)* têm **pedido pronto para protocolar** em [relatorios/pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md) — pessoa física protocola no e-SIC, sem depender da comissão; prazo legal de resposta: 20 dias.
@@ -20,19 +21,21 @@
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
 - [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
 
-## B. Campo / evidência (versão leve)
-- [ ] **[C]** Distribuir o **questionário** a moradores e entorno (crowdsourced). Tabulação automática pronta: [pipeline de respostas](consultas/respostas/README.md) (`make respostas`).
-- [ ] **[F]** **Levantamento fotográfico/360°** dos pontos (em organização pelos moradores).
-- [ ] **[F]** **Fotos/vídeos** nos picos + **pins de GPS** dos pontos das demandas (D1–D4/P9).
-- [ ] **[F]** **Cronometrar** o retorno distante (P7/D2); **fotografar** a rota de chão batido (P6).
-- [ ] **[F]** Mapear **pontos de alagamento/drenagem** (nova dimensão).
-- [x] **[G]** **Sonda de tempos de viagem ATIVA desde 2026-07-04** (repositório privado `alpha-viario-sonda`, GitHub Actions nos picos): [travas de custo](campo/sonda-tempos-google.md) todas configuradas (cota 200/dia no Console, orçamento com alertas, chave restrita à Routes API, tetos do script). Rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). Meta: 2–4 semanas de série antes do protocolo.
-- [ ] **[G/F]** **Capturas do trânsito típico** (Google Maps) por ponto/horário: [roteiro](campo/observacoes/transito-tipico/README.md).
-- [ ] **[F]** **Validar em campo** os segmentos prioritários do P4 (**S06/S01/S04**).
-- [ ] **[F]** Registrar cada evidência no [inventário](campo/observacoes/inventario-evidencias.csv) (rastreabilidade + classificação público/interno).
+## B. Evidência documental e de dados
+- [x] **[G]** **Sonda de tempos de viagem ATIVA desde 2026-07-04** (serviços Google Cloud nos picos, com registros encaminhados ao repositório privado `alpha-viario-sonda`): [travas de custo](campo/sonda-tempos-google.md) todas configuradas (cota 200/dia no Console, orçamento com alertas, chave restrita à Routes API, tetos do coletor). Rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). Meta: 2–4 semanas de série antes do protocolo.
+- [ ] **[G]** Verificar a continuidade/qualidade da coleta da sonda e gerar agregados por rota e janela horária (atraso versus fluxo livre, assimetria e custo do retorno do P7), sem expor dados brutos ou chave.
+- [x] **[G]** **Capturas do trânsito típico** (Google Maps) por ponto/horário: 18 registros em 03/07 no [inventário](campo/observacoes/inventario-evidencias.csv) e no [roteiro](campo/observacoes/transito-tipico/README.md).
+- [ ] **[G]** Incorporar à matriz e às peças externas os agregados da sonda e as respostas LAI — ou registrar explicitamente os pedidos em prazo/prorrogação.
+
+### Em espera — mobilização comunitária
+
+Questionário, fotos/vídeos, pins, cronometragens manuais, registros 360° e mapa de
+alagamento não serão exigidos antes do protocolo: não há pessoal nem mobilização para uma
+coleta física executável. Os instrumentos permanecem como contingência ou apoio a uma
+vistoria técnica da EPTC, sem função de gate.
 
 ## C. Decisões da comissão
-> **Plano B acionado em 15/07/2026** (reunião não ocorreu até a data-alvo do [ROTEIRO](ROTEIRO.md#4-plano-b--se-a-comissão-continuar-lenta)): mensagem com as 3 decisões mínimas (responsável/retenção, quem assina, canal) enviada à comissão no mesmo dia. Aguardando resposta.
+> **Plano B acionado em 15/07/2026** (reunião não ocorreu até a data-alvo do [ROTEIRO](ROTEIRO.md#4-plano-b--se-a-comissão-continuar-lenta)): mensagem com as decisões mínimas de assinatura, canal e confirmação de pontos/D2–D3 enviada à comissão no mesmo dia. Aguardando resposta.
 - [ ] **[C]** Validar a lista de pontos (**8 + P9**) e confirmar o P9.
 - [ ] **[C]** Aprovar/editar **memorando externo** e **ofício**; preencher contatos.
 - [ ] **[C]** Definir o **destino de D2/D3** (manter internas até prova de benefício público).
@@ -45,14 +48,14 @@
 
 ## D. Técnico / gabinete
 - [x] **[G]** **Reconciliar os 10 temas do Morador C** com os P1–P9 (+ drenagem): ver [tabela de reconciliação](consultas/temas-morador-c-reconciliacao.md).
-- [x] **[G]** **Georreferenciar preliminarmente P9/D1–D4/P7**: ver [georreferenciamento](dados/tratados/georreferenciamento_referencias_demandas.md). Pins de campo seguem necessários para referências de baixa confiança.
+- [x] **[G]** **Georreferenciar preliminarmente P9/D1–D4/P7**: ver [georreferenciamento](dados/tratados/georreferenciamento_referencias_demandas.md). Referências de baixa confiança seguem sujeitas à validação por bases oficiais, imagem aérea ou vistoria técnica da EPTC.
 - [x] **[G]** Esboçar **matriz pública de status** do Plano Funcional: ver [matriz pública](relatorios/matriz-publica-status-plano-funcional.md).
 - [x] **[G]** Incorporar à matriz as previsões textuais, o aditamento de 2013 e a evidência de execução parcial localizadas nos expedientes.
 - [ ] **[G]** Incorporar à matriz os **desenhos identificados** do Plano Funcional e mapear suas estacas quando obtidos.
 - [ ] **[G]** Manter a **versão enxuta da matriz** ([anexo](relatorios/anexo-matriz-pontos.md)) atualizada.
-- [x] **[G]** Documentar o **plano de evidência leve** (substitui o plano de campo "pesado"): ver [plano de evidência leve](campo/plano-evidencia-leve.md).
+- [x] **[G]** Reclassificar o [plano de evidência leve](campo/plano-evidencia-leve.md) e o roteiro de campo como referências de contingência/vistoria técnica, sem função de gate.
 - [x] **[G]** Gerar o **mapa dos pontos P1–P9** do cadastro canônico ([mapa](mapas/mapa-pontos.png), `make mapa`) e incluí-lo no anexo externo.
-- [x] **[G]** Montar o **pipeline de tabulação das respostas** do questionário ([respostas](consultas/respostas/README.md), `make respostas`, com gate de volume).
+- [x] **[G]** Montar o **pipeline de tabulação das respostas** do questionário ([respostas](consultas/respostas/README.md), `make respostas`), mantido em espera e sem gate de volume.
 - [x] **[G]** Consolidar o **roteiro operacional com caminho crítico e datas-alvo**: [ROTEIRO.md](ROTEIRO.md).
 
 ## E. Estratégia (alavancas — detalhe em `interno/`)

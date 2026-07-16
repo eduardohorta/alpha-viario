@@ -27,7 +27,7 @@
 ¹ associação por distância à malha (não causal). ² P4 e P6 são polilinha (corredor/rota), limiar ≤50 m; demais são ponto, limiar ≤100 m — **números de corredor somam a extensão inteira e não são comparáveis aos de interseção**; em peças externas, apresentar P4 por segmento (ver detalhamento). ³ em P5, o contexto ampliado (≤200 m) inclui 1 fatal na Av. Cavalhada (~128 m), **a validar** — não atribuível à conversão.
 
 ## Prioridades de segurança
-**P4** é a prioridade de segurança mais robusta — a segmentação (R03) aponta os trechos **S06 (João Vedana→João Passuelo: 9 graves, 1 fatal, 41 motos)**, **S01 (ponta Cavalhada/Nonoai)** e **S04 (Aracaju→Amapá: 1 fatal)** como prioridades de vistoria. **P5** segue como prioridade de **investigação** (sinistralidade no entorno), mas **a relação com a conversão é hipótese a comprovar em campo**, não dado. Regra: **não propor aumento de capacidade sem mitigação de risco.**
+**P4** é a prioridade de segurança mais robusta — a segmentação (R03) aponta os trechos **S06 (João Vedana→João Passuelo: 9 graves, 1 fatal, 41 motos)**, **S01 (ponta Cavalhada/Nonoai)** e **S04 (Aracaju→Amapá: 1 fatal)** como prioridades de vistoria técnica. **P5** segue como prioridade de **investigação** (sinistralidade no entorno), mas **a relação com a conversão é hipótese a confirmar com dados e vistoria técnica**, não dado. Regra: **não propor aumento de capacidade sem mitigação de risco.**
 
 ---
 
@@ -142,7 +142,7 @@
 - **Escopo regional:** os problemas afetam também o **Terraville** e demais usuários da Zona Sul — reforça o **benefício público além do condomínio**.
 
 ## Próximos preenchimentos necessários
-- **Campo:** aplicar o [roteiro de vistoria](../campo/observacoes/roteiro-vistoria.md) e a [ficha](../campo/observacoes/modelo-observacao-campo.csv) nos picos.
-- **Sinistros:** **validar em campo/aerofoto os segmentos P4-S06/S01/S04** e os registros mais próximos — ver [segmentos](../dados/tratados/acidentes_p4_segmentos.csv), [revisão manual](../dados/tratados/acidentes_revisao_manual_notas.md) e [metodologia](../dados/tratados/acidentes_metodologia.md).
+- **Sonda:** consolidar os agregados por rota e janela horária, incluindo atraso versus fluxo livre, assimetria no P4 e custo do retorno no P7.
+- **Sinistros:** **validar por aerofoto, bases oficiais e vistoria técnica da EPTC os segmentos P4-S06/S01/S04** e os registros mais próximos — ver [segmentos](../dados/tratados/acidentes_p4_segmentos.csv), [revisão manual](../dados/tratados/acidentes_revisao_manual_notas.md) e [metodologia](../dados/tratados/acidentes_metodologia.md).
 - **Imagem aérea + base SMAMUS:** confirmar geometria real de cada ponto.
 - **Planos oficiais:** zoneamento de Vila Nova no novo PDUS; escopo da requalificação da Av. Monte Cristo.

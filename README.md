@@ -2,8 +2,8 @@
 
 Projeto comunitário para propor melhorias viárias no entorno do Alphaville Porto Alegre (Estr. das Três Meninas, bairro **Vila Nova**), com qualidade técnica para apresentação à **Prefeitura de Porto Alegre (EPTC/SMMU)**. **Todas as vias são municipais.**
 
-## Status atual — 2026-07-15
-**Fase 0 madura.** Concluídos: revisão documental (Etapa 1), leitura dos expedientes administrativos do Alphaville, base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. Os expedientes confirmam o Plano Funcional, obrigações para o eixo Três Meninas e execução parcial; **desenhos vigentes e status atual ainda dependem de confirmação municipal**. Os pedidos LAI 1–7 foram protocolados em 10/07/2026 e aguardam resposta; como a reunião da comissão não ocorreu até 15/07, o Plano B foi acionado por mensagem e aguarda retorno. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)). **Gatekeeper para ir à EPTC: coleta de campo.**
+## Status atual — 2026-07-16
+**Fase 0 madura.** Concluídos: revisão documental (Etapa 1), leitura dos expedientes administrativos do Alphaville, base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. Os expedientes confirmam o Plano Funcional, obrigações para o eixo Três Meninas e execução parcial; **desenhos vigentes e status atual ainda dependem de confirmação municipal**. Os pedidos LAI 1–7 foram protocolados em 10/07/2026 e aguardam resposta. A [sonda de tempos](campo/sonda-tempos-google.md) é executada por serviços Google Cloud e encaminha seus registros ao repositório privado `alpha-viario-sonda`; ela forma, com os sinistros e as LAIs, a evidência prévia deste ciclo. **Não há mobilização para coleta física ou questionário; ambos ficam em espera e não bloqueiam o protocolo.** O pedido à EPTC é justamente de dados e vistoria técnica. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)).
 
 **Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`).
 
@@ -40,13 +40,13 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [relatorios/memorando-externo.md](relatorios/memorando-externo.md) — **versão institucional limpa**
 - [relatorios/oficio-eptc-rascunho.md](relatorios/oficio-eptc-rascunho.md) — **rascunho de ofício à EPTC**
 - [relatorios/anexo-matriz-pontos.md](relatorios/anexo-matriz-pontos.md) — **anexo externo (1 linha por ponto)**
-- [relatorios/guia-validacao-comissao.md](relatorios/guia-validacao-comissao.md) — **pauta de validação + kickoff de campo**
+- [relatorios/guia-validacao-comissao.md](relatorios/guia-validacao-comissao.md) — **pauta de validação e encaminhamento do protocolo**
 - [relatorios/projetos-viarios-ja-aprovados.md](relatorios/projetos-viarios-ja-aprovados.md) — **evidência administrativa, obrigações e execução parcial no eixo Três Meninas**
 - [relatorios/matriz-publica-status-plano-funcional.md](relatorios/matriz-publica-status-plano-funcional.md) — **matriz de previsão documental × execução × verificação atual**
 - [relatorios/pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md) — **pedidos LAI prontos para protocolo (trilha independente do pleito)**
 
-**Campo e consulta**
-- [campo/plano-evidencia-leve.md](campo/plano-evidencia-leve.md) — **plano de coleta comunitária (recomendado)** · [plano técnico completo](campo/plano-coleta-campo.md)
+**Sonda e instrumentos de referência**
+- [campo/plano-evidencia-leve.md](campo/plano-evidencia-leve.md) — referência de contingência para mobilização futura ou vistoria técnica · [plano técnico completo](campo/plano-coleta-campo.md)
 - [campo/sonda-tempos-google.md](campo/sonda-tempos-google.md) — **sonda de tempos de viagem** (Routes API, travas de custo; `make sonda`) · [rotas](dados/rotas-sonda-tempos.csv)
 - [campo/observacoes/transito-tipico/README.md](campo/observacoes/transito-tipico/README.md) — **roteiro de capturas do trânsito típico** (Google Maps)
 - [campo/observacoes/roteiro-vistoria.md](campo/observacoes/roteiro-vistoria.md) — o que medir por ponto
@@ -63,7 +63,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [dados/tratados/acidentes_metodologia.md](dados/tratados/acidentes_metodologia.md) · [revisão manual](dados/tratados/acidentes_revisao_manual_notas.md)
 - [scripts/processar_sinistros_distancia.py](scripts/processar_sinistros_distancia.py)
 - [Segmentação do P4](dados/tratados/acidentes_p4_segmentos.csv) · [hot spots](dados/tratados/acidentes_p4_hotspots_250m.csv) · [script](scripts/segmentar_p4_monteggia.py)
-- [Georreferenciamento de referências](dados/tratados/georreferenciamento_referencias_demandas.md) (P9/D1–D4/P7 — preliminar, a validar em campo)
+- [Georreferenciamento de referências](dados/tratados/georreferenciamento_referencias_demandas.md) (P9/D1–D4/P7 — preliminar, a validar por bases oficiais, imagem aérea ou vistoria técnica)
 
 **Cadastro e governança**
 - [dados/pontos.csv](dados/pontos.csv) — **cadastro canônico dos pontos** (fonte única: ID, nome, status, coordenadas, confiança, aliases). As listas dos questionários são geradas dele (`make` / `scripts/pontos.py sync`).
@@ -79,7 +79,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - Mantidas fora deste repositório público (bastidores de revisão interna).
 
 ## Notas importantes
-- **Dados de sinistros = associação preliminar por distância, não prova causal.** Exigem validação de campo.
+- **Dados de sinistros = associação preliminar por distância, não prova causal.** Exigem validação técnica; a vistoria solicitada à EPTC é a via principal para isso.
 - **Grafia:** "Estr. Cristiano **Kraemer**" (confirmada pela comissão).
 - **Marco urbanístico:** PDUS/LUOS **aprovados pela Câmara em 2026**; sanção/publicação e transição **a confirmar**.
 - A obra asfáltica da Cristiano Kraemer é **SMSUrb (pavimento)**, ≠ projeto PSVS da Monte Cristo.
@@ -88,10 +88,10 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 ## Próximos passos
 Detalhe, dependências e datas-alvo: [ROTEIRO.md](ROTEIRO.md). Em síntese (trilhas paralelas):
-1. **Protocolar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)** (desenhos do Plano Funcional, execução por trecho, conexão Costa Gama, Monte Cristo, zoneamento PDUS) — não depende da comissão nem do campo.
-2. **Validar o pacote com a comissão** ([guia](relatorios/guia-validacao-comissao.md)) e obter as decisões mínimas ([LIBERACAO.md](LIBERACAO.md)).
-3. **Iniciar a coleta de campo** ([plano leve](campo/plano-evidencia-leve.md)) e **circular o questionário** — inclusive os segmentos P4-S06/S01/S04 (hot spots do corredor).
-4. **Consolidar e protocolar na EPTC** dentro da janela da LOA 2027 (meta: até 20/ago — ver [ROTEIRO §3](ROTEIRO.md)).
+1. **Acompanhar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)**, com prazo ordinário em 03/08, e incorporar respostas ou prorrogações à matriz.
+2. **Manter e consolidar a sonda** após 2–4 semanas: agregados por rota, horário, atraso e assimetria, com metodologia e limitações declaradas.
+3. **Validar o pacote com a comissão em 13/8** ([guia](relatorios/guia-validacao-comissao.md)) e obter assinatura/canal ([LIBERACAO.md](LIBERACAO.md)).
+4. **Protocolar na EPTC** dentro da janela da LOA 2027 (meta: até 20/ago), solicitando os dados e a vistoria técnica que complementam a evidência já disponível.
 
 ## Licença
 Licenciamento duplo — **código** (`scripts/`, `tests/`, `Makefile`, `.github/`) sob **MIT**; **conteúdo** (textos, questionários, dados próprios) sob **CC BY 4.0**. Dados de terceiros mantêm suas licenças. Ver [LICENSE](LICENSE).

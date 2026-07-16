@@ -1,7 +1,10 @@
-# Plano de evidência leve (comunitário)
+# Plano de evidência leve (contingência comunitária)
 
-> **Versão recomendada de coleta** — dimensionada para o que a comissão consegue fazer **sem equipe técnica**. Substitui, na prática, o [plano de campo técnico](plano-coleta-campo.md), que fica como **referência** para a vistoria conjunta com a EPTC.
-> **Premissa:** a comissão **documenta o problema** de forma simples; a **medição técnica** (contagens, tempos de semáforo, nível de serviço) é **solicitada à EPTC**.
+> **Status em 16/07/2026:** não há pessoal ou mobilização para executar coleta física neste
+> ciclo. A evidência prévia será a [sonda de tempos](sonda-tempos-google.md), as capturas
+> já registradas e a documentação solicitada à EPTC. Este plano fica como referência para
+> eventual mobilização futura ou para a vistoria técnica conjunta; **não condiciona o
+> protocolo**.
 
 ## O que coletar (qualquer morador, só com celular)
 1. **Fotos** dos pontos (P1–P9), em pico e fora de pico.

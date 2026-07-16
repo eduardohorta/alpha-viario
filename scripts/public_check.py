@@ -34,13 +34,14 @@ import pontos  # mesmo diretório scripts/
 
 ROOT = Path(__file__).resolve().parents[1]
 
-# Peças que vão ao público (EPTC ou circulação) e não podem sair com placeholder.
+# Peças do protocolo atual (EPTC ou circulação) que não podem sair com placeholder.
+# O aviso de privacidade do questionário permanece no repositório como instrumento em
+# espera; só volta a esta lista se a comissão decidir circular o formulário.
 EXTERNAL_PIECES = [
     "relatorios/memorando-externo.md",
     "relatorios/oficio-eptc-rascunho.md",
     "relatorios/anexo-matriz-pontos.md",
     "pacote-reuniao.md",
-    "consultas/moradores/aviso-privacidade.md",
 ]
 
 PRIVATE_DIRS = ("interno", "revisoes")

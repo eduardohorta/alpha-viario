@@ -35,12 +35,11 @@ SOURCES = [
     "relatorios/guia-validacao-comissao.md",
     "relatorios/memorando-externo.md",
     "relatorios/anexo-matriz-pontos.md",
-    "campo/plano-coleta-campo.md",
 ]
 
 # Mantido fixo (não derivado da data de hoje) para que o build seja determinístico
 # e os testes de reprodução byte a byte funcionem. A comissão atualiza quando quiser.
-DATE = "Junho de 2026"
+DATE = "Julho de 2026"
 
 FRONTMATTER = f"""---
 title: "Projeto Viário — Vila Nova / Zona Sul"

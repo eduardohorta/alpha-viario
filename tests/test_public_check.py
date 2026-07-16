@@ -46,5 +46,13 @@ class TestRegistry(unittest.TestCase):
         self.assertIn("P9", pontos.public_ids(pontos.load()))
 
 
+class TestReleaseScope(unittest.TestCase):
+    def test_aviso_de_privacidade_nao_bloqueia_protocolo_atual(self):
+        self.assertNotIn(
+            "consultas/moradores/aviso-privacidade.md",
+            public_check.EXTERNAL_PIECES,
+        )
+
+
 if __name__ == "__main__":
     unittest.main()

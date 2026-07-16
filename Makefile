@@ -61,8 +61,8 @@ data:
 check:
 	$(PY) scripts/public_check.py
 
-# Gate de liberação: avisos (placeholders, lista de termos sensíveis ausente)
-# passam a bloquear. Use antes de circular o questionário ou protocolar na EPTC.
+# Gate de liberação: avisos (placeholders das peças do protocolo e lista de termos
+# sensíveis ausente) passam a bloquear. Use antes de protocolar na EPTC.
 release-check:
 	$(PY) scripts/pontos.py sync --check
 	$(PY) scripts/public_check.py --strict

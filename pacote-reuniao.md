@@ -2,26 +2,30 @@
 title: "Projeto Viário — Vila Nova / Zona Sul"
 subtitle: "Pacote de reunião — Comissão de Mobilidade"
 author: "Comissão de Mobilidade — Moradores do Alphaville Porto Alegre"
-date: "Junho de 2026"
+date: "Julho de 2026"
 lang: pt-BR
 geometry: margin=2.2cm
 fontsize: 11pt
 ---
 
-<!-- GERADO por scripts/build_pacote.py — NÃO editar à mão. Fontes: relatorios/guia-validacao-comissao.md, relatorios/memorando-externo.md, relatorios/anexo-matriz-pontos.md, campo/plano-coleta-campo.md -->
+<!-- GERADO por scripts/build_pacote.py — NÃO editar à mão. Fontes: relatorios/guia-validacao-comissao.md, relatorios/memorando-externo.md, relatorios/anexo-matriz-pontos.md -->
 
 ```{=latex}
 \newpage
 ```
 
-# Guia de validação com a comissão + kickoff de campo
+# Guia de validação com a comissão + encaminhamento à EPTC
 
-> **Caminho escolhido (a):** validar o pacote internamente e **coletar dados de campo** antes de protocolar na EPTC. Este guia organiza a reunião da comissão e o início da coleta. O pacote externo fica em **modo rascunho** até a coleta.
+> **Caminho escolhido:** protocolar com a evidência já disponível — sinistros, série da
+> sonda e documentação oficial — e solicitar à EPTC os dados e a vistoria técnica que a
+> comunidade não tem condições de produzir. Coleta física e questionário permanecem em
+> espera por falta de mobilização e **não são condições do protocolo**.
 
 ## 1. O que está pronto para revisão
 - **Peças externas:** [memorando institucional](relatorios/memorando-externo.md) · [rascunho de ofício](relatorios/oficio-eptc-rascunho.md) · [anexo de pontos](relatorios/anexo-matriz-pontos.md).
 - **Técnico:** [mapa dos pontos](mapas/mapa-pontos.png) · [matriz dos pontos (8 + P9)](propostas/problemas-priorizados.md) · [avaliação das soluções](propostas/avaliacao-solucoes-iniciais.md) · [base de sinistros](dados/tratados/acidentes_resumo_distancia_pontos.csv).
-- **Instrumentos de campo:** [plano de coleta](campo/plano-coleta-campo.md) · [roteiro](campo/observacoes/roteiro-vistoria.md) · [ficha CSV](campo/observacoes/modelo-observacao-campo.csv) · [questionário](consultas/moradores/questionario-base.md).
+- **Evidência em consolidação:** [sonda de tempos](campo/sonda-tempos-google.md) (12 rotas, dados brutos privados; agregar antes de circular) · [capturas do trânsito típico](campo/observacoes/transito-tipico/README.md) · [acompanhamento das LAIs](relatorios/pedidos-informacao-lai.md#acompanhamento).
+- **Referências para a vistoria técnica:** [plano de coleta](campo/plano-coleta-campo.md) · [roteiro](campo/observacoes/roteiro-vistoria.md) · [ficha CSV](campo/observacoes/modelo-observacao-campo.csv).
 
 ## 2. Decisões da comissão (checklist)
 - [ ] **Validar a lista de pontos** (8 + P9). Algum a remover, fundir ou incluir?
@@ -30,28 +34,31 @@ fontsize: 11pt
 - [ ] **Destino de D2 (retorno) e D3 (alargamento):** manter **internas** até provar benefício público? *(recomendação: sim)*
 - [ ] **P9 (Rótula da Vila Nova):** confirmar como ponto rastreado.
 - [ ] **Quem assina e protocola**, e por qual canal (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
+- [ ] **Confirmar o encaminhamento:** protocolo baseado em sonda, sinistros e LAIs, com pedido explícito de dados e vistoria técnica da EPTC; coleta comunitária e questionário ficam em espera.
 
-## 3. Kickoff da coleta de campo
-> **Abordagem operacional única: [plano de evidência leve](campo/plano-evidencia-leve.md).** A comissão **documenta o problema** (fotos, vídeo curto, pin de GPS, relato padronizado); a **medição técnica** (contagens, tempos de semáforo, nível de serviço) é **solicitada à EPTC**. O [plano de campo técnico](campo/plano-coleta-campo.md) fica **apenas como referência para a vistoria conjunta**, não como tarefa da comissão.
+## 3. Consolidação antes da reunião de 13/8
 
-- **Adotar pontos:** cada voluntário cobre 1–2 pontos que conhece (P1–P9), em pico e fora de pico.
-- **Prioridade:** **P4 (trechos S06/S01/S04), P1, P2 e P5** — foto + vídeo curto + pin de GPS.
-- **Registrar tudo** no [inventário de evidências](campo/observacoes/inventario-evidencias.csv) (id, ponto, data, GPS, arquivo, responsável, validação, público/interno).
-- **Crowdsourcing:** distribuir o [questionário curto](consultas/moradores/questionario-curto.md).
-- **Levar:** celular (vídeo/GPS) + o [relato padronizado](campo/plano-evidencia-leve.md).
+- **Sonda:** verificar continuidade e gerar agregados por rota e horário: atraso versus
+  fluxo livre, assimetria direcional no P4 e custo do retorno no P7. Declarar a janela de
+  coleta e as limitações; não anexar nem publicar dados brutos da Google Routes API.
+- **LAIs:** até 03/08, incorporar respostas à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md) ou registrar prorrogação/atraso. O pedido 7 pode informar Waze for Cities, contagens e planos semafóricos existentes.
+- **Peças:** atualizar o memorando e o anexo somente com fatos documentados e agregados,
+  mantendo o pedido de validação técnica da EPTC.
 
 ## 4. Mínimo suficiente para protocolar na EPTC
-> **Gate único — a confirmar pela comissão.** Protocolar quando **todos** estiverem cumpridos; até lá, o pacote externo fica como **rascunho interno**.
+> Protocolar quando os requisitos formais abaixo estiverem cumpridos. A ausência de coleta
+> física ou questionário não impede o pedido, que busca justamente a vistoria e os dados da
+> autoridade competente.
 
-- [ ] Evidência leve (foto + vídeo + pin de GPS + relato) nos **pontos prioritários**: **P4 (S06/S01/S04), P1, P2, P5**.
-- [ ] **Questionário** com volume mínimo de respostas: **≥ [a definir pela comissão — proposta do gabinete: 50, sendo ≥ 10 de fora do condomínio] respostas** (tabulação e verificação automáticas: `make respostas`).
-- [ ] **Peças externas sem placeholders** — `make release-check` verde (memorando, ofício, anexo e aviso de privacidade preenchidos).
+- [ ] **Base indicativa consolidada:** sinistros, agregados metodologicamente descritos da sonda e respostas LAI — ou situação datada dos pedidos ainda pendentes.
+- [ ] **Peças externas sem placeholders** — `make release-check` verde (memorando, ofício e anexo preenchidos).
 - [ ] **Quem assina/protocola** definido e **canal** escolhido (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
 
-## 5. Depois da coleta
-1. Consolidar a evidência na matriz (substituir "a coletar" por dados de campo).
-2. Atualizar memorando/anexo com os achados.
-3. *(Opcional)* nova rodada CODEX de revisão final antes do protocolo.
+## 5. Depois do protocolo
+1. Acompanhar a designação de canal técnico e a resposta de cada pedido LAI.
+2. Compartilhar os agregados da sonda e os documentos que chegarem, quando solicitados.
+3. Organizar vistoria técnica conjunta se a EPTC/SMMU a aceitar; os roteiros de campo
+   servem de referência para essa etapa.
 
 ```{=latex}
 \newpage
@@ -108,7 +115,7 @@ Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **med
 
 > Anexo ao [ofício à EPTC/SMMU](relatorios/oficio-eptc-rascunho.md) e ao [memorando](relatorios/memorando-externo.md). **Diagnóstico preliminar da comissão**, para orientar **vistoria técnica conjunta** — não é laudo. Os dados de sinistros são **associação preliminar por proximidade** (Dados Abertos POA), **não prova de causa**. Solicita-se, para cada ponto, **vistoria e validação técnica da EPTC/SMMU**.
 
-![Mapa dos pontos P1–P9 (localização aproximada, a validar em campo)](mapas/mapa-pontos.png)
+![Mapa dos pontos P1–P9 (localização aproximada, a validar tecnicamente)](mapas/mapa-pontos.png)
 
 | Ponto | Localização | Problema relatado (a verificar) | Indício preliminar | A vistoriar / coletar |
 |-------|-------------|----------------------------------|--------------------|------------------------|
@@ -123,54 +130,3 @@ Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **med
 | **P9** *(preliminar)* | Rótula da Vila Nova (Estr. Cristiano Kraemer) | Ajuste geométrico/moderação na rótula | A levantar | Georreferenciar; geometria, velocidade, conflitos, pedestres |
 
 *Observação: dados de sinistros referentes a recortes por proximidade da malha viária (≤100 m em interseções; corredor inteiro em P4 — escalas não comparáveis entre si, razão pela qual P4 é apresentado por trecho). Pontos sem número expressivo de sinistros (ex.: P6) sustentam-se por outras evidências (precariedade física, função de rede). Contato da comissão: [nome / e-mail / telefone].*
-
-```{=latex}
-\newpage
-```
-
-# Plano de coleta de campo (técnico — referência)
-
-> ⚙️ Plano técnico completo, **referência para a vistoria conjunta com a EPTC**. Para a coleta **comunitária** do dia a dia, use o [plano de evidência leve](campo/plano-evidencia-leve.md).
-
-> Operacionaliza a ida a campo. Use com o [roteiro de vistoria](campo/observacoes/roteiro-vistoria.md) (o que medir por ponto) e a [ficha CSV](campo/observacoes/modelo-observacao-campo.csv) (onde registrar).
-> **Objetivo:** transformar as hipóteses da [matriz](propostas/problemas-priorizados.md) em evidência verificável.
-
-## Princípios
-- **3 janelas por ponto:** pico manhã (~7–9h), pico tarde/noite (~17–20h) e entrepico (~10–16h), em **dia útil**; +1 **fim de semana** onde houver acesso/lazer.
-- **Sempre registrar motos e pedestres** (são o foco de segurança).
-- **Dupla por sessão** (um conta/cronometra, outro filma/fotografa e anota).
-- **Segurança do observador:** posição fora da pista, colete, sem obstruir o trânsito.
-
-## Clusters (por proximidade geográfica)
-Agrupar reduz deslocamento. Sugestão:
-
-### Cluster A — eixo Vicente Monteggia / Cavalhada → **P3, P4, P5**
-Contíguos; podem ser cobertos numa mesma sessão de pico, com uma dupla por ponto.
-- **P4** exige **segmentar o corredor por trecho** (entre interseções) — destacar uma dupla só para isso.
-
-### Cluster B — eixo Três Meninas / Cristiano Kraemer / Costa Gama → **P1, P2, P6, P7, P8 (+P9 preliminar)**
-- **P1 e P2** próximos (Cristiano Kraemer) — observar relação com a obra/projeto da Monte Cristo.
-- **P6** (rota Florestan/Kanazawa) é levantamento **físico** (largura, pavimento, drenagem, calçada, moradias), não contagem de pico — pode ser feito em horário livre.
-- **P7 e P8** no eixo Costa Gama.
-
-## Cronograma sugerido (ajustar à disponibilidade)
-| Sessão | Cluster | Pontos | Janela | Dia |
-|--------|---------|--------|--------|-----|
-| 1 | A | P3, P4, P5 | pico manhã | útil |
-| 2 | A | P3, P4, P5 | pico tarde | útil |
-| 3 | A | P4 (segmentação) | entrepico | útil |
-| 4 | B | P1, P2, P7, P8 | pico manhã | útil |
-| 5 | B | P1, P2, P7, P8 | pico tarde | útil |
-| 6 | B | P6 (levantamento físico) | livre | útil |
-| 7 | A+B | pontos de acesso/lazer | pico | fim de semana |
-| 8 | B | Georref. D1–D4/P9 (rótula Vila Nova; condomínios) | livre | útil |
-
-## Por sessão — o que levar e produzir
-- **Levar:** celular (vídeo + GPS), cronômetro, prancheta/planilha impressa ou app, colete, [roteiro](campo/observacoes/roteiro-vistoria.md).
-- **Produzir:** linhas preenchidas na [ficha CSV](campo/observacoes/modelo-observacao-campo.csv) (contagem 15 min por movimento, fila, tempo de espera, conflitos, modos vulneráveis) + fotos/vídeos nomeados por `ponto_data_periodo`.
-- **Para P8:** anotar **tempos de semáforo** (ciclo, verde por aproximação, fila residual).
-- **Para P7:** **medir distância/tempo do retorno atual** (rodar o trajeto).
-- **Demandas D1–D4 e P9 — sessão de georreferenciamento:** localizar com GPS a **Rótula da Vila Nova (P9)** e os pontos de referência (Veneto, Lombardia, Clube, Reserva, Toscana); fotografar a posição dos quebra-molas (chegada/saída); medir distância/tempo do retorno citado em **D2**; registrar se os movimentos usam **vias públicas ou acessos internos** do condomínio. Para **D1**, medir velocidade praticada e checar travessias/pedestres. Ver [registro de demandas](consultas/registro-demandas-comunitarias.md).
-
-## Consolidação
-Após cada sessão, a dupla anexa os registros e marca o ponto como "coletado" na matriz. Quando os 8 pontos tiverem ≥2 janelas coletadas, consolidamos a evidência e atualizamos a matriz — e o memorando deixa de depender só de dados preliminares.

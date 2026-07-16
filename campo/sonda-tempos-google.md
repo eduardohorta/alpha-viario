@@ -20,9 +20,8 @@ A garantia **dura** é do lado do Google (camada 1); o script é redundância.
    per day" = 200**. Acima disso a API retorna erro `429` — **não cobra**.
 2. **Orçamento com alerta**: em *Billing → Budgets*, criar orçamento de **US$ 1**
    com alerta em 50/90/100%. Se algum e-mail chegar, algo está errado — pare tudo.
-3. **Tetos do script**: recusa a rodada se exceder **160 chamadas/dia** ou
-   **4.500/mês** (livro-razão local em `dados/brutos/tempos_viagem/ledger.json`),
-   e só coleta nas janelas 06–09h / 17–20h.
+3. **Tetos do coletor**: recusa a rodada se exceder **160 chamadas/dia** ou
+   **4.500/mês**, e só coleta nas janelas 06–09h / 17–20h.
 
 Dimensionamento: 12 rotas × 2 coletas/h × 6 h de pico = **144 chamadas/dia ≈
 4.320/mês** — abaixo do teto do script e da ordem da **faixa gratuita mensal** do
@@ -30,17 +29,20 @@ Google Maps Platform (~10 mil chamadas/SKU nas SKUs Essentials na tabela de 2025
 **conferir a tabela vigente** e o SKU da `computeRoutes` com `TRAFFIC_AWARE` antes
 de ligar a sonda — se o SKU for de faixa menor, os tetos acima ainda mantêm folga).
 
-## Onde rodar — notebook × nuvem
+## Execução e armazenamento — Google Cloud + repositório privado
 
-Duas variantes, mesma lógica e mesmas travas:
+A sonda **é executada por serviços Google Cloud** nas janelas de pico. O repositório
+privado `alpha-viario-sonda` recebe os registros produzidos por essa execução para
+armazenamento e auditoria; **não é o executor da coleta**. Nem o notebook nem GitHub
+Actions integram a operação corrente.
 
-- **GitHub Actions (recomendada):** repositório **privado** `alpha-viario-sonda`
-  (coletor + workflow agendado nos picos, fuso compensado; os dados são commitados
-  lá, fora deste repositório público). Não depende do notebook ligado. Ativação:
-  passos 1–4 abaixo + criar o secret `GOOGLE_MAPS_API_KEY` no repositório privado
-  (instruções no README de lá).
-- **Local (cron no notebook):** passos completos abaixo. Só vale se a máquina fica
-  acordada nas janelas 06–09h e 17–20h — cron não dispara com o Mac dormindo.
+- **Google Cloud (operação corrente):** executa as consultas agendadas e mantém os
+  controles de cota, orçamento e credencial fora do repositório público.
+- **`alpha-viario-sonda` (destino privado):** recebe os registros brutos/operacionais
+  encaminhados pela coleta em nuvem; serve para acompanhar continuidade e preparar
+  agregados, sem expor a chave.
+- **Local:** útil apenas para teste seco, diagnóstico ou reprodução manual; não deve ser
+  considerado fonte da série em produção.
 
 ## Setup (uma vez, ~20 min)
 
@@ -51,8 +53,9 @@ Duas variantes, mesma lógica e mesmas travas:
 4. Definir o **teto de cota** (camada 1) e o **orçamento** (camada 2).
 5. Testar a seco (sem chave, nenhuma chamada): `python3 scripts/coletar_tempos_google.py --dry-run`
 6. Testar 1 rodada real fora de pico: `GOOGLE_MAPS_API_KEY=SUA_CHAVE python3 scripts/coletar_tempos_google.py --force`
-7. Agendar via cron (`crontab -e`), a cada 30 min nos picos, todos os dias
-   (o domingo, sem trânsito intenso, serve de linha de base empírica):
+7. Na operação corrente, manter o agendamento e o encaminhamento dos registros nos
+   **serviços Google Cloud**. O exemplo de cron abaixo serve somente para diagnóstico
+   local, não para a coleta em produção:
 
 ```cron
 */30 6-8,17-19 * * * cd $HOME/alpha-viario && GOOGLE_MAPS_API_KEY=SUA_CHAVE /usr/bin/python3 scripts/coletar_tempos_google.py >> dados/brutos/tempos_viagem/cron.log 2>&1
@@ -62,10 +65,11 @@ Duas variantes, mesma lógica e mesmas travas:
 
 ## Saída e governança
 
-- Brutos em `dados/brutos/tempos_viagem/tempos_google.csv` — **fora do versionamento**
-  (como a base de sinistros); colunas: `timestamp, rota_id, ponto_id, duracao_s,
-  duracao_livre_s, distancia_m, status`.
-- A chave de API **não entra em nenhum arquivo do repositório** — só no crontab/ambiente.
+- Os registros da operação corrente são encaminhados ao repositório privado
+  `alpha-viario-sonda`, fora deste repositório público; incluem `timestamp`, `rota_id`,
+  `ponto_id`, `duracao_s`, `duracao_livre_s`, `distancia_m` e `status`.
+- A chave de API **não entra em nenhum arquivo de repositório**; fica apenas no ambiente
+  privado dos serviços Google Cloud.
 - Ao fim da campanha (2–4 semanas), o gabinete agrega (perfil por hora × dia, atraso
   vs. `duracao_livre_s`, assimetria por sentido) e **só os agregados** entram no dossiê,
   com a janela de coleta declarada.
