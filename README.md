@@ -53,6 +53,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [campo/observacoes/modelo-observacao-campo.csv](campo/observacoes/modelo-observacao-campo.csv) — planilha de campo
 - [campo/observacoes/inventario-evidencias.csv](campo/observacoes/inventario-evidencias.csv) — **inventário central de evidências** (rastreabilidade + público/interno)
 - [campo/observacoes/ficha-drenagem.csv](campo/observacoes/ficha-drenagem.csv) — ficha de alagamento/drenagem
+- [campo/sonda-tempos-multifonte.md](campo/sonda-tempos-multifonte.md) — **sonda multi-fonte** (TomTom · HERE · Waze; validação cruzada nas mesmas rotas da sonda Google; `make sonda-multi`)
 - [consultas/moradores/questionario-curto.md](consultas/moradores/questionario-curto.md) — **questionário curto (~2 min, porta de entrada)** · [completo](consultas/moradores/questionario-base.md)
 - [consultas/moradores/aviso-privacidade.md](consultas/moradores/aviso-privacidade.md) — **aviso de privacidade (LGPD)** — preencher responsável/retenção antes de circular
 - [consultas/registro-demandas-comunitarias.md](consultas/registro-demandas-comunitarias.md) — demandas estruturadas
