@@ -21,6 +21,7 @@ Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrang
 
 ## Por que importa para a cidade
 - **Segurança viária.** A análise preliminar dos sinistros (Dados Abertos POA, associação por proximidade) aponta **gravidade relevante**, com destaque para o **corredor da Av. Vicente Monteggia** — que registra feridos graves e vítimas fatais — e **envolvimento recorrente de motociclistas**. *(Indicadores preliminares, a validar em vistoria conjunta.)*
+- **Fluidez.** Uma sonda própria de tempos de viagem (Google Routes API, série iniciada em jul/2026) indica, no pico, **atraso de ~1,3–1,4× no corredor da Av. Vicente Monteggia** e um custo de **≈2,0× no tempo do acesso legal à Estr. Costa Gama (P7)** frente ao movimento direto. *(Indicadores próprios, indicativos; a validar com contagens da EPTC.)*
 - **Alinhamento com as políticas municipais.** As demandas convergem com o **Plano de Segurança Viária Sustentável (PSVS)** e a meta da Visão Zero, e com a diretriz de **redução do tempo de deslocamento** do novo marco urbanístico (PDUS/LUOS, aprovados pela Câmara em 2026).
 
 ## Uma oportunidade de sinergia

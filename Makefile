@@ -17,7 +17,7 @@ PY := python3
 RAW := dados/brutos/cat_acidentes.csv
 URL := https://dadosabertos.poa.br/dataset/d6cfbe48-ee1f-450f-87f5-9426f6a09328/resource/b56f8123-716a-4893-9348-23945f1ea1b9/download/cat_acidentes.csv
 
-.PHONY: all geojson mapa respostas sonda pacote pacote-md data fetch-data verify-data check release-check test clean help
+.PHONY: all geojson mapa respostas sonda sonda-agg pacote pacote-md data fetch-data verify-data check release-check test clean help
 
 help:
 	@awk 'sub(/^# ?/, "")' Makefile
@@ -43,6 +43,12 @@ pacote:           # build de liberação: Markdown + PDF (exige Pandoc/XeLaTeX)
 
 pacote-md:        # build de desenvolvimento: só Markdown
 	$(PY) scripts/build_pacote.py --no-pdf
+
+sonda-agg:        # baixa a série da sonda (repo privado) e gera os agregados do dossiê
+	mkdir -p dados/brutos/tempos_viagem
+	gh api repos/eduardohorta/alpha-viario-sonda/contents/dados/tempos_google.csv \
+	  -H "Accept: application/vnd.github.raw" > dados/brutos/tempos_viagem/tempos_google.csv
+	$(PY) scripts/agregar_sonda.py
 
 fetch-data:
 	curl -fSL -o $(RAW) '$(URL)'
