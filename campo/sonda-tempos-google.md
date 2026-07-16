@@ -70,9 +70,12 @@ Actions integram a operação corrente.
   `ponto_id`, `duracao_s`, `duracao_livre_s`, `distancia_m` e `status`.
 - A chave de API **não entra em nenhum arquivo de repositório**; fica apenas no ambiente
   privado dos serviços Google Cloud.
-- Ao fim da campanha (2–4 semanas), o gabinete agrega (perfil por hora × dia, atraso
-  vs. `duracao_livre_s`, assimetria por sentido) e **só os agregados** entram no dossiê,
-  com a janela de coleta declarada.
+- Agregação: `make sonda-agg` baixa a série do repo privado (via `gh`) e roda
+  [`scripts/agregar_sonda.py`](../scripts/agregar_sonda.py), gerando
+  `dados/tratados/sonda_tempos_agregado.csv` (por rota × janela) e
+  `dados/tratados/sonda_tempos_resumo.md` (índice de atraso, p85, assimetria por sentido).
+  **Só os agregados** entram no dossiê, com a janela de coleta declarada; o bruto da Google
+  fica gitignored. Reprocessar perto do protocolo, quando a série estiver cheia.
 - Termos de uso: os dados servem à análise interna e a agregados no dossiê; não
   republicar conteúdo bruto de mapa/rotas do Google.
 

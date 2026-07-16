@@ -5,7 +5,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 ## Status atual — 2026-07-16
 **Fase 0 madura.** Concluídos: revisão documental (Etapa 1), leitura dos expedientes administrativos do Alphaville, base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. Os expedientes confirmam o Plano Funcional, obrigações para o eixo Três Meninas e execução parcial; **desenhos vigentes e status atual ainda dependem de confirmação municipal**. Os pedidos LAI 1–7 foram protocolados em 10/07/2026 e aguardam resposta. A [sonda de tempos](campo/sonda-tempos-google.md) é executada por serviços Google Cloud e encaminha seus registros ao repositório privado `alpha-viario-sonda`; ela forma, com os sinistros e as LAIs, a evidência prévia deste ciclo. **Não há mobilização para coleta física ou questionário; ambos ficam em espera e não bloqueiam o protocolo.** O pedido à EPTC é justamente de dados e vistoria técnica. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)).
 
-**Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`).
+**Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`). **Inspeção nova? Comece pela** [ARQUITETURA.md](ARQUITETURA.md) — como as peças (dois repositórios, fluxos de dado, governança) se encaixam.
 
 ## Fluxo de trabalho
 **CLAUDE conduz** (estrutura, pesquisa, redação técnica, decisões). **CODEX revisa e complementa** quando acionado. As rodadas de revisão são mantidas **fora do repositório público** (revisões internas). Ver §8 do [plano-de-trabalho.md](plano-de-trabalho.md).
@@ -22,6 +22,10 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 9. **P9** *(preliminar)* — Rótula da Vila Nova (Estr. Cristiano Kraemer), da demanda D4
 
 ## Índice de documentos
+
+**Orientação**
+- [ARQUITETURA.md](ARQUITETURA.md) — **comece aqui**: dois repositórios, fluxos de dado e governança
+- [ROTEIRO.md](ROTEIRO.md) · [LIBERACAO.md](LIBERACAO.md) · [PENDENCIAS.md](PENDENCIAS.md) — estado, gate e backlog
 
 **Insumos brutos**
 - [sugs.md](sugs.md) — relato original (8 pontos + 3 propostas)
@@ -47,7 +51,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 **Sonda e instrumentos de referência**
 - [campo/plano-evidencia-leve.md](campo/plano-evidencia-leve.md) — referência de contingência para mobilização futura ou vistoria técnica · [plano técnico completo](campo/plano-coleta-campo.md)
-- [campo/sonda-tempos-google.md](campo/sonda-tempos-google.md) — **sonda de tempos de viagem** (Routes API, travas de custo; `make sonda`) · [rotas](dados/rotas-sonda-tempos.csv)
+- [campo/sonda-tempos-google.md](campo/sonda-tempos-google.md) — **sonda de tempos de viagem** (Routes API no Google Cloud, travas de custo) · [rotas](dados/rotas-sonda-tempos.csv) · agregação para o dossiê: `make sonda-agg` → [resumo](dados/tratados/sonda_tempos_resumo.md) · [agregado](dados/tratados/sonda_tempos_agregado.csv)
 - [campo/observacoes/transito-tipico/README.md](campo/observacoes/transito-tipico/README.md) — **roteiro de capturas do trânsito típico** (Google Maps)
 - [campo/observacoes/roteiro-vistoria.md](campo/observacoes/roteiro-vistoria.md) — o que medir por ponto
 - [campo/observacoes/modelo-observacao-campo.csv](campo/observacoes/modelo-observacao-campo.csv) — planilha de campo
