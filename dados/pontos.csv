@@ -7,4 +7,4 @@ P5,Conversão Av. João Salomoni → Av. da Cavalhada,Conversão João Salomoni 
 P6,Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa),Acesso à Dr. Vergara (Florestan Fernandes / Kanazawa),rota,polyline,consolidado,-30.1185917,-51.1923301,referencia_corredor,parcial,,Rota Florestan Fernandes / Kanazawa
 P7,Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda,Acesso à Costa Gama a partir da Estr. das Três Meninas,acesso,point,consolidado,-30.13373,-51.17574,media,direta,,Alça Três Meninas → Costa Gama
 P8,Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante,Semáforo Costa Gama × Afonso Lourenço Mariante,intersecao,point,consolidado,-30.11518,-51.17707,media,fora,,Semáforo Costa Gama × Afonso Lourenço Mariante
-P9,Rótula da Vila Nova (Estr. Cristiano Kraemer),Rótula da Vila Nova (Estr. Cristiano Kraemer),intersecao,point,preliminar,-30.1476851,-51.2045098,alta,parcial,D4,Rótula da Vila Nova
+P9,Rótula Estr. Cristiano Kraemer × Av. Juca Batista,Rótula Cristiano Kraemer × Juca Batista,intersecao,point,preliminar,-30.1476851,-51.2045098,alta,parcial,D4,Rótula da Vila Nova|Rótula Cristiano Kraemer x Juca Batista

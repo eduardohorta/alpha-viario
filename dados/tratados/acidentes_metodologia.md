@@ -101,6 +101,20 @@ Leitura preliminar:
 
 Limite adicional: esta segmentação é suficiente para priorizar vistoria e mapas, mas não substitui base cadastral municipal, aerofoto, análise de boletins individualizados nem inspeção de campo.
 
+## Rodada 05 - inclusão do P9 (rótula Cristiano Kraemer x Juca Batista)
+
+Até a Rodada 03 o P9 não tinha coordenada confirmada e ficava fora da associação por distância; a matriz registrava "sinistros: a levantar". Em 20/07/2026 a transversal foi confirmada visualmente (OSM/Street View) como **Av. Juca Batista**, e o ponto entrou no pipeline com **os mesmos limiares das demais interseções** (principal 100 m, contexto 200 m), na coordenada -30.1476851, -51.2045098.
+
+| Ponto | Critério | Ocorrências | Feridos | Feridos graves | Fatais | Motos |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| P9 | até 100 m da referência | 33 | 11 | 1 | 0 | 8 |
+
+Contexto ampliado (200 m): 57 ocorrências. Distância mínima registrada: 3,8 m.
+
+**Validação cruzada.** Os registros foram selecionados apenas por distância, sem usar nomes de logradouro. Ainda assim, **56 dos 57** no contexto de 200 m citam "AV JUCA BATISTA" e/ou "ESTR CRISTIANO KRAEMER" — corroboração independente de que a coordenada está no cruzamento correto.
+
+**Cautela na leitura.** As 33 ocorrências são comparáveis às dos demais pontos de interseção porque usam o mesmo critério, mas herdam as mesmas limitações: associação por proximidade não é prova de causa, e parte das coordenadas do CSV vem de geocodificação por logradouro. Além disso, a Av. Juca Batista é um corredor de tráfego intenso: parte dos registros pode pertencer ao corredor e não à rótula. Antes de usar o número em peça externa, revisar os registros individuais em `acidentes_revisao_manual_proximos.csv`.
+
 ## Limitações atuais
 
 - Esta é uma triagem preliminar, não um estudo de segurança viária completo.
@@ -110,7 +124,7 @@ Limite adicional: esta segmentação é suficiente para priorizar vistoria e map
 - Registros sem coordenada válida não foram inventados nem posicionados artificialmente.
 - A grafia dos logradouros precisa ser confirmada com base municipal oficial antes de protocolo.
 - Os totais não devem ser usados como prova causal sem inspeção dos registros individuais, mapa e vistoria de campo.
-- **Totais por ponto não são somáveis:** 58 dos 800 sinistros distintos associam-se a mais de um ponto (ver "Sobreposição entre pontos"). Para um agregado, conte sinistros distintos.
+- **Totais por ponto não são somáveis:** 58 dos 857 sinistros distintos associam-se a mais de um ponto (ver "Sobreposição entre pontos"). Para um agregado, conte sinistros distintos.
 
 ## Próximo passo técnico
 

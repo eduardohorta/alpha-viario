@@ -1000,8 +1000,8 @@
       },
       "properties": {
         "id": "P9",
-        "nome": "Rótula da Vila Nova (Estr. Cristiano Kraemer)",
-        "nome_curto": "Rótula da Vila Nova (Estr. Cristiano Kraemer)",
+        "nome": "Rótula Estr. Cristiano Kraemer × Av. Juca Batista",
+        "nome_curto": "Rótula Cristiano Kraemer × Juca Batista",
         "tipo": "intersecao",
         "geometria": "point",
         "status": "preliminar",
@@ -1009,7 +1009,8 @@
         "plano_funcional": "parcial",
         "demanda_origem": "D4",
         "aliases": [
-          "Rótula da Vila Nova"
+          "Rótula da Vila Nova",
+          "Rótula Cristiano Kraemer x Juca Batista"
         ]
       }
     }

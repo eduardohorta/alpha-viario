@@ -37,7 +37,7 @@ respostas serão usadas de forma **agregada e anônima**. Leva cerca de 2 minuto
 - [ ] P6 — Acesso à Dr. Vergara (Florestan Fernandes / Kanazawa)
 - [ ] P7 — Acesso à Costa Gama a partir da Estr. das Três Meninas
 - [ ] P8 — Semáforo Costa Gama × Afonso Lourenço Mariante
-- [ ] P9 — Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
+- [ ] P9 — Rótula Cristiano Kraemer × Juca Batista (preliminar)
 - [ ] Outro: __________________________
 <!-- END pontos:questionario-curto -->
 

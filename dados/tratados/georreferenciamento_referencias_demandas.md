@@ -8,7 +8,7 @@
 
 ## Metodologia
 
-- **P9** foi localizado na base OSM local (`dados/brutos/osm_vias_alpha_viario.json`) como rótula/circular na Estrada Cristiano Kraemer. A coordenada e o centroide aproximado dos segmentos OSM com `junction=circular`.
+- **P9** foi localizado na base OSM local (`dados/brutos/osm_vias_alpha_viario.json`) como rótula/circular na Estrada Cristiano Kraemer. A coordenada e o centroide aproximado dos segmentos OSM com `junction=circular`. **Transversal confirmada em 20/07/2026 (checagem visual em OSM/Street View): Av. Juca Batista.** O recorte OSM local não continha a Juca Batista — ele filtra 12 vias nomeadas —, por isso a transversal não aparecia na conectividade da rótula. A confirmação é corroborada pelos registros de sinistros associados por distância: 56 dos 57 no contexto de 200 m citam Juca Batista e/ou Cristiano Kraemer, sem que os nomes tenham sido usados na seleção.
 - **P7/alça** foi registrada no ponto de referência já usado para o encontro Estrada das 3 Meninas x Estrada Costa Gama. Esta coordenada **não** representa o traçado da alça relatada; apenas o nó operacional de referência.
 - **Clube** foi localizado via Nominatim/OSM como `Alphaville Clube`, no endereço 1701 da Estrada das 3 Meninas.
 - **Toscana** e **Vêneto** foram associados a endereços públicos encontrados em páginas imobiliárias; o Nominatim retornou segmentos da Estrada das 3 Meninas, não portarias ou polígonos. Portanto, confiança baixa.

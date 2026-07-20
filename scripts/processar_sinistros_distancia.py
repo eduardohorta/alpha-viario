@@ -88,6 +88,17 @@ POINTS = {
         "primary_m": 100.0,
         "context_m": 200.0,
     },
+    # P9 entrou na Rodada 05: coordenada = centroide dos ways OSM 287980458/287980468
+    # (junction=circular na Cristiano Kraemer); transversal confirmada visualmente
+    # como Av. Juca Batista em 20/07/2026. Mesmos limiares das demais intersecoes.
+    "P9": {
+        "label": "Rotula Estr. Cristiano Kraemer x Av. Juca Batista",
+        "type": "point",
+        "lat": -30.1476851,
+        "lon": -51.2045098,
+        "primary_m": 100.0,
+        "context_m": 200.0,
+    },
 }
 
 
@@ -204,6 +215,8 @@ def road_pair_matches(n1: str, n2: str) -> list[tuple[str, str]]:
         matches.append(("P7", "par_logradouros_intersecao"))
     if has("COSTA GAMA", "AFONSO LOURENCO MARIANTE"):
         matches.append(("P8", "par_logradouros_intersecao"))
+    if has("CRISTIANO", "JUCA BATISTA"):
+        matches.append(("P9", "par_logradouros_intersecao"))
     return matches
 
 

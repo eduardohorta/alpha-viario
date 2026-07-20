@@ -53,12 +53,15 @@ class TestAssociados(unittest.TestCase):
         multi = sum(1 for pts in by_id.values() if len(pts) > 1)
         return len(rows), len(by_id), multi
 
+    # Rodada 05: P9 entrou na associação por distância (+57 no contexto de 200 m,
+    # +33 no limiar principal). Nenhum sinistro do P9 se sobrepõe a outro ponto —
+    # a rótula fica ~3,2 km ao sul do P1 —, por isso 'multi' não muda.
     def test_overlap_todas(self):
-        self.assertEqual(self._overlap(self.rows), (858, 800, 58))
+        self.assertEqual(self._overlap(self.rows), (915, 857, 58))
 
     def test_overlap_principais(self):
         princ = [r for r in self.rows if r["associacao_principal"] == "sim"]
-        self.assertEqual(self._overlap(princ), (673, 647, 26))
+        self.assertEqual(self._overlap(princ), (706, 680, 26))
 
     def test_schema(self):
         for col in ("ponto", "idacidente", "dist_m", "associacao_principal", "data"):
@@ -92,7 +95,7 @@ class TestMetadata(unittest.TestCase):
         todas = meta["associacoes"]["todas"]
         self.assertEqual(
             (todas["linhas"], todas["sinistros_distintos"], todas["sinistros_multi_ponto"]),
-            (858, 800, 58),
+            (915, 857, 58),
         )
         jan = meta["janela_temporal_fonte"]
         self.assertEqual((jan["inicio"], jan["fim"]), ("2020-01-01", "2025-08-31"))

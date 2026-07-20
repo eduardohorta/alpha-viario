@@ -50,7 +50,7 @@ Marque os pontos que você usa ou observa com frequência:
 - [ ] P6 - Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa)
 - [ ] P7 - Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda
 - [ ] P8 - Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante
-- [ ] P9 - Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
+- [ ] P9 - Rótula Estr. Cristiano Kraemer × Av. Juca Batista (preliminar)
 - [ ] Outro ponto: ______________________________
 <!-- END pontos:questionario-base -->
 
@@ -66,7 +66,7 @@ Marque os pontos que você usa ou observa com frequência:
    - [ ] P6 - Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa)
    - [ ] P7 - Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda
    - [ ] P8 - Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante
-   - [ ] P9 - Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
+   - [ ] P9 - Rótula Estr. Cristiano Kraemer × Av. Juca Batista (preliminar)
    - [ ] Outro: ______________________________
 <!-- END pontos:bare-mais-critico -->
 
@@ -80,7 +80,7 @@ Marque os pontos que você usa ou observa com frequência:
    - [ ] P6 - Acesso à Av. Dr. Vergara (R. Florestan Fernandes / Estr. Kanazawa)
    - [ ] P7 - Acesso à Estr. Costa Gama (bairro→centro) sem conversão à esquerda
    - [ ] P8 - Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante
-   - [ ] P9 - Rótula da Vila Nova (Estr. Cristiano Kraemer) (preliminar)
+   - [ ] P9 - Rótula Estr. Cristiano Kraemer × Av. Juca Batista (preliminar)
    - [ ] Outro: ______________________________
 <!-- END pontos:bare-segundo -->
 
