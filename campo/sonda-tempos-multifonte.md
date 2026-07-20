@@ -47,6 +47,20 @@ O acesso ao Waze usa a biblioteca não oficial `WazeRouteCalculator`
 (`SEM_LIB`) e as demais seguem. É **zona cinzenta de ToS** e pode mudar/limitar — por isso
 entra com pausa entre chamadas e é apenas confirmação, nunca o backbone.
 
+### Fuso horario (armadilha em container/cron)
+
+A sonda decide a cadencia pela hora **local do sistema** (`datetime.now()`). Containers Docker
+rodam em **UTC por padrao** — nesse caso as janelas de pico caem 3h fora (no Brasil), e a sonda
+coleta denso na madrugada e esparso no pico real. Vale o mesmo para a
+[sonda Google](sonda-tempos-google.md), que usa a mesma premissa.
+
+- **Container:** defina `TZ=America/Sao_Paulo` no `environment` do servico.
+- **Cron:** garanta `TZ=America/Sao_Paulo` no topo do crontab.
+- **Confira** com `docker exec <container> date` antes de confiar na serie.
+
+Se a serie ja foi coletada em UTC, ela continua valida — basta normalizar (deslocar -3h) antes
+de analisar, para nao misturar fusos no mesmo arquivo.
+
 ## Setup (uma vez, ~10 min)
 
 1. **TomTom:** conta grátis em [developer.tomtom.com](https://developer.tomtom.com) →
