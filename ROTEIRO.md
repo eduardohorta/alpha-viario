@@ -51,7 +51,7 @@ ou apoio a uma vistoria técnica, mas não condicionam a consolidação nem o pr
 |-----|---------|--------|
 | **10/jul** ✅ | Pedidos LAI 1–7 protocolados no e-SIC ([acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento)); instrumentos de questionário montados, mas em espera; sonda de tempos de viagem ligada ([setup](campo/sonda-tempos-google.md)) | A, C |
 | **15/jul** ⚠️ | Decisões mínimas da comissão por reunião ou mensagem: quem assina, canal, D2/D3 e P9. **Não houve reunião — Plano B acionado em 15/07** (mensagem com as decisões reduzidas enviada; aguardando resposta). | B |
-| **20/jul–03/ago** | Sonda acumula série nos picos; gabinete confere continuidade e qualidade. Acompanhar os pedidos LAI até o prazo ordinário de resposta. | A, C, D |
+| **20/jul–03/ago** | Sonda acumula série nos picos; gabinete confere continuidade e qualidade. Acompanhar os pedidos LAI até o prazo ordinário de resposta. **Pedidos 2 e 3 já respondidos em 21/07** — P7: projeto aprovado obtido e **caducado**, incorporado ao dossiê; desdobrou-se o **Pedido 8 à PGM** (saldo das obrigações + desapropriações), a protocolar. | A, D |
 | **03/ago** | Respostas LAI recebidas, ou prorrogações/atrasos registrados no [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento). | A |
 | **10/ago** | Agregados preliminares da sonda + respostas LAI incorporados à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md); pré-pauta e peças para a reunião de 13/8. | A→D, C→D |
 | **13/ago** | Comissão valida pontos e peças, define assinatura/canal e encaminha o protocolo com pedido explícito de vistoria e dados técnicos da EPTC. | B |

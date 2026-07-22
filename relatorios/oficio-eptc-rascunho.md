@@ -21,7 +21,7 @@ Prezados(as) Senhores(as),
 
 3. Registramos, em especial, a **sinergia** entre um desses pontos (confluência da Estr. Cristiano Kraemer com a Av. Monte Cristo) e o **projeto de qualificação viária da Av. Monte Cristo** já conduzido por essa Empresa, o que pode favorecer ganhos de eficiência, sem prejuízo da segurança e dos modos vulneráveis.
 
-4. Expedientes administrativos do licenciamento do Alphaville também registram **Plano Funcional aprovado para a Estr. das Três Meninas**, intervenções em interseções e conexão em etapas com a Estr. Costa Gama. A documentação examinada indica execução parcial em 2013, mas não permite determinar quais desenhos continuam vigentes nem o saldo atual das obras e desapropriações.
+4. Expedientes administrativos do licenciamento do Alphaville também registram **Plano Funcional aprovado para a Estr. das Três Meninas**, intervenções em interseções e conexão em etapas com a Estr. Costa Gama. Respostas a pedidos de acesso à informação (jul/2026) já confirmaram que a **conexão Três Meninas–Costa Gama teve projeto geométrico aprovado na CTAAPS em 2013, em duas etapas, hoje caducado** (Decreto nº 20.659/2020), remetendo o saldo das obrigações e as desapropriações à Procuradoria-Geral do Município. Requer-se, assim, além dos desenhos vigentes, a **avaliação de revalidação/atualização** das soluções já projetadas para os pontos abrangidos.
 
 5. Diante do exposto, e na condição de **colaboradores da atuação técnica da EPTC/SMMU**, solicitamos:
    a) **vistoria técnica conjunta** dos oito pontos indicados;

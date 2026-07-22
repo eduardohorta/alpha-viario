@@ -20,6 +20,11 @@ consultas/respostas/resumo-respostas.md
 # no dossiê ao fim da campanha; o cadastro de rotas é versionado)
 dados/brutos/tempos_viagem/
 
+# Retornos de protocolos LAI (respostas administrativas brutas + anexos) — como os
+# expedientes-únicos, ficam fora do repositório público; só os fatos institucionais
+# são transcritos para o dossiê (ver relatorios/projetos-viarios-ja-aprovados.md)
+retornos-protocolos/
+
 # Documento privado (termo de compromisso) — não publicar
 TC Alphaville.pdf
 

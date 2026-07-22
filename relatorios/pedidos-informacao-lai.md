@@ -143,6 +143,45 @@ encaminhamento interno no que couber).
 > Costa Gama × Estr. Afonso Lourenço Mariante e do cruzamento Av. João Salomoni ×
 > Av. da Cavalhada.
 
+## Pedido 8 — PGM: saldo das obrigações do Termo de Compromisso e desapropriações (P7)
+
+**Órgão:** Procuradoria-Geral do Município (PGM).
+**Origem:** desdobramento das respostas aos **Pedidos 2 e 3** (jul/2026) — a SMOI/DPOV
+declarou que o **saldo das obrigações** e o **andamento das desapropriações** estão **fora
+do seu escopo**, por se tratar de obras oriundas de Termo de Compromisso, e remeteu à PGM.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, solicito, quanto às obrigações viárias do **Termo de
+> Compromisso nº 41.198, de 06/07/2009, e seu segundo aditamento nº 53.107, de 23/08/2013**
+> (Expediente Único **002.302984.00.0**, empreendimento Alphaville Porto Alegre): (a) o
+> **saldo das obrigações viárias ainda não cumpridas**, em especial a solução definitiva da
+> interseção Estrada das Três Meninas × Estrada Costa Gama; (b) o **status atual das
+> desapropriações** necessárias a essa solução definitiva; e (c) informação sobre se a
+> **caducidade do projeto complementar** correspondente (validade de 4 anos, art. do Decreto
+> nº 20.659/2020) **extingue ou não a obrigação de fazer** assumida no Termo de Compromisso —
+> ou seja, se a obrigação de implantar a solução definitiva permanece exigível
+> independentemente da revalidação do projeto.
+
+---
+
+## Respostas recebidas
+
+> As respostas administrativas brutas e seus anexos ficam em `retornos-protocolos/` (fora do
+> repositório público, como os expedientes-únicos). Abaixo, apenas os fatos institucionais.
+
+- **Pedido 2 (017393-26-38) — respondido, parcial.** A SMOI encaminhou o **Termo de
+  Recebimento Provisório de 10/04/2013** (pavimentação da Estr. das Três Meninas, estacas
+  1200+17 m a 2940 m, obra da PEDRACCON Mineração Ltda.) e informou que o **saldo das
+  obrigações não está no seu escopo — verificar com a PGM**. → gera o **Pedido 8**.
+- **Pedido 3 (017394-26-96) — respondido.** A SMOI/DPOV (a) entregou o **projeto geométrico
+  aprovado na CTAAPS em 2013** (1ª etapa sem desapropriação, proc. …09884, e solução
+  definitiva com conector a oeste, proc. …0980); (b) informou **não deter** a informação
+  sobre as **desapropriações** (obras de Termo de Compromisso → PGM); e (c) declarou que,
+  pelo **Decreto nº 20.659/2020** (projetos complementares valem 4 anos), o **projeto não
+  está mais válido** — caducou. Leitura detalhada em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#respostas-lai-de-julho-de-2026-o-projeto-do-p7-foi-obtido-e-caducou).
+
 ---
 
 ## Acompanhamento
@@ -150,12 +189,13 @@ encaminhamento interno no que couber).
 | Pedido | Órgão | Data do protocolo | Nº do protocolo | Prazo (20 dias) | Situação |
 |--------|-------|-------------------|-----------------|-----------------|----------|
 | 1 — Desenhos do Plano Funcional | SMAMUS | 10/07/2026 | 017392-26-80 | 03/08/2026 | aguardando resposta |
-| 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | aguardando resposta |
-| 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | aguardando resposta |
+| 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | **respondido (21/07/2026) — parcial:** TRP de 2013 fornecido; saldo das obrigações → PGM (Pedido 8) |
+| 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (21/07/2026):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
 | 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | 03/08/2026 | aguardando resposta |
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | 03/08/2026 | aguardando resposta |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | 03/08/2026 | aguardando resposta |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | 03/08/2026 | aguardando resposta |
+| 8 — Saldo das obrigações e desapropriações (P7) | PGM | *a protocolar* | — | — | redigido (desdobramento dos Pedidos 2 e 3) |
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a

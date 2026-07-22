@@ -3,6 +3,8 @@
 > **Achado documental:** o licenciamento do Alphaville Porto Alegre gerou obrigações viárias formalizadas em 2009 e ajustadas em 2013. O processo administrativo registra um **Plano Funcional da Estrada das Três Meninas aprovado na SMT/EPTC**, uma conexão em etapas com a Estrada Costa Gama e intervenções em interseções associadas. Portanto, parte do projeto atual deve ser formulada como **verificação, atualização e eventual conclusão de soluções já projetadas**, não como estudo integralmente novo.
 >
 > **Limite da evidência:** os documentos comprovam o histórico de aprovação, obrigações e execução parcial, mas **não comprovam o status administrativo ou físico em 2026**. A vigência, as substituições posteriores, as desapropriações e o que falta executar devem ser confirmados nos processos atuais da Prefeitura.
+>
+> **Atualização (jul/2026):** as respostas LAI aos Pedidos 2 e 3 já confirmaram parte disso — o projeto do P7 foi **obtido** e está **caducado**; ver a seção [Respostas LAI de julho de 2026](#respostas-lai-de-julho-de-2026-o-projeto-do-p7-foi-obtido-e-caducou).
 
 ## Fontes administrativas examinadas
 
@@ -50,7 +52,7 @@ O segundo aditamento confirma um projeto geométrico aprovado e divide a implant
 
 Correspondência administrativa de agosto de 2013 informa que a nova ligação Costa Gama–Três Meninas já tinha projeto aprovado na CTAAPS, enquanto interseções estavam em reapreciação.
 
-Isso confirma a existência histórica de uma **conexão projetada em duas etapas**, mas as peças examinadas não permitem afirmar com segurança que sua geometria seja especificamente uma **alça de conversão à esquerda**. Essa denominação deve permanecer como hipótese comunitária até a identificação do desenho geométrico correspondente.
+Isso confirma a existência histórica de uma **conexão projetada em duas etapas**. À época deste registro, as peças examinadas ainda não permitiam afirmar com segurança que sua geometria fosse especificamente uma **alça de conversão à esquerda**. **A resposta ao Pedido 3 (jul/2026) trouxe o desenho geométrico** e permite ir além: a solução definitiva inclui um **conector canalizado a oeste, com ilha triangular e travessias**, dependente de desapropriação — ver [Respostas LAI de julho de 2026](#respostas-lai-de-julho-de-2026-o-projeto-do-p7-foi-obtido-e-caducou). A denominação exata do movimento ainda pode ser refinada, mas a estrutura em duas etapas com conector a oeste deixou de ser hipótese.
 
 ## Evidência de execução parcial
 
@@ -64,6 +66,43 @@ Não foram localizados, no conjunto examinado, documentos suficientes para afirm
 - implantação definitiva da interseção com a Costa Gama;
 - adequação das obras antigas às condições atuais de tráfego e segurança.
 
+## Respostas LAI de julho de 2026: o projeto do P7 foi obtido e caducou
+
+> As respostas aos **Pedidos 2 e 3** da [trilha LAI](pedidos-informacao-lai.md) chegaram em
+> **21/07/2026**, antes do prazo legal. Os documentos brutos e anexos ficam em
+> `retornos-protocolos/` (fora do repositório público, como os expedientes-únicos); abaixo,
+> apenas os fatos institucionais.
+
+**Pedido 3 — conexão Três Meninas × Costa Gama (P7), protocolo 017394-26-96.** A SMOI/DPOV:
+
+1. **Entregou o projeto geométrico** aprovado na CTAAPS em 2013 — pranchas cobrindo as duas
+   versões referidas: a **1ª etapa**, em área não sujeita a desapropriação (processo
+   `002.302984.00.0.09884`), e a **solução definitiva** da interseção (processo
+   `002.302984.00.0.0980`), com planta planimétrica, perfis longitudinais das duas estradas
+   e seções transversais. A solução definitiva acrescenta, na aproximação **oeste**, um
+   **conector viário canalizado com ilha triangular divisória e travessias de pedestres** —
+   geometria dependente da desapropriação. Isso **identifica o desenho** que a comunidade
+   vinha chamando de "alça": deixa de ser hipótese. A denominação exata do movimento ainda
+   pode ser refinada na leitura das pranchas, mas a **estrutura em duas etapas, com conector
+   a oeste na solução definitiva**, está confirmada documentalmente.
+2. **Não detém** a informação sobre as **desapropriações** da solução definitiva ("obras
+   oriundas de Termo de Compromisso") e remete à **PGM**.
+3. Declarou que, pelo **Decreto nº 20.659/2020** (projetos complementares têm validade de
+   4 anos), **o projeto não está mais válido** — caducou. Ou seja: houve solução aprovada,
+   ela **nunca foi integralmente implantada** e **perdeu a validade**.
+
+**Pedido 2 — execução e recebimentos, protocolo 017393-26-38.** A SMOI encaminhou o **Termo
+de Recebimento Provisório de 10/04/2013** (pavimentação da Estr. das Três Meninas, estacas
+1200+17 m a 2940 m, obra da PEDRACCON Mineração Ltda.) e informou que o **saldo das
+obrigações não está no seu escopo — verificar com a PGM**.
+
+**Consequência.** O eixo do P7 deixa de ser "estudar um acesso novo" e passa a ser
+**revalidar/concluir uma solução que a própria cidade aprovou e deixou caducar**. Abrem-se
+duas frentes: (a) **técnica** — revalidar/atualizar o projeto geométrico junto à EPTC/SMMU;
+(b) **jurídica/administrativa** — apurar com a **PGM** o **saldo das obrigações do Termo de
+Compromisso** e se a caducidade do projeto complementar **extingue ou não a obrigação de
+fazer** (novo **Pedido 8**, à PGM, na [trilha LAI](pedidos-informacao-lai.md)).
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -72,7 +111,7 @@ Não foram localizados, no conjunto examinado, documentos suficientes para afirm
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Parcial e explícita nos acessos** | P6 | Kanazawa e Florestan Fernandes receberam exigência de estudos/projetos; a rota completa até a Dr. Vergara não está coberta. |
-| **Direta** | P7 | Conexão e interseção Três Meninas–Costa Gama previstas em duas etapas; geometria final, desapropriações e execução atual precisam ser confirmadas. |
+| **Direta — projeto obtido (jul/2026)** | P7 | Conexão e interseção Três Meninas–Costa Gama em duas etapas, com **projeto geométrico agora em mãos** (1ª etapa + solução definitiva com conector a oeste). O projeto **caducou** (Dec. 20.659/2020); desapropriações e saldo das obrigações ficaram com a **PGM** (Pedido 8). |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 
@@ -87,3 +126,5 @@ O encaminhamento deve solicitar à Prefeitura:
 5. avaliação técnica atual: o que pode ser aproveitado, o que precisa ser atualizado e o que foi superado por projetos posteriores.
 
 Até essa resposta, a formulação pública correta é: **há projetos e obrigações historicamente documentados, com evidência de execução parcial; o saldo e a adequação atual permanecem a confirmar**.
+
+**Para o P7, a resposta já veio** (jul/2026) e afina o item 3: o projeto definitivo Três Meninas–Costa Gama **existiu, foi aprovado e caducou**; o saldo das obrigações e as desapropriações estão com a **PGM** (Pedido 8). A formulação pública correta para o P7 passa a ser: **a cidade projetou e aprovou uma solução, não a implantou e a deixou caducar — pede-se revalidá-la/concluí-la e apurar as obrigações do Termo de Compromisso**.

@@ -44,10 +44,14 @@ Capturas do Google Maps (e, se acionada, coleta física) → registradas em
 `campo/observacoes/inventario-evidencias.csv` com classificação **público/interno**.
 
 ### 4. Documentos oficiais (LAI) e questionário
-Os 7 [pedidos LAI](relatorios/pedidos-informacao-lai.md) foram protocolados; as respostas
-entram na [matriz de status](relatorios/matriz-publica-status-plano-funcional.md). O
-questionário e seu pipeline (`make respostas`) estão **prontos, em espera** — só circulam
-se a comissão decidir (aí o [aviso de privacidade](consultas/moradores/aviso-privacidade.md)
+Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (7 protocolados + o Pedido 8 à PGM,
+desdobrado das respostas) buscam o que só a Prefeitura tem. **As respostas brutas ficam em
+`retornos-protocolos/` (gitignored)**; só os **fatos institucionais** são transcritos para o
+[documento de projetos aprovados](relatorios/projetos-viarios-ja-aprovados.md) e a
+[matriz de status](relatorios/matriz-publica-status-plano-funcional.md) — mesmo padrão dos
+expedientes-únicos. As duas primeiras respostas (jul/2026) confirmaram e caducaram o projeto
+do P7. O questionário e seu pipeline (`make respostas`) estão **prontos, em espera** — só
+circulam se a comissão decidir (aí o [aviso de privacidade](consultas/moradores/aviso-privacidade.md)
 volta a ser exigido).
 
 ## Cadastro canônico + governança
@@ -64,7 +68,8 @@ volta a ser exigido).
 - **Chave da Routes API** — só no ambiente da Google Cloud.
 - Nomes reais de moradores (anonimizados como Morador A/B); `interno/termos-sensiveis.txt`
   (privado) liga a checagem que bloqueia vazamento.
-- Expedientes administrativos brutos, revisões internas (CODEX) e estratégia jurídica — `interno/`.
+- Expedientes administrativos brutos e **retornos de protocolos LAI** (`retornos-protocolos/`),
+  revisões internas (CODEX) e estratégia jurídica — `interno/`.
 
 ## Comandos-chave
 `make check` · `make release-check` · `make test` · `make data` · `make sonda-agg` ·

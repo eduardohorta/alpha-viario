@@ -1,6 +1,6 @@
 # Matriz pública de status - Plano Funcional
 
-> Atualizada em **2026-07-01** após exame dos Expedientes Únicos `002.302984.00.0`, `002.322284.00.5` e `002.322291.00.8`. A coluna “previsão documental” registra o histórico administrativo; **não equivale a confirmação de implantação ou vigência atual**.
+> Atualizada em **2026-07-22** (base de 2026-07-01, após exame dos Expedientes Únicos `002.302984.00.0`, `002.322284.00.5` e `002.322291.00.8`; **respostas LAI dos Pedidos 2 e 3 incorporadas ao P7**). A coluna “previsão documental” registra o histórico administrativo; **não equivale a confirmação de implantação ou vigência atual**.
 
 | Item | Ponto | Previsão documental | Evidência de execução localizada | Verificação atual necessária |
 |---|---|---|---|---|
@@ -10,8 +10,8 @@
 | Corredor diante do Alphaville | Eixo/D1/D2 | Gabarito de 30 m, pistas, canteiro central, ciclovia, hipovia, paradas e travessias | Execução parcial do corredor documentada, sem correspondência segura por trecho | Seção atual, passeios, ciclovia/hipovia, retornos, paradas e acessibilidade |
 | Encontros Três Meninas × Kanazawa e × Florestan Fernandes | P6 | Novos estudos geométricos e projetos de pavimento exigidos em 2013 | Não localizada | Existência/aprovação dos projetos e eventual execução; a rota completa até Dr. Vergara continua fora da comprovação |
 | Corredor final do Alphaville → Costa Gama | P7 | Pista de 12 m e passeios; projetos complementares e desapropriações previstos | Não individualizada | Trecho efetivamente implantado, desapropriações e seção atual |
-| Conexão/interseção Três Meninas × Costa Gama | P7 | Projeto geométrico aprovado; implantação em etapa sem desapropriação e solução definitiva após desapropriações | Correspondência de 2013 informa nova ligação aprovada na CTAAPS | Identificar desenho aprovado, conferir primeira etapa e apurar situação da solução definitiva |
-| “Alça à esquerda” relatada | P7 | **Geometria não confirmada**; os documentos confirmam uma conexão em duas etapas, não sua forma exata | Não localizada | Obter desenho geométrico e verificar se existe alça, retorno ou outra canalização |
+| Conexão/interseção Três Meninas × Costa Gama | P7 | Projeto geométrico aprovado; implantação em etapa sem desapropriação e solução definitiva após desapropriações | **Projeto obtido via LAI (jul/2026)**: pranchas da 1ª etapa (proc. …09884) e da solução definitiva (proc. …0980), aprovadas na CTAAPS em 2013 — **hoje caducadas** (Dec. 20.659/2020) | Revalidar/atualizar o projeto junto à EPTC/SMMU; apurar desapropriações e saldo de obrigações com a **PGM** (Pedido 8) |
+| “Alça à esquerda” relatada | P7 | Geometria **identificada** no projeto obtido: solução definitiva com **conector canalizado a oeste, ilha triangular e travessias**, dependente de desapropriação | Desenho geométrico em mãos (retorno do Pedido 3) | Refinar a denominação exata do movimento na leitura das pranchas; confirmar se corresponde à demanda comunitária |
 | Belém Velho/Sarmento Barata × Costa Gama/Oscar Pereira | Entorno P8 | Adequação geométrica expressa | Não individualizada | Status atual, se a comissão mantiver o item no escopo; não confundir com P8/Afonso Mariante |
 | Sinalização vertical, horizontal e semafórica do eixo | Transversal | Projetos e implantação previstos no termo de 2009 | Correspondência de 2013 indica projetos em reapreciação | Projetos vigentes e sinalização efetivamente implantada |
 | Paradas de ônibus, travessias e acessibilidade | Transversal | Recuos de parada e travessias semaforizadas previstos diante dos condomínios | Não individualizada | Fotos, acessibilidade, posição das paradas e condições de travessia |
@@ -21,6 +21,7 @@
 
 - **Confirmado documentalmente:** Plano Funcional aprovado; obrigações sobre P1, P2, acessos de P6 e P7; conexão Costa Gama em duas etapas.
 - **Confirmado parcialmente:** houve recebimento provisório de pavimentação de um trecho da Estrada das Três Meninas em 2013.
-- **Ainda não confirmado:** geometria de “alça” em P7, correspondência das estacas, recebimento definitivo, desapropriações concluídas e saldo atual das obras.
+- **Confirmado pelas respostas LAI (jul/2026):** o **projeto do P7** (Três Meninas × Costa Gama) foi **obtido** — 1ª etapa e solução definitiva, com conector a oeste — e **caducou** (Dec. 20.659/2020); o saldo das obrigações e as desapropriações estão com a **PGM**.
+- **Ainda não confirmado:** correspondência das estacas, recebimento definitivo, desapropriações concluídas e saldo atual das obras (Pedido 8, à PGM, em aberto).
 
 Fonte e interpretação detalhada: [projetos viários documentados](projetos-viarios-ja-aprovados.md).

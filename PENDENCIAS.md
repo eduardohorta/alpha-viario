@@ -13,10 +13,11 @@
 - [x] **[G]** Redigir os **pedidos LAI** para as informações que só a Prefeitura tem: [pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md).
 - [x] **[C/F]** **Protocolar os pedidos LAI 1–7** no e-SIC e registrar números/datas na tabela de acompanhamento (o 7 cobre dados de tráfego da EPTC: Waze for Cities, contagens, planos semafóricos). Protocolados em 10/07/2026, prazo 03/08/2026 — ver [tabela de acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [ ] **[C]** *(LAI — pedido 1)* Obter cópia **identificada e legível dos desenhos vigentes** do Plano Funcional — inclusive Anexo 7, projeto geométrico reaprovado em 2013 e eventuais substituições — via EPTC/SMMU/SMAMUS.
-- [ ] **[C/G]** *(LAI — pedido 2)* Solicitar quadro oficial de **execução por trecho/interseção**, reconciliando as estacas do Plano Funcional com o trecho provisoriamente recebido em 2013 e distinguindo recebimento provisório, definitivo e saldo pendente.
+- [ ] **[C/G]** *(LAI — pedido 2)* **Respondido parcialmente (21/07/2026):** SMOI forneceu o TRP de 2013 e **remeteu o saldo das obrigações à PGM**. Falta o quadro oficial de **execução por trecho/interseção** e a reconciliação de estacas → cobrado no **Pedido 8 (PGM)**.
 - [ ] **[G]** Atualizar o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) com os achados dos expedientes e completá-lo quando os desenhos identificados chegarem.
 - [ ] **[G]** *(LAI — pedido 5)* Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
-- [ ] **[C/G]** *(LAI — pedido 3)* Obter o desenho da **conexão/interseção Três Meninas ↔ Costa Gama** (**P7**) e confirmar geometria, primeira etapa, solução definitiva e desapropriações. Não designar a solução como “alça” antes dessa conferência.
+- [x] **[C/G]** *(LAI — pedido 3)* **Respondido (21/07/2026):** desenho da **conexão Três Meninas ↔ Costa Gama (P7) obtido** — 1ª etapa (proc. …09884) e solução definitiva com **conector a oeste** (proc. …0980); projeto **caducado** (Dec. 20.659/2020); desapropriações remetidas à PGM. Geometria da “alça” **identificada** e incorporada aos [projetos documentados](relatorios/projetos-viarios-ja-aprovados.md).
+- [ ] **[C/F]** **Protocolar o Pedido 8 (PGM)** — saldo das obrigações do Termo de Compromisso e status das desapropriações do P7, incluindo se a caducidade do projeto extingue a obrigação de fazer. Texto pronto em [pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md). Desdobramento das respostas 2 e 3.
 - [ ] **[G]** *(LAI — pedido 6)* **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
 - [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
@@ -51,7 +52,7 @@ vistoria técnica da EPTC, sem função de gate.
 - [x] **[G]** **Georreferenciar preliminarmente P9/D1–D4/P7**: ver [georreferenciamento](dados/tratados/georreferenciamento_referencias_demandas.md). Referências de baixa confiança seguem sujeitas à validação por bases oficiais, imagem aérea ou vistoria técnica da EPTC.
 - [x] **[G]** Esboçar **matriz pública de status** do Plano Funcional: ver [matriz pública](relatorios/matriz-publica-status-plano-funcional.md).
 - [x] **[G]** Incorporar à matriz as previsões textuais, o aditamento de 2013 e a evidência de execução parcial localizadas nos expedientes.
-- [ ] **[G]** Incorporar à matriz os **desenhos identificados** do Plano Funcional e mapear suas estacas quando obtidos.
+- [ ] **[G]** Incorporar à matriz os **desenhos identificados** do Plano Funcional e mapear suas estacas quando obtidos. **P7 feito (jul/2026)** — projeto Costa Gama incorporado; os demais desenhos dependem dos Pedidos 1 e 4.
 - [ ] **[G]** Manter a **versão enxuta da matriz** ([anexo](relatorios/anexo-matriz-pontos.md)) atualizada.
 - [x] **[G]** Reclassificar o [plano de evidência leve](campo/plano-evidencia-leve.md) e o roteiro de campo como referências de contingência/vistoria técnica, sem função de gate.
 - [x] **[G]** Gerar o **mapa dos pontos P1–P9** do cadastro canônico ([mapa](mapas/mapa-pontos.png), `make mapa`) e incluí-lo no anexo externo.
