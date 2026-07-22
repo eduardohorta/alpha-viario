@@ -67,7 +67,32 @@ As **cinco diretrizes centrais do novo PDUS** são: adaptação às mudanças cl
 
 ### 6.2 Enquadramento territorial e canais de protocolo
 - **Vila Nova:** Subprefeitura **Centro-Sul (Região 12 do OP)**; **Região de Planejamento 6 (Centro-Sul e Sul)** para fins de Plano Diretor.
-- ⚠️ **Os 8 pontos cruzam mais de uma região:** Vila Nova está na RP6 / Subprefeitura Centro-Sul, mas **Belém Velho aparece na Região de Planejamento 5 (Glória, Cruzeiro e Cristal)** e Costa Gama/Cavalhada podem envolver outras instâncias — **confirmar a região/subprefeitura de cada ponto**. Por isso o interlocutor central é a **EPTC/SMMU** (competência sobre todas as vias municipais), com as subprefeituras como apoio territorial.
+- ✅ **Bairro/subprefeitura de cada ponto — confirmado em 2026-07-22** por consulta geoespacial
+  (ponto-em-polígono) à camada oficial de bairros da SMAMUS (Lei Complementar 12.112/16):
+
+  | Ponto | Bairro oficial | Região do OP / Subprefeitura | RP (Plano Diretor) |
+  |---|---|---|---|
+  | P1 | Vila Nova | Região 12 – Centro-Sul | RP6 |
+  | P2 | Vila Nova | Região 12 – Centro-Sul | RP6 |
+  | P3 | Vila Nova | Região 12 – Centro-Sul | RP6 |
+  | P4 (corredor) | Vila Nova → Cavalhada (as duas pontas) | Região 12 – Centro-Sul (integralmente) | RP6 |
+  | P5 | Cavalhada | Região 12 – Centro-Sul | RP6 |
+  | P6 (rota) | Vila Nova → **Belém Velho** (extremidade próxima à Dr. Vergara) | Região 12 – Centro-Sul → **Região 9 – Glória** | RP6 → **RP5** |
+  | P7 | Vila Nova | Região 12 – Centro-Sul | RP6 |
+  | P8 | **Belém Velho** | **Região 9 – Glória** | **RP5** |
+  | P9 | Campo Novo | Região 12 – Centro-Sul | RP6 |
+
+  **Achado:** 7 dos 9 pontos ficam **integralmente** na Região 12 – Centro-Sul, confirmando o
+  default já usado no memorando/ofício. Só **P8** (semáforo Costa Gama × Afonso Lourenço
+  Mariante) e a **extremidade do P6** (acesso rumo à Av. Dr. Vergara) caem na **Região 9 –
+  Glória** — subprefeitura distinta da Centro-Sul, não a "Região Sul/15" que se cogitava
+  inicialmente. O interlocutor central segue sendo a **EPTC/SMMU** (competência sobre todas as
+  vias municipais); a Subprefeitura Glória é apoio territorial adicional só para P8 e o trecho
+  final do P6.
+  *Metodologia: consulta `esriGeometryPoint` às coordenadas de `dados/pontos.csv` contra
+  `gis-smamus.portoalegre.rs.gov.br/.../A02_SOLO_CRIADO/bairros/MapServer/0`; bairro → região/
+  subprefeitura via [lista oficial de subprefeituras](https://prefeitura.poa.br/carta-de-servicos/subprefeituras);
+  região → RP via [Regiões de Planejamento do Plano Diretor](https://prefeitura.poa.br/planodiretor/regiao-de-planejamento-6).*
 - **Canais de protocolo identificados:**
   - **EPTC – Solicitações de Trânsito** (formulário online) — canal direto para demandas de trânsito/sinalização.
   - **Subprefeitura Centro-Sul** (e demais instâncias territoriais pertinentes, conforme o trecho) — canal territorial.

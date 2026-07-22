@@ -19,7 +19,7 @@
 - [x] **[C/G]** *(LAI — pedido 3)* **Respondido (21/07/2026):** desenho da **conexão Três Meninas ↔ Costa Gama (P7) obtido** — 1ª etapa (proc. …09884) e solução definitiva com **conector a oeste** (proc. …0980); projeto **caducado** (Dec. 20.659/2020); desapropriações remetidas à PGM. Geometria da “alça” **identificada** e incorporada aos [projetos documentados](relatorios/projetos-viarios-ja-aprovados.md).
 - [x] **[C/F]** **Pedido 8 (PGM) protocolado em 22/07/2026** (nº 017520-26-22, prazo 11/08/2026) — saldo das obrigações do Termo de Compromisso e status das desapropriações do P7, incluindo se a caducidade do projeto extingue a obrigação de fazer. Desdobramento das respostas 2 e 3. Ver [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [ ] **[G]** *(LAI — pedido 6)* **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
-- [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
+- [x] **[G]** **Subprefeitura/região de cada ponto — confirmado (22/07/2026)** por consulta geoespacial à camada oficial de bairros: 7 dos 9 pontos ficam integralmente na Região 12 – Centro-Sul (RP6); só o P8 e a extremidade do P6 caem na Região 9 – Glória (RP5). Ver [tabela e metodologia](relatorios/revisao-documental.md#62-enquadramento-territorial-e-canais-de-protocolo).
 - [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
 
 ## B. Evidência documental e de dados

@@ -80,7 +80,8 @@ A, C e D. Se não houver reunião até **15/jul**:
 ## 5. Defaults propostos pelo gabinete (a confirmar pela comissão)
 
 - **Canal de protocolo:** EPTC – Solicitações de Trânsito, com cópia à Subprefeitura
-  Centro-Sul.
+  Centro-Sul (cobre 7 dos 9 pontos) e, especificamente para o P8 e a extremidade do P6,
+  também à Subprefeitura Glória — ver [mapeamento por ponto](relatorios/revisao-documental.md#62-enquadramento-territorial-e-canais-de-protocolo).
 - **Questionário:** manter em espera; só definir responsável, retenção e meta de respostas
   se a comissão decidir reabrir essa frente.
 
