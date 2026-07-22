@@ -195,7 +195,7 @@ do seu escopo**, por se tratar de obras oriundas de Termo de Compromisso, e reme
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | 03/08/2026 | aguardando resposta |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | 03/08/2026 | aguardando resposta |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | 03/08/2026 | aguardando resposta |
-| 8 — Saldo das obrigações e desapropriações (P7) | PGM | *a protocolar* | — | — | redigido (desdobramento dos Pedidos 2 e 3) |
+| 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | 11/08/2026 | aguardando resposta |
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a

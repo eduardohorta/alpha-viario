@@ -44,8 +44,8 @@ Capturas do Google Maps (e, se acionada, coleta física) → registradas em
 `campo/observacoes/inventario-evidencias.csv` com classificação **público/interno**.
 
 ### 4. Documentos oficiais (LAI) e questionário
-Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (7 protocolados + o Pedido 8 à PGM,
-desdobrado das respostas) buscam o que só a Prefeitura tem. **As respostas brutas ficam em
+Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (8 protocolados — o Pedido 8, à PGM,
+desdobrado das respostas 2 e 3) buscam o que só a Prefeitura tem. **As respostas brutas ficam em
 `retornos-protocolos/` (gitignored)**; só os **fatos institucionais** são transcritos para o
 [documento de projetos aprovados](relatorios/projetos-viarios-ja-aprovados.md) e a
 [matriz de status](relatorios/matriz-publica-status-plano-funcional.md) — mesmo padrão dos

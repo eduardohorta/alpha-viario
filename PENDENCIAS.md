@@ -17,7 +17,7 @@
 - [ ] **[G]** Atualizar o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) com os achados dos expedientes e completá-lo quando os desenhos identificados chegarem.
 - [ ] **[G]** *(LAI — pedido 5)* Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).
 - [x] **[C/G]** *(LAI — pedido 3)* **Respondido (21/07/2026):** desenho da **conexão Três Meninas ↔ Costa Gama (P7) obtido** — 1ª etapa (proc. …09884) e solução definitiva com **conector a oeste** (proc. …0980); projeto **caducado** (Dec. 20.659/2020); desapropriações remetidas à PGM. Geometria da “alça” **identificada** e incorporada aos [projetos documentados](relatorios/projetos-viarios-ja-aprovados.md).
-- [ ] **[C/F]** **Protocolar o Pedido 8 (PGM)** — saldo das obrigações do Termo de Compromisso e status das desapropriações do P7, incluindo se a caducidade do projeto extingue a obrigação de fazer. Texto pronto em [pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md). Desdobramento das respostas 2 e 3.
+- [x] **[C/F]** **Pedido 8 (PGM) protocolado em 22/07/2026** (nº 017520-26-22, prazo 11/08/2026) — saldo das obrigações do Termo de Compromisso e status das desapropriações do P7, incluindo se a caducidade do projeto extingue a obrigação de fazer. Desdobramento das respostas 2 e 3. Ver [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [ ] **[G]** *(LAI — pedido 6)* **Zoneamento de Vila Nova no novo PDUS** (Anexo 5 / Plataforma do Regramento Construtivo) — há adensamento previsto no entorno?
 - [ ] **[G]** **Subprefeitura/região de cada ponto** (a área cruza RP5 e RP6).
 - [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
