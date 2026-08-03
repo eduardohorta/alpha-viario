@@ -41,7 +41,11 @@ fontsize: 11pt
 - **Sonda:** verificar continuidade e gerar agregados por rota e horário: atraso versus
   fluxo livre, assimetria direcional no P4 e custo do retorno no P7. Declarar a janela de
   coleta e as limitações; não anexar nem publicar dados brutos da Google Routes API.
-- **LAIs:** até 03/08, incorporar respostas à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md) ou registrar prorrogação/atraso. O pedido 7 pode informar Waze for Cities, contagens e planos semafóricos existentes.
+- **LAIs:** Pedidos 1, 4, 5, 6, 7 foram **prorrogados para 13/08** (mesmo dia da reunião) —
+  incorporar à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md) as que já
+  chegaram (2, 3, possivelmente 8) e levar a reunião ciente de que o restante decide com
+  evidência parcial. O pedido 7 pode informar Waze for Cities, contagens e planos
+  semafóricos existentes.
 - **Peças:** atualizar o memorando e o anexo somente com fatos documentados e agregados,
   mantendo o pedido de validação técnica da EPTC.
 

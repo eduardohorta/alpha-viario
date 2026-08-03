@@ -188,14 +188,22 @@ do seu escopo**, por se tratar de obras oriundas de Termo de Compromisso, e reme
 
 | Pedido | Órgão | Data do protocolo | Nº do protocolo | Prazo (20 dias) | Situação |
 |--------|-------|-------------------|-----------------|-----------------|----------|
-| 1 — Desenhos do Plano Funcional | SMAMUS | 10/07/2026 | 017392-26-80 | 03/08/2026 | aguardando resposta |
+| 1 — Desenhos do Plano Funcional | SMAMUS | 10/07/2026 | 017392-26-80 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | **respondido (21/07/2026) — parcial:** TRP de 2013 fornecido; saldo das obrigações → PGM (Pedido 8) |
 | 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (21/07/2026):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
-| 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | 03/08/2026 | aguardando resposta |
-| 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | 03/08/2026 | aguardando resposta |
-| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | 03/08/2026 | aguardando resposta |
-| 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | 03/08/2026 | aguardando resposta |
+| 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | 11/08/2026 | aguardando resposta |
+
+**Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
+prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
+sob a justificativa de que "a informação não se encontra sistematizada" nos arquivos do órgão.
+Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** Só os Pedidos 2 e 3 (já
+respondidos) e o Pedido 8 (prazo 11/08) devem estar concluídos a tempo de embasar a pré-pauta
+de 10/08; os demais provavelmente chegam depois da reunião ou no próprio dia — ver
+[ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
