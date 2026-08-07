@@ -27,7 +27,14 @@ Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrang
 ## Uma oportunidade de sinergia
 O ponto 2 conversa diretamente com o **projeto da Prefeitura para a Av. Monte Cristo** (qualificação viária do PSVS, cujo trecho se encerra na Estr. Cristiano Kraemer). Acreditamos que parte das melhorias pode ser **integrada a iniciativas já em curso** no mesmo eixo, com ganho de eficiência **e sem prejuízo da segurança e dos modos vulneráveis**.
 
-Além disso, expedientes administrativos do licenciamento do Alphaville registram um **Plano Funcional aprovado para a Estr. das Três Meninas**, obrigações sobre interseções e uma conexão em etapas com a Estr. Costa Gama. **Respostas iniciais aos nossos pedidos de acesso à informação (jul/2026) já confirmam** que essa conexão (ponto 7) teve **projeto geométrico aprovado na CTAAPS em 2013 — em duas etapas — hoje caducado** (Decreto nº 20.659/2020), e que o saldo das obras e as desapropriações devem ser apurados junto à **Procuradoria-Geral do Município**. Ou seja: para vários pontos é possível **partir de soluções que a própria cidade já projetou**, a serem revalidadas, atualizadas e concluídas — não estudadas do zero.
+Além disso, a documentação oficial do licenciamento do Alphaville — reunida em jul–ago/2026 a partir de respostas aos nossos pedidos de acesso à informação e de documentos disponibilizados pela administração do empreendimento — mostra que **boa parte do que aqui se pede já foi pactuada, projetada e aprovada pelo próprio Município, sem conclusão**:
+
+- há um **Plano Funcional aprovado** para a Estr. das Três Meninas e um **Termo de Compromisso sem prazo de validade** (a cláusula que o limitava a 30 meses foi suprimida por aditivo em 2012);
+- o **Parecer CTAAPS nº 093/2020**, elaborado pelo Município, registra que **não foram implantadas** as segundas fases das interseções da Estr. das Três Meninas com a **Estr. Cristiano Kraemer (ponto 1)**, com a **Estr. Kanazawa e a R. Florestan Fernandes (ponto 6)** e com a **Estr. Costa Gama (ponto 7)**;
+- **três decretos de 23/12/2020** declararam de utilidade pública as áreas necessárias ao alargamento, inclusive a da **alça de ligação com a Estr. Costa Gama** (Decreto nº 20.860/2020);
+- o **projeto geométrico** dessa conexão, aprovado na CTAAPS em 2013, **perdeu a validade** (Decreto nº 20.659/2020) — e a própria **EPTC já recomendava, em 2020, revisar os projetos** em razão do tempo decorrido.
+
+Ou seja: para vários pontos é possível **partir de soluções que a própria cidade já projetou e cujas áreas já declarou de utilidade pública** — a serem revalidadas, atualizadas às condições atuais e concluídas, não estudadas do zero. O saldo das obrigações e a situação atual das desapropriações estão sendo apurados junto à **Procuradoria-Geral do Município**.
 
 ## Como pretendemos colaborar
 Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **medidas faseadas, começando pelas de menor custo** (sinalização, ajuste de tempos semafóricos, qualificação de rotas). Nossa intenção é **somar à atuação técnica da EPTC/SMMU**, não substituí-la.

@@ -25,6 +25,12 @@ dados/brutos/tempos_viagem/
 # são transcritos para o dossiê (ver relatorios/projetos-viarios-ja-aprovados.md)
 retornos-protocolos/
 
+# Documentação repassada pela administração do Alphaville à comissão (TC integral,
+# aditivos, pareceres e decretos de desapropriação). Contém nomes de proprietários,
+# CPF/RG e dados registrais — mesmo tratamento dos expedientes-únicos: só os fatos
+# institucionais entram no repositório público.
+nova-documentacao/
+
 # Documento privado (termo de compromisso) — não publicar
 TC Alphaville.pdf
 

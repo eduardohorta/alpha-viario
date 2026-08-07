@@ -44,8 +44,10 @@ Capturas do Google Maps (e, se acionada, coleta física) → registradas em
 `campo/observacoes/inventario-evidencias.csv` com classificação **público/interno**.
 
 ### 4. Documentos oficiais (LAI) e questionário
-Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (8 protocolados — o Pedido 8, à PGM,
-desdobrado das respostas 2 e 3) buscam o que só a Prefeitura tem. **As respostas brutas ficam em
+Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (8 protocolados + os Pedidos 9 e 10
+redigidos) buscam o que só a Prefeitura tem. Uma **segunda via documental** é a administração do
+empreendimento, que repassou à comissão o TC integral, aditivos, pareceres e decretos
+(`nova-documentacao/`, gitignored). **As respostas brutas ficam em
 `retornos-protocolos/` (gitignored)**; só os **fatos institucionais** são transcritos para o
 [documento de projetos aprovados](relatorios/projetos-viarios-ja-aprovados.md) e a
 [matriz de status](relatorios/matriz-publica-status-plano-funcional.md) — mesmo padrão dos
@@ -68,8 +70,9 @@ volta a ser exigido).
 - **Chave da Routes API** — só no ambiente da Google Cloud.
 - Nomes reais de moradores (anonimizados como Morador A/B); `interno/termos-sensiveis.txt`
   (privado) liga a checagem que bloqueia vazamento.
-- Expedientes administrativos brutos e **retornos de protocolos LAI** (`retornos-protocolos/`),
-  revisões internas (CODEX) e estratégia jurídica — `interno/`.
+- Expedientes administrativos brutos, **retornos de protocolos LAI** (`retornos-protocolos/`) e
+  **documentação repassada pela administração** (`nova-documentacao/` — contém nomes de
+  proprietários, CPF/RG e dados registrais), revisões internas (CODEX) e estratégia jurídica — `interno/`.
 
 ## Comandos-chave
 `make check` · `make release-check` · `make test` · `make data` · `make sonda-agg` ·

@@ -2,12 +2,12 @@
   "gerado_por": "scripts/build_pacote.py",
   "comando": "python3 scripts/build_pacote.py",
   "fontes": {
-    "relatorios/guia-validacao-comissao.md": "208a6a6761d56f63b84fbe70b7779477deec2f36e5b55cff57e8937b0a70c12e",
-    "relatorios/memorando-externo.md": "a29963900961d9c28056b7b1841e8fffe4c40499719d47d729bb165452a39ae0",
-    "relatorios/anexo-matriz-pontos.md": "1a22bb71597b56b60017f307d3805cd45e4534a96a3d7ef3eb3f0a08c822d0c5",
+    "relatorios/guia-validacao-comissao.md": "8d0b6d37a649ca63fcf98412afe2ac1820528fc57d3357c5c1e4eabcec82c6e8",
+    "relatorios/memorando-externo.md": "eacb2bf2d58dcba29bae12cf4c5019b4fc9591176337c75aa31ce1abfd6cf8d7",
+    "relatorios/anexo-matriz-pontos.md": "b5f42c26cb6a0c49d9285d7393beee4bf63fde8d659380e62a328600bfb37bd2",
     "scripts/build_pacote.py": "0f75d260a8030334dcd749f33180d866c0d615ccf1ca654adf13cef5b6c0bc73"
   },
-  "saida_md_sha256": "70da631c802f552df260bf4d7b7abf7ec1c460b16db4fd33f6191212616991a7",
+  "saida_md_sha256": "2e31205a7113a784be6c9894c7d6d6649e87d6b4ba39259672cb98879d02b2b7",
   "pdf_proveniencia": {
     "gerador": "pandoc 2.18"
   }

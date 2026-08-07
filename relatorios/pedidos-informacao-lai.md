@@ -163,12 +163,73 @@ do seu escopo**, por se tratar de obras oriundas de Termo de Compromisso, e reme
 > ou seja, se a obrigação de implantar a solução definitiva permanece exigível
 > independentemente da revalidação do projeto.
 
+## Pedido 9 — PGM/SMF: efetivação das desapropriações de 2020 e depósito da Cláusula Nona
+
+**Órgão:** Procuradoria-Geral do Município (PGM), com encaminhamento à SMF no que couber.
+**Origem:** documentação repassada pela administração do Alphaville (07/08/2026) — decretos de
+desapropriação de 23/12/2020 e Cláusula Nona do 2º aditivo. Ver
+[projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#documentação-repassada-pela-administração-do-alphaville-ago2026).
+**Por que é urgente:** o prazo legal de 5 anos do art. 10 do DL 3.365/1941 venceu em **23/12/2025**.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, solicito informações sobre os **Decretos Municipais nº
+> 20.859, nº 20.860 e nº 20.861, todos de 23/12/2020**, que declararam de utilidade pública, para
+> fins de desapropriação, imóveis atingidos pelo alargamento viário da Estrada das Três Meninas
+> (processos administrativos nº 002.079101.09.7, SEI nº 002.079092.09.8 e nº 002.079077.09.9):
+> (a) se, quanto a cada um dos três imóveis, a desapropriação foi **efetivada mediante acordo ou
+> intentada judicialmente** dentro do prazo de 5 anos previsto no **art. 10 do Decreto-Lei
+> federal nº 3.365/1941**, com indicação da data do acordo ou do ajuizamento e do respectivo
+> número de processo; (b) **em caso negativo, se o Município considera caducadas** as respectivas
+> declarações de utilidade pública e qual a **providência prevista** para retomar a implantação
+> das intervenções que delas dependem — em especial a alça de ligação entre as Estradas Costa
+> Gama e das Três Meninas, expressamente referida no Decreto nº 20.860/2020; e (c) se houve
+> **imissão na posse** de cada área e em que data.
+>
+> Solicito ainda, quanto à **Cláusula Nona do segundo aditivo** ao Termo de Compromisso nº
+> 41.198/2009 (aditivo registrado sob nº 53.107, de 23/08/2013), que obriga a compromissária a
+> depositar em favor do Município **R$ 200.000,00 no prazo de 15 dias após a publicação do
+> Decreto de Utilidade Pública**, corrigidos pela Taxa SELIC: (d) se o **depósito foi efetuado**,
+> em que data e por qual valor; (e) **em caso negativo**, se o crédito foi constituído e qual a
+> situação de cobrança, considerando a multa de 20% e os juros de 1% ao mês previstos no
+> Parágrafo Terceiro da mesma cláusula; e (f) a **destinação dada aos valores**, caso recebidos.
+
+## Pedido 10 — SMOI/SMAMUS: mapa das desapropriações e atualização do Parecer CTAAPS 093/2020
+
+**Órgão:** SMOI / SMAMUS (Escritório de Licenciamento — CTAAPS).
+**Origem:** o Parecer CTAAPS nº 093/2020 remete a um "mapa da situação das desapropriações"
+(manifestação da SMF) que **não integra** o conjunto recebido; e o quadro de execução que ele
+traz tem quase seis anos.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, solicito, quanto ao **Parecer nº 093/2020 da Comissão de
+> Análise e Aprovação de Parcelamento de Solo (CTAAPS)**, emitido em 17/09/2020 no Processo nº
+> 002.302984.00.0 (empreendimento Alphaville Porto Alegre): (a) cópia do **"mapa da situação das
+> desapropriações"** referido na manifestação da Secretaria Municipal da Fazenda que integra o
+> parecer; (b) **atualização do quadro de pendências** ali consolidado, informando o que mudou
+> desde 17/09/2020 quanto à implantação das interseções da Estrada das Três Meninas com a Estrada
+> Cristiano Kraemer (2ª fase), com a Estrada Kanazawa, com a Rua Florestan Fernandes e com a
+> Estrada Costa Gama (2ª fase), todas então registradas como **não implantadas**; (c) situação
+> atual do **projeto de drenagem das adequações viárias** das interseções com a Cristiano Kraemer
+> e com a Costa Gama, então registrado como faltante; e (d) se foi emitido o **Termo de
+> Recebimento Ambiental** do empreendimento e, em caso negativo, quais pendências subsistem,
+> considerando que o parecer o condiciona à abertura, alargamento e **arborização** da via.
+
 ---
 
 ## Respostas recebidas
 
 > As respostas administrativas brutas e seus anexos ficam em `retornos-protocolos/` (fora do
 > repositório público, como os expedientes-únicos). Abaixo, apenas os fatos institucionais.
+>
+> **Via alternativa — documentação da administração do Alphaville (07/08/2026):** parte do que os
+> Pedidos 1, 2 e 4 buscavam chegou **por fora da LAI**, repassada pela administração do
+> empreendimento (TC integral, dois aditivos, Parecer CTAAPS 093/2020 e três decretos de
+> desapropriação). Isso **não substitui** as respostas oficiais — que continuam valendo como
+> confirmação do status **atual** —, mas já permitiu montar o quadro de execução e originou os
+> **Pedidos 9 e 10**. Ver
+> [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#documentação-repassada-pela-administração-do-alphaville-ago2026).
 
 - **Pedido 2 (017393-26-38) — respondido, parcial.** A SMOI encaminhou o **Termo de
   Recebimento Provisório de 10/04/2013** (pavimentação da Estr. das Três Meninas, estacas
@@ -196,6 +257,8 @@ do seu escopo**, por se tratar de obras oriundas de Termo de Compromisso, e reme
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | 11/08/2026 | aguardando resposta |
+| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF | *a protocolar* | — | — | **redigido — prioritário** (prazo do art. 10 do DL 3.365/1941 venceu em 23/12/2025) |
+| 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS | *a protocolar* | — | — | redigido |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,

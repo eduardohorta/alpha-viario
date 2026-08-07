@@ -30,6 +30,11 @@
   chegaram (2, 3, possivelmente 8) e levar a reunião ciente de que o restante decide com
   evidência parcial. O pedido 7 pode informar Waze for Cities, contagens e planos
   semafóricos existentes.
+- **Documentação da administração do Alphaville (recebida em 07/08):** já incorporada ao dossiê
+  — TC integral, aditivos, **Parecer CTAAPS nº 093/2020** e **três decretos de desapropriação de
+  23/12/2020**. Mudou o enquadramento: o pleito passa a ser **concluir o que a cidade pactuou,
+  projetou e declarou**, não pedir obra nova. **Decisão para a comissão:** protocolar os
+  **Pedidos 9 (prioritário — prazo legal das desapropriações venceu em 23/12/2025) e 10**.
 - **Peças:** atualizar o memorando e o anexo somente com fatos documentados e agregados,
   mantendo o pedido de validação técnica da EPTC.
 
