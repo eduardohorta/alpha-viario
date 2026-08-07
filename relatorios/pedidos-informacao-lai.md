@@ -257,12 +257,14 @@ traz tem quase seis anos.
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | 11/08/2026 | aguardando resposta |
-| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF | *a protocolar* | — | — | **redigido — prioritário** (prazo do art. 10 do DL 3.365/1941 venceu em 23/12/2025) |
+| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | 31/08/2026 | aguardando resposta |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS | *a protocolar* | — | — | redigido |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
 sob a justificativa de que "a informação não se encontra sistematizada" nos arquivos do órgão.
+A prorrogação está refletida no próprio e-SIC, que exibe esses cinco pedidos com status
+**`PRAZO_PRORROGADO`** (conferido em 07/08/2026).
 Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** Só os Pedidos 2 e 3 (já
 respondidos) e o Pedido 8 (prazo 11/08) devem estar concluídos a tempo de embasar a pré-pauta
 de 10/08; os demais provavelmente chegam depois da reunião ou no próprio dia — ver
