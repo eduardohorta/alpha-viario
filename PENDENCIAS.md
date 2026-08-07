@@ -7,7 +7,7 @@
 > comunitária está em espera e não é requisito de protocolo neste ciclo.
 
 ## A. Documentos e órgãos
-> **Atalho:** os cinco itens marcados *(LAI)* têm **pedido pronto para protocolar** em [relatorios/pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md) — pessoa física protocola no e-SIC, sem depender da comissão; prazo legal de resposta: 20 dias.
+> **Atalho:** a trilha LAI está **completa — os 10 pedidos foram protocolados** no e-SIC (ver [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento)). Os itens marcados *(LAI)* abaixo dependem apenas da resposta do órgão; nada mais a protocolar de nossa parte.
 
 - [x] **[G]** Examinar os Expedientes Únicos `002.302984.00.0`, `002.322284.00.5` e `002.322291.00.8` e consolidar as obrigações viárias documentadas. Ver [projetos documentados](relatorios/projetos-viarios-ja-aprovados.md).
 - [x] **[G]** Redigir os **pedidos LAI** para as informações que só a Prefeitura tem: [pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md).
@@ -15,7 +15,7 @@
 - [ ] **[C]** *(LAI — pedido 1)* Obter cópia **identificada e legível dos desenhos vigentes** do Plano Funcional — inclusive Anexo 7, projeto geométrico reaprovado em 2013 e eventuais substituições — via EPTC/SMMU/SMAMUS. *(prazo prorrogado para 13/08)*
 - [x] **[G]** **Documentação repassada pela administração do Alphaville (07/08/2026) analisada e incorporada**: TC integral, 1º e 2º aditivos, **Parecer CTAAPS nº 093/2020** e **três decretos de desapropriação de 23/12/2020**. Achados na [seção dedicada](relatorios/projetos-viarios-ja-aprovados.md#documentação-repassada-pela-administração-do-alphaville-ago2026). Brutos em `nova-documentacao/` (gitignored — contêm nomes, CPF/RG e dados registrais).
 - [x] **[C/F]** **Pedido 9 (PGM/SMF) protocolado em 07/08/2026** (nº 017700-26-00, prazo 31/08/2026) — efetivação das desapropriações de 2020 (o prazo de 5 anos do art. 10 do DL 3.365/1941 **venceu em 23/12/2025**) e depósito de R$ 200 mil da Cláusula Nona. Ver [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento).
-- [ ] **[C/F]** **Protocolar o Pedido 10 (SMOI/SMAMUS)**: mapa das desapropriações citado no Parecer CTAAPS 093/2020 (não veio no conjunto) e atualização do quadro de pendências de 2020.
+- [x] **[C/F]** **Pedido 10 (SMOI/SMAMUS) protocolado em 07/08/2026** (nº 017701-26-68, prazo 31/08/2026) — mapa das desapropriações citado no Parecer CTAAPS 093/2020 (não veio no conjunto), atualização do quadro de pendências de 2020, drenagem das adequações e Termo de Recebimento Ambiental. Ver [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [x] **[C/G]** *(LAI — pedido 2)* **Respondido parcialmente (21/07/2026)** — SMOI forneceu o TRP de 2013 e remeteu o saldo das obrigações à PGM. O **quadro de execução por trecho/interseção que faltava chegou por outra via**: o **Parecer CTAAPS nº 093/2020** (documentação da administração do Alphaville) traz o status declarado por SMOV, SMAM, DEP e EPTC. Continua pendente apenas a **reconciliação de estacas** e a **atualização para 2026** → Pedidos 8 e 10.
 - [x] **[G]** Atualizar o **checklist interno de status do Plano Funcional** (`interno/checklist-status-plano-funcional.md`) com os achados dos expedientes e completá-lo quando os desenhos identificados chegarem. **Feito (22/07/2026)** com os achados do P7 (projeto obtido e caducado).
 - [ ] **[G]** *(LAI — pedido 5)* Confirmar o **status atual do projeto da Av. Monte Cristo** com a EPTC (afeta P2).

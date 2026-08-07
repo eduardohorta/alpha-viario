@@ -258,7 +258,7 @@ traz tem quase seis anos.
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | 11/08/2026 | aguardando resposta |
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | 31/08/2026 | aguardando resposta |
-| 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS | *a protocolar* | — | — | redigido |
+| 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | 31/08/2026 | aguardando resposta |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,

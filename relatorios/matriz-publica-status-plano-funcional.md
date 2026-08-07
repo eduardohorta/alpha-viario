@@ -31,6 +31,6 @@
   - o **Termo de Compromisso não tem prazo de validade**: o 1º aditivo (2012) **suprimiu** a cláusula de validade de 30 meses **e** a que desobrigaria o empreendedor por atraso nas imissões de posse;
   - o **quadro de execução** (Parecer CTAAPS 093/2020) mostra 1º trecho só em 1ª etapa, 3º trecho com ~300 m estreitados, e **nenhuma** das 2ªs fases de interseção implantada;
   - a própria **EPTC recomendou em 2020 revisar os projetos** por decurso de tempo.
-- **Ainda não confirmado:** correspondência das estacas; recebimento definitivo e ambiental; **efetivação das desapropriações de 2020** (prazo legal vencido em 23/12/2025); **depósito de R$ 200 mil** da Cláusula Nona; e o status de tudo isso **em 2026** — Pedidos 8 (protocolado), 9 e 10 (a protocolar).
+- **Ainda não confirmado:** correspondência das estacas; recebimento definitivo e ambiental; **efetivação das desapropriações de 2020** (prazo legal vencido em 23/12/2025); **depósito de R$ 200 mil** da Cláusula Nona; e o status de tudo isso **em 2026** — Pedidos 8, 9 e 10, todos protocolados e aguardando resposta.
 
 Fonte e interpretação detalhada: [projetos viários documentados](projetos-viarios-ja-aprovados.md).
