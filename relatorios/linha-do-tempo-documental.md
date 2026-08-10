@@ -5,6 +5,10 @@
 > novas — foram acordadas, projetadas e até declaradas de utilidade pública pelo próprio
 > Município, e pararam no meio.** Cada data abaixo vem de um documento oficial. Detalhe e fontes
 > em [projetos viários documentados](projetos-viarios-ja-aprovados.md).
+>
+> 🖥️ **Versão para projetar:** [linha-do-tempo-documental.html](linha-do-tempo-documental.html) —
+> mesmo conteúdo em infográfico autocontido (abre em qualquer navegador, temas claro/escuro).
+> Boa para abrir a reunião. Ao editar esta tabela, refletir a mudança no HTML.
 
 | Quando | O que aconteceu | O que isso significa hoje |
 |---|---|---|

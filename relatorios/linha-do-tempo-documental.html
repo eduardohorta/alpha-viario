@@ -1,0 +1,373 @@
+<title>Estrada das Três Meninas — linha do tempo documental</title>
+<style>
+  :root {
+    --paper: #F1F2EF;
+    --panel: #FBFBF9;
+    --ink: #1A2420;
+    --ink-soft: #55615A;
+    --line: #D6DAD4;
+    --teal: #235E6E;
+    --green: #3B7A54;
+    --ochre: #A9720C;
+    --red: #A5382A;
+    --asphalt: #2C332F;
+    --centerline: #E0A73B;
+    --road-edge: #6E7A72;
+
+    --serif: Georgia, 'Iowan Old Style', 'Times New Roman', serif;
+    --sans: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #111613;
+      --panel: #171E1A;
+      --ink: #E9ECE7;
+      --ink-soft: #98A49C;
+      --line: #29312C;
+      --teal: #74B8C8;
+      --green: #7BC28F;
+      --ochre: #E2AA3F;
+      --red: #E4735F;
+      --asphalt: #212824;
+      --centerline: #E2AA3F;
+      --road-edge: #3B443E;
+    }
+  }
+  :root[data-theme="light"] {
+    --paper: #F1F2EF; --panel: #FBFBF9; --ink: #1A2420; --ink-soft: #55615A;
+    --line: #D6DAD4; --teal: #235E6E; --green: #3B7A54; --ochre: #A9720C;
+    --red: #A5382A; --asphalt: #2C332F; --centerline: #E0A73B; --road-edge: #6E7A72;
+  }
+  :root[data-theme="dark"] {
+    --paper: #111613; --panel: #171E1A; --ink: #E9ECE7; --ink-soft: #98A49C;
+    --line: #29312C; --teal: #74B8C8; --green: #7BC28F; --ochre: #E2AA3F;
+    --red: #E4735F; --asphalt: #212824; --centerline: #E2AA3F; --road-edge: #3B443E;
+  }
+
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  .page {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--sans);
+    line-height: 1.5;
+    min-height: 100vh;
+    padding: clamp(28px, 5vw, 72px) clamp(18px, 5vw, 56px);
+  }
+  .wrap { max-width: 960px; margin: 0 auto; }
+
+  /* ---- Header ---- */
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--teal);
+    margin: 0 0 18px;
+  }
+  h1 {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: clamp(30px, 5.4vw, 52px);
+    line-height: 1.06;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+    margin: 0 0 14px;
+  }
+  .lede {
+    font-size: clamp(16px, 2.1vw, 20px);
+    color: var(--ink-soft);
+    max-width: 60ch;
+    margin: 0;
+  }
+  .lede strong { color: var(--ink); font-weight: 600; }
+
+  /* ---- Legend ---- */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 22px;
+    margin: 30px 0 8px;
+    padding: 14px 18px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+  }
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    font-size: 13px;
+    color: var(--ink-soft);
+  }
+  .legend .swatch {
+    width: 11px; height: 11px; border-radius: 50%;
+    flex: none;
+  }
+
+  /* ---- Timeline ---- */
+  .timeline { position: relative; margin: 30px 0 0; }
+  .road {
+    position: absolute;
+    left: 136px; width: 16px; top: 10px; bottom: 10px;
+    background: var(--asphalt);
+    border-left: 1px solid var(--road-edge);
+    border-right: 1px solid var(--road-edge);
+    border-radius: 2px;
+  }
+  .road::before {
+    content: "";
+    position: absolute; left: 50%; top: 0; bottom: 0;
+    width: 3px; transform: translateX(-50%);
+    background: repeating-linear-gradient(
+      to bottom, var(--centerline) 0 16px, transparent 16px 34px);
+    opacity: 0.9;
+  }
+
+  .event {
+    position: relative;
+    padding: 0 0 34px 190px;
+    min-height: 44px;
+  }
+  .event:last-child { padding-bottom: 6px; }
+
+  .yr {
+    position: absolute;
+    left: 0; top: 1px; width: 112px;
+    text-align: right;
+    font-family: var(--mono);
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: -0.02em;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+  }
+  .date {
+    display: block;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--ink-soft);
+    margin-top: 3px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .node {
+    position: absolute;
+    left: 135px; top: 4px;
+    width: 18px; height: 18px; border-radius: 50%;
+    background: var(--paper);
+    border: 4px solid var(--dot, var(--teal));
+    z-index: 2;
+  }
+  .event.now .node {
+    width: 22px; height: 22px; left: 133px; top: 2px;
+    border-width: 5px;
+    box-shadow: 0 0 0 4px color-mix(in srgb, var(--ochre) 22%, transparent);
+  }
+
+  .headline {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: clamp(18px, 2.5vw, 23px);
+    line-height: 1.2;
+    letter-spacing: -0.005em;
+    margin: 0 0 6px;
+    text-wrap: balance;
+  }
+  .means { color: var(--ink-soft); font-size: 15.5px; margin: 0 0 10px; max-width: 54ch; }
+  .means b { color: var(--ink); font-weight: 600; }
+
+  .tag {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    padding: 3px 9px;
+    border-radius: 4px;
+    color: var(--dot, var(--teal));
+    background: color-mix(in srgb, var(--dot, var(--teal)) 13%, transparent);
+    border: 1px solid color-mix(in srgb, var(--dot, var(--teal)) 32%, transparent);
+  }
+
+  .s-teal  { --dot: var(--teal); }
+  .s-green { --dot: var(--green); }
+  .s-ochre { --dot: var(--ochre); }
+  .s-red   { --dot: var(--red); }
+
+  /* ---- Takeaway ---- */
+  .takeaway {
+    margin: 20px 0 0;
+    padding: clamp(22px, 3.5vw, 34px);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-top: 3px solid var(--ochre);
+    border-radius: 12px;
+  }
+  .takeaway h2 {
+    font-family: var(--mono);
+    font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--ochre); margin: 0 0 18px;
+  }
+  .takeaway ol { margin: 0; padding: 0; list-style: none; counter-reset: t; display: grid; gap: 16px; }
+  .takeaway li {
+    counter-increment: t;
+    display: grid; grid-template-columns: 34px 1fr; gap: 14px; align-items: start;
+    font-family: var(--serif); font-size: clamp(16px, 2.2vw, 19px); line-height: 1.4;
+  }
+  .takeaway li::before {
+    content: counter(t);
+    font-family: var(--mono); font-weight: 600; font-size: 15px;
+    color: var(--paper); background: var(--ink);
+    width: 30px; height: 30px; border-radius: 50%;
+    display: grid; place-items: center; margin-top: 2px;
+    font-variant-numeric: tabular-nums;
+  }
+  .takeaway li b { font-weight: 700; }
+
+  footer {
+    margin: 26px 0 0;
+    font-size: 12.5px; color: var(--ink-soft);
+    border-top: 1px solid var(--line); padding-top: 16px;
+    max-width: 78ch;
+  }
+
+  @media (max-width: 680px) {
+    .road { left: 5px; width: 10px; }
+    .road::before { width: 2px; }
+    .event { padding-left: 40px; padding-bottom: 30px; }
+    .yr { position: static; width: auto; text-align: left; font-size: 19px; }
+    .date { display: inline; margin-left: 10px; }
+    .node { left: 1px; top: 2px; width: 16px; height: 16px; border-width: 3px; }
+    .event.now .node { left: 0; top: 1px; width: 18px; height: 18px; border-width: 4px; }
+    .headline { margin-top: 6px; }
+  }
+
+  .event { opacity: 0; animation: rise 0.5s ease forwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  .event:nth-child(2){animation-delay:.05s}.event:nth-child(3){animation-delay:.10s}
+  .event:nth-child(4){animation-delay:.15s}.event:nth-child(5){animation-delay:.20s}
+  .event:nth-child(6){animation-delay:.25s}.event:nth-child(7){animation-delay:.30s}
+  .event:nth-child(8){animation-delay:.35s}.event:nth-child(9){animation-delay:.40s}
+  .event:nth-child(10){animation-delay:.45s}.event:nth-child(11){animation-delay:.50s}
+  @media (prefers-reduced-motion: reduce) {
+    .event { opacity: 1; animation: none; }
+  }
+</style>
+
+<div class="page">
+  <div class="wrap">
+    <header>
+      <p class="eyebrow">Comissão de Mobilidade · Moradores do Alphaville — Vila Nova / Zona Sul</p>
+      <h1>A Estrada das Três Meninas em 15 anos de papel</h1>
+      <p class="lede">O que a cidade <strong>pactuou, projetou e declarou de utilidade pública</strong> no eixo viário — e o que ficou parado. Cada marco vem de um documento oficial.</p>
+    </header>
+
+    <div class="legend" aria-hidden="true">
+      <span><span class="swatch" style="background:var(--teal)"></span>Acordado / projetado</span>
+      <span><span class="swatch" style="background:var(--green)"></span>Executado</span>
+      <span><span class="swatch" style="background:var(--ochre)"></span>Declarado de utilidade pública</span>
+      <span><span class="swatch" style="background:var(--red)"></span>Parado / prazo vencido</span>
+    </div>
+
+    <div class="timeline">
+      <div class="road" aria-hidden="true"></div>
+
+      <div class="event s-teal">
+        <div class="yr">2009<span class="date">06 JUL</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">Termo de Compromisso nº 41.198</h3>
+        <p class="means">Município e empreendedor do Alphaville acordam o Plano Funcional da Estrada das Três Meninas, as interseções e a conexão em etapas com a Costa Gama. <b>É a origem das obrigações — e vale como título executivo.</b></p>
+        <span class="tag">Acordado</span>
+      </div>
+
+      <div class="event s-teal">
+        <div class="yr">2012<span class="date">MAI</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">1º aditivo suprime o prazo de validade</h3>
+        <p class="means">Cai a cláusula que dava validade de 30 meses ao Termo — e também a que desobrigaria o empreendedor por atraso nas desapropriações. <b>O compromisso deixa de caducar por decurso de prazo.</b></p>
+        <span class="tag">Acordado</span>
+      </div>
+
+      <div class="event s-green">
+        <div class="yr">2013<span class="date">10 ABR</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">Recebimento provisório da pavimentação</h3>
+        <p class="means">Parte da Estrada das Três Meninas é executada e recebida. <b>Parte foi feita; o restante, não.</b></p>
+        <span class="tag">Executado — parcial</span>
+      </div>
+
+      <div class="event s-teal">
+        <div class="yr">2013<span class="date">CTAAPS</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">Projeto da conexão com a Costa Gama aprovado</h3>
+        <p class="means">A solução do <b>ponto 7</b> — a "alça de ligação" — é desenhada e aprovada na comissão municipal, em duas etapas.</p>
+        <span class="tag">Projetado</span>
+      </div>
+
+      <div class="event s-teal">
+        <div class="yr">2013<span class="date">23 AGO</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">2º aditivo: prazos, desapropriações e R$ 200 mil</h3>
+        <p class="means">Exige os projetos das interseções com a Kanazawa e a Florestan Fernandes (ponto 6), prevê as desapropriações e um <b>depósito de R$ 200 mil</b> devido após a declaração de utilidade pública.</p>
+        <span class="tag">Acordado</span>
+      </div>
+
+      <div class="event s-red">
+        <div class="yr">2020<span class="date">17 SET</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">Parecer CTAAPS nº 093/2020</h3>
+        <p class="means">Quadro oficial de execução: <b>nenhuma 2ª fase de interseção (pontos 1, 6 e 7) foi implantada</b>. A própria EPTC recomenda revisar os projetos por decurso de tempo.</p>
+        <span class="tag">Não executado</span>
+      </div>
+
+      <div class="event s-ochre">
+        <div class="yr">2020<span class="date">23 DEZ</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">Três decretos de desapropriação</h3>
+        <p class="means">A cidade declara de utilidade pública as áreas das obras — inclusive a da <b>"alça" do ponto 7</b>. O gatilho do depósito de R$ 200 mil é disparado.</p>
+        <span class="tag">Declarado de utilidade pública</span>
+      </div>
+
+      <div class="event s-red">
+        <div class="yr">2024<span class="date">~4 ANOS</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">O projeto do ponto 7 caduca</h3>
+        <p class="means">Projetos complementares valem 4 anos (Decreto 20.659/2020). <b>A solução aprovada perde a validade sem ter sido executada.</b></p>
+        <span class="tag">Caducado</span>
+      </div>
+
+      <div class="event s-red">
+        <div class="yr">2025<span class="date">23 DEZ</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">Vence o prazo das desapropriações</h3>
+        <p class="means">São 5 anos para efetivar (art. 10, DL 3.365/1941). Sem acordo ou ação judicial, as declarações de 2020 caducam. <b>A confirmar com a Procuradoria (Pedido 9).</b></p>
+        <span class="tag">Prazo vencido</span>
+      </div>
+
+      <div class="event s-ochre now">
+        <div class="yr">2026<span class="date">AGORA</span></div>
+        <div class="node" aria-hidden="true"></div>
+        <h3 class="headline">A comissão retoma o tema</h3>
+        <p class="means">Sinistros, sonda própria de tempos de viagem, 10 pedidos de acesso à informação e os documentos do empreendimento reúnem a base para <b>cobrar a conclusão do que já foi acordado</b>.</p>
+        <span class="tag">Retomada</span>
+      </div>
+    </div>
+
+    <section class="takeaway">
+      <h2>Em três frases</h2>
+      <ol>
+        <li>Por mais de <b>15 anos</b> a cidade pactuou, projetou, aprovou e declarou de utilidade pública as obras do eixo da Três Meninas — e a maior parte <b>nunca foi concluída</b>.</li>
+        <li>Prazos administrativos <b>já venceram</b>: o projeto do ponto 7 caducou e o prazo das desapropriações expirou em 23/12/2025. Por isso a apuração é urgente.</li>
+        <li>O pedido não é "façam obras novas" — é <b>"retomem e concluam o que já foi acordado, projetado e declarado"</b>, atualizado às condições de hoje.</li>
+      </ol>
+    </section>
+
+    <footer>
+      Síntese da Comissão de Mobilidade dos Moradores do Alphaville (Vila Nova / Zona Sul) a partir de documentos oficiais do Município — Termo de Compromisso nº 41.198/2009 e aditivos, Parecer CTAAPS nº 093/2020 e Decretos nº 20.859, 20.860 e 20.861/2020. Diagnóstico preliminar para diálogo com a EPTC/SMMU; não é laudo. Datas de caducidade dependem de confirmação da Prefeitura.
+    </footer>
+  </div>
+</div>
