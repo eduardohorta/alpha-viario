@@ -93,7 +93,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 ## Próximos passos
 Detalhe, dependências e datas-alvo: [ROTEIRO.md](ROTEIRO.md). Em síntese (trilhas paralelas):
-1. **Acompanhar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)** — **os 10 estão protocolados**: 2 e 3 concluídos; 1, 4, 5, 6 e 7 **prorrogados para 13/08** (mesmo dia da reunião); 8 com prazo 11/08; 9 e 10 com prazo 31/08. Incorporar as respostas à matriz conforme chegarem.
+1. **Acompanhar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)** — **os 10 estão protocolados**: 2, 3 e 7 respondidos; 1, 4, 5 e 6 **prorrogados para 13/08** (mesmo dia da reunião); 8 com prazo 11/08; 9 e 10 com prazo 31/08. Incorporar as respostas à matriz conforme chegarem.
 2. **Manter e consolidar a sonda** após 2–4 semanas: agregados por rota, horário, atraso e assimetria, com metodologia e limitações declaradas.
 3. **Validar o pacote com a comissão em 13/8** ([guia](relatorios/guia-validacao-comissao.md)) e obter assinatura/canal ([LIBERACAO.md](LIBERACAO.md)).
 4. **Protocolar na EPTC** dentro da janela da LOA 2027 (meta: até 20/ago), solicitando os dados e a vistoria técnica que complementam a evidência já disponível.

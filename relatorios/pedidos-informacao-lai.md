@@ -242,6 +242,17 @@ traz tem quase seis anos.
   pelo **Decreto nº 20.659/2020** (projetos complementares valem 4 anos), o **projeto não
   está mais válido** — caducou. Leitura detalhada em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#respostas-lai-de-julho-de-2026-o-projeto-do-p7-foi-obtido-e-caducou).
+- **Pedido 7 (017399-26-65) — respondido (10/08/2026), antes do novo prazo (13/08).** A EPTC
+  informou: (a) recebe **reports do Waze desde set/2019**; (b) contagens/estudos de tráfego
+  estão no portal **ObservaMOB** (`Fluxo → Pesquisas` e `Fluxo → Relatórios`); e (c) anexou os
+  **planos semafóricos oficiais dos dois cruzamentos pedidos** — **P5** (Cavalhada × João
+  Salomoni, Informação Técnica nº 40664080: 13 planos por horário, ciclos de 55–130 s, 2
+  estágios) e **P8** (Costa Gama × Afonso Lourenço Mariante, nº 40691572: 15 planos por
+  horário, ciclos de 55–160 s, 3 estágios). Nos dois casos, os únicos movimentos com fase
+  nomeada são os das vias principais (Cavalhada e Costa Gama); **nenhuma fase é nomeada para
+  o movimento de acesso a partir da via secundária (João Salomoni no P5)** — a confirmar na
+  vistoria técnica se esse é o movimento relatado pela comunidade. Incorporado ao
+  [anexo](anexo-matriz-pontos.md).
 
 ---
 
@@ -255,7 +266,7 @@ traz tem quase seis anos.
 | 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
-| 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | 11/08/2026 | aguardando resposta |
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | 31/08/2026 | aguardando resposta |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | 31/08/2026 | aguardando resposta |
@@ -265,10 +276,9 @@ prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19
 sob a justificativa de que "a informação não se encontra sistematizada" nos arquivos do órgão.
 A prorrogação está refletida no próprio e-SIC, que exibe esses cinco pedidos com status
 **`PRAZO_PRORROGADO`** (conferido em 07/08/2026).
-Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** Só os Pedidos 2 e 3 (já
-respondidos) e o Pedido 8 (prazo 11/08) devem estar concluídos a tempo de embasar a pré-pauta
-de 10/08; os demais provavelmente chegam depois da reunião ou no próprio dia — ver
-[ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
+Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** O **Pedido 7 respondeu
+adiantado (10/08)**. Restam os Pedidos 1, 4, 5 e 6, que provavelmente chegam depois da
+reunião ou no próprio dia — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
