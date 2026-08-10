@@ -6,7 +6,7 @@
 
 **Por que isso importa para a cidade (não só para o condomínio).**
 - **Segurança viária.** A associação dos sinistros por distância (Dados Abertos POA) aponta **gravidade clara no corredor da Av. Vicente Monteggia, inclusive com vítimas fatais**. No entorno da conversão João Salomoni × Cavalhada há sinistros relevantes e uma fatalidade **no contexto ampliado** da Av. Cavalhada, **ainda a validar**. Há **envolvimento relevante de motociclistas**, sobretudo em P4, P2, P3 e P8. *(Indicadores preliminares — associação por distância não é prova causal; exigem validação técnica da EPTC.)*
-- **Alinhamento com as políticas da cidade.** As demandas conversam diretamente com o **PSVS / Visão Zero** (meta de −50% de mortes até 2030) e com a diretriz **"redução do tempo de deslocamento"** do **novo marco urbanístico aprovado pela Câmara em 2026 (PDUS/LUOS — com publicação e regras de transição a confirmar)**.
+- **Alinhamento com as políticas da cidade.** As demandas conversam diretamente com o **PSVS / Visão Zero** (meta de −50% de mortes até 2030) e com a diretriz **"redução do tempo de deslocamento"** do **novo marco urbanístico (PDUS/LUOS), sancionado em 14/07/2026 e com vigência 180 dias após a publicação**.
 
 **A oportunidade.** Há iniciativas e projetos anteriores que evitam partir do zero:
 - **P2 tem sinergia direta** com o projeto **PSVS de qualificação viária da Av. Monte Cristo** (trecho que termina justamente na Estr. Cristiano Kraemer, o nosso ponto P2).

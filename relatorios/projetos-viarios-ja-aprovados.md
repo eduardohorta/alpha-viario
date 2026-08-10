@@ -1,5 +1,8 @@
 # Projetos viários documentados no eixo da Estrada das Três Meninas
 
+> 🕒 **Resumo em uma página:** [linha-do-tempo-documental.md](linha-do-tempo-documental.md) —
+> a cronologia 2009→2026 em linguagem acessível para a comissão. Este documento é o detalhamento.
+
 > **Achado documental:** o licenciamento do Alphaville Porto Alegre gerou obrigações viárias formalizadas em 2009 e ajustadas em 2013. O processo administrativo registra um **Plano Funcional da Estrada das Três Meninas aprovado na SMT/EPTC**, uma conexão em etapas com a Estrada Costa Gama e intervenções em interseções associadas. Portanto, parte do projeto atual deve ser formulada como **verificação, atualização e eventual conclusão de soluções já projetadas**, não como estudo integralmente novo.
 >
 > **Limite da evidência:** os documentos comprovam o histórico de aprovação, obrigações e execução parcial, mas **não comprovam o status administrativo ou físico em 2026**. A vigência, as substituições posteriores, as desapropriações e o que falta executar devem ser confirmados nos processos atuais da Prefeitura.

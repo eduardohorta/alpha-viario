@@ -7,6 +7,7 @@
 
 ## 1. O que está pronto para revisão
 - **Peças externas:** [memorando institucional](memorando-externo.md) · [rascunho de ofício](oficio-eptc-rascunho.md) · [anexo de pontos](anexo-matriz-pontos.md).
+- **Para abrir a reunião:** [linha do tempo documental](linha-do-tempo-documental.md) — uma página que mostra o que a cidade já pactuou, projetou e declarou no eixo da Três Meninas, e o que ficou parado. Boa forma de nivelar a comissão antes das decisões.
 - **Técnico:** [mapa dos pontos](../mapas/mapa-pontos.png) · [matriz dos pontos (8 + P9)](../propostas/problemas-priorizados.md) · [avaliação das soluções](../propostas/avaliacao-solucoes-iniciais.md) · [base de sinistros](../dados/tratados/acidentes_resumo_distancia_pontos.csv).
 - **Evidência em consolidação:** [sonda de tempos](../campo/sonda-tempos-google.md) (12 rotas, dados brutos privados; agregar antes de circular) · [capturas do trânsito típico](../campo/observacoes/transito-tipico/README.md) · [acompanhamento das LAIs](pedidos-informacao-lai.md#acompanhamento).
 - **Referências para a vistoria técnica:** [plano de coleta](../campo/plano-coleta-campo.md) · [roteiro](../campo/observacoes/roteiro-vistoria.md) · [ficha CSV](../campo/observacoes/modelo-observacao-campo.csv).

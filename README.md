@@ -45,6 +45,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [relatorios/oficio-eptc-rascunho.md](relatorios/oficio-eptc-rascunho.md) — **rascunho de ofício à EPTC**
 - [relatorios/anexo-matriz-pontos.md](relatorios/anexo-matriz-pontos.md) — **anexo externo (1 linha por ponto)**
 - [relatorios/guia-validacao-comissao.md](relatorios/guia-validacao-comissao.md) — **pauta de validação e encaminhamento do protocolo**
+- [relatorios/linha-do-tempo-documental.md](relatorios/linha-do-tempo-documental.md) — **cronologia 2009→2026 em uma página** (o que a cidade pactuou, projetou e declarou, e o que parou)
 - [relatorios/projetos-viarios-ja-aprovados.md](relatorios/projetos-viarios-ja-aprovados.md) — **evidência administrativa, obrigações e execução parcial no eixo Três Meninas**
 - [relatorios/matriz-publica-status-plano-funcional.md](relatorios/matriz-publica-status-plano-funcional.md) — **matriz de previsão documental × execução × verificação atual**
 - [relatorios/pedidos-informacao-lai.md](relatorios/pedidos-informacao-lai.md) — **pedidos LAI prontos para protocolo (trilha independente do pleito)**

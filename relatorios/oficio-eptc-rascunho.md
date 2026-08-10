@@ -17,7 +17,7 @@ Prezados(as) Senhores(as),
 
 1. A **Comissão de Mobilidade dos Moradores do Alphaville Porto Alegre** (Vila Nova) vem, respeitosamente, apresentar contribuição técnica e comunitária sobre a circulação viária no entorno do bairro, em vias de **jurisdição municipal**.
 
-2. A partir de relatos da comunidade e de uma análise preliminar de dados públicos (incluindo sinistros do portal Dados Abertos POA), identificamos **oito pontos de atenção (estrangulamento)** de segurança viária e fluidez, detalhados no documento anexo. O diagnóstico está alinhado ao **Plano de Segurança Viária Sustentável (PSVS)** e às diretrizes do novo marco urbanístico aprovado pela Câmara em 2026 (PDUS/LUOS, com publicação e regras de transição a confirmar).
+2. A partir de relatos da comunidade e de uma análise preliminar de dados públicos (incluindo sinistros do portal Dados Abertos POA), identificamos **oito pontos de atenção (estrangulamento)** de segurança viária e fluidez, detalhados no documento anexo. O diagnóstico está alinhado ao **Plano de Segurança Viária Sustentável (PSVS)** e às diretrizes do novo marco urbanístico (PDUS/LUOS), **sancionado em 14/07/2026**, que entra em vigor 180 dias após a publicação.
 
 3. Registramos, em especial, a **sinergia** entre um desses pontos (confluência da Estr. Cristiano Kraemer com a Av. Monte Cristo) e o **projeto de qualificação viária da Av. Monte Cristo** já conduzido por essa Empresa, o que pode favorecer ganhos de eficiência, sem prejuízo da segurança e dos modos vulneráveis.
 
