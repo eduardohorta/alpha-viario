@@ -1,14 +1,14 @@
-**COMISSÃO DE MOBILIDADE — MORADORES DO ALPHAVILLE PORTO ALEGRE (VILA NOVA / ZONA SUL)**
+**COMISSÃO VIÁRIA ESTRADA DAS TRÊS MENINAS**
 
 # Melhorias viárias no entorno de Vila Nova — síntese para diálogo com o poder público
 
-*Documento-síntese · versão institucional · 2026 · [campos entre colchetes a preencher pela comissão]*
+*Documento-síntese · versão institucional · 2026*
 
 ## Apresentação
-Somos uma comissão de moradores constituída para contribuir, de forma técnica e colaborativa, com a qualificação viária do entorno de Vila Nova (Zona Sul de Porto Alegre). Este documento sintetiza um diagnóstico preliminar e propõe um diálogo com a EPTC/SMMU. **Todas as vias tratadas são de jurisdição municipal.**
+Somos uma comissão de moradores constituída para contribuir, de forma técnica e colaborativa, com a qualificação viária do entorno de Vila Nova (Zona Sul de Porto Alegre). Este documento sintetiza um diagnóstico preliminar e propõe um diálogo com a SMAMUS e a EPTC/SMMU. **Todas as vias tratadas são de jurisdição municipal.**
 
 ## O que identificamos
-Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrangulamento)** de segurança e fluidez que afetam tanto os moradores do condomínio quanto a comunidade do entorno (Belém Velho, Costa Gama, Cavalhada, Camaquã):
+Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrangulamento)** de segurança e fluidez que afetam tanto os moradores quanto a comunidade do entorno (Belém Velho, Costa Gama, Cavalhada, Camaquã):
 
 1. Rótula da Estr. das Três Meninas × Estr. Cristiano Kraemer
 2. Confluência Cristiano Kraemer × Av. Belém Velho × Av. Monte Cristo
@@ -19,6 +19,8 @@ Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrang
 7. Acesso à Estr. Costa Gama no sentido bairro–centro
 8. Cruzamento semaforizado Estr. Costa Gama × Estr. Afonso Lourenço Mariante
 
+Acompanhamos ainda um **nono ponto preliminar** — o entroncamento da Rua Santuário com a Av. Oscar Pereira, onde se formam filas para a conversão à esquerda em dias de maior fluxo — e **duas demandas adicionais de continuidade viária**: um **retorno seguro** no eixo da Estr. das Três Meninas e a **avaliação de capacidade** da Estr. Cristiano Kraemer. Ambas são apresentadas no anexo, como pontos a validar em vistoria.
+
 ## Por que importa para a cidade
 - **Segurança viária.** A análise preliminar dos sinistros (Dados Abertos POA, associação por proximidade) aponta **gravidade relevante**, com destaque para o **corredor da Av. Vicente Monteggia** — que registra feridos graves e vítimas fatais — e **envolvimento recorrente de motociclistas**. *(Indicadores preliminares, a validar em vistoria conjunta.)*
 - **Fluidez.** Uma sonda própria de tempos de viagem (Google Routes API, série iniciada em jul/2026) indica, no pico, **atraso de ~1,3–1,4× no corredor da Av. Vicente Monteggia** e um custo de **≈2,0× no tempo do acesso legal à Estr. Costa Gama (P7)** frente ao movimento direto. *(Indicadores próprios, indicativos; a validar com contagens da EPTC.)*
@@ -27,24 +29,26 @@ Em um diagnóstico preliminar, identificamos **oito pontos de atenção (estrang
 ## Uma oportunidade de sinergia
 O ponto 2 conversa diretamente com o **projeto da Prefeitura para a Av. Monte Cristo** (qualificação viária do PSVS, cujo trecho se encerra na Estr. Cristiano Kraemer). Acreditamos que parte das melhorias pode ser **integrada a iniciativas já em curso** no mesmo eixo, com ganho de eficiência **e sem prejuízo da segurança e dos modos vulneráveis**.
 
-Além disso, a documentação oficial do licenciamento do Alphaville — reunida em jul–ago/2026 a partir de respostas aos nossos pedidos de acesso à informação e de documentos disponibilizados pela administração do empreendimento — mostra que **boa parte do que aqui se pede já foi pactuada, projetada e aprovada pelo próprio Município, sem conclusão**:
+Além disso, a documentação oficial do licenciamento do empreendimento no eixo da Estr. das Três Meninas — reunida em jul–ago/2026 a partir de respostas aos nossos pedidos de acesso à informação e de documentos disponibilizados pela administração do empreendimento — mostra que **boa parte do que aqui se pede já foi pactuada, projetada e aprovada pelo próprio Município, sem conclusão**:
 
 - há um **Plano Funcional aprovado** para a Estr. das Três Meninas e um **Termo de Compromisso sem prazo de validade** (a cláusula que o limitava a 30 meses foi suprimida por aditivo em 2012);
 - o **Parecer CTAAPS nº 093/2020**, elaborado pelo Município, registra que **não foram implantadas** as segundas fases das interseções da Estr. das Três Meninas com a **Estr. Cristiano Kraemer (ponto 1)**, com a **Estr. Kanazawa e a R. Florestan Fernandes (ponto 6)** e com a **Estr. Costa Gama (ponto 7)**;
 - **três decretos de 23/12/2020** declararam de utilidade pública as áreas necessárias ao alargamento, inclusive a da **alça de ligação com a Estr. Costa Gama** (Decreto nº 20.860/2020);
 - o **projeto geométrico** dessa conexão, aprovado na CTAAPS em 2013, **perdeu a validade** (Decreto nº 20.659/2020) — e a própria **EPTC já recomendava, em 2020, revisar os projetos** em razão do tempo decorrido.
 
-Ou seja: para vários pontos é possível **partir de soluções que a própria cidade já projetou e cujas áreas já declarou de utilidade pública** — a serem revalidadas, atualizadas às condições atuais e concluídas, não estudadas do zero. O saldo das obrigações e a situação atual das desapropriações estão sendo apurados junto à **Procuradoria-Geral do Município**.
+Ou seja: para vários pontos é possível **partir de soluções que a própria cidade já projetou e cujas áreas já declarou de utilidade pública** — a serem revalidadas, atualizadas às condições atuais e concluídas, não estudadas do zero. O saldo das obrigações e a situação atual das intervenções e desapropriações estão sob apuração junto à **Procuradoria-Geral do Município**.
 
 ## Como pretendemos colaborar
-Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **medidas faseadas, começando pelas de menor custo** (sinalização, ajuste de tempos semafóricos, qualificação de rotas). Nossa intenção é **somar à atuação técnica da EPTC/SMMU**, não substituí-la.
+Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **medidas faseadas, começando pelas de menor custo** (sinalização, ajuste de tempos semafóricos, qualificação de rotas). Nossa intenção é **somar à atuação técnica da SMAMUS e da EPTC/SMMU**, não substituí-la.
 
 ## O que solicitamos
-1. **Vistoria técnica conjunta** dos oito pontos;
+1. **Vistoria técnica conjunta** dos oito pontos (e do ponto preliminar);
 2. **Disponibilização dos dados disponíveis** (tempos semafóricos, sinistros georreferenciados, contagens), conforme as possibilidades da EPTC;
-3. **Acesso aos desenhos vigentes e ao status de implantação** do Plano Funcional da Estr. das Três Meninas, inclusive a conexão com a Costa Gama e os projetos complementares;
-4. **Abertura de um canal de diálogo** com a EPTC/SMMU (com apoio da Subprefeitura Centro-Sul e demais instâncias territoriais pertinentes);
+3. **Acesso aos desenhos vigentes e ao status de implantação** do Plano Funcional da Estr. das Três Meninas, inclusive a conexão com a Costa Gama e os projetos complementares, com **avaliação de revalidação/atualização** das soluções já projetadas;
+4. **Abertura de um canal de diálogo** com a SMAMUS e a EPTC/SMMU (com apoio das Subprefeituras Centro-Sul e Glória);
 5. **Implantação de medidas rápidas de baixo custo** nos pontos em que a vistoria e os dados confirmarem evidência suficiente.
 
 ---
-*Anexos sugeridos: matriz dos pontos críticos e diagnóstico detalhado. Contato: [nome / e-mail / telefone da comissão].*
+*Anexos: matriz dos pontos críticos e diagnóstico detalhado.*
+
+**Comissão Viária Estrada das Três Meninas** — comissao.viaria@outlook.com

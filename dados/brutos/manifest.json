@@ -29,11 +29,11 @@
       "arquivo": "dados/brutos/osm_vias_alpha_viario.json",
       "fonte": "OpenStreetMap via Overpass API — recorte das vias usadas como geometria preliminar",
       "url": "https://overpass-api.de/api/interpreter",
-      "sha256": "34fa4db4480e369b05e24857a52f2a7675dcb9f5ad863515b1d20b7245725ca5",
+      "sha256": "a0ab667778008c5c5b5892fa9349fd6d67aa8a397e149ce73a3d48900c2ce11c",
       "licenca": "Open Database License (ODbL) — © OpenStreetMap contributors",
       "licenca_url": "https://www.openstreetmap.org/copyright",
       "versionado": true,
-      "nota": "Geometria preliminar; validar contra base municipal oficial (SMAMUS) antes de protocolo."
+      "nota": "Rede viária uniforme (classes principais + corredores nomeados) de toda a area do estudo, extraida do OpenStreetMap via Overpass em 14/08/2026. Geometria preliminar; validar contra base municipal oficial (SMAMUS) antes do protocolo."
     },
     {
       "arquivo": "dados/brutos/acidentes_resumo_pontos_api.json",

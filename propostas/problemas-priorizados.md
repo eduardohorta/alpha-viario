@@ -1,6 +1,6 @@
 # Matriz de problemas — pontos de estrangulamento
 
-> **Status:** versão 6 (Fase 0 — incorpora a leitura dos expedientes administrativos do Alphaville). **P4 segmentado por trecho**; **P9 (preliminar)** adicionado a partir da demanda D4 e, na Rodada 05, **identificado (Cristiano Kraemer × Juca Batista) e incorporado à associação por distância**.
+> **Status:** versão 7 (Fase 0). **P4 segmentado por trecho**; **P9 (preliminar)** foi **redefinido na reunião de 13/08/2026** como o **entroncamento Rua Santuário × Av. Oscar Pereira**, **georreferenciado por pin em 14/08/2026** (~17 sinistros por proximidade); o ponto anterior (rótula Cristiano Kraemer × Juca Batista) foi **retirado**.
 > Fonte primária: [sugs.md](../sugs.md). Sinistros: [dados/tratados/acidentes_resumo_distancia_pontos.csv](../dados/tratados/acidentes_resumo_distancia_pontos.csv).
 > **Jurisdição: municipal — Porto Alegre (EPTC/SMMU).**
 >
@@ -22,9 +22,9 @@
 | P6 | Acesso à Av. Dr. Vergara (chão batido: Florestan Fernandes + Kanazawa) | 8 ² (evidência fraca — ver nota) | Conexão/rota | **Qualificação de rota alternativa** (sustentar por precariedade física, **não** por sinistros) |
 | P7 | Acesso à Estr. Costa Gama (bairro→centro), sem conversão à esquerda | 18 (1 grave) | Acesso/conversão | Comparar retorno atual × conversão; alternativas múltiplas |
 | P8 | Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante | 36 (4 graves, 17 motos) | Interseção semaforizada | **Diagnóstico semafórico-operacional primeiro** |
-| P9 | Rótula Estr. Cristiano Kraemer × Av. Juca Batista ("rótula da Vila Nova") — *preliminar (demanda D4)* | 33 (1 grave, 8 motos) ⁴ | Interseção (rótula) | Refinamento geométrico (divisória; revisão de quebra-mola) — **a verificar** |
+| P9 | Entroncamento Rua Santuário × Av. Oscar Pereira — *preliminar (reunião 13/08/2026)* | 17 (2 graves, 6 motos) ⁴ | Interseção (conversão à esquerda) | Fila para conversão à esquerda no pico; volume, geometria e travessia — **a verificar** |
 
-¹ associação por distância à malha (não causal). ² P4 e P6 são polilinha (corredor/rota), limiar ≤50 m; demais são ponto, limiar ≤100 m — **números de corredor somam a extensão inteira e não são comparáveis aos de interseção**; em peças externas, apresentar P4 por segmento (ver detalhamento). ³ em P5, o contexto ampliado (≤200 m) inclui 1 fatal na Av. Cavalhada (~128 m), **a validar** — não atribuível à conversão. ⁴ P9 entrou na associação por distância na Rodada 05, com o mesmo limiar das demais interseções (≤100 m). Dos 33, **11 citam explicitamente o par Juca Batista × Cristiano Kraemer** e 10 destes estão a menos de 25 m da rótula; os 21 que citam só a Juca Batista se dispersam com a distância (3/4/10/4 por faixa de 25 m), padrão de **corredor**, não de nó. Ou seja: parte do total pertence ao fluxo da Juca Batista e não à rótula. O número é mantido no mesmo critério dos demais pontos para preservar a comparabilidade da tabela — os quais, pelo mesmo motivo, também incorporam entorno.
+¹ associação por distância à malha (não causal). ² P4 e P6 são polilinha (corredor/rota), limiar ≤50 m; demais são ponto, limiar ≤100 m — **números de corredor somam a extensão inteira e não são comparáveis aos de interseção**; em peças externas, apresentar P4 por segmento (ver detalhamento). ³ em P5, o contexto ampliado (≤200 m) inclui 1 fatal na Av. Cavalhada (~128 m), **a validar** — não atribuível à conversão. ⁴ P9 foi **redefinido na reunião de 13/08/2026** como o entroncamento Rua Santuário × Av. Oscar Pereira e **georreferenciado por pin em 14/08/2026** (-30.096763, -51.178065). Os 17 registros são a associação por proximidade (≤100 m) desse novo ponto; a associação do ponto anterior (rótula Juca Batista) foi **retirada**.
 
 ## Prioridades de segurança
 **P4** é a prioridade de segurança mais robusta — a segmentação (R03) aponta os trechos **S06 (João Vedana→João Passuelo: 9 graves, 1 fatal, 41 motos)**, **S01 (ponta Cavalhada/Nonoai)** e **S04 (Aracaju→Amapá: 1 fatal)** como prioridades de vistoria técnica. **P5** segue como prioridade de **investigação** (sinistralidade no entorno), mas **a relação com a conversão é hipótese a confirmar com dados e vistoria técnica**, não dado. Regra: **não propor aumento de capacidade sem mitigação de risco.**
@@ -125,16 +125,16 @@
 - **Benefício público:** redução de fila e de risco em interseção semaforizada municipal.
 - **Solução candidata (hipótese):** **diagnóstico semafórico-operacional primeiro**. Redesenho/rótula só depois, se a capacidade for de fato o gargalo.
 
-### P9 — Rótula Estr. Cristiano Kraemer × Av. Juca Batista ("rótula da Vila Nova") — *preliminar*
-- **Origem:** demanda **D4** ([registro](../consultas/registro-demandas-comunitarias.md)); **nó distinto do P1** (rótula 3 Meninas × Cristiano Kraemer). Também é a âncora sul do corredor descrito na **D3** ("da rótula da Vila Nova até as Três Meninas"), o que o mantém dentro do recorte do eixo Cristiano Kraemer apesar da distância (~3,2 km ao sul do P1).
-- **Relato:** divisória (canteiro) na chegada/saída da Cristiano Kraemer à rótula e revisão do quebra-mola (manter na chegada, retirar na saída).
-- **Localização:** -30.1476851, -51.2045098 (centroide dos segmentos OSM `junction=circular`; transversal confirmada visualmente em 20/07/2026). Rótula pequena, ~29 × 33 m — compatível com refinamento geométrico, não com redesenho.
-- **Sinistros:** **33** pelo limiar de 100 m (11 feridos, 1 grave, 0 fatais, 8 motos); 57 no contexto de 200 m; distância mínima 3,8 m. **Ler com a ressalva ⁴ do quadro-resumo:** apenas 11 registros citam o cruzamento explicitamente, e a dispersão dos demais indica contribuição do corredor da Av. Juca Batista. Detalhamento em [metodologia, Rodada 05](../dados/tratados/acidentes_metodologia.md).
-- **Hipótese causal:** a definir após vistoria.
-- **Modos vulneráveis:** 8 motos entre os 33 registros; pedestres *a levantar* em campo.
-- **Evidência mínima a coletar:** geometria atual da rótula, velocidade na saída, conflitos, pedestres, posição dos quebra-molas (chegada/saída).
-- **Benefício público:** *a confirmar* — fluidez na saída mantendo segurança na chegada.
-- **Solução candidata (hipótese):** refinamento geométrico (divisória/canteiro) + revisão da moderação de velocidade — **após** vistoriar. A remoção do quebra-mola da saída exige justificar que a segurança se mantém; os 33 registros do entorno **não** sustentam essa remoção por si sós.
+### P9 — Entroncamento Rua Santuário × Av. Oscar Pereira — *preliminar*
+- **Origem:** definido na **reunião da comissão de 13/08/2026**, em substituição ao ponto preliminar anterior (rótula Cristiano Kraemer × Juca Batista), **retirado**.
+- **Relato:** em dias de maior fluxo, forma-se **fila na Rua Santuário para a conversão à esquerda na Av. Oscar Pereira**.
+- **Localização:** -30.096763, -51.178065 (**pin fornecido em 14/08/2026**), entroncamento da Rua Santuário com a Av. Oscar Pereira, em Vila Nova.
+- **Sinistros:** **17** pelo limiar de 100 m (10 feridos, 2 graves, 0 fatais, 6 motos); 25 no contexto de 200 m; distância mínima 11 m. Associação por distância — não implica causalidade.
+- **Modos vulneráveis:** 6 motos entre os 17 registros; pedestres *a levantar* em campo.
+- **Hipótese causal:** capacidade/brechas insuficientes para a conversão à esquerda no pico; prioridade e geometria da aproximação — a definir após vistoria.
+- **Evidência mínima a coletar:** volume da conversão à esquerda e da via principal no pico, brechas disponíveis, geometria da aproximação, travessia de pedestres.
+- **Benefício público:** *a confirmar* — redução de fila e de manobras de risco em conversão sobre via municipal.
+- **Solução candidata (hipótese):** diagnóstico operacional primeiro (prioridade/sinalização/faixa de acumulação); intervenção geométrica só se a vistoria confirmar.
 
 ---
 

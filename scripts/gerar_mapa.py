@@ -55,6 +55,7 @@ VIAS_ROTULADAS = {
     "Estr. Costa Gama": (-51.1720, -30.1255),
     "Av. da Cavalhada": (-51.2300, -30.1035),
     "Av. Belém Velho": (-51.1965, -30.1145),
+    "Estr. das Furnas": (-51.1956, -30.1036),
 }
 
 
@@ -156,8 +157,8 @@ def desenhar(out: Path) -> None:
     ]
     ax.legend(handles=itens, loc="lower right", fontsize=8, framealpha=0.9)
 
-    ax.set_title("Pontos de estrangulamento P1–P9 — entorno do Alphaville Porto Alegre\n"
-                 "Vila Nova / Zona Sul · vias municipais", fontsize=12)
+    ax.set_title("Pontos de estrangulamento P1–P9 — Vila Nova, eixo da Estr. das Três Meninas\n"
+                 "Zona Sul de Porto Alegre · vias municipais", fontsize=12)
     fig.text(0.5, 0.015,
              "Pontos: dados/pontos.csv (cadastro canônico) · Malha: © colaboradores do "
              "OpenStreetMap (ODbL) · Localização aproximada, a validar em campo · "

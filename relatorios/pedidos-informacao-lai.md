@@ -216,6 +216,32 @@ traz tem quase seis anos.
 > Recebimento Ambiental** do empreendimento e, em caso negativo, quais pendências subsistem,
 > considerando que o parecer o condiciona à abertura, alargamento e **arborização** da via.
 
+## Pedido 11 — Contrapartidas viárias dos empreendimentos em análise em Vila Nova (P1/P2)
+
+**Órgão:** SMAMUS — Escritório de Licenciamento / EMDU (com encaminhamento à EPTC/SMMU no que couber).
+**Origem:** resposta ao **Pedido 6** (item "c", 13/08/2026), que encaminhou o **Mapa
+"Empreendimentos Especiais em Análise — Bairro Vila Nova" (SEI nº 26.0.000107561-5)** — oito
+expedientes com contrapartidas viárias vinculadas, **concentrados no nó do P1 e nos eixos
+Cristiano Kraemer – Três Meninas – Belém Velho**, com um traçado viário em análise sobre a
+Estrada das Três Meninas. Ver `retornos-protocolos/017398-26-07/resposta.md`.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, e em complemento à resposta do pedido nº
+> **017398-26-07** (que encaminhou o "Mapa Empreendimentos Especiais em Análise — Bairro Vila
+> Nova", **SEI nº 26.0.000107561-5**), solicito, quanto a cada um dos oito expedientes únicos
+> ali indicados — **EU 002.308796.00.4, 002.329584.00.2, 002.345695.00.1, 002.290209.00.5,
+> 002.322436.00.8, 002.291103.00.5, 002.344231.00.4 e 002.344234.00.9**: (a) a **descrição das
+> contrapartidas e obrigações viárias** vinculadas ao respectivo licenciamento (vias a abrir,
+> alargar, pavimentar, qualificar ou sinalizar, e interseções eventualmente afetadas); (b) a
+> **situação atual** de cada contrapartida (em análise, aprovada, em execução ou concluída); e
+> (c) cópia das **peças de projeto viário** vinculadas, quando existentes e não sigilosas.
+> Solicito ainda, especificamente: (d) cópia do **"traçado viário em análise"** indicado no
+> referido mapa junto ao empreendimento **EU 002.308796.00.4**, sobre a Estrada das Três
+> Meninas; e (e) informação sobre se alguma dessas contrapartidas contempla as **adequações
+> pendentes** da 2ª fase da interseção Estr. das Três Meninas × Estr. Cristiano Kraemer e a
+> respectiva drenagem, registradas como não implantadas no **Parecer CTAAPS nº 093/2020**.
+
 ---
 
 ## Respostas recebidas
@@ -253,6 +279,16 @@ traz tem quase seis anos.
   o movimento de acesso a partir da via secundária (João Salomoni no P5)** — a confirmar na
   vistoria técnica se esse é o movimento relatado pela comunidade. Incorporado ao
   [anexo](anexo-matriz-pontos.md).
+- **Pedido 6 (017398-26-07) — respondido (13/08/2026), no prazo prorrogado.** A SMAMUS/DPU
+  informou que o entorno das Estradas das Três Meninas e Cristiano Kraemer é abrangido pelas
+  **ZOT 1, 3, 14 e 15** (LC 1075/PDUS e LC 1076/LUOS) e que a região **não é área prioritária
+  de intensificação** — sem previsão de Área de Intensificação da Ocupação, Operação Urbana
+  Consorciada ou Projeto Territorial Urbano. A DEL anexou o **Mapa da EMDU-SMAMUS** com **8
+  expedientes em licenciamento com contrapartidas viárias vinculadas** (EU 002.308796.00.4,
+  002.329584.00.2, 002.345695.00.1, 002.290209.00.5, 002.322436.00.8, 002.291103.00.5,
+  002.344231.00.4, 002.344234.00.9). O órgão ressalva que os parâmetros referem-se às
+  **minutas** — reconferir no texto final. Leitura completa em
+  `retornos-protocolos/017398-26-07/resposta.md` (local).
 
 ---
 
@@ -265,11 +301,12 @@ traz tem quase seis anos.
 | 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (21/07/2026):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
 | 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
-| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ **21/08/2026** | **prorrogado (+10 dias)** |
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | 31/08/2026 | aguardando resposta |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | 31/08/2026 | aguardando resposta |
+| 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | 02/09/2026 | aguardando resposta |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
@@ -277,8 +314,8 @@ sob a justificativa de que "a informação não se encontra sistematizada" nos a
 A prorrogação está refletida no próprio e-SIC, que exibe esses cinco pedidos com status
 **`PRAZO_PRORROGADO`** (conferido em 07/08/2026).
 Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** O **Pedido 7 respondeu
-adiantado (10/08)**. Restam os Pedidos 1, 4, 5 e 6, que provavelmente chegam depois da
-reunião ou no próprio dia — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
+adiantado (10/08)** e o **Pedido 6 respondeu no dia (13/08)**. Restam os Pedidos **1, 4 e 5**,
+que provavelmente chegam no próprio dia ou logo após — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
 
 **Prorrogação do Pedido 8 (11/08/2026):** a PGM também prorrogou o prazo por **10 dias**,
 com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma

@@ -13,12 +13,12 @@
 - **Referências para a vistoria técnica:** [plano de coleta](../campo/plano-coleta-campo.md) · [roteiro](../campo/observacoes/roteiro-vistoria.md) · [ficha CSV](../campo/observacoes/modelo-observacao-campo.csv).
 
 ## 2. Decisões da comissão (checklist)
-- [ ] **Validar a lista de pontos** (8 + P9). Algum a remover, fundir ou incluir?
+- [x] **Lista de pontos** decidida (13/08): **P1–P8 + novo P9** (entroncamento Rua Santuário × Av. Oscar Pereira); o antigo P9 (rótula Cristiano Kraemer × Juca Batista) foi retirado.
 - [x] **Grafia** "Estr. Cristiano **Kraemer**" — confirmada pela comissão.
-- [ ] **Aprovar/editar** o texto do memorando externo e do ofício; preencher `[nome / contato]`.
-- [ ] **Destino de D2 (retorno) e D3 (alargamento):** manter **internas** até provar benefício público? *(recomendação: sim)*
+- [x] **Peças aprovadas** (13/08): assina **Eduardo de Oliveira Horta (representante)** pela **Comissão Viária Estrada das Três Meninas**; contato **comissao.viaria@outlook.com**.
+- [x] **D2 (retorno) e D3 (capacidade da Cristiano Kraemer):** **incluídas** nas peças em versão genérica (decisão 13/08).
 - [ ] **P9 (Rótula da Vila Nova):** confirmar como ponto rastreado.
-- [ ] **Quem assina e protocola**, e por qual canal (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
+- [x] **Protocola:** Eduardo. **Canal:** SMAMUS (principal), com cópia à EPTC/SMMU e às Subprefeituras Centro-Sul e Glória.
 - [ ] **Confirmar o encaminhamento:** protocolo baseado em sonda, sinistros e LAIs, com pedido explícito de dados e vistoria técnica da EPTC; coleta comunitária e questionário ficam em espera.
 
 ## 3. Consolidação antes da reunião de 13/8
@@ -47,7 +47,7 @@
 
 - [ ] **Base indicativa consolidada:** sinistros, agregados metodologicamente descritos da sonda e respostas LAI — ou situação datada dos pedidos ainda pendentes.
 - [ ] **Peças externas sem placeholders** — `make release-check` verde (memorando, ofício e anexo preenchidos).
-- [ ] **Quem assina/protocola** definido e **canal** escolhido (EPTC – Solicitações de Trânsito / Subprefeitura Centro-Sul).
+- [x] **Quem assina/protocola** definido (Eduardo) e **canal** escolhido: **SMAMUS (principal)** + EPTC/SMMU e Subprefeituras Centro-Sul/Glória.
 
 ## 5. Depois do protocolo
 1. Acompanhar a designação de canal técnico e a resposta de cada pedido LAI.

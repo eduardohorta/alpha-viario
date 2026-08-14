@@ -3,7 +3,7 @@
     "rows": 75176,
     "valid_coord": 64003,
     "invalid_coord": 11173,
-    "relevant_no_coord": 27
+    "relevant_no_coord": 26
   },
   "janela_temporal_fonte": {
     "campo": "data",
@@ -12,13 +12,13 @@
   },
   "associacoes": {
     "todas": {
-      "linhas": 915,
-      "sinistros_distintos": 857,
+      "linhas": 883,
+      "sinistros_distintos": 825,
       "sinistros_multi_ponto": 58
     },
     "principais": {
-      "linhas": 706,
-      "sinistros_distintos": 680,
+      "linhas": 690,
+      "sinistros_distintos": 664,
       "sinistros_multi_ponto": 26
     },
     "nota": "Totais por ponto NÃO são somáveis: 'sinistros_multi_ponto' contam em mais de um ponto. Para um agregado, use 'sinistros_distintos'."
@@ -92,10 +92,10 @@
       "context_m": 200.0
     },
     "P9": {
-      "label": "Rotula Estr. Cristiano Kraemer x Av. Juca Batista",
+      "label": "Entroncamento Rua Santuario x Av. Oscar Pereira",
       "type": "point",
-      "lat": -30.1476851,
-      "lon": -51.2045098,
+      "lat": -30.096763,
+      "lon": -51.178065,
       "primary_m": 100.0,
       "context_m": 200.0
     }

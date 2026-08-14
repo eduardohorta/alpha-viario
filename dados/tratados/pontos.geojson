@@ -994,23 +994,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.2045098,
-          -30.1476851
+          -51.178065,
+          -30.096763
         ]
       },
       "properties": {
         "id": "P9",
-        "nome": "Rótula Estr. Cristiano Kraemer × Av. Juca Batista",
-        "nome_curto": "Rótula Cristiano Kraemer × Juca Batista",
+        "nome": "Entroncamento Rua Santuário × Av. Oscar Pereira",
+        "nome_curto": "Entroncamento Rua Santuário × Oscar Pereira",
         "tipo": "intersecao",
         "geometria": "point",
         "status": "preliminar",
         "confianca_coord": "alta",
-        "plano_funcional": "parcial",
-        "demanda_origem": "D4",
+        "plano_funcional": "fora",
+        "demanda_origem": "",
         "aliases": [
-          "Rótula da Vila Nova",
-          "Rótula Cristiano Kraemer x Juca Batista"
+          "Rua Santuário × Oscar Pereira",
+          "Santuário Oscar Pereira"
         ]
       }
     }
