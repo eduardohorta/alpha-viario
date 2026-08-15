@@ -242,6 +242,70 @@ Estrada das Três Meninas. Ver `retornos-protocolos/017398-26-07/resposta.md`.
 > pendentes** da 2ª fase da interseção Estr. das Três Meninas × Estr. Cristiano Kraemer e a
 > respectiva drenagem, registradas como não implantadas no **Parecer CTAAPS nº 093/2020**.
 
+## Pedido 12 — DMU-SMMU: projeto de sinalização viária do corredor (…09872)
+
+**Órgão:** Secretaria Municipal de Mobilidade Urbana (SMMU) / DMU.
+**Origem:** resposta ao **Pedido 4** (14/08/2026) — a SMAMUS **não localizou arquivo digitalizado**
+do projeto de sinalização (EU **002.302984.00.0.09872**) e indicou a **DMU-SMMU** como competente.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, e em complemento à resposta do **pedido nº 017396-26-01**
+> (SMAMUS, 14/08/2026), que indicou a **DMU/SMMU** como competente para a peça de sinalização,
+> solicito, quanto ao **projeto de sinalização viária**
+> vinculado ao licenciamento do empreendimento Alphaville Porto Alegre e ao Termo de Compromisso
+> nº **41.198/2009** e seu segundo aditamento nº **53.107/2013** (Expediente Único
+> **002.302984.00.0**, em especial o expediente de sinalização viária **002.302984.00.0.09872**):
+> (a) cópia digital, identificada e legível, das **peças do projeto de sinalização viária**
+> (vertical, horizontal e semafórica) do corredor da Estrada das Três Meninas e das interseções
+> associadas; (b) a **situação atual** do expediente e se o projeto foi **aprovado, executado e
+> recebido**; e (c) informação sobre a necessidade de **revisão/atualização** da sinalização em
+> razão do tempo decorrido e das alterações no padrão de sinalização do Município, conforme já
+> apontado pela EPTC no Parecer CTAAPS nº 093/2020. Caso a peça esteja apenas em meio físico,
+> solicito indicação do local e procedimento para vista e cópia.
+
+## Pedido 13 — EPV-SMOI: execução e recebimento de pavimentação e geometria
+
+**Órgão:** Secretaria Municipal de Obras e Infraestrutura (SMOI) / EPV.
+**Origem:** resposta ao **Pedido 4** (14/08/2026) — a SMAMUS indicou a **EPV-SMOI** como competente
+para as informações de **execução e recebimento** de pavimentação e geometria.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, e em complemento à resposta do **pedido nº 017396-26-01**
+> (SMAMUS, 14/08/2026), que indicou a **EPV/SMOI** como competente para a execução e o recebimento,
+> solicito, quanto às obras de **pavimentação e geometria** do
+> corredor da Estrada das Três Meninas vinculadas ao Termo de Compromisso nº **41.198/2009** e seu
+> segundo aditamento nº **53.107/2013** (Expediente Único **002.302984.00.0**; expedientes de
+> pavimentação **…09865** e geométrico **…07864**): (a) o **quadro de execução por trecho e
+> interseção** (estacas 0–170 do Plano Funcional), distinguindo o que foi executado, recebido
+> provisoriamente, recebido definitivamente e não executado; (b) cópia dos **termos de recebimento
+> provisório e definitivo** lavrados, além do TRP de 10/04/2013 (estacas 1200+17 m a 2940 m) já
+> conhecido; (c) o **saldo de obrigações de pavimentação/geometria não executadas**, em especial a
+> **2ª fase da interseção com a Estrada Cristiano Kraemer** e os ~300 m finais do 3º trecho
+> implantados com largura menor; e (d) a **correspondência entre o estaqueamento** da obra recebida
+> em 2013 e o do Plano Funcional.
+
+## Pedido 14 — CISE-DMAE: execução e recebimento das redes de água e esgoto
+
+**Órgão:** Departamento Municipal de Água e Esgotos (DMAE) / CISE.
+**Origem:** resposta ao **Pedido 4** (14/08/2026) — a SMAMUS indicou a **CISE-DMAE** como competente
+para as informações de **execução e recebimento** das redes.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, e em complemento à resposta do **pedido nº 017396-26-01**
+> (SMAMUS, 14/08/2026), que indicou a **CISE/DMAE** como competente para a execução e o recebimento,
+> solicito, quanto às **redes de abastecimento de água e de
+> esgotamento sanitário (cloacal)** do corredor da Estrada das Três Meninas vinculadas ao Termo de
+> Compromisso nº **41.198/2009** e seu segundo aditamento nº **53.107/2013** (Expediente Único
+> **002.302984.00.0**; expedientes de rede de água **…09861**, aprovado em 12/11/2010, e de esgoto
+> cloacal **…09862**, com diretrizes emitidas em 22/05/2013): (a) informação sobre se as **redes de
+> água e de esgoto foram executadas e recebidas** e em que trechos; (b) a **situação atual do
+> projeto de esgoto cloacal** (…09862), que constava apenas em etapa de **diretrizes de projeto**,
+> e se houve projeto executivo aprovado posteriormente; e (c) cópia das **peças e termos de
+> recebimento** correspondentes, quando existentes e não sigilosos.
+
 ---
 
 ## Respostas recebidas
@@ -268,6 +332,19 @@ Estrada das Três Meninas. Ver `retornos-protocolos/017398-26-07/resposta.md`.
   pelo **Decreto nº 20.659/2020** (projetos complementares valem 4 anos), o **projeto não
   está mais válido** — caducou. Leitura detalhada em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#respostas-lai-de-julho-de-2026-o-projeto-do-p7-foi-obtido-e-caducou).
+- **Pedido 4 (017396-26-01) — respondido (14/08/2026), no prazo prorrogado.** A SMAMUS consolidou
+  CTAAPS, Escritório de Licenciamento e EPIARB e entregou o **quadro de expedientes complementares**
+  do 2º aditamento, com número e situação: **geométrico …07864 indeferido em 2018** (abandono
+  processual), **pavimentação …09865** (2014), **rede de água …09861** (2010), **esgoto …09862**
+  (diretrizes 2013), **drenagem …09863** (2014), **arborização …09868** (2015) e **sinalização
+  …09872 — sem arquivo digitalizado localizado**. A EPIARB confirmou **arborização recebida** no
+  trecho 1400–3000 (TR de 21/03/2013), mas **sem registro** para as interseções **Kanazawa e
+  Florestan Fernandes (P6)**. Procedimentalmente, invocou o **art. 11 do Decreto 19.990/2018**
+  (um órgão por pedido) e roteou os saldos de execução para **EPV-SMOI** (pavimentação/geometria),
+  **CISE-DMAE** (redes), **EPIARB-SMAMUS** (arborização), **DMU-SMMU** (sinalização) e **GEAR-PGM**
+  (cumprimento do TC). Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-4-14082026-o-quadro-de-expedientes-complementares)
+  e `retornos-protocolos/017396-26-01/resposta.md` (local).
 - **Pedido 7 (017399-26-65) — respondido (10/08/2026), antes do novo prazo (13/08).** A EPTC
   informou: (a) recebe **reports do Waze desde set/2019**; (b) contagens/estudos de tráfego
   estão no portal **ObservaMOB** (`Fluxo → Pesquisas` e `Fluxo → Relatórios`); e (c) anexou os
@@ -299,7 +376,7 @@ Estrada das Três Meninas. Ver `retornos-protocolos/017398-26-07/resposta.md`.
 | 1 — Desenhos do Plano Funcional | SMAMUS | 10/07/2026 | 017392-26-80 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | **respondido (21/07/2026) — parcial:** TRP de 2013 fornecido; saldo das obrigações → PGM (Pedido 8) |
 | 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (21/07/2026):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
-| 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ ~~13/08/2026~~ | **respondido (14/08/2026)** — quadro de expedientes (…0986x); geométrico …07864 **indeferido (2018)**; sinalização …09872 **sem arquivo digitalizado**; arborização do P6 sem registro; execução → EPV-SMOI / CISE-DMAE / DMU-SMMU / GEAR-PGM |
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
@@ -307,6 +384,9 @@ Estrada das Três Meninas. Ver `retornos-protocolos/017398-26-07/resposta.md`.
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | 31/08/2026 | aguardando resposta |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | 31/08/2026 | aguardando resposta |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | 02/09/2026 | aguardando resposta |
+| 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
+| 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
+| 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
@@ -314,8 +394,8 @@ sob a justificativa de que "a informação não se encontra sistematizada" nos a
 A prorrogação está refletida no próprio e-SIC, que exibe esses cinco pedidos com status
 **`PRAZO_PRORROGADO`** (conferido em 07/08/2026).
 Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** O **Pedido 7 respondeu
-adiantado (10/08)** e o **Pedido 6 respondeu no dia (13/08)**. Restam os Pedidos **1, 4 e 5**,
-que provavelmente chegam no próprio dia ou logo após — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
+adiantado (10/08)**, o **Pedido 6 respondeu no dia (13/08)** e o **Pedido 4 respondeu em 14/08**
+(um dia após o prazo). Restam os Pedidos **1 e 5** — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
 
 **Prorrogação do Pedido 8 (11/08/2026):** a PGM também prorrogou o prazo por **10 dias**,
 com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma

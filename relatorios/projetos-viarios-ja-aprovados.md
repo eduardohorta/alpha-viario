@@ -17,6 +17,7 @@
 - **Peças gráficas avulsas**: plantas cadastrais e levantamentos do empreendimento e do entorno.
 - **Repassado pela administração do Alphaville (07/08/2026)**: **Termo de Compromisso nº 41.198** integral (2009), **1º aditivo** (reg. nº 49.440, Livro 754-D, fls. 068, maio/2012), **2º aditivo** (reg. nº 53.107, 23/08/2013) com anexos, **Parecer CTAAPS nº 093/2020** (17/09/2020) e **Decretos de desapropriação nº 20.859, 20.860 e 20.861, de 23/12/2020**.
 - **Obtido via LAI (jul/2026)**: projeto geométrico da conexão Três Meninas × Costa Gama (Pedido 3) e Termo de Recebimento Provisório de 2013 (Pedido 2).
+- **Obtido via LAI (ago/2026)**: quadro dos **expedientes complementares** do 2º aditamento — números e situação de cada infraestrutura (Pedido 4, resposta da SMAMUS consolidando CTAAPS, Escritório de Licenciamento e EPIARB, de 14/08/2026).
 
 Os PDFs recebidos são digitalizações administrativas e contêm dados pessoais e registrais. Permanecem fora do repositório público; aqui são transcritos apenas fatos institucionais necessários ao projeto.
 
@@ -260,6 +261,98 @@ correta passa a ser:
 > recomendava revisar os projetos** por decurso de tempo. O que se pede é **retomar e concluir**
 > o que a própria cidade pactuou, projetou e declarou — atualizado às condições atuais.
 
+## Resposta LAI ao Pedido 4 (14/08/2026): o quadro de expedientes complementares
+
+> A resposta ao **Pedido 4** — expedientes complementares do 2º aditamento, com foco no **P6** —
+> chegou em **14/08/2026** (protocolo **017396-26-01**), um dia após o prazo prorrogado. Respondeu a
+> **SMAMUS**, consolidando manifestações da **CTAAPS**, do **Escritório de Licenciamento** e da
+> **EPIARB-SMAMUS** (arborização). Os documentos brutos e anexos ficam em
+> `retornos-protocolos/017396-26-01/` (fora do repositório público, como os expedientes-únicos);
+> abaixo, apenas os fatos institucionais.
+
+### 1. Os expedientes complementares, com número e situação
+
+É o **quadro de expedientes** pedido em [PENDENCIAS §A](../PENDENCIAS.md) — cada infraestrutura do
+2º aditamento com seu Expediente Único (sob o processo-mãe `002.302984.00.0`) e a situação declarada:
+
+| Infraestrutura | Expediente (EU …) | Situação declarada |
+|---|---|---|
+| **Projeto Geométrico** | …**07864** | **Indeferido em 28/11/2018** — por não atendimento ao comparecimento no prazo (doc. 18410534, pág. 14) |
+| **Pavimentação** | …**09865** | Aprovado em **15/05/2014** (doc. 14176111) |
+| **Rede de Água** | …**09861** | Aprovado em **12/11/2010** (doc. 14055489, pág. 26) |
+| **Rede de Esgoto (Cloacal)** | …**09862** | Diretrizes de projeto emitidas em **22/05/2013** (doc. 12906149) — o DMAE registra que **não há necessidade de remanejamento das redes de água** (pág. 5) |
+| **Drenagem** | …**09863** | Aprovado em **08/04/2014** (⚠️ ver discrepância no item 2) |
+| **Arborização Viária** | …**09868** | Aprovado em **26/10/2015** (doc. 14194321, pág. 38) |
+| **Sinalização Viária** | …**09872** | **Não localizado arquivo digitalizado** do projeto |
+
+Dois achados imediatos:
+
+- **O projeto geométrico (…07864) foi indeferido em 2018.** Não é o geométrico da conexão Costa
+  Gama (Pedido 3, que **caducou** por decurso de prazo): é um expediente próprio, **indeferido por
+  abandono processual** (não comparecimento no prazo estabelecido). Somado ao P7 caducado e às 2ªs
+  fases não implantadas, o corredor acumula **geometria indeferida, projeto complementar caducado e
+  interseções não executadas** — janelas administrativas sucessivas abertas e perdidas.
+- **A sinalização viária (…09872) não tem arquivo digitalizado** localizável na SMAMUS. É a mesma
+  lacuna que o Parecer CTAAPS 093/2020 já sinalizava (a EPTC apontando revisão necessária por
+  decurso de tempo). Para obter a peça, o caminho indicado é a **DMU-SMMU** (ver item 4).
+
+### 2. ⚠️ Discrepância de rótulo: drenagem × arborização no expediente …09868
+
+A própria resposta se contradiz quanto ao expediente **…09868**:
+
+- a **CTAAPS** o rotula como **"Projeto de Drenagem"**, aprovado em 26/10/2015 (doc. 14194321, pág. 38);
+- o **Escritório de Licenciamento** e a **EPIARB** o identificam como **"Projeto de Arborização
+  Viária"**, aprovado na mesma data e citando o **mesmo documento e página** (14194321, pág. 38), e
+  listam a **drenagem** como expediente distinto — **…09863**, aprovado em **08/04/2014**.
+
+O peso da evidência (duas unidades, uma delas a própria área de arborização, convergindo para o
+mesmo documento) indica que **…09868 é arborização** e que a linha de "drenagem" da CTAAPS
+**trocou o rótulo**. A tabela do item 1 adota essa leitura; convém confirmar na peça física ao
+consolidar o quadro definitivo.
+
+### 3. Arborização: recebimento parcial documentado — mas as interseções do P6 sem registro
+
+A EPIARB detalhou o histórico do expediente de arborização (…09868):
+
+- **1ª fase** aprovada em **24/09/2008** (docs. 11534258, pág. 21, e 14194305, pág. 21);
+- **Trechos 1 (alargamento), 2 e 3** aprovados em **26/04/2010** (doc. 11534265, pág. 03);
+- **Termo de Recebimento** da arborização das vias entre os nº **1400 e 3000** da Estr. das Três
+  Meninas, de **21/03/2013** (doc. 11534267, pág. 06) — recebimento parcial documentado, ao lado do
+  TRP de pavimentação de 10/04/2013;
+- arborização do **Trecho Intersecção Costa Gama/Três Meninas** aprovada em **26/10/2015**
+  (docs. 11534273, pág. 34, e 14194321, pág. 38).
+
+E o achado que interessa ao **P6**: a EPIARB informa **não haver registro de aprovação nem de termo
+de recebimento** da arborização das interseções da Estr. das Três Meninas **com a Estr. Kanazawa e
+com a Rua Florestan Fernandes**. É mais uma confirmação, por via independente, de que o **P6 tem
+obrigação prevista e nada implantado** — somada aos projetos aprovados-e-não-implantados do Parecer
+CTAAPS 093/2020 e à desapropriação declarada (Decreto 20.859/2020).
+
+### 4. O recado procedimental: um órgão por protocolo — e a quem pedir cada saldo
+
+A SMAMUS ressalva que a **comprovação de execução material não se confunde com a aprovação dos
+projetos**, e que o **art. 11 do Decreto nº 19.990/2018** veda cumular, num mesmo pedido, informação
+de mais de um órgão. Para o **saldo de execução e recebimento**, indicou a área competente:
+
+| Tema | Órgão competente |
+|---|---|
+| Pavimentação e Geometria | **EPV-SMOI** |
+| Redes (água/esgoto) | **CISE-DMAE** |
+| Arborização | **EPIARB-SMAMUS** |
+| Sinalização Viária | **DMU-SMMU** |
+| Cumprimento e monitoramento do Termo de Compromisso | **GEAR-PGM** |
+
+Especificamente sobre as interseções **Kanazawa** e **Florestan Fernandes**, a resposta lembra que
+as **Cláusulas Sexta e Sétima do 2º aditamento** previram, respectivamente, novos estudos e — após
+a aprovação dos geométricos — os projetos de pavimentação, e remete o **cumprimento** dessas
+obrigações à **GEAR-PGM** (unidade já acionada nos Pedidos 8, 9 e 10).
+
+**Consequência para a trilha LAI:** o eixo do Pedido 4 estava certo ao pedir o quadro de
+expedientes, mas a **execução por trecho** precisa ser buscada órgão a órgão. O item mais concreto a
+destravar é a **sinalização** (peça não localizada na SMAMUS → **DMU-SMMU**); os saldos de execução
+das demais infraestruturas convergem para a **GEAR-PGM**, já coberta pelos Pedidos 8–10. Ver
+desdobramento na [trilha LAI](pedidos-informacao-lai.md).
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -267,7 +360,7 @@ correta passa a ser:
 | **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020). |
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
-| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de **desapropriação declarada** na esquina com a Kanazawa (Decreto 20.859/2020). A rota completa até a Dr. Vergara segue fora da cobertura. |
+| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de **desapropriação declarada** na esquina com a Kanazawa (Decreto 20.859/2020). A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
 | **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**, que declarou a **desapropriação** da área — com prazo legal de efetivação vencido em **23/12/2025** (a confirmar); **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; e **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) disparado pela publicação do decreto. |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
