@@ -353,6 +353,45 @@ destravar é a **sinalização** (peça não localizada na SMAMUS → **DMU-SMMU
 das demais infraestruturas convergem para a **GEAR-PGM**, já coberta pelos Pedidos 8–10. Ver
 desdobramento na [trilha LAI](pedidos-informacao-lai.md).
 
+## Resposta LAI ao Pedido 1 (17/08/2026): sinalização da nova interseção não encontrada, processo passa à SMMU
+
+> A resposta ao **Pedido 1** — desenhos vigentes do Plano Funcional — chegou em **17/08/2026**
+> (protocolo **017392-26-80**), quatro dias após o novo prazo (13/08). Respondeu a **EPTC**, e
+> apenas sobre a parcela do pedido de sua competência: a **nova interseção Estr. Costa Gama ×
+> Estr. das Três Meninas (P7)**. O documento bruto fica em `retornos-protocolos/017392-26-80/`
+> (fora do repositório público); abaixo, os fatos institucionais.
+
+A EPTC informou, em texto direto:
+
+1. **Não foi encontrado projeto de sinalização viária aprovado** para a nova interseção Costa
+   Gama × Três Meninas.
+2. **A aprovação do Plano Funcional e do Projeto de Sinalização Viária tem validade de 4 anos.**
+   Havendo projeto aprovado anteriormente com prazo vencido, ele **deve ser reaprovado na
+   SMMU**. É a mesma regra de 4 anos já conhecida pelo **Decreto nº 20.659/2020** (resposta ao
+   Pedido 3) — agora confirmada por uma **segunda fonte independente**, e estendida
+   explicitamente à sinalização, não só ao projeto complementar.
+3. **Conclusão da própria EPTC:** para dar continuidade às obras, o empreendedor **deve aprovar
+   junto à SMMU/EPTC os projetos funcional e de sinalização viária** dessa interseção. É uma
+   confirmação, na voz do próprio órgão técnico, de que a interseção **não tem hoje nenhum
+   projeto vigente** — nem geométrico (caducado, Pedido 3), nem de sinalização (nunca
+   encontrado).
+4. **Mudança de competência:** o processo **não tramita mais na EPTC**, e sim na **SMMU** —
+   orientação para protocolar um novo pedido diretamente a essa secretaria. Gera o **Pedido 15**
+   na [trilha LAI](pedidos-informacao-lai.md).
+
+**O que isso não cobre.** A resposta trata apenas da nova interseção com a Costa Gama (P7); não
+menciona o **Anexo 7** nem os **desenhos do restante do corredor** pedidos originalmente. Essa
+lacuna segue coberta, na medida do possível, pelo **quadro de expedientes do Pedido 4** e pelo
+**projeto geométrico do P7 já obtido no Pedido 3** — não há, até aqui, os desenhos gráficos do
+Plano Funcional completo (estacas 0–170).
+
+**Consequência para o P7.** Reforça, de fonte adicional e independente, que a interseção está
+**sem nenhum projeto vigente** — nem geométrico, nem de sinalização — e que **a própria EPTC**
+reconhece a necessidade de nova aprovação. Some-se à cadeia já documentada: projeto de 2013
+caducado (Pedido 3) → alça nomeada em decreto (Decreto 20.860/2020) → desapropriação com prazo
+legal vencido (23/12/2025, a confirmar) → 2ª fase nunca implantada (Parecer CTAAPS 093/2020) →
+agora, sinalização nunca aprovada e processo transferido à SMMU.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -361,7 +400,7 @@ desdobramento na [trilha LAI](pedidos-informacao-lai.md).
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de **desapropriação declarada** na esquina com a Kanazawa (Decreto 20.859/2020). A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**, que declarou a **desapropriação** da área — com prazo legal de efetivação vencido em **23/12/2025** (a confirmar); **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; e **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) disparado pela publicação do decreto. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**, que declarou a **desapropriação** da área — com prazo legal de efetivação vencido em **23/12/2025** (a confirmar); **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) disparado pela publicação do decreto; e **sinalização viária nunca aprovada** para a nova interseção, confirmado pela própria EPTC (Pedido 1, 17/08/2026), que orientou novo pedido à **SMMU** (Pedido 15). |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 

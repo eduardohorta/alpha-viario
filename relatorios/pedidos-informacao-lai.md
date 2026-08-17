@@ -306,6 +306,31 @@ para as informações de **execução e recebimento** das redes.
 > e se houve projeto executivo aprovado posteriormente; e (c) cópia das **peças e termos de
 > recebimento** correspondentes, quando existentes e não sigilosos.
 
+## Pedido 15 — SMMU: projeto funcional e de sinalização viária da nova interseção Costa Gama × Três Meninas (P7)
+
+**Órgão:** Secretaria Municipal de Mobilidade Urbana (SMMU).
+**Origem:** resposta ao **Pedido 1** (017392-26-80, 17/08/2026) — a EPTC informou que **não
+localizou projeto de sinalização viária aprovado** para a nova interseção Estr. Costa Gama ×
+Estr. das Três Meninas, que **tanto o projeto funcional quanto o de sinalização precisam ser
+(re)aprovados** para dar continuidade às obras, e que **o processo não tramita mais na EPTC, e
+sim na SMMU**.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, e em complemento à resposta do **pedido nº 017392-26-80**
+> (EPTC, 17/08/2026), que informou não haver projeto de sinalização viária aprovado para a nova
+> interseção da Estrada Costa Gama com a Estrada das Três Meninas (P7) e que o processo passou a
+> tramitar nesta Secretaria, solicito, quanto à referida interseção — vinculada ao licenciamento
+> do empreendimento Alphaville Porto Alegre (Expediente Único **002.302984.00.0**; Termo de
+> Compromisso nº **41.198/2009** e segundo aditamento nº **53.107/2013**): (a) informação sobre
+> se há, nesta Secretaria, **projeto funcional e/ou de sinalização viária protocolado, em
+> análise ou aprovado** para essa interseção, com número do respectivo expediente; (b) em caso
+> negativo, quais as **providências e o procedimento** para que o empreendedor submeta os
+> projetos funcional e de sinalização viária dessa interseção à aprovação da SMMU/EPTC; e (c)
+> informação sobre **prazo ou cronograma**, se houver, para essa aprovação, considerando que a
+> área já foi objeto de declaração de utilidade pública para desapropriação (Decreto Municipal
+> nº 20.860/2020).
+
 ---
 
 ## Respostas recebidas
@@ -366,6 +391,17 @@ para as informações de **execução e recebimento** das redes.
   002.344231.00.4, 002.344234.00.9). O órgão ressalva que os parâmetros referem-se às
   **minutas** — reconferir no texto final. Leitura completa em
   `retornos-protocolos/017398-26-07/resposta.md` (local).
+- **Pedido 1 (017392-26-80) — respondido (17/08/2026), parcial.** A **EPTC** informou que **não
+  localizou projeto de sinalização viária aprovado** para a **nova interseção da Estr. Costa
+  Gama com a Estr. das Três Meninas (P7)**; confirmou, como regra geral e por fonte
+  independente, que a aprovação do **Plano Funcional e do Projeto de Sinalização Viária tem
+  validade de 4 anos**; e concluiu que, **para dar continuidade às obras, o empreendedor precisa
+  aprovar junto à SMMU/EPTC os projetos funcional e de sinalização viária** dessa interseção.
+  Informou ainda que **o processo não tramita mais na EPTC, e sim na SMMU**, e orientou novo
+  pedido a essa secretaria → gera o **Pedido 15**. A resposta não trata do restante do pedido
+  original (Anexo 7, desenhos do corredor completo) — esse gap segue coberto pelo quadro de
+  expedientes do Pedido 4 e pelo projeto geométrico já obtido no Pedido 3. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-1-17082026-sinalização-da-nova-interseção-não-encontrada-processo-passa-à-smmu).
 
 ---
 
@@ -373,7 +409,7 @@ para as informações de **execução e recebimento** das redes.
 
 | Pedido | Órgão | Data do protocolo | Nº do protocolo | Prazo (20 dias) | Situação |
 |--------|-------|-------------------|-----------------|-----------------|----------|
-| 1 — Desenhos do Plano Funcional | SMAMUS | 10/07/2026 | 017392-26-80 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 1 — Desenhos do Plano Funcional | SMAMUS/EPTC | 10/07/2026 | 017392-26-80 | ~~03/08~~ ~~13/08/2026~~ | **respondido (17/08/2026), parcial** — EPTC: sem sinalização aprovada para a nova interseção Costa Gama (P7); processo migrou à SMMU → Pedido 15 |
 | 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | **respondido (21/07/2026) — parcial:** TRP de 2013 fornecido; saldo das obrigações → PGM (Pedido 8) |
 | 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (21/07/2026):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
 | 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ ~~13/08/2026~~ | **respondido (14/08/2026)** — quadro de expedientes (…0986x); geométrico …07864 **indeferido (2018)**; sinalização …09872 **sem arquivo digitalizado**; arborização do P6 sem registro; execução → EPV-SMOI / CISE-DMAE / DMU-SMMU / GEAR-PGM |
@@ -387,6 +423,7 @@ para as informações de **execução e recebimento** das redes.
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
+| 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | 08/09/2026 | aguardando resposta — derivado do Pedido 1 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
@@ -394,8 +431,10 @@ sob a justificativa de que "a informação não se encontra sistematizada" nos a
 A prorrogação está refletida no próprio e-SIC, que exibe esses cinco pedidos com status
 **`PRAZO_PRORROGADO`** (conferido em 07/08/2026).
 Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** O **Pedido 7 respondeu
-adiantado (10/08)**, o **Pedido 6 respondeu no dia (13/08)** e o **Pedido 4 respondeu em 14/08**
-(um dia após o prazo). Restam os Pedidos **1 e 5** — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
+adiantado (10/08)**, o **Pedido 6 respondeu no dia (13/08)**, o **Pedido 4 respondeu em 14/08**
+(um dia após o prazo) e o **Pedido 1 respondeu em 17/08** (parcial — ver acima). **Resta apenas
+o Pedido 5** (Av. Monte Cristo), cujo prazo prorrogado (13/08) já **venceu sem resposta** — ver
+[ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
 
 **Prorrogação do Pedido 8 (11/08/2026):** a PGM também prorrogou o prazo por **10 dias**,
 com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma

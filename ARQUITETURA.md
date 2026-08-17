@@ -44,7 +44,7 @@ Capturas do Google Maps (e, se acionada, coleta física) → registradas em
 `campo/observacoes/inventario-evidencias.csv` com classificação **público/interno**.
 
 ### 4. Documentos oficiais (LAI) e questionário
-Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (10 protocolados) buscam o que só a
+Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (15 protocolados) buscam o que só a
 Prefeitura tem. Uma **segunda via documental** é a administração do
 empreendimento, que repassou à comissão o TC integral, aditivos, pareceres e decretos
 (`nova-documentacao/`, gitignored). **As respostas brutas ficam em

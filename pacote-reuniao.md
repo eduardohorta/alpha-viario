@@ -42,12 +42,13 @@ fontsize: 11pt
 - **Sonda:** verificar continuidade e gerar agregados por rota e horário: atraso versus
   fluxo livre, assimetria direcional no P4 e custo do retorno no P7. Declarar a janela de
   coleta e as limitações; não anexar nem publicar dados brutos da Google Routes API.
-- **LAIs:** Pedidos 1, 4, 5 e 6 foram **prorrogados para 13/08** (mesmo dia da reunião) —
-  incorporar à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md) as que já
-  chegaram (2, 3, 7, possivelmente 8) e levar a reunião ciente de que o restante decide com
-  evidência parcial. **O pedido 7 já respondeu (10/08)**: confirma Waze desde 2019, aponta o
-  portal ObservaMOB e traz os planos semafóricos oficiais de P5 e P8 — já no
-  [anexo](relatorios/anexo-matriz-pontos.md).
+- **LAIs:** dos Pedidos 1, 4, 5 e 6, prorrogados em 22/07 para 13/08, só o **Pedido 5** (Av.
+  Monte Cristo) segue sem resposta — prazo vencido desde 13/08. Responderam: **6** (13/08,
+  zoneamento PDUS e mapa de contrapartidas viárias), **4** (14/08, quadro de expedientes
+  complementares) e **1** (17/08, EPTC sem sinalização aprovada para a nova interseção Costa
+  Gama — processo migrado à SMMU, novo Pedido 15). **O pedido 7 já respondeu (10/08)**: confirma
+  Waze desde 2019, aponta o portal ObservaMOB e traz os planos semafóricos oficiais de P5 e P8 —
+  já no [anexo](relatorios/anexo-matriz-pontos.md).
 - **Documentação da administração do Alphaville (recebida em 07/08):** já incorporada ao dossiê
   — TC integral, aditivos, **Parecer CTAAPS nº 093/2020** e **três decretos de desapropriação de
   23/12/2020**. Mudou o enquadramento: o pleito passa a ser **concluir o que a cidade pactuou,
@@ -148,7 +149,7 @@ Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **med
 | **P4** | Corredor da Av. Vicente Monteggia (≈2,9 km) | Sobrecarga e gravidade no corredor | Sinistros graves e **2 fatais** no corredor; trecho mais crítico entre Estr. João Vedana e Estr. João Passuelo (~67 sinistros, 9 graves, 1 fatal); **tempos de viagem (sonda): o corredor mais lento, atraso ~1,3–1,4× no pico (p85 até ~1,9×)** | Contagem por trecho; velocidades; **vistoriar trechos prioritários** |
 | **P5** | Conversão Av. João Salomoni → Av. da Cavalhada | Conversão problemática | Sinistralidade no entorno da Cavalhada; **plano semafórico obtido via LAI: 13 planos por horário, ciclos de 55 a 130 s, 2 estágios** (Informação Técnica EPTC nº 40664080) | Volume da conversão, travessia, ônibus; **confirmar se o movimento relatado tem fase dedicada** |
 | **P6** | Acesso à Av. Dr. Vergara (via Florestan Fernandes / Estr. Kanazawa) | Rota precária (trecho não pavimentado) | Precariedade física + estudos dos dois acessos exigidos em 2013; **Parecer CTAAPS 093/2020: projetos de Kanazawa e Florestan Fernandes aprovados e "nenhuma foi implantada"**; **Decreto nº 20.859/2020 declarou a desapropriação** na esquina com a Kanazawa (1.806,73 m²) | Efetivação da desapropriação e implantação dos projetos aprovados; largura, drenagem, calçadas e função de rede |
-| **P7** | Acesso à Estr. Costa Gama, sentido bairro–centro | Sem conversão à esquerda; retorno distante | ~18 sinistros; **projeto geométrico aprovado na CTAAPS/2013 obtido via LAI — 1ª etapa + solução definitiva com conector a oeste — hoje caducado** (Dec. 20.659/2020); **a "alça de ligação" está nomeada no Decreto nº 20.860/2020, que declarou a desapropriação da área (1.334,07 m²)**; **2ª fase nunca implantada** (Parecer CTAAPS 093/2020); **sonda: a rota legal (com o retorno) custa ≈2,0× o tempo e 1,6× a distância do movimento direto** | Revalidar/atualizar o projeto; **confirmar o status da desapropriação** (prazo legal de 5 anos a partir de 23/12/2020); tempo do retorno e volume |
+| **P7** | Acesso à Estr. Costa Gama, sentido bairro–centro | Sem conversão à esquerda; retorno distante | ~18 sinistros; **projeto geométrico aprovado na CTAAPS/2013 obtido via LAI — 1ª etapa + solução definitiva com conector a oeste — hoje caducado** (Dec. 20.659/2020); **a "alça de ligação" está nomeada no Decreto nº 20.860/2020, que declarou a desapropriação da área (1.334,07 m²)**; **2ª fase nunca implantada** (Parecer CTAAPS 093/2020); **sinalização viária nunca aprovada** para a nova interseção — confirmado pela EPTC, que orientou novo pedido à SMMU (Pedido 1→15); **sonda: a rota legal (com o retorno) custa ≈2,0× o tempo e 1,6× a distância do movimento direto** | Revalidar/atualizar o projeto (agora na **SMMU**); **confirmar o status da desapropriação** (prazo legal de 5 anos a partir de 23/12/2020); tempo do retorno e volume |
 | **P8** | Cruzamento semaforizado Estr. Costa Gama × Estr. Afonso Lourenço Mariante | Filas no pico | ~36 sinistros (4 graves; motos); **sonda: atraso ~1,3× no pico (sentido Mariante→Costa Gama)**; **plano semafórico obtido via LAI: 15 planos por horário, ciclos de 55 a 160 s, 3 estágios** (Informação Técnica EPTC nº 40691572) | Fila residual e volume por aproximação, agora com os tempos de verde oficiais como referência |
 | **P9** *(preliminar)* | Entroncamento Rua Santuário × Av. Oscar Pereira | Fila para a conversão à esquerda na Av. Oscar Pereira em dias de maior fluxo | ~17 sinistros (2 graves; 6 motos) por proximidade (≤100 m); **novo ponto (reunião 13/08/2026), georreferenciado por pin** | Volume e brechas para a conversão à esquerda no pico; geometria, prioridade e travessia; contagem direcional |
 

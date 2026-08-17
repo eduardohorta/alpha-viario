@@ -26,12 +26,13 @@
 - **Sonda:** verificar continuidade e gerar agregados por rota e horário: atraso versus
   fluxo livre, assimetria direcional no P4 e custo do retorno no P7. Declarar a janela de
   coleta e as limitações; não anexar nem publicar dados brutos da Google Routes API.
-- **LAIs:** Pedidos 1, 4, 5 e 6 foram **prorrogados para 13/08** (mesmo dia da reunião) —
-  incorporar à [matriz de status](matriz-publica-status-plano-funcional.md) as que já
-  chegaram (2, 3, 7, possivelmente 8) e levar a reunião ciente de que o restante decide com
-  evidência parcial. **O pedido 7 já respondeu (10/08)**: confirma Waze desde 2019, aponta o
-  portal ObservaMOB e traz os planos semafóricos oficiais de P5 e P8 — já no
-  [anexo](anexo-matriz-pontos.md).
+- **LAIs:** dos Pedidos 1, 4, 5 e 6, prorrogados em 22/07 para 13/08, só o **Pedido 5** (Av.
+  Monte Cristo) segue sem resposta — prazo vencido desde 13/08. Responderam: **6** (13/08,
+  zoneamento PDUS e mapa de contrapartidas viárias), **4** (14/08, quadro de expedientes
+  complementares) e **1** (17/08, EPTC sem sinalização aprovada para a nova interseção Costa
+  Gama — processo migrado à SMMU, novo Pedido 15). **O pedido 7 já respondeu (10/08)**: confirma
+  Waze desde 2019, aponta o portal ObservaMOB e traz os planos semafóricos oficiais de P5 e P8 —
+  já no [anexo](anexo-matriz-pontos.md).
 - **Documentação da administração do Alphaville (recebida em 07/08):** já incorporada ao dossiê
   — TC integral, aditivos, **Parecer CTAAPS nº 093/2020** e **três decretos de desapropriação de
   23/12/2020**. Mudou o enquadramento: o pleito passa a ser **concluir o que a cidade pactuou,

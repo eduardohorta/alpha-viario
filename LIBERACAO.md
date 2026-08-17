@@ -32,13 +32,20 @@
 
 ## 2. Rechecagem institucional datada (imediatamente antes de protocolar)
 Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS §A](PENDENCIAS.md):
-- [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): Pedidos **1, 4, 5** (13/08),
-      **8** (21/08), **9 e 10** (31/08) e **11** (02/09). **Protocolo previsto para início de setembro.**
+- [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): **responderam 1, 4, 6 e 7**;
+      **pendentes 5** (prazo 13/08, **vencido, sem resposta**), **8** (21/08), **9–10** (31/08),
+      **11** (02/09), **12–15** (08/09 — o 15, protocolo 017822-26-45, desdobra o 1 e vai à SMMU).
+      ⚠️ **Se a regra for esperar todos**, o protocolo real desloca para **depois de 08/09**
+      (prazo dos Pedidos 12–15) — não "início de setembro" como na linha abaixo. **A confirmar
+      com a comissão** se vale esperar os derivados (11–15) ou só os pedidos originais (1–10).
 - [ ] **Janela da LOA 2027:** o Executivo envia a proposta à Câmara **por volta de 15/out**
       (a confirmar no texto da Lei Orgânica) — **início de setembro ainda alcança o orçamento 2027.**
 - [ ] **PDUS/LUOS** — sanção/publicação e transição (Pedido 6 respondido: ZOT 1/3/14/15, não é vetor de adensamento).
 - [ ] **Projeto da Av. Monte Cristo** — status atual (Pedido 5, aguardando); afeta P2.
-- [ ] **Plano Funcional** — desenhos vigentes e status de implantação (Pedidos 1 e 4, aguardando).
+- [ ] **Plano Funcional** — desenhos vigentes e status de implantação: **Pedido 4 respondeu**
+      (quadro de expedientes complementares) e **Pedido 1 respondeu, parcial** (EPTC: sem
+      sinalização aprovada para a nova interseção Costa Gama; processo migrou à SMMU — Pedido
+      15). Os desenhos gráficos do corredor completo (Anexo 7) não vieram em nenhuma das duas.
 - [ ] **Canais institucionais** — setor de protocolo na SMAMUS e encaminhamento das cópias.
 
 ## 3. Base de evidência e enquadramento técnico
