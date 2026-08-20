@@ -57,7 +57,7 @@ ou apoio a uma vistoria técnica, mas não condicionam a consolidação nem o pr
 | **10/ago** | Agregados preliminares da sonda + respostas LAI **disponíveis até então** (2, 3, possivelmente 8) incorporados à [matriz de status](relatorios/matriz-publica-status-plano-funcional.md); pré-pauta e peças para a reunião de 13/8. A base documental está **muito mais forte** que o previsto — a lacuna que resta é o **status de 2026** (Pedidos 8, 9 e 10), não o histórico. | A→D, C→D |
 | **11/ago** | **Pedido 8 prorrogado pela PGM** por 10 dias (mesma base legal e justificativa dos Pedidos 1, 4, 5, 6 — art. 14 §3º Dec. Mun. 19.990/2018, "informação não sistematizada"). Novo prazo: **21/08/2026**. Ver [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento). | A |
 | **13/ago** | Comissão valida pontos e peças, define assinatura/canal e encaminha o protocolo com pedido explícito de vistoria e dados técnicos da EPTC. | B |
-| **20/ago** | `make release-check` verde; **protocolo na EPTC**, sem dependência de coleta física ou questionário. | convergência |
+| ~~20/ago~~ **01/set** | `make release-check` **já verde em 20/08** — decisão de 20/08: aguardar mais alguns dias antes de protocolar, para dar tempo às respostas ainda em prazo (Pedido 5, vencido; 8, 21/08; 9–10, 31/08). Novo alvo: **protocolo na EPTC em 01/09/2026**, sem dependência de coleta física ou questionário. | convergência |
 | **set–out** | Acompanhamento: cobrança de prazos, reunião técnica, vistoria conjunta; acionamento do canal político **depois** do protocolo (sequência em `interno/`) | — |
 
 ## 4. Plano B — se a comissão continuar lenta
