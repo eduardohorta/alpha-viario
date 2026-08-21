@@ -32,8 +32,8 @@
 
 ## 2. Rechecagem institucional datada (imediatamente antes de protocolar)
 Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS §A](PENDENCIAS.md):
-- [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): **responderam 1, 4, 6 e 7**;
-      **pendentes 5** (prazo 13/08, **vencido, sem resposta**), **8** (21/08), **9–10** (31/08),
+- [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): **responderam 1, 4, 6, 7 e 8**;
+      **pendentes 5** (prazo 13/08, **vencido, sem resposta**), **9–10** (31/08),
       **11** (02/09), **12–15** (08/09 — o 15, protocolo 017822-26-45, desdobra o 1 e vai à SMMU).
       **Decisão de 20/08:** protocolar em **01/09/2026**, sem esperar os derivados 11–15 (prazo
       08/09) — dá tempo aos pedidos originais ainda no prazo (5, 8, 9, 10) sem empurrar o

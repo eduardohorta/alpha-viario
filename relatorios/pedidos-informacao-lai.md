@@ -402,6 +402,17 @@ sim na SMMU**.
   original (Anexo 7, desenhos do corredor completo) — esse gap segue coberto pelo quadro de
   expedientes do Pedido 4 e pelo projeto geométrico já obtido no Pedido 3. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-1-17082026-sinalização-da-nova-interseção-não-encontrada-processo-passa-à-smmu).
+- **Pedido 8 (017520-26-22) — respondido (21/08/2026), no prazo prorrogado.** A **PGM** (a)
+  confirmou a obrigação pendente de alargamento nos trechos 1 e 3, incluindo as interseções, com
+  o **P7 expressamente citado**; (b) detalhou **quatro desapropriações** em andamento: eixo/P1 e
+  uma frente do P7 em **ação judicial sem sentença**, outra frente do P7 **resolvida por acordo**
+  (escritura pública), e o **P6 aguardando a publicação de novo decreto** (indício de caducidade
+  da declaração original); mencionou ainda uma **demolição judicial pendente desde 2014** de um
+  galpão irregular na confluência do P7; e (c) confirmou que o **Termo de Compromisso permanece
+  vigente** — a caducidade dos projetos complementares não extingue a obrigação de fazer, que
+  precisa apenas ser revalidada na execução da obra. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente)
+  e `retornos-protocolos/017520-26-22/resposta.md` (local).
 
 ---
 
@@ -416,7 +427,7 @@ sim na SMMU**.
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
-| 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ **21/08/2026** | **prorrogado (+10 dias)** |
+| 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo/P1 judicial); demolição judicial pendente desde 2014 no P7 |
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | 31/08/2026 | aguardando resposta |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | 31/08/2026 | aguardando resposta |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | 02/09/2026 | aguardando resposta |
@@ -439,7 +450,7 @@ o Pedido 5** (Av. Monte Cristo), cujo prazo prorrogado (13/08) já **venceu sem 
 **Prorrogação do Pedido 8 (11/08/2026):** a PGM também prorrogou o prazo por **10 dias**,
 com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma
 justificativa ("a informação não se encontra sistematizada em nossos arquivos"). Novo
-prazo: **21/08/2026**.
+prazo: **21/08/2026** — **respondido no próprio dia**, com o conteúdo resumido acima.
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a

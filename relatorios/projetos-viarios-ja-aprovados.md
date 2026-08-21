@@ -8,6 +8,12 @@
 > **Limite da evidência:** os documentos comprovam o histórico de aprovação, obrigações e execução parcial, mas **não comprovam o status administrativo ou físico em 2026**. A vigência, as substituições posteriores, as desapropriações e o que falta executar devem ser confirmados nos processos atuais da Prefeitura.
 >
 > **Atualização (jul/2026):** as respostas LAI aos Pedidos 2 e 3 já confirmaram parte disso — o projeto do P7 foi **obtido** e está **caducado**; ver a seção [Respostas LAI de julho de 2026](#respostas-lai-de-julho-de-2026-o-projeto-do-p7-foi-obtido-e-caducou). Em seguida, a **documentação repassada pela administração do Alphaville** em 07/08 (TC integral, aditivos, Parecer CTAAPS 093/2020 e decretos de desapropriação) fechou boa parte do que faltava — ver [Documentação repassada pela administração](#documentação-repassada-pela-administração-do-alphaville-ago2026). **O status administrativo de 2026 continua a confirmar** (efetivação das desapropriações, depósito da Cláusula Nona, recebimentos).
+>
+> **Atualização (21/08/2026):** a resposta ao **Pedido 8** (PGM) confirmou o **Termo de
+> Compromisso vigente**, detalhou **quatro desapropriações** em andamento (uma delas resolvida
+> por acordo) e revelou uma **demolição judicial pendente desde 2014** na confluência do P7 — ver
+> [Resposta LAI ao Pedido 8](#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
+> Falta ainda confirmar o **depósito da Cláusula Nona** (Pedido 9, prazo 31/08/2026).
 
 ## Fontes administrativas examinadas
 
@@ -165,6 +171,9 @@ perdidas para a mesma obra.
 > (uma das duas vias do art. 10 que afastam a caducidade). Não é, porém, um documento, não
 > cobre os outros dois decretos (P6 e eixo/P1) nem a Cláusula Nona, e **não substitui a
 > resposta oficial da PGM** (Pedidos 8 e 9) — segue como indicativo até confirmação.
+>
+> **Atualização (21/08/2026):** a resposta ao Pedido 8 chegou e trata exatamente disso, processo
+> a processo — ver [Resposta LAI ao Pedido 8](#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
 
 ### 4. O Termo de Compromisso não tem prazo de validade — e a "cláusula de escape" foi suprimida
 
@@ -180,6 +189,13 @@ quanto a **hipótese de desoneração** do empreendedor por atraso nas imissões
 elemento forte para a pergunta (c) do Pedido 8 — se a caducidade do projeto complementar
 extingue a obrigação de fazer. O instrumento que a sustenta **não caduca por decurso de prazo**,
 e o segundo aditivo (2013) ainda **ratifica** expressamente as cláusulas remanescentes.
+
+> **Confirmado pela PGM (21/08/2026):** a leitura acima estava certa. A resposta ao Pedido 8
+> declara textualmente que **o Termo de Compromisso permanece vigente** e que a caducidade dos
+> projetos complementares **não extingue a obrigação de fazer** — eles só precisam ser
+> **revalidados por ocasião da execução da obra**. Deixa de ser inferência jurídica da comissão
+> e passa a ser posição institucional da própria Procuradoria. Ver [Resposta LAI ao Pedido
+> 8](#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
 
 ### 5. Obrigação financeira com gatilho já disparado (Cláusula Nona do 2º aditivo)
 
@@ -399,6 +415,87 @@ caducado (Pedido 3) → alça nomeada em decreto (Decreto 20.860/2020) → desap
 legal vencido (23/12/2025, a confirmar) → 2ª fase nunca implantada (Parecer CTAAPS 093/2020) →
 agora, sinalização nunca aprovada e processo transferido à SMMU.
 
+## Resposta LAI ao Pedido 8 (21/08/2026): PGM detalha as quatro desapropriações pendentes e confirma o Termo vigente
+
+> A resposta ao **Pedido 8** — saldo das obrigações do Termo de Compromisso e status das
+> desapropriações do P7 — chegou em **21/08/2026** (protocolo **017520-26-22**), no próprio dia
+> do prazo prorrogado. Respondeu a **Procuradoria-Geral do Município (PGM)**. O documento bruto
+> fica em `retornos-protocolos/017520-26-22/` (fora do repositório público); abaixo, os fatos
+> institucionais.
+
+### 1. A obrigação de alargamento segue pendente nos trechos 1 e 3, com as interseções incluídas
+
+A PGM confirma que consta em seus registros a **pendência da obrigação de alargamento viário**
+da Estr. das Três Meninas nos trechos **1** (Cristiano Kraemer → início do Alphaville) e **3**
+(final do Alphaville → Costa Gama), e que essas obras **contemplam as interseções ao longo dos
+trechos, inclusive a interseção com a Estr. Costa Gama (P7)**. Confirma, pela via institucional
+que decide a questão, o que o Parecer CTAAPS 093/2020 já indicava.
+
+### 2. Quatro desapropriações pendentes — status processo a processo
+
+| Nº do processo | FC | Situação declarada |
+|---|---|---|
+| **002.079077.09.9** | 8040 | Tramita **ação de desapropriação judicial** nº 53272337220258210001 — **ainda sem sentença** |
+| **002.079093.09.4** | 8059 | **Escritura pública de desapropriação amigável firmada** (doc. SEI 36780805) |
+| **002.079094.09.0** | 8060 | Tramita **ação de desapropriação judicial** nº 51940930520268210001 — **ainda sem sentença** |
+| **002.079101.09.7** | 8067 | **Aguarda a publicação de novo Decreto** |
+
+Cruzando com os três decretos de 23/12/2020 já documentados:
+
+- **002.079077.09.9 = Decreto 20.861/2020** (Três Meninas 1085, eixo/P1) — a desapropriação **não
+  foi efetivada por acordo**, mas **foi ajuizada** dentro do prazo do art. 10 do DL 3.365/1941, o
+  que **afasta a caducidade por essa via** — mesmo sem sentença, a lei exige apenas que a ação
+  seja "intentada", não julgada, dentro dos 5 anos.
+- **002.079101.09.7 = Decreto 20.859/2020** (Kanazawa, P6) — a resposta diz que se **aguarda a
+  publicação de um novo Decreto**. Não há outra leitura razoável: só se publica um novo decreto de
+  utilidade pública quando o anterior **deixou de valer**. É a confirmação, pela via mais direta
+  possível, de que **a DUP do P6 caducou** e o processo está sendo reiniciado.
+- **002.079093.09.4 e 002.079094.09.0** — não correspondem exatamente ao SEI **002.079092.09.8**
+  citado no Decreto 20.860/2020 (P7, Costa Gama). A numeração é vizinha e sequencial (092, 093,
+  094), o que sugere que a desapropriação do P7 foi desmembrada em **duas frentes** — uma
+  resolvida por **acordo** (093/FC 8059) e outra ainda em **ação judicial** (094/FC 8060), esta
+  última um processo que não constava de nenhum documento examinado até aqui. **Hipótese razoável,
+  não confirmada**: os dois pertencem à área do P7 e o SEI do decreto é apenas a referência do ato
+  normativo, distinta das FCs que tramitam as expropriações de cada parcela. Vale confirmar o
+  vínculo formalmente antes de tratar isso como fato fechado.
+- A **escritura amigável firmada (093/FC 8059)** é compatível com o [indício extraoficial
+  registrado acima](#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar) — o relato de
+  que a indenização de um dos proprietários do P7 foi paga em quase totalidade. A resposta da PGM
+  não identifica proprietários, então a correspondência exata **não pode ser confirmada** por
+  este documento; mas o tipo de desfecho (indenização amigável, formalizada em escritura) é
+  consistente com o relato.
+
+### 3. Obstáculo físico adicional: demolição judicial pendente na confluência do P7
+
+Além das desapropriações, a resposta menciona o **Processo Judicial nº
+5003552-35.2014.8.21.0001**, sobre a **demolição de um galpão construído irregularmente** na
+confluência da Estr. Costa Gama com a Estr. das Três Meninas — exatamente onde fica a nova
+interseção do P7. A PGM informa que **aguarda o agendamento do cumprimento do respectivo
+Mandado** de demolição. É um processo aberto desde **2014**, o que soma mais uma frente parada à
+cadeia já longa do P7.
+
+### 4. Pergunta jurídica central respondida: o Termo de Compromisso permanece vigente
+
+Sobre se a caducidade dos projetos complementares extingue a obrigação de fazer, a PGM foi
+direta: **o Termo de Compromisso permanece vigente**, e os projetos complementares **devem ser
+revalidados por ocasião da execução da obra** — ou seja, a caducidade dos projetos **não
+desobriga** o empreendedor. Confirma institucionalmente a leitura já defendida a partir da
+supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
+
+### 5. O que isso muda em cada ponto
+
+- **P6** — a desapropriação (Decreto 20.859/2020) **muito provavelmente caducou**; um novo
+  decreto está sendo preparado. É a confirmação mais forte, entre os três decretos, de que o
+  prazo do art. 10 realmente correu sem efetivação.
+- **P7** — quadro mais rico que o esperado: **duas** desapropriações distintas, uma **resolvida
+  por acordo** e outra **ainda em ação judicial sem sentença**, mais uma **demolição judicial
+  pendente desde 2014**. Nenhuma das duas indica caducidade simples da DUP — mas nenhuma está
+  concluída, e a obra segue travada por pelo menos três frentes jurídicas abertas (2 desapropriações + demolição).
+- **Eixo/P1** — a desapropriação (Decreto 20.861/2020) está **em ação judicial dentro do prazo**;
+  não há indício de caducidade por essa via, mas também não há conclusão — falta sentença.
+- **Cláusula Nona (R$ 200 mil)** — a resposta ao Pedido 8 **não trata** desse depósito; segue
+  como item exclusivo do **Pedido 9** (PGM/SMF, prazo 31/08/2026).
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -406,8 +503,8 @@ agora, sinalização nunca aprovada e processo transferido à SMMU.
 | **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020). |
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
-| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de **desapropriação declarada** na esquina com a Kanazawa (Decreto 20.859/2020). A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**, que declarou a **desapropriação** da área — com prazo legal de efetivação vencido em **23/12/2025** (a confirmar); **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) disparado pela publicação do decreto; e **sinalização viária nunca aprovada** para a nova interseção, confirmado pela própria EPTC (Pedido 1, 17/08/2026), que orientou novo pedido à **SMMU** (Pedido 15). |
+| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de **desapropriação declarada** na esquina com a Kanazawa (Decreto 20.859/2020) que, segundo a PGM (Pedido 8, 21/08/2026), **muito provavelmente caducou** — aguarda-se a publicação de um novo decreto. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 8, 21/08/2026) detalha **duas desapropriações em andamento** para a área — uma **resolvida por acordo** (escritura pública firmada) e outra ainda em **ação judicial sem sentença** — mais uma **demolição judicial pendente desde 2014** de um galpão irregular na confluência; **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) ainda sem confirmação (Pedido 9); **sinalização viária nunca aprovada** para a nova interseção, confirmado pela própria EPTC (Pedido 1, 17/08/2026), que orientou novo pedido à **SMMU** (Pedido 15); e o **Termo de Compromisso permanece vigente** — a caducidade dos projetos não extingue a obrigação de fazer (PGM, Pedido 8). |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 
@@ -423,4 +520,11 @@ O encaminhamento deve solicitar à Prefeitura:
 
 Até essa resposta, a formulação pública correta é: **há projetos e obrigações historicamente documentados, com evidência de execução parcial; o saldo e a adequação atual permanecem a confirmar**.
 
-**Para o P7, a resposta já veio** (jul/2026) e afina o item 3: o projeto definitivo Três Meninas–Costa Gama **existiu, foi aprovado e caducou**; o saldo das obrigações e as desapropriações estão com a **PGM** (Pedido 8). A formulação pública correta para o P7 passa a ser: **a cidade projetou e aprovou uma solução, não a implantou e a deixou caducar — pede-se revalidá-la/concluí-la e apurar as obrigações do Termo de Compromisso**.
+**Para o P7, as respostas já vieram** (jul/2026 e 21/08/2026) e afinam o item 3: o projeto
+definitivo Três Meninas–Costa Gama **existiu, foi aprovado e caducou**; o **Termo de Compromisso
+permanece vigente** (a caducidade não desobriga); as desapropriações estão **em andamento** — uma
+por acordo, outra em ação judicial — e há ainda uma **demolição judicial pendente desde 2014** na
+própria confluência (Pedido 8). A formulação pública correta para o P7 passa a ser: **a cidade
+projetou e aprovou uma solução, não a implantou e a deixou caducar; a obrigação de concluí-la
+segue vigente, e faltam concluir duas desapropriações e uma demolição judicial para viabilizar a
+obra**.
