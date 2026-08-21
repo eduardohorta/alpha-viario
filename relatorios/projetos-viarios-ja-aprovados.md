@@ -159,6 +159,13 @@ Se confirmada a caducidade, o quadro do P7 fica: **projeto aprovado (2013) caduc
 **declaração de utilidade pública (2020) caducada** — duas janelas administrativas abertas e
 perdidas para a mesma obra.
 
+> **Indício extraoficial (ago/2026):** um relato pessoal — não documental — indica que a
+> indenização pela desapropriação do P7 (Decreto 20.860/2020) foi paga **em sua quase
+> totalidade**, restando apenas um pequeno saldo. Se verdadeiro, sugere que houve **acordo**
+> (uma das duas vias do art. 10 que afastam a caducidade). Não é, porém, um documento, não
+> cobre os outros dois decretos (P6 e eixo/P1) nem a Cláusula Nona, e **não substitui a
+> resposta oficial da PGM** (Pedidos 8 e 9) — segue como indicativo até confirmação.
+
 ### 4. O Termo de Compromisso não tem prazo de validade — e a "cláusula de escape" foi suprimida
 
 O **primeiro aditivo** (maio/2012, registrado sob nº **49.440**, Livro 754-D, fls. 068)

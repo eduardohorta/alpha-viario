@@ -36,5 +36,8 @@
   aprovação de ambos os projetos (funcional e sinalização) e informa que o processo migrou à
   **SMMU** (novo Pedido 15).
 - **Ainda não confirmado:** correspondência das estacas; recebimento definitivo e ambiental; **efetivação das desapropriações de 2020** (prazo legal vencido em 23/12/2025); **depósito de R$ 200 mil** da Cláusula Nona; e o status de tudo isso **em 2026** — Pedidos 8, 9 e 10, todos protocolados e aguardando resposta.
+- **Indício extraoficial, não documental (ago/2026):** um relato pessoal indica que a indenização
+  da desapropriação do P7 foi paga em sua quase totalidade — sugere acordo, mas não substitui a
+  resposta oficial da PGM. Detalhe e ressalvas em [projetos viários documentados §3](projetos-viarios-ja-aprovados.md#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar).
 
 Fonte e interpretação detalhada: [projetos viários documentados](projetos-viarios-ja-aprovados.md).
