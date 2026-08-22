@@ -335,6 +335,9 @@ sim na SMMU**.
 
 ## Pedido 16 — PGM: peças técnicas e cronograma dos 4 processos de desapropriação citados no Pedido 8
 
+**Protocolado em 21/08/2026** (nº 017903-26-42, prazo 14/09/2026) — ver
+[acompanhamento](#acompanhamento).
+
 **Órgão:** Procuradoria-Geral do Município (PGM), mesmo canal do Pedido 8 (tema "Obras
 Públicas" no e-SIC).
 **Origem:** aprofundamento da resposta ao **Pedido 8** (017520-26-22, 21/08/2026). A consulta
@@ -343,7 +346,7 @@ administrativos por trás dos 4 casos de desapropriação citados na resposta �
 público só mostra a lista de andamentos, não o conteúdo das peças (a maior parte classificada
 como documento preparatório, art. 7º §3º da LAI).
 
-**Texto para protocolar:**
+**Texto protocolado:**
 
 > Com base na Lei Federal 12.527/2011, e em complemento à resposta do **pedido nº
 > 017520-26-22** (PGM, 21/08/2026), solicito, quanto aos processos administrativos
@@ -465,7 +468,7 @@ como documento preparatório, art. 7º §3º da LAI).
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | 08/09/2026 | aguardando resposta — derivado do Pedido 1 |
-| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | — | — | — | **rascunho pronto, não protocolado** — derivado do Pedido 8 |
+| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
