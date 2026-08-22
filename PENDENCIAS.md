@@ -39,15 +39,26 @@ coleta física executável. Os instrumentos permanecem como contingência ou apo
 vistoria técnica da EPTC, sem função de gate.
 
 ## C. Decisões da comissão
-> **Plano B acionado em 15/07/2026** (reunião não ocorreu até a data-alvo do [ROTEIRO](ROTEIRO.md#4-plano-b--se-a-comissão-continuar-lenta)): mensagem com as decisões mínimas de assinatura, canal e confirmação de pontos/D2–D3 enviada à comissão no mesmo dia. Aguardando resposta.
-- [ ] **[C]** Validar a lista de pontos (**8 + P9**) e confirmar o P9.
-- [ ] **[C]** Aprovar/editar **memorando externo** e **ofício**; preencher contatos.
-- [ ] **[C]** Definir o **destino de D2/D3** (manter internas até prova de benefício público).
-- [ ] **[C]** Definir **postura e canais** de encaminhamento e **o que tornar público**.
-- [ ] **[C]** Definir **quem assina/protocola**.
+> **Reunião realizada em 13/08/2026** (ata em `interno/ata-reuniao-2026-08-13.md`) — decisões
+> mínimas tomadas, detalhadas em [LIBERACAO.md §1](LIBERACAO.md#1-decisões-da-comissão-13082026--destravam-o-release-check).
+- [x] **[C]** Validar a lista de pontos (**8 + P9**) e confirmar o P9. → **P1–P8 + novo P9**
+      (entroncamento Rua Santuário × Av. Oscar Pereira); antigo P9 retirado.
+- [x] **[C]** Aprovar/editar **memorando externo** e **ofício**; preencher contatos. → peças
+      atualizadas: [memorando](relatorios/memorando-externo.md) · [ofício](relatorios/oficio-eptc-rascunho.md).
+- [x] **[C]** Definir o **destino de D2/D3** (manter internas até prova de benefício público). →
+      incluídas nas peças em **versão genérica**, sem detalhe de condomínio.
+- [x] **[C]** Definir **postura e canais** de encaminhamento e **o que tornar público**. →
+      **SMAMUS** principal + cópia EPTC/SMMU e Subprefeituras Centro-Sul/Glória; itens 1–5
+      privados por ora; repositório de contextualização restrito aos membros.
+- [x] **[C]** Definir **quem assina/protocola**. → **Eduardo de Oliveira Horta (representante)**,
+      pela Comissão Viária Estrada das Três Meninas.
 - [x] **[C/G]** Inbox bruto **internalizado** (movido para `interno/`); publicada [versão neutra](consultas/contribuicoes-comunitarias-publico.md).
 - [x] **[G]** Validação **automática** de publicação no CI a cada push (**`public-check`**): links quebrados, vazamento de `interno/`/`revisoes/`, placeholders e consistência dos pontos.
-- [ ] **[C/G]** **Revisão humana final** antes de publicar/protocolar: rodar **`make release-check`** (estrito) e resolver os avisos restantes (placeholders, `interno/termos-sensiveis.txt`).
+- [x] **[C/G]** **Revisão humana final** antes de publicar/protocolar: `make release-check`
+      (estrito) está **verde** desde 20/08/2026. `interno/termos-sensiveis.txt` mantido
+      atualizado conforme novos nomes aparecem nas fontes (21 termos até 21/08/2026) — conferir
+      cobertura completa (nova-documentacao/, inbox bruto) **imediatamente antes do protocolo**
+      de 01/09.
 - [x] **[C]** Histórico do git reescrito para remover o inbox bruto; **não reintroduzir** conteúdo sensível em arquivos públicos.
 
 ## D. Técnico / gabinete

@@ -364,6 +364,28 @@ como documento preparatório, art. 7º §3º da LAI).
 > nos **fatos institucionais, jurídicos e no cronograma** de conclusão das obrigações do Termo
 > de Compromisso, não na identificação dos proprietários.
 
+## Pedido 17 — EPTC: relatório de ocorrências (sinistros) da confluência do P7, citado em processo judicial
+
+**Órgão:** EPTC/SMMU, mesmo canal do Pedido 7 (tema "Trânsito" no e-SIC).
+**Origem:** o acórdão do agravo de instrumento **5218710-18.2025.8.21.7000/TJRS** (lido na
+íntegra em 21/08/2026, ao aprofundar o Pedido 8) cita um "Relatório de Ocorrências" da EPTC
+(evento 11, documento ESTAT3) com "uma quantidade expressiva de acidentes de trânsito, com e
+sem vítimas, registrados no exato local no período de 2019 a 2024" — a confluência da Estr. das
+Três Meninas com a Estr. Costa Gama, o próprio ponto P7. É uma peça específica e já elaborada
+pela EPTC, distinta da resposta genérica ao Pedido 7.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, solicito cópia do **"Relatório de Ocorrências"** elaborado
+> pela EPTC e juntado como prova no processo judicial nº **5218710-18.2025.8.21.7000** (evento
+> 11, documento ESTAT3, 19ª Câmara Cível do TJRS), que lista acidentes de trânsito, com e sem
+> vítimas, ocorridos na confluência da Estrada das Três Meninas com a Estrada Costa Gama (Bairro
+> Vila Nova) no período de 2019 a 2024. Solicito também, caso exista, a **atualização desses
+> dados para o período mais recente** (2025–2026) e informação sobre a **metodologia de
+> registro** (boletins de ocorrência, reportes via Waze/ObservaMOB, ou vistoria própria da
+> EPTC), de modo a permitir a comparação com os dados de tráfego já obtidos na resposta ao
+> Pedido 7 (protocolo 017399-26-65).
+
 ---
 
 ## Respostas recebidas
@@ -469,6 +491,7 @@ como documento preparatório, art. 7º §3º da LAI).
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | 08/09/2026 | aguardando resposta — derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
+| 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | — | — | — | **rascunho pronto, não protocolado** — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,

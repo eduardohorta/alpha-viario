@@ -544,6 +544,17 @@ ou seja, a demolição do obstáculo físico do P7 está **juridicamente resolvi
 da execução material, que o Município deve reportar à Justiça com fotos em até 15 dias após
 cumprida.
 
+O **próprio agravo de instrumento** (julgado por unanimidade em 12/02/2026) foi lido na íntegra e
+traz três achados que vão além do que a resposta do Pedido 8 resumia: (1) resolve **definitivamente**
+a questão da "falta de matrícula" — aplica a doutrina da **afetação fática**, pela qual um bem se
+torna público de uso comum do povo pela destinação de fato (fazer parte do sistema viário),
+independentemente de registro formal; (2) confirma que a ocupação **não tem finalidade de moradia**
+— o espaço é usado para fins comerciais; e (3) cita um **"Relatório de Ocorrências" da EPTC**
+listando "uma quantidade expressiva de acidentes de trânsito, com e sem vítimas, registrados no
+exato local no período de **2019 a 2024**" — um levantamento de sinistros específico para a
+confluência do P7 que já existe em processo judicial e que vale avaliar solicitar via LAI, como
+complemento aos dados já obtidos no Pedido 7.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
