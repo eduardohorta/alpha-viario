@@ -451,19 +451,28 @@ Cruzando com os três decretos de 23/12/2020 já documentados:
   utilidade pública quando o anterior **deixou de valer**. É a confirmação, pela via mais direta
   possível, de que **a DUP do P6 caducou** e o processo está sendo reiniciado.
 - **002.079093.09.4 e 002.079094.09.0** — não correspondem exatamente ao SEI **002.079092.09.8**
-  citado no Decreto 20.860/2020 (P7, Costa Gama). A numeração é vizinha e sequencial (092, 093,
-  094), o que sugere que a desapropriação do P7 foi desmembrada em **duas frentes** — uma
-  resolvida por **acordo** (093/FC 8059) e outra ainda em **ação judicial** (094/FC 8060), esta
-  última um processo que não constava de nenhum documento examinado até aqui. **Hipótese razoável,
-  não confirmada**: os dois pertencem à área do P7 e o SEI do decreto é apenas a referência do ato
-  normativo, distinta das FCs que tramitam as expropriações de cada parcela. Vale confirmar o
-  vínculo formalmente antes de tratar isso como fato fechado.
+  citado no Decreto 20.860/2020 (P7, Costa Gama), mas a numeração é vizinha e sequencial (092,
+  093, 094). **Confirmado em 21/08/2026, por consulta pública ao SEI-PMPA** (autuação e lista de
+  andamentos de cada processo — sem acesso aos documentos, a maior parte classificada como
+  "documento preparatório"): os dois processos têm o **mesmo interessado**, o que estabelece que
+  são **duas frentes da mesma desapropriação da área do P7** — uma resolvida por **acordo**
+  (093/FC 8059, escritura pública) e outra que não chegou a acordo e foi **ajuizada** (094/FC
+  8060, petição inicial protocolada em 27/05/2026 e novamente em 08/07/2026).
+- **Achado transversal:** a mesma consulta mostra que **os quatro processos já receberam um
+  pagamento inicial (empenho) entre 01/09/2020 e 01/10/2020** — logo após os decretos de
+  23/12/2020. Ou seja, a desapropriação não ficou parada por seis anos sem nenhum movimento
+  financeiro: houve um depósito provisório em todos os casos, e o que segue em aberto é o
+  **valor final e a formalização**, por três vias diferentes — acordo (P7, uma frente), ação
+  judicial (P7, outra frente, e eixo/P1) e um novo decreto (P6). No processo do eixo/P1
+  (002.079077.09.9), a ação judicial digitalizada foi juntada ao processo administrativo em
+  19/12/2025, confirmando que já tramita.
 - A **escritura amigável firmada (093/FC 8059)** é compatível com o [indício extraoficial
   registrado acima](#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar) — o relato de
-  que a indenização de um dos proprietários do P7 foi paga em quase totalidade. A resposta da PGM
-  não identifica proprietários, então a correspondência exata **não pode ser confirmada** por
-  este documento; mas o tipo de desfecho (indenização amigável, formalizada em escritura) é
-  consistente com o relato.
+  que a indenização de um dos proprietários do P7 foi paga em quase totalidade. A consulta
+  pública **confirma que é o mesmo processo do relato** (mesmo interessado nas duas frentes do
+  P7), embora, por não revelar nomes em documento público, esta seção mantenha a identidade fora
+  do repositório — tratada em `interno/`, como o restante dos dados pessoais de terceiros do
+  dossiê.
 
 ### 3. Obstáculo físico adicional: demolição judicial pendente na confluência do P7
 
@@ -496,6 +505,45 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
 - **Cláusula Nona (R$ 200 mil)** — a resposta ao Pedido 8 **não trata** desse depósito; segue
   como item exclusivo do **Pedido 9** (PGM/SMF, prazo 31/08/2026).
 
+## Consulta direta ao TJRS (21/08/2026): confirmação processual dos três processos judiciais
+
+> Com o serviço de consulta processual do TJRS de volta ao ar, foi possível confirmar diretamente
+> os três processos judiciais citados na resposta ao Pedido 8, sem depender apenas do resumo da
+> PGM. Os nomes das partes (pessoas físicas) não são reproduzidos aqui — ficam em `interno/`,
+> como os demais dados pessoais de terceiros do dossiê.
+
+**Eixo/P1 (5327233-72.2025.8.21.0001).** Tramita na 2ª Vara da Fazenda Pública do Foro Central
+de Porto Alegre, proposta em 19/12/2025. Não é uma desapropriação de proprietário único: a
+autuação lista **treze réus pessoas físicas e uma empresa**, indicando um imóvel em condomínio
+ou partilha entre herdeiros — o que por si explica a dificuldade de citação já registrada nos
+autos (diversos mandados devolvidos "cumprido negativo"). O despacho inicial (14/01/2026)
+determinou a citação de todos os réus e previu manifestação do **Ministério Público** antes do
+mérito. Em 18/08/2026 o juízo intimou o próprio Município (autor) com prazo de 30 dias — provável
+sinal de que buscará uma via alternativa de citação (ex.: edital).
+
+**P7, 2ª frente (5194093-05.2026.8.21.0001).** Tramita na 3ª Vara da Fazenda Pública, proposta em
+08/07/2026 — bem mais recente e mais simples: apenas **dois réus**. O despacho inicial
+(22/07/2026) segue o **rito especial do art. 13 do Decreto-Lei nº 3.365/1941**: cita os réus para
+contestar em 15 dias **ou aceitar a indenização ofertada** (art. 34-A) diretamente. A própria
+decisão registra que a **contestação só pode versar sobre vício processual ou impugnação do
+preço** (art. 20) — ou seja, juridicamente a desapropriação em si não está em disputa, só o
+valor. A perícia fica para depois da citação, "a depender do posicionamento dos réus".
+
+**Demolição do galpão irregular (5003552-35.2014.8.21.0001).** Tramita como **Procedimento
+Comum Cível** (Ordenação da Cidade/Plano Diretor, Domínio Público), não como desapropriação. Tem
+origem em **carta precatória de um processo de 2010** — a irregularidade na confluência é
+conhecida havia pelo menos **16 anos**. Duas decisões lidas na íntegra mostram a virada do caso:
+em **04/07/2025** a liminar para demolir ainda estava **indeferida**, e o juiz registrou que a
+área "não possui matrícula em nome do Município" — o mesmo problema de regularização fundiária já
+mapeado em outras frentes do P7. Em **23/04/2026**, porém, um **agravo de instrumento confirmou o
+deferimento da tutela de urgência**: a decisão de mérito **expede o mandado demolitório**,
+autoriza limpeza e pavimentação do passeio público em seguida "para restabelecer as condições de
+segurança e trafegabilidade", permite uso de força policial se necessário, e reafirma que a área é
+"**bem público de uso comum do povo**". O mandado foi expedido com **prioridade em 03/07/2026** —
+ou seja, a demolição do obstáculo físico do P7 está **juridicamente resolvida**, pendente apenas
+da execução material, que o Município deve reportar à Justiça com fotos em até 15 dias após
+cumprida.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -504,7 +552,7 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de **desapropriação declarada** na esquina com a Kanazawa (Decreto 20.859/2020) que, segundo a PGM (Pedido 8, 21/08/2026), **muito provavelmente caducou** — aguarda-se a publicação de um novo decreto. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 8, 21/08/2026) detalha **duas desapropriações em andamento** para a área — uma **resolvida por acordo** (escritura pública firmada) e outra ainda em **ação judicial sem sentença** — mais uma **demolição judicial pendente desde 2014** de um galpão irregular na confluência; **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) ainda sem confirmação (Pedido 9); **sinalização viária nunca aprovada** para a nova interseção, confirmado pela própria EPTC (Pedido 1, 17/08/2026), que orientou novo pedido à **SMMU** (Pedido 15); e o **Termo de Compromisso permanece vigente** — a caducidade dos projetos não extingue a obrigação de fazer (PGM, Pedido 8). |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 8, 21/08/2026) detalha **duas desapropriações em andamento** para a área — uma **resolvida por acordo** (escritura pública firmada) e outra ainda em **ação judicial sem sentença** — mais a **demolição do galpão irregular da confluência, juridicamente resolvida em 23/04/2026** (tutela de urgência confirmada em agravo de instrumento, mandado expedido com prioridade em 03/07/2026, pendente só de execução material); **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) ainda sem confirmação (Pedido 9); **sinalização viária nunca aprovada** para a nova interseção, confirmado pela própria EPTC (Pedido 1, 17/08/2026), que orientou novo pedido à **SMMU** (Pedido 15); e o **Termo de Compromisso permanece vigente** — a caducidade dos projetos não extingue a obrigação de fazer (PGM, Pedido 8). |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 

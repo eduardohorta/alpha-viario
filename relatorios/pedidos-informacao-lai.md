@@ -333,6 +333,36 @@ sim na SMMU**.
 
 ---
 
+## Pedido 16 — PGM: peças técnicas e cronograma dos 4 processos de desapropriação citados no Pedido 8
+
+**Órgão:** Procuradoria-Geral do Município (PGM), mesmo canal do Pedido 8 (tema "Obras
+Públicas" no e-SIC).
+**Origem:** aprofundamento da resposta ao **Pedido 8** (017520-26-22, 21/08/2026). A consulta
+pública ao SEI-PMPA (`sei.procempa.com.br/pesquisa_publica`) identificou os 4 processos
+administrativos por trás dos 4 casos de desapropriação citados na resposta — mas o acesso
+público só mostra a lista de andamentos, não o conteúdo das peças (a maior parte classificada
+como documento preparatório, art. 7º §3º da LAI).
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal 12.527/2011, e em complemento à resposta do **pedido nº
+> 017520-26-22** (PGM, 21/08/2026), solicito, quanto aos processos administrativos
+> **002.079077.09.9**, **002.079093.09.4**, **002.079094.09.0** e **002.079101.09.7**
+> (desapropriações vinculadas ao alargamento da Estrada das Três Meninas e à conexão com a
+> Estrada Costa Gama, Termo de Compromisso nº 41.198/2009): (a) cópia dos **laudos técnicos de
+> avaliação** de cada imóvel, com a metodologia/critérios utilizados; (b) cópia do **parecer e
+> da informação técnica** que fundamentam a necessidade de nova declaração de utilidade pública
+> no processo 002.079101.09.7; (c) cópia da **petição inicial** já protocolada na ação de
+> desapropriação do processo 002.079094.09.0, e do processo judicial digitalizado juntado ao
+> processo 002.079077.09.9; e (d) **status atualizado e cronograma previsto** para a conclusão
+> de cada um dos quatro processos. Solicito que, nos termos do art. 31 da Lei nº 12.527/2011,
+> **dados pessoais de terceiros** (identificação, CPF, valores individualizados de indenização)
+> sejam legitimamente tarjados quando não essenciais à resposta — o interesse deste pedido está
+> nos **fatos institucionais, jurídicos e no cronograma** de conclusão das obrigações do Termo
+> de Compromisso, não na identificação dos proprietários.
+
+---
+
 ## Respostas recebidas
 
 > As respostas administrativas brutas e seus anexos ficam em `retornos-protocolos/` (fora do
@@ -435,6 +465,7 @@ sim na SMMU**.
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | 08/09/2026 | aguardando resposta — derivado do Pedido 1 |
+| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | — | — | — | **rascunho pronto, não protocolado** — derivado do Pedido 8 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,

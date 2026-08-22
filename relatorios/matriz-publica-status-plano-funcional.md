@@ -45,9 +45,19 @@
 - **Ainda não confirmado:** correspondência das estacas; recebimento definitivo e ambiental;
   **depósito de R$ 200 mil** da Cláusula Nona; e o status de tudo isso **em 2026** — Pedidos 9 e
   10, protocolados e aguardando resposta (prazo 31/08/2026).
-- **Indício extraoficial, não documental (ago/2026):** um relato pessoal indica que a indenização
-  de um dos proprietários do P7 foi paga em sua quase totalidade — compatível com a desapropriação
-  resolvida por acordo confirmada pela PGM (acima), mas a correspondência exata não pode ser
-  confirmada por este documento. Detalhe e ressalvas em [projetos viários documentados §3](projetos-viarios-ja-aprovados.md#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar).
+- **Confirmado por consulta pública ao SEI-PMPA (21/08/2026):** as duas frentes de desapropriação
+  do P7 (uma por acordo, outra judicial) pertencem à **mesma parte interessada**; os **quatro
+  processos** dos Pedidos 8/9 já receberam um **pagamento inicial em 2020**, logo após os
+  decretos — o que estava pendente desde então é o **valor final e a formalização**, não a
+  desapropriação em si. A identidade da parte interessada não é publicada aqui; consta apenas em
+  registro interno, como os demais dados pessoais de terceiros do dossiê. Detalhe e ressalvas em
+  [projetos viários documentados §3](projetos-viarios-ja-aprovados.md#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar).
+- **Confirmado por consulta direta ao TJRS (21/08/2026):** a ação do eixo/P1 envolve **treze réus
+  e uma empresa** (indício de imóvel em condomínio/herança, o que explica a dificuldade de
+  citação); a 2ª frente do P7 segue o rito do art. 13 do Decreto-Lei nº 3.365/1941, com os réus
+  podendo aceitar a indenização ofertada (art. 34-A) ou contestar apenas quanto a vício
+  processual ou preço (art. 20); e a demolição do galpão irregular tem origem em processo de
+  **2010** e recebeu mandado com prioridade em 03/07/2026. Detalhe em [projetos viários
+  documentados](projetos-viarios-ja-aprovados.md#consulta-direta-ao-tjrs-21082026-confirmação-processual-dos-três-processos-judiciais).
 
 Fonte e interpretação detalhada: [projetos viários documentados](projetos-viarios-ja-aprovados.md).
