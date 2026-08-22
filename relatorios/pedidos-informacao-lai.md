@@ -366,6 +366,9 @@ como documento preparatório, art. 7º §3º da LAI).
 
 ## Pedido 17 — EPTC: relatório de ocorrências (sinistros) da confluência do P7, citado em processo judicial
 
+**Protocolado em 21/08/2026** (nº 017904-26-00, prazo 14/09/2026) — ver
+[acompanhamento](#acompanhamento).
+
 **Órgão:** EPTC/SMMU, mesmo canal do Pedido 7 (tema "Trânsito" no e-SIC).
 **Origem:** o acórdão do agravo de instrumento **5218710-18.2025.8.21.7000/TJRS** (lido na
 íntegra em 21/08/2026, ao aprofundar o Pedido 8) cita um "Relatório de Ocorrências" da EPTC
@@ -491,7 +494,7 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | 08/09/2026 | aguardando resposta — derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
-| 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | — | — | — | **rascunho pronto, não protocolado** — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
+| 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | 14/09/2026 | aguardando resposta — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
