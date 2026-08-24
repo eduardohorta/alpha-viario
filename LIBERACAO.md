@@ -32,16 +32,19 @@
 
 ## 2. Rechecagem institucional datada (imediatamente antes de protocolar)
 Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS §A](PENDENCIAS.md):
-- [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): **responderam 1, 4, 6, 7 e 8**;
-      **pendentes 5** (prazo 13/08, **vencido, sem resposta**), **9–10** (31/08),
-      **11** (02/09), **12–15** (08/09 — o 15, protocolo 017822-26-45, desdobra o 1 e vai à SMMU).
-      **Decisão de 20/08:** protocolar em **01/09/2026**, sem esperar os derivados 11–15 (prazo
-      08/09) — dá tempo aos pedidos originais ainda no prazo (5, 8, 9, 10) sem empurrar o
+- [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): **responderam 1, 4, 5, 6, 7
+      e 8** (1 e 5, parciais); **pendentes 9–10** (31/08), **11** (02/09), **12–15** (08/09 — o
+      15, protocolo 017822-26-45, desdobra o 1 e vai à SMMU), **16–17** (14/09 — desdobram os
+      Pedidos 8 e 7).
+      **Decisão de 20/08:** protocolar em **01/09/2026**, sem esperar os derivados 11–17 (prazos
+      08/09 e 14/09) — dá tempo aos pedidos originais ainda no prazo (9, 10) sem empurrar o
       protocolo para depois da janela confortável da LOA 2027.
 - [ ] **Janela da LOA 2027:** o Executivo envia a proposta à Câmara **por volta de 15/out**
       (a confirmar no texto da Lei Orgânica) — **início de setembro ainda alcança o orçamento 2027.**
 - [ ] **PDUS/LUOS** — sanção/publicação e transição (Pedido 6 respondido: ZOT 1/3/14/15, não é vetor de adensamento).
-- [ ] **Projeto da Av. Monte Cristo** — status atual (Pedido 5, aguardando); afeta P2.
+- [ ] **Projeto da Av. Monte Cristo** — status atual: **Pedido 5 respondeu (24/08)**. Sinalização
+      concluída em projeto, implantação parcial (SMSURB parado desde set/2024); o nó específico
+      do P2 tem projeto próprio da GPTC-EPTC, com manifestação ainda pendente. Afeta P2.
 - [ ] **Plano Funcional** — desenhos vigentes e status de implantação: **Pedido 4 respondeu**
       (quadro de expedientes complementares) e **Pedido 1 respondeu, parcial** (EPTC: sem
       sinalização aprovada para a nova interseção Costa Gama; processo migrou à SMMU — Pedido

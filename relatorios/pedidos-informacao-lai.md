@@ -471,6 +471,20 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
   precisa apenas ser revalidada na execução da obra. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente)
   e `retornos-protocolos/017520-26-22/resposta.md` (local).
+- **Pedido 5 (017397-26-59) — respondido (24/08/2026), parcial.** A **SMMU** informou que o
+  **projeto de sinalização viária da Av. Monte Cristo** (trecho Av. Eduardo Prado – R. Catarino
+  Andreatta) está **concluído**, mas a **implantação é apenas parcial**: faltam as baias junto
+  às paradas de ônibus, serviço de competência da **DCVU-SMSURB**, **interrompido em set/2024 e
+  não retomado**, apesar de pedidos reiterados do GS-SMMU e da comunidade. O projeto também
+  prevê, sem prazo definido, uma **travessia para cegos com botoeira sonora** (pedido reiterado
+  da ACERGS) e a **inversão de sentido de uma quadra da R. Carlos Superti**, junto à EMEF Vila
+  Monte Cristo, para acesso seguro da comunidade escolar. Quanto ao **nó específico do P2**
+  (confluência com a Estr. Cristiano Kraemer, Av. Belém Velho e R. Rodrigues da Fonseca), a SMMU
+  informou que o projeto ali implantado foi **elaborado pela GPTC-EPTC** e **encaminhou o
+  processo à EPTC** para manifestação — resposta ainda pendente quanto a esse nó específico (é
+  um encaminhamento interno da SMMU, não uma orientação para novo pedido; acompanhar se a EPTC
+  se manifesta neste mesmo protocolo antes de cogitar um Pedido 18). Incorporado ao
+  [anexo](anexo-matriz-pontos.md).
 
 ---
 
@@ -482,7 +496,7 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 | 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | **respondido (21/07/2026) — parcial:** TRP de 2013 fornecido; saldo das obrigações → PGM (Pedido 8) |
 | 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (21/07/2026):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
 | 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ ~~13/08/2026~~ | **respondido (14/08/2026)** — quadro de expedientes (…0986x); geométrico …07864 **indeferido (2018)**; sinalização …09872 **sem arquivo digitalizado**; arborização do P6 sem registro; execução → EPV-SMOI / CISE-DMAE / DMU-SMMU / GEAR-PGM |
-| 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ **13/08/2026** | **prorrogado (+10 dias)** |
+| 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ ~~13/08/2026~~ | **respondido (24/08/2026), parcial** — SMMU: sinalização concluída, implantação parcial (baias de ônibus paradas desde set/2024, SMSURB); nó do P2 encaminhado à EPTC |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo/P1 judicial); demolição judicial pendente desde 2014 no P7 |
@@ -503,9 +517,9 @@ A prorrogação está refletida no próprio e-SIC, que exibe esses cinco pedidos
 **`PRAZO_PRORROGADO`** (conferido em 07/08/2026).
 Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** O **Pedido 7 respondeu
 adiantado (10/08)**, o **Pedido 6 respondeu no dia (13/08)**, o **Pedido 4 respondeu em 14/08**
-(um dia após o prazo) e o **Pedido 1 respondeu em 17/08** (parcial — ver acima). **Resta apenas
-o Pedido 5** (Av. Monte Cristo), cujo prazo prorrogado (13/08) já **venceu sem resposta** — ver
-[ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
+(um dia após o prazo), o **Pedido 1 respondeu em 17/08** (parcial) e o **Pedido 5 respondeu em
+24/08** (parcial, onze dias após o prazo) — ver bullets acima. **Os cinco pedidos desta
+prorrogação estão todos respondidos** — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
 
 **Prorrogação do Pedido 8 (11/08/2026):** a PGM também prorrogou o prazo por **10 dias**,
 com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma

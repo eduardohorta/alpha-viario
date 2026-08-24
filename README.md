@@ -93,7 +93,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 
 ## Próximos passos
 Detalhe, dependências e datas-alvo: [ROTEIRO.md](ROTEIRO.md). Em síntese (trilhas paralelas):
-1. **Acompanhar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)** — **15 protocolados**: **1, 2, 3, 4, 6 e 7 já responderam** (o 1, parcial — EPTC sem sinalização para a nova interseção Costa Gama, processo migrou à SMMU); **resta o 5** (Av. Monte Cristo, prazo vencido desde 13/08); 8 com prazo 21/08; 9–10 com prazo 31/08; 11 com prazo 02/09; 12–15 com prazo 08/09 (o 15 desdobra o 1, à SMMU). Incorporar as respostas à matriz conforme chegarem.
+1. **Acompanhar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)** — **17 protocolados**: **1, 2, 3, 4, 5, 6, 7 e 8 já responderam** (1 e 5, parciais — o 1 sobre sinalização migrada à SMMU, o 5 sobre a Av. Monte Cristo com o nó do P2 encaminhado à EPTC); 9–10 com prazo 31/08; 11 com prazo 02/09; 12–15 com prazo 08/09 (o 15 desdobra o 1, à SMMU); 16–17 com prazo 14/09 (desdobram os Pedidos 8 e 7). **Protocolo do pleito principal adiado para 01/09/2026** (decisão de 20/08, para dar tempo aos pedidos ainda em prazo). Incorporar as respostas à matriz conforme chegarem.
 2. **Manter e consolidar a sonda** após 2–4 semanas: agregados por rota, horário, atraso e assimetria, com metodologia e limitações declaradas.
 3. **Validar o pacote com a comissão em 13/8** ([guia](relatorios/guia-validacao-comissao.md)) e obter assinatura/canal ([LIBERACAO.md](LIBERACAO.md)).
 4. **Protocolar na EPTC** dentro da janela da LOA 2027 (meta: **01/set**, para dar tempo às respostas LAI ainda em prazo), solicitando os dados e a vistoria técnica que complementam a evidência já disponível.
