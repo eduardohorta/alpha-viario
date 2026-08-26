@@ -488,7 +488,10 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 - **Pedido 13 (017790-26-10) — respondido (26/08/2026), incompleto.** A **SMOI** informou que o
   **Termo de Recebimento Provisório de 10/04/2013** (a mesma peça já obtida no Pedido 2) estaria
   **em anexo**, mas **o anexo não veio** — recurso/reexame já apresentado pelo requerente pedindo
-  o envio do documento. Quanto ao restante do pedido (quadro de execução por trecho e
+  o envio do documento. **Atualização:** a SMOI enviou o anexo em resposta ao reexame — é
+  **confirmadamente o mesmo documento** já obtido no Pedido 2 (017393-26-38), sem dado novo (obra
+  de pavimentação, trecho estaca 1200+17 m a 2940 m, empresa Pedraccon Mineração Ltda., processo
+  002.302984.00.0); o subitem do anexo está **encerrado**. Quanto ao restante do pedido (quadro de execução por trecho e
   interseção, saldo de obrigações de pavimentação/geometria não executadas, correspondência de
   estaqueamento), a SMOI apenas orientou **novo encaminhamento à PGM**, sem indicar setor
   específico — diferente do roteamento mais preciso do Pedido 4 (que apontou EPV-SMOI, CISE-DMAE,
@@ -515,7 +518,7 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | 31/08/2026 | aguardando resposta |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | 02/09/2026 | aguardando resposta |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
-| 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — só reenvia (sem anexo) o TRP já conhecido; resto redirecionado genericamente à PGM; **reexame apresentado pedindo o anexo** |
+| 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | 08/09/2026 | aguardando resposta — derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
