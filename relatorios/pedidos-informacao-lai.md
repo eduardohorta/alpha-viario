@@ -514,7 +514,7 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo/P1 judicial); demolição judicial pendente desde 2014 no P7 |
-| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | 31/08/2026 | aguardando resposta |
+| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ **10/09/2026** | **prorrogado (+10 dias)** |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ **10/09/2026** | **prorrogado (+10 dias)** |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | 02/09/2026 | aguardando resposta |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
@@ -545,6 +545,12 @@ pela SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**
 Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
 sistematizada em nossos arquivos"). Novo prazo: **10/09/2026** — no próprio dia do prazo
 original, mesmo padrão do Pedido 8.
+
+**Prorrogação do Pedido 9 (31/08/2026, por e-mail):** a PGM também prorrogou o prazo por **10
+dias**, com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma
+justificativa ("a informação não se encontra sistematizada em nossos arquivos"). Novo prazo:
+**10/09/2026** — os Pedidos 9 e 10, protocolados no mesmo dia (07/08), prorrogaram no mesmo dia
+e para o mesmo novo prazo.
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
