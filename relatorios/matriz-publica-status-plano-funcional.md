@@ -42,21 +42,25 @@
   original); revela uma **demolição judicial pendente desde 2014** na confluência do P7; e
   confirma que o **Termo de Compromisso permanece vigente**, sem extinção da obrigação de fazer
   pela caducidade dos projetos. Detalhe em [projetos viários documentados](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
-- **Confirmado parcialmente pela resposta LAI ao Pedido 9 (01/09/2026):** o imóvel diretamente
-  referido no **Decreto 20.860/2020** (P7/alça) foi desapropriado por acordo em 2025; o eixo/P1
+- **Confirmado pela resposta LAI ao Pedido 9 (01/09/2026):** o imóvel diretamente referido no
+  **Decreto 20.860/2020** (P7/alça) — processo SEI 002.079092.09.8 — foi desapropriado por
+  acordo em 2025 (escritura de maio, indenização paga em junho, registro em julho); o eixo/P1
   está judicializado desde 19/12/2025, sem imissão provisória; e a DUP do P6 **caducou em
-  28/12/2025**, com novo decreto previsto a partir de dez/2026. A PGM não explicou a relação
-  desses dados com os processos 093/094 antes citados para o P7, nem respondeu sobre a Cláusula
-  Nona, que atribuiu à SMF.
+  28/12/2025**, com novo decreto previsto a partir de dez/2026. A PGM não respondeu sobre a
+  Cláusula Nona, que atribuiu à SMF (→ Pedido 18). A resposta também esclareceu que esse
+  processo (092) é **distinto** dos processos 093/094 citados na resposta ao Pedido 8 — ver
+  bullet abaixo.
 - **Ainda não confirmado:** correspondência das estacas; recebimento definitivo e ambiental;
-  a relação entre os processos fundiários do P7 citados pelas duas respostas da PGM; o **depósito
-  de R$ 200 mil** da Cláusula Nona (Pedido 18/SMF, prazo 21/09); e a atualização do Parecer
-  CTAAPS 093/2020, ainda pendente no Pedido 10.
-- **Confirmado por consulta pública ao SEI-PMPA (21/08/2026):** as duas frentes de desapropriação
-  do P7 (uma por acordo, outra judicial) pertencem à **mesma parte interessada**; os **quatro
-  processos** dos Pedidos 8/9 já receberam um **pagamento inicial em 2020**, logo após os
-  decretos — o que estava pendente desde então é o **valor final e a formalização**, não a
-  desapropriação em si. A identidade da parte interessada não é publicada aqui; consta apenas em
+  o **depósito de R$ 200 mil** da Cláusula Nona (Pedido 18/SMF, prazo 21/09); e a atualização do
+  Parecer CTAAPS 093/2020, ainda pendente no Pedido 10.
+- **Confirmado por consulta pública ao SEI-PMPA (21/08/2026) e reconciliado com a resposta ao
+  Pedido 9:** os processos 093 e 094 (uma desapropriação por acordo, outra judicial) pertencem à
+  **mesma parte interessada** entre si, mas são **parcelas distintas** do imóvel do Decreto
+  20.860 (que tramita à parte, no processo 092, e já está concluído — ver acima). Ou seja, o P7
+  tem pelo menos **duas frentes fundiárias separadas**: a nomeada no decreto (resolvida) e outra
+  parcela ainda pendente (093 por acordo, 094 em ação judicial). Os processos do eixo/P1 (077) e
+  do P6 (101) também já receberam um **pagamento inicial em 2020**, logo após os decretos. A
+  identidade da parte interessada nos processos 093/094 não é publicada aqui; consta apenas em
   registro interno, como os demais dados pessoais de terceiros do dossiê. Detalhe e ressalvas em
   [projetos viários documentados §3](projetos-viarios-ja-aprovados.md#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar).
 - **Confirmado por consulta direta ao TJRS (21/08/2026):** a ação do eixo/P1 envolve **treze réus

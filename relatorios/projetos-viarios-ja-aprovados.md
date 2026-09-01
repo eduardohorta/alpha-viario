@@ -450,29 +450,32 @@ Cruzando com os três decretos de 23/12/2020 já documentados:
   publicação de um novo Decreto**. Não há outra leitura razoável: só se publica um novo decreto de
   utilidade pública quando o anterior **deixou de valer**. É a confirmação, pela via mais direta
   possível, de que **a DUP do P6 caducou** e o processo está sendo reiniciado.
-- **002.079093.09.4 e 002.079094.09.0** — não correspondem exatamente ao SEI **002.079092.09.8**
-  citado no Decreto 20.860/2020 (P7, Costa Gama), mas a numeração é vizinha e sequencial (092,
-  093, 094). **Confirmado em 21/08/2026, por consulta pública ao SEI-PMPA** (autuação e lista de
-  andamentos de cada processo — sem acesso aos documentos, a maior parte classificada como
-  "documento preparatório"): os dois processos têm o **mesmo interessado**, o que estabelece que
-  são **duas frentes da mesma desapropriação da área do P7** — uma resolvida por **acordo**
-  (093/FC 8059, escritura pública) e outra que não chegou a acordo e foi **ajuizada** (094/FC
-  8060, petição inicial protocolada em 27/05/2026 e novamente em 08/07/2026).
-- **Achado transversal:** a mesma consulta mostra que **os quatro processos já receberam um
-  pagamento inicial (empenho) entre 01/09/2020 e 01/10/2020** — logo após os decretos de
-  23/12/2020. Ou seja, a desapropriação não ficou parada por seis anos sem nenhum movimento
-  financeiro: houve um depósito provisório em todos os casos, e o que segue em aberto é o
-  **valor final e a formalização**, por três vias diferentes — acordo (P7, uma frente), ação
-  judicial (P7, outra frente, e eixo/P1) e um novo decreto (P6). No processo do eixo/P1
-  (002.079077.09.9), a ação judicial digitalizada foi juntada ao processo administrativo em
-  19/12/2025, confirmando que já tramita.
-- A **escritura amigável firmada (093/FC 8059)** é compatível com o [indício extraoficial
+- **002.079093.09.4 e 002.079094.09.0** — a numeração é vizinha e sequencial ao SEI
+  **002.079092.09.8** citado no Decreto 20.860/2020 (P7, Costa Gama), mas **não são o mesmo
+  processo**. A resposta ao **Pedido 9** (01/09/2026) esclareceu que o imóvel *diretamente*
+  identificado no Decreto 20.860 tramita sob o processo **002.079092.09.8 (FC 8058)** — distinto
+  de 093 (FC 8059) e 094 (FC 8060) — e que essa desapropriação **já foi concluída por acordo**,
+  com escritura lavrada em maio/2025 e indenização paga em junho/2025 (ver [Resposta LAI ao
+  Pedido 9](#resposta-lai-ao-pedido-9-01092026-três-decretos-individualizados-depósito-segue-a-confirmar-com-a-smf)
+  abaixo). Os processos 093 e 094, portanto, **não são a mesma desapropriação do decreto**: são
+  **duas outras parcelas**, com o mesmo interessado entre si (confirmado por consulta pública ao
+  SEI-PMPA em 21/08/2026), aparentemente necessárias à mesma obra do P7 mas cobertas por
+  processo(s) próprio(s) — uma resolvida por **acordo** (093/FC 8059, escritura pública) e outra
+  ajuizada (094/FC 8060, petição inicial protocolada em 27/05/2026 e novamente em 08/07/2026). A
+  quem pertence o processo 092/FC 8058 (o do decreto) não foi verificado por esta via.
+- **Achado transversal:** a mesma consulta ao SEI mostra que os processos 077, 093, 094 e 101 já
+  receberam um pagamento inicial (empenho) entre 01/09/2020 e 01/10/2020 — logo após os decretos
+  de 23/12/2020. Ou seja, essas desapropriações não ficaram paradas por seis anos sem nenhum
+  movimento financeiro: houve um depósito provisório, e o que seguia em aberto era o **valor
+  final e a formalização** — por acordo, ação judicial ou (no caso do P6) um novo decreto. No
+  processo do eixo/P1 (002.079077.09.9), a ação judicial digitalizada foi juntada ao processo
+  administrativo em 19/12/2025, confirmando que já tramita.
+- A **escritura amigável firmada em 093/FC 8059** é compatível com o [indício extraoficial
   registrado acima](#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar) — o relato de
-  que a indenização de um dos proprietários do P7 foi paga em quase totalidade. A consulta
-  pública **confirma que é o mesmo processo do relato** (mesmo interessado nas duas frentes do
-  P7), embora, por não revelar nomes em documento público, esta seção mantenha a identidade fora
-  do repositório — tratada em `interno/`, como o restante dos dados pessoais de terceiros do
-  dossiê.
+  que a indenização de um dos proprietários do P7 foi paga em quase totalidade — mas trata de uma
+  parcela **distinta** da desapropriação do Decreto 20.860 propriamente dita (essa, confirmada
+  concluída pelo Pedido 9). A identidade do interessado não é publicada aqui; fica em `interno/`,
+  como os demais dados pessoais de terceiros do dossiê.
 
 ### 3. Obstáculo físico adicional: demolição judicial pendente na confluência do P7
 
@@ -523,11 +526,15 @@ assinada pelo Município no mesmo mês e registrada em julho; a indenização fo
 A escritura transferiu a posse, prevendo desocupação e entrega em até 30 dias do pagamento. Isso
 **não comprova**, por si só, a entrega material em uma data determinada.
 
-Esse esclarecimento identifica diretamente o processo administrativo referido no Decreto 20.860.
-Ele não explica a relação com os processos 002.079093.09.4 e 002.079094.09.0 mencionados na
-resposta anterior ao Pedido 8. Portanto, não se deve ainda afirmar, só com essas duas respostas,
-que todo eventual entrave fundiário complementar do P7 esteja resolvido; a reconciliação dos
-processos permanece necessária.
+Esse esclarecimento identifica diretamente o processo administrativo referido no Decreto 20.860:
+**SEI 002.079092.09.8 (FC 8058)**. **Reconciliação feita:** esse número é distinto dos processos
+002.079093.09.4 (FC 8059) e 002.079094.09.0 (FC 8060) citados na resposta ao Pedido 8 — a
+numeração vizinha havia sugerido, por hipótese, que fossem frentes da mesma desapropriação, mas
+não são. São **parcelas separadas**, aparentemente de outro(s) proprietário(s), também
+necessárias à obra do P7 mas fora do que o Decreto 20.860 nomeia diretamente. Portanto: o imóvel
+do Decreto 20.860 propriamente dito está **concluído** (este item); as parcelas 093/094 seguem
+com o status já descrito no Pedido 8 (uma por acordo, outra em ação judicial) — entraves
+distintos, não o mesmo entrave visto por dois ângulos.
 
 ### 2. Eixo/P1 segue judicializado, ainda sem imissão provisória na posse
 
@@ -617,7 +624,7 @@ complemento aos dados já obtidos no Pedido 7.
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) informa que o imóvel diretamente referido nesse decreto foi desapropriado por acordo em 2025. A resposta anterior ao Pedido 8 havia citado outros dois processos para a área; como a relação entre eles não foi esclarecida, não se afirma aqui que todos os entraves fundiários estejam resolvidos. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF; a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, não o imóvel do decreto — uma resolvida por acordo, outra em ação judicial, ambas ainda pendentes. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 
