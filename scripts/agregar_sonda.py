@@ -192,7 +192,8 @@ def _write_resumo(raw, grp, rotas, janela, agg) -> None:
                   "É a medida empírica do custo imposto aos moradores pela ausência da conversão/alça."]
 
     lines += ["", "## Limitações",
-              "- Janela curta (série em acumulação); reprocessar perto do protocolo.",
+              "- Rotas R13/R14 (P9) entraram na coleta em 14/08/2026, mais tarde que as demais "
+              "(04/07/2026) — amostra menor (centenas de medições, não milhares) para esse ponto.",
               "- Tempos do Google refletem estimativa de tráfego, não contagem volumétrica.",
               "- Índice <1 em rotas curtas ocorre quando a duração em fluxo livre é conservadora; "
               "os agregados (mediana/p85) são robustos a esses casos.", ""]

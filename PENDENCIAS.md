@@ -31,10 +31,10 @@
 - [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
 
 ## B. Evidência documental e de dados
-- [x] **[G]** **Sonda de tempos de viagem ATIVA desde 2026-07-04** (serviços Google Cloud nos picos, com registros encaminhados ao repositório privado `alpha-viario-sonda`): [travas de custo](campo/sonda-tempos-google.md) todas configuradas (cota 200/dia no Console, orçamento com alertas, chave restrita à Routes API, tetos do coletor). Rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). Meta: 2–4 semanas de série antes do protocolo.
-- [ ] **[G]** Verificar a continuidade/qualidade da coleta da sonda e gerar agregados por rota e janela horária (atraso versus fluxo livre, assimetria e custo do retorno do P7), sem expor dados brutos ou chave.
+- [x] **[G]** **Sonda de tempos de viagem ATIVA desde 2026-07-04** (serviços Google Cloud nos picos, com registros encaminhados ao repositório privado `alpha-viario-sonda`): [travas de custo](campo/sonda-tempos-google.md) todas configuradas (cota 200/dia no Console, orçamento com alertas, chave restrita à Routes API, tetos do coletor). Rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). Meta original: 2–4 semanas de série antes do protocolo — **campanha rodou ~9 semanas (04/07–01/09)**, bem além da meta; pausa do Cloud Scheduler em avaliação.
+- [x] **[G]** **Verificada a continuidade e gerados os agregados (2026-09-01)**: `make sonda-agg` — **8.582 medições** em 14 rotas (12 desde 04/07, mais R13/R14 do P9 desde 14/08). Achado novo: o **entroncamento do P9** tem o maior índice de atraso entre todas as rotas medidas. Ver [resumo](dados/tratados/sonda_tempos_resumo.md).
 - [x] **[G]** **Capturas do trânsito típico** (Google Maps) por ponto/horário: 18 registros em 03/07 no [inventário](campo/observacoes/inventario-evidencias.csv) e no [roteiro](campo/observacoes/transito-tipico/README.md).
-- [ ] **[G]** Incorporar à matriz e às peças externas os agregados da sonda e as respostas LAI — ou registrar explicitamente os pedidos em prazo/prorrogação.
+- [x] **[G]** **Agregados da sonda incorporados** ao [anexo](relatorios/anexo-matriz-pontos.md) e ao [pacote](pacote-reuniao.md) (`make pacote-md`, 2026-09-01). Respostas LAI: ver tabela de acompanhamento, atualizada a cada resposta/prorrogação.
 
 ### Em espera — mobilização comunitária
 
