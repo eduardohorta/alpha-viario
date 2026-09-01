@@ -493,17 +493,71 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
 
 ### 5. O que isso muda em cada ponto
 
-- **P6** — a desapropriação (Decreto 20.859/2020) **muito provavelmente caducou**; um novo
-  decreto está sendo preparado. É a confirmação mais forte, entre os três decretos, de que o
-  prazo do art. 10 realmente correu sem efetivação.
-- **P7** — quadro mais rico que o esperado: **duas** desapropriações distintas, uma **resolvida
-  por acordo** e outra **ainda em ação judicial sem sentença**, mais uma **demolição judicial
-  pendente desde 2014**. Nenhuma das duas indica caducidade simples da DUP — mas nenhuma está
-  concluída, e a obra segue travada por pelo menos três frentes jurídicas abertas (2 desapropriações + demolição).
-- **Eixo/P1** — a desapropriação (Decreto 20.861/2020) está **em ação judicial dentro do prazo**;
-  não há indício de caducidade por essa via, mas também não há conclusão — falta sentença.
-- **Cláusula Nona (R$ 200 mil)** — a resposta ao Pedido 8 **não trata** desse depósito; segue
-  como item exclusivo do **Pedido 9** (PGM/SMF, prazo 31/08/2026).
+- **P6** — a resposta posterior ao Pedido 9 confirmou expressamente que a declaração do Decreto
+  20.859/2020 **caducou em 28/12/2025**; a PGM prevê novo decreto a partir de dezembro de 2026.
+- **P7** — o Pedido 8 descreveu duas frentes (uma por acordo e outra judicial), enquanto o Pedido
+  9 informa que o imóvel diretamente referido no Decreto 20.860/2020 foi concluído por acordo em
+  2025. A relação entre esses registros ainda precisa ser reconciliada antes de se afirmar o
+  status fundiário integral; a demolição judicial permanece um obstáculo físico separado.
+- **Eixo/P1** — a desapropriação (Decreto 20.861/2020) está **em ação judicial dentro do prazo**,
+  sem imissão provisória na posse; não houve caducidade, mas a área ainda não está disponível por
+  essa via.
+- **Cláusula Nona (R$ 200 mil)** — a PGM atribuiu a matéria à **SMF**; o Pedido 9 não confirmou
+  depósito, cobrança ou destinação. O **Pedido 18** foi protocolado diretamente à Fazenda em
+  01/09/2026 (nº 018008-26-10; prazo 21/09).
+
+## Resposta LAI ao Pedido 9 (01/09/2026): três decretos individualizados; depósito segue a confirmar com a SMF
+
+> A resposta ao **Pedido 9** — efetivação das desapropriações de 2020 e depósito da Cláusula
+> Nona — chegou em **01/09/2026** (protocolo **017700-26-00**), dentro do prazo prorrogado.
+> Respondeu a **PGM**. O documento bruto fica em `retornos-protocolos/017700-26-00/` (fora do
+> repositório público); abaixo, apenas os fatos institucionais e seus limites.
+
+### 1. O imóvel da alça nomeado no Decreto 20.860 foi desapropriado por acordo em 2025
+
+Para o imóvel diretamente identificado no **Decreto 20.860/2020** (P7/alça de ligação), a PGM
+informa que a desapropriação amigável foi concluída: a escritura foi lavrada em maio de 2025,
+assinada pelo Município no mesmo mês e registrada em julho; a indenização foi paga em junho de
+2025. A PGM considera a caducidade prejudicada, pois a conclusão ocorreu antes do quinquênio.
+
+A escritura transferiu a posse, prevendo desocupação e entrega em até 30 dias do pagamento. Isso
+**não comprova**, por si só, a entrega material em uma data determinada.
+
+Esse esclarecimento identifica diretamente o processo administrativo referido no Decreto 20.860.
+Ele não explica a relação com os processos 002.079093.09.4 e 002.079094.09.0 mencionados na
+resposta anterior ao Pedido 8. Portanto, não se deve ainda afirmar, só com essas duas respostas,
+que todo eventual entrave fundiário complementar do P7 esteja resolvido; a reconciliação dos
+processos permanece necessária.
+
+### 2. Eixo/P1 segue judicializado, ainda sem imissão provisória na posse
+
+Para o imóvel do **Decreto 20.861/2020** (eixo/P1), a PGM confirma a ação de desapropriação
+**5327233-72.2025.8.21.0001**, distribuída em 19/12/2025, dentro do prazo legal. Não houve
+pedido liminar de imissão provisória na posse; segundo a resposta, essa providência foi deixada
+para momento oportuno, em consonância com o cronograma de obras. A declaração não caducou, mas a
+área tampouco está disponível por imissão na posse.
+
+### 3. P6: caducidade expressa e nova declaração prevista somente a partir de dezembro de 2026
+
+Para o imóvel da esquina com a Kanazawa, atingido pelo **Decreto 20.859/2020**, a PGM afirma
+expressamente que a declaração **caducou em 28/12/2025**. Informa revisão topográfica e de
+memorial descritivo pela SMF em janeiro e fevereiro de 2026, para readequar o traçado e excluir
+áreas já consolidadas ao uso público. A providência prevista é novo decreto de utilidade pública
+**a partir de dezembro de 2026**, respeitado o intervalo legal de um ano, seguido da retomada das
+tratativas expropriatórias. Não houve imissão na posse.
+
+### 4. A Cláusula Nona continua sem resposta de mérito
+
+As perguntas sobre o depósito de R$ 200 mil, a eventual constituição e cobrança do crédito e a
+destinação dos valores (itens d--f) foram expressamente atribuídas à **Secretaria Municipal da
+Fazenda (SMF)**. A PGM apenas reproduz informação genérica de setor da SMF sobre ingresso de
+recurso referente a desapropriações regidas por outros decretos; ela não identifica a Cláusula
+Nona, o Termo de Compromisso ou os Decretos 20.859--20.861. Logo, esse trecho não confirma nem
+afasta o depósito perguntado.
+
+O encaminhamento documental adequado é pedido direto à SMF, com referência a esta resposta,
+para que informe o pagamento ou a cobrança e a destinação, preservados dados pessoais e bancários
+de terceiros.
 
 ## Consulta direta ao TJRS (21/08/2026): confirmação processual dos três processos judiciais
 
@@ -562,8 +616,8 @@ complemento aos dados já obtidos no Pedido 7.
 | **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020). |
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
-| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de **desapropriação declarada** na esquina com a Kanazawa (Decreto 20.859/2020) que, segundo a PGM (Pedido 8, 21/08/2026), **muito provavelmente caducou** — aguarda-se a publicação de um novo decreto. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 8, 21/08/2026) detalha **duas desapropriações em andamento** para a área — uma **resolvida por acordo** (escritura pública firmada) e outra ainda em **ação judicial sem sentença** — mais a **demolição do galpão irregular da confluência, juridicamente resolvida em 23/04/2026** (tutela de urgência confirmada em agravo de instrumento, mandado expedido com prioridade em 03/07/2026, pendente só de execução material); **2ª fase nunca implantada**; **falta projeto de drenagem** da adequação; **gatilho de depósito de R$ 200 mil** (Cláusula Nona do 2º aditivo) ainda sem confirmação (Pedido 9); **sinalização viária nunca aprovada** para a nova interseção, confirmado pela própria EPTC (Pedido 1, 17/08/2026), que orientou novo pedido à **SMMU** (Pedido 15); e o **Termo de Compromisso permanece vigente** — a caducidade dos projetos não extingue a obrigação de fazer (PGM, Pedido 8). |
+| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) informa que o imóvel diretamente referido nesse decreto foi desapropriado por acordo em 2025. A resposta anterior ao Pedido 8 havia citado outros dois processos para a área; como a relação entre eles não foi esclarecida, não se afirma aqui que todos os entraves fundiários estejam resolvidos. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF; a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 
@@ -579,11 +633,11 @@ O encaminhamento deve solicitar à Prefeitura:
 
 Até essa resposta, a formulação pública correta é: **há projetos e obrigações historicamente documentados, com evidência de execução parcial; o saldo e a adequação atual permanecem a confirmar**.
 
-**Para o P7, as respostas já vieram** (jul/2026 e 21/08/2026) e afinam o item 3: o projeto
-definitivo Três Meninas–Costa Gama **existiu, foi aprovado e caducou**; o **Termo de Compromisso
-permanece vigente** (a caducidade não desobriga); as desapropriações estão **em andamento** — uma
-por acordo, outra em ação judicial — e há ainda uma **demolição judicial pendente desde 2014** na
-própria confluência (Pedido 8). A formulação pública correta para o P7 passa a ser: **a cidade
-projetou e aprovou uma solução, não a implantou e a deixou caducar; a obrigação de concluí-la
-segue vigente, e faltam concluir duas desapropriações e uma demolição judicial para viabilizar a
-obra**.
+**Para o P7, as respostas de jul--set/2026** afinam o item 3: o projeto definitivo
+Três Meninas--Costa Gama **existiu, foi aprovado e caducou**, e o **Termo de Compromisso permanece
+vigente**. A PGM informa que o imóvel diretamente referido no Decreto 20.860 foi desapropriado
+por acordo em 2025; como sua relação com os outros processos fundiários citados na resposta ao
+Pedido 8 não foi explicada, essa parcela ainda requer reconciliação documental. A formulação
+pública correta é: **a cidade projetou e aprovou uma solução, não a implantou e a deixou caducar;
+a obrigação de concluí-la segue vigente, mas sua viabilização exige projeto e sinalização novos,
+execução material da demolição judicial e confirmação completa da situação fundiária**.

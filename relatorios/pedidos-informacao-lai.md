@@ -389,6 +389,43 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 > EPTC), de modo a permitir a comparação com os dados de tráfego já obtidos na resposta ao
 > Pedido 7 (protocolo 017399-26-65).
 
+## Pedido 18 — SMF: depósito, cobrança e destinação da Cláusula Nona
+
+**Protocolado em 01/09/2026** (nº **018008-26-10**, prazo **21/09/2026**) — ver
+[acompanhamento](#acompanhamento).
+
+**Órgão:** Secretaria Municipal da Fazenda (SMF), no tema que o e-SIC indicar como competente
+para receitas, créditos e execução financeira.
+
+**Origem:** resposta ao **Pedido 9** (PGM, protocolo 017700-26-00, 01/09/2026). A PGM respondeu
+os itens relativos às desapropriações, mas declarou que os itens d--f, sobre o depósito da
+Cláusula Nona do segundo aditivo ao Termo de Compromisso nº 41.198/2009, são de competência da
+SMF. A informação genérica que reproduziu menciona outros decretos e não permite identificar o
+depósito solicitado.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta da PGM ao pedido nº
+> **017700-26-00** (01/09/2026), solicito à Secretaria Municipal da Fazenda informações sobre a
+> **Cláusula Nona do segundo aditivo** ao Termo de Compromisso nº **41.198/2009**, registrado sob
+> nº **53.107**, de 23/08/2013. A cláusula prevê depósito de **R$ 200.000,00**, corrigido pela
+> SELIC, em favor do Município até 15 dias após a publicação dos Decretos Municipais nº 20.859,
+> 20.860 e 20.861, de 23/12/2020, além de multa e juros em caso de inadimplemento.
+>
+> Solicito: (a) informar se o depósito foi efetuado, com data, valor total recebido e a forma de
+> atualização aplicada; (b) se não foi efetuado integralmente, informar se o crédito foi
+> constituído, seu valor atualizado e a situação da cobrança administrativa ou judicial; (c)
+> informar a destinação orçamentária e financeira dada aos valores eventualmente recebidos; e
+> (d) esclarecer se a referência, na resposta da PGM, ao ingresso de recurso relativo aos
+> Decretos nº 18.699, 18.700 e 19.145 guarda alguma relação com esta Cláusula Nona ou com os
+> Decretos nº 20.859, 20.860 e 20.861. Caso não guarde, favor indicar expressamente que não se
+> trata do mesmo crédito.
+>
+> O pedido não requer identificação, CPF, dados bancários ou valores individualizados de
+> terceiros. Se houver documentos que contenham tais dados, solicito seu fornecimento com as
+> tarjas necessárias, preservando os fatos institucionais, os valores globais e a situação do
+> crédito.
+
 ---
 
 ## Respostas recebidas
@@ -483,7 +520,7 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
   informou que o projeto ali implantado foi **elaborado pela GPTC-EPTC** e **encaminhou o
   processo à EPTC** para manifestação — resposta ainda pendente quanto a esse nó específico (é
   um encaminhamento interno da SMMU, não uma orientação para novo pedido; acompanhar se a EPTC
-  se manifesta neste mesmo protocolo antes de cogitar um Pedido 18). Incorporado ao
+  se manifesta neste mesmo protocolo antes de cogitar um novo pedido adicional). Incorporado ao
   [anexo](anexo-matriz-pontos.md).
 - **Pedido 13 (017790-26-10) — respondido (26/08/2026), incompleto.** A **SMOI** informou que o
   **Termo de Recebimento Provisório de 10/04/2013** (a mesma peça já obtida no Pedido 2) estaria
@@ -498,7 +535,13 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
   EPIARB-SMAMUS, DMU-SMMU e GEAR-PGM por tema). A PGM já tem dois pedidos ativos no mesmo eixo
   (8 e 16), nenhum sobre execução de pavimentação/geometria especificamente — sem novo pedido
   derivado por ora; aguardar o reexame antes de decidir se o saldo cabe num acréscimo ao Pedido
-  16 ou exige um Pedido 18 próprio.
+  16 ou exige um novo pedido próprio, distinto do Pedido 18 financeiro.
+- **Pedido 9 (017700-26-00) — respondido (01/09/2026), parcial.** A **PGM** confirmou que o
+  imóvel diretamente referido no Decreto 20.860/2020 (P7/alça) foi desapropriado por acordo em
+  2025; que o imóvel do Decreto 20.861/2020 (eixo/P1) está em ação judicial desde 19/12/2025,
+  sem imissão provisória na posse; e que o Decreto 20.859/2020 (P6) **caducou em 28/12/2025**,
+  com novo decreto previsto a partir de dez/2026. Os itens sobre o depósito da Cláusula Nona não
+  foram respondidos de mérito: a PGM os atribuiu à **SMF**. O [Pedido 18](#pedido-18--smf-depósito-cobrança-e-destinação-da-cláusula-nona) foi protocolado diretamente à secretaria em 01/09 (nº 018008-26-10; prazo 21/09).
 
 ---
 
@@ -514,7 +557,7 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo/P1 judicial); demolição judicial pendente desde 2014 no P7 |
-| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ **10/09/2026** | **prorrogado (+10 dias)** |
+| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo/P1 judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ **10/09/2026** | **prorrogado (+10 dias)** |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | 02/09/2026 | aguardando resposta |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
@@ -523,6 +566,7 @@ pela EPTC, distinta da resposta genérica ao Pedido 7.
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | 08/09/2026 | aguardando resposta — derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | 14/09/2026 | aguardando resposta — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
+| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
