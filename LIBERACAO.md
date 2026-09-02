@@ -33,8 +33,8 @@
 ## 2. Rechecagem institucional datada (imediatamente antes de protocolar)
 Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS §A](PENDENCIAS.md):
 - [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): **responderam 1, 4, 5, 6, 7
-      e 8** (1 e 5, parciais) e o **9** (01/09, parcial: depósito remetido à SMF); o **10** está
-      prorrogado até **10/09**; **11** vence 02/09; **12–15** vencem 08/09 (o 15, protocolo
+      e 8** (1 e 5, parciais) e o **9** (01/09, parcial: depósito remetido à SMF); os **10 e 11**
+      estão prorrogados até **10/09 e 12/09**; **12–15** vencem 08/09 (o 15, protocolo
       017822-26-45, desdobra o 1 e vai à SMMU); **16–17** vencem 14/09 (desdobram os Pedidos 8 e
       7); **18** (018008-26-10, SMF) vence 21/09.
       **Decisão de 20/08:** protocolar em **01/09/2026**, sem esperar os derivados 11–17 (prazos
