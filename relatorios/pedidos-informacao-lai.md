@@ -560,7 +560,7 @@ depósito solicitado.
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo/P1 judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ **10/09/2026** | **prorrogado (+10 dias)** |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ **12/09/2026** | **prorrogado (+10 dias)** |
-| 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
+| 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ **18/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ **18/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 1 |
@@ -607,6 +607,13 @@ SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 
 Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
 sistematizada em nossos arquivos"). Novo prazo: **18/09/2026** — no próprio dia do prazo
 original, mesmo padrão dos Pedidos 8, 9, 10 e 11.
+
+**Prorrogação do Pedido 12 (08/09/2026, por e-mail):** a SMMU (por e-mail do SIC, assinado pela
+SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do
+Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
+sistematizada em nossos arquivos"). Novo prazo: **18/09/2026** — os Pedidos 12 e 15,
+protocolados em datas próximas (14/08 e 17/08), prorrogaram no mesmo dia e para o mesmo novo
+prazo.
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
