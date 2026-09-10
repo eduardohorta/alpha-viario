@@ -699,7 +699,8 @@ status de cada contrapartida, e se alguma cobre a 2ª fase/drenagem do P1 — po
 buscados de outra forma: com os 8 números de processo SEI em mãos, um novo pedido pode solicitar
 **cópia de documentos específicos já existentes** em cada processo (o mesmo formato que funcionou
 para o EU 002.308796.00.4), em vez de pedir uma "análise consolidada" — a formulação que motivou
-o indeferimento. **Pedido 19 preparado nesse formato** — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
+o indeferimento. **Pedido 19 protocolado nesse formato** (018104-26-38, 10/09/2026, prazo
+30/09/2026) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
 
 ## Relação com os pontos do projeto
 

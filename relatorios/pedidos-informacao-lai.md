@@ -622,7 +622,7 @@ Pareceres CTARF nº 022 e 023/2023.
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | 14/09/2026 | aguardando resposta — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
-| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | — | — | — | **redigido, a protocolar** — derivado do Pedido 11 |
+| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
