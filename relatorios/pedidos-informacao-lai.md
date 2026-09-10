@@ -542,6 +542,21 @@ depósito solicitado.
   sem imissão provisória na posse; e que o Decreto 20.859/2020 (P6) **caducou em 28/12/2025**,
   com novo decreto previsto a partir de dez/2026. Os itens sobre o depósito da Cláusula Nona não
   foram respondidos de mérito: a PGM os atribuiu à **SMF**. O [Pedido 18](#pedido-18--smf-depósito-cobrança-e-destinação-da-cláusula-nona) foi protocolado diretamente à secretaria em 01/09 (nº 018008-26-10; prazo 21/09).
+- **Pedido 11 (017781-26-28) — respondido (10/09/2026), parcial-negativo.** A **SMAMUS**
+  **indeferiu os itens "a", "b" e "e"** (descrição/situação de cada contrapartida; se alguma
+  cobre a 2ª fase/drenagem do P1) com base no **art. 12, III, do Decreto Municipal nº
+  19.990/2018** (exigiriam análise/consolidação adicional, não coberta pela LAI), mas **deferiu
+  parcialmente os itens "c" e "d"** e informou o **processo SEI de cada um dos 8 EUs**. Achado
+  relevante: o **EU 002.308796.00.4** ("Chácara das Três Meninas Empreendimentos e
+  Participações", Estr. Três Meninas 316, 137.086 m², condomínio de **287 U.A.**) teve o EVU
+  **aprovado em 18/12/2025** (Parecer CAUGE nº 048/2025) com **contrapartida viária confirmada**
+  para o **P1 e o P6**: Termo de Compromisso obrigatório para o alargamento da Três Meninas,
+  doação do recuo viário (4.241,36 m² com TPC) e projeto de sinalização junto à SMMU/EPTC — todos
+  condicionantes ao Habite-se; a gleba também é atingida pela **Diretriz Viária da Estr.
+  Kanazawa**, primeira confirmação documental de que essa diretriz existe (reforça o P6). Dois
+  outros EUs são REURB-S do DEMHAB no Loteamento Campos de Cristal (Beco do Império e Estr.
+  Cristiano Kraemer, 548 — ambos já citados alhures), sem contrapartida nova. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-11-10092026-contrapartida-viária-confirmada-em-novo-empreendimento-junto-ao-p1p6).
 
 ---
 
@@ -559,7 +574,7 @@ depósito solicitado.
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo/P1 judicial); demolição judicial pendente desde 2014 no P7 |
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo/P1 judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ **10/09/2026** | **prorrogado (+10 dias)** |
-| 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ **12/09/2026** | **prorrogado (+10 dias)** |
+| 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ ~~12/09/2026~~ | **respondido (10/09/2026), parcial-negativo** — itens a/b/e indeferidos (art. 12 III Dec. 19.990/2018); c/d deferidos: **contrapartida viária confirmada no EU …796.00.4 (P1+P6)**, Diretriz Viária da Kanazawa confirmada |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ **18/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |

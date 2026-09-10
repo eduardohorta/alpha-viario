@@ -616,6 +616,72 @@ exato local no período de **2019 a 2024**" — um levantamento de sinistros esp
 confluência do P7 que já existe em processo judicial e que vale avaliar solicitar via LAI, como
 complemento aos dados já obtidos no Pedido 7.
 
+## Resposta LAI ao Pedido 11 (10/09/2026): contrapartida viária confirmada em novo empreendimento junto ao P1/P6
+
+> A resposta ao **Pedido 11** — contrapartidas viárias dos 8 empreendimentos em análise no eixo
+> P1/P2, desdobramento da resposta ao Pedido 6 — chegou em **10/09/2026** (protocolo
+> **017781-26-28**), oito dias após o novo prazo (02/09). Respondeu a **SMAMUS** (Diretoria do
+> Escritório de Licenciamento). Os PDFs brutos ficam em `retornos-protocolos/017781-26-28/`
+> (fora do repositório público); abaixo, os fatos institucionais.
+
+**Indeferimento parcial.** A SMAMUS **indeferiu os itens "a", "b" e "e"** do pedido (descrição
+das contrapartidas de cada empreendimento, situação atual de cada uma, e se alguma contempla a
+2ª fase/drenagem pendente do P1) com base no **art. 12, III, do Decreto Municipal nº
+19.990/2018** — entendimento de que o atendimento exigiria "trabalhos adicionais de análise,
+consolidação e interpretação de informações não sistematizadas", o que a LAI não obriga. Em
+contrapartida, **deferiu parcialmente os itens "c" e "d"** (peças de projeto viário existentes e
+o "traçado viário em análise" do mapa) e informou o **número do processo SEI de cada um dos 8
+Expedientes Únicos**, cumprindo o parágrafo único do art. 12 do mesmo decreto.
+
+**Achado principal: EU nº 002.308796.00.4 — "Chácara das Três Meninas Empreendimentos e
+Participações".** É o empreendimento junto ao mapa que gerou a pergunta sobre o "traçado viário
+em análise" (Pedido 6). O **Parecer CAUGE nº 048/2025** (aprovado em 18/12/2025, processo SEI
+22.0.000112302-9) identifica:
+
+- **Local:** Estrada Três Meninas, nº 316, Vila Nova — gleba de **137.086,42 m²** (três
+  matrículas), com frente para a **Estrada das Três Meninas** e frente parcial para a **Estrada
+  Kanazawa**.
+- **Proposta:** desmembramento e condomínio por unidades autônomas — **287 U.A.** (275
+  residenciais + 12 comerciais) em 13 setores, mantido como matrícula única (sem loteamento
+  público) por reconsideração de diretrizes (Parecer CAUGE nº 124/2021), condicionada a uma
+  "estruturação viária alternativa" contemplando a conexão com a Três Meninas.
+- **Termo de Compromisso obrigatório**, condicionante ao licenciamento das edificações, **para
+  as obras viárias de alargamento da Estrada Três Meninas** na área do projeto.
+- **Doação obrigatória do recuo viário** incidente sobre o lote — **4.241,36 m²** no trecho da
+  Três Meninas, compensados por Transferência de Potencial Construtivo (TPC); a gleba **também é
+  atingida por recuo viário na "Diretriz Viária da Estrada Kanazawa"**, sem TPC previsto nesse
+  trecho — **primeira confirmação documental de uma diretriz viária vigente para a Kanazawa**,
+  reforçando o quadro já conhecido do **P6**. A doação é condicionante ao **Habite-se**.
+  Devem ser realizados projetos e sinalização de forma condicionante ao Habite-se, ambos junto à SMMU/EPTC.
+- **Condicionantes SMOI/DPOV:** o empreendedor é responsável por toda a infraestrutura dos
+  alargamentos (remanejo de redes, drenagem, ciclovias do Plano Diretor Cicloviário, pavimentação
+  e sinalização horizontal, recuperação de vias danificadas na obra).
+- **DMAE** já sinaliza a necessidade de verificar as influências das alterações viárias nas redes
+  **junto à Estrada Kanazawa e à Estrada Três Meninas** — confirmação institucional independente
+  de que as obras deste empreendimento afetam ambos os eixos (P1 e P6).
+
+**Outros EUs.** Dois dos oito são processos **REURB-S do DEMHAB** no "Loteamento Campos de
+Cristal": EU 002.344231.00.4 (Beco do Império, 181 — o mesmo Beco do Império já citado no
+Parecer CTAAPS 093/2020 como interseção com projeto aprovado e nunca implantado) e EU
+002.344234.00.9 (**Estrada Cristiano Kraemer, 548** — a mesma via do P1). Ambos regularizam
+ocupação **já implantada**, sem contrapartida viária nova identificada. Os demais EUs (002.329584.00.2,
+002.345695.00.1, 002.322436.00.8) seguem em etapa de Diretrizes, sem projeto viário autônomo;
+o EU 002.290209.00.5 teve um projeto de desmembramento aprovado (Parecer CEFH nº 005/2026), também
+sem projeto viário próprio identificado; e o EU 002.291103.00.5 (licenciado em 2014) não teve
+processo SEI específico indicado pela CTARF.
+
+**Consequência para o projeto.** Este é o primeiro caso, entre os 8 empreendimentos mapeados,
+em que a **contrapartida viária está documentalmente confirmada e já aprovada** — TC obrigatório,
+doação de área e projeto de sinalização junto à SMMU/EPTC, todos condicionantes ao Habite-se —
+e ele **atinge diretamente os dois eixos do P1 e do P6**. É evidência concreta, não hipotética,
+de que a alavanca **"contrapartidas urbanísticas de novos empreendimentos"** (PENDENCIAS §E) está
+em uso agora pelo Município nesse exato corredor. Os itens indeferidos (a, b, e) — descrição e
+status de cada contrapartida, e se alguma cobre a 2ª fase/drenagem do P1 — podem, em tese, ser
+buscados de outra forma: com os 8 números de processo SEI em mãos, um novo pedido pode solicitar
+**cópia de documentos específicos já existentes** em cada processo (o mesmo formato que funcionou
+para o EU 002.308796.00.4), em vez de pedir uma "análise consolidada" — a formulação que motivou
+o indeferimento. Avaliar com a comissão se vale um Pedido 19 nesse formato.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |

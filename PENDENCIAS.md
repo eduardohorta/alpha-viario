@@ -80,6 +80,12 @@ vistoria técnica da EPTC, sem função de gate.
 
 ## E. Estratégia (alavancas — detalhe em `interno/`)
 - Execução direta do Município; **contrapartidas urbanísticas** de novos empreendimentos (Zona Sul / novo PDUS); **conclusão dos projetos já aprovados** no eixo Três Meninas.
+- [x] **[G]** **Alavanca confirmada (10/09/2026):** resposta ao Pedido 11 (017781-26-28) mostra a
+      contrapartida em uso agora — EU 002.308796.00.4 ("Chácara das Três Meninas", 287 U.A.,
+      Parecer CAUGE 048/2025, 18/12/2025) tem TC obrigatório para alargamento da Três Meninas,
+      doação de recuo viário e projeto de sinalização junto à SMMU/EPTC, todos condicionantes ao
+      Habite-se — e atinge tanto o **P1** quanto o **P6** (Diretriz Viária da Kanazawa confirmada
+      pela primeira vez). Ver [leitura completa](relatorios/projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-11-10092026-contrapartida-viária-confirmada-em-novo-empreendimento-junto-ao-p1p6).
 
 ---
 *Atualize este arquivo conforme os itens forem concluídos. Pendências sensíveis adicionais: ver `interno/`.*
