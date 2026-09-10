@@ -670,6 +670,25 @@ o EU 002.290209.00.5 teve um projeto de desmembramento aprovado (Parecer CEFH n�
 sem projeto viário próprio identificado; e o EU 002.291103.00.5 (licenciado em 2014) não teve
 processo SEI específico indicado pela CTARF.
 
+**Conferência direta no SEI público (10/09/2026).** O acesso público (`sei.procempa.com.br`)
+não exige mais do que resolver um captcha por consulta — verificamos diretamente os 4 processos
+sem peça obtida, sem esperar por mais uma resposta LAI:
+
+- **EU 002.329584.00.2** (SEI 21.0.000001235-9): **parado desde 11/06/2021** — nenhum andamento
+  em mais de 4 anos; concluiu na etapa de Diretrizes (Parecer CAADHAP nº 110/2021) e não avançou.
+- **EU 002.345695.00.1** (SEI 25.0.000013939-7): **ativo** — Diretrizes concluídas em nov–dez/2025
+  (Parecer CAADHAP nº 007/2025), com manifestações de SMOI, DMAE, SMF, EPIARB e DEMHAB; pronto
+  para avançar à etapa de EVU.
+- **EU 002.290209.00.5** (SEI 25.0.000100882-2): desmembramento **concluído em 26/06/2026**
+  (Parecer CEFH nº 005/2026) — confirma a resposta ao Pedido 11.
+- **EU 002.322436.00.8** (SEI 25.0.000145763-5): **muito ativo** — 107 andamentos, o mais recente
+  em **04/09/2026** (seis dias antes desta consulta), atualmente em complementação na CEFH.
+
+Nenhuma peça ou documento ficou acessível pelo portal público — só a **lista de andamentos**
+(confirma o limite já conhecido desde o Pedido 8: peças classificadas como preparatórias, art. 7º
+§3º da LAI, não aparecem). Mas a lista já indica **quais processos têm pareceres formais
+concluídos** (candidatos a um pedido de cópia específica) e quais ainda estão em instrução.
+
 **Consequência para o projeto.** Este é o primeiro caso, entre os 8 empreendimentos mapeados,
 em que a **contrapartida viária está documentalmente confirmada e já aprovada** — TC obrigatório,
 doação de área e projeto de sinalização junto à SMMU/EPTC, todos condicionantes ao Habite-se —
@@ -680,7 +699,7 @@ status de cada contrapartida, e se alguma cobre a 2ª fase/drenagem do P1 — po
 buscados de outra forma: com os 8 números de processo SEI em mãos, um novo pedido pode solicitar
 **cópia de documentos específicos já existentes** em cada processo (o mesmo formato que funcionou
 para o EU 002.308796.00.4), em vez de pedir uma "análise consolidada" — a formulação que motivou
-o indeferimento. Avaliar com a comissão se vale um Pedido 19 nesse formato.
+o indeferimento. **Pedido 19 preparado nesse formato** — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
 
 ## Relação com os pontos do projeto
 

@@ -426,6 +426,46 @@ depósito solicitado.
 > tarjas necessárias, preservando os fatos institucionais, os valores globais e a situação do
 > crédito.
 
+## Pedido 19 — SMAMUS: cópia dos pareceres de Diretrizes/EVU ainda não obtidos nos 4 EUs vizinhos ao P1/P6
+
+**Órgão:** SMAMUS (mesmo canal do Pedido 11; tema "Infraestrutura Urbana" no e-SIC).
+
+**Origem:** resposta ao **Pedido 11** (017781-26-28, 10/09/2026), que indeferiu os itens "a",
+"b" e "e" por exigirem "análise consolidada" (art. 12, III, Decreto Municipal nº 19.990/2018),
+mas informou os 8 processos SEI. Consulta direta ao SEI público (10/09/2026) mostrou que 3 desses
+processos já têm pareceres formais **concluídos** (não mais em instrução preparatória), e um
+quarto está ativo com movimentação recente — condições em que a própria manifestação da
+ASSETEC-SMAMUS (transcrita na resposta ao Pedido 11) admite o deferimento, desde que não estejam
+"em fase de instrução preparatória pendente de decisão". O pedido busca **peças específicas já
+existentes**, não uma análise nova — o mesmo formato que obteve o Parecer CAUGE nº 048/2025 e os
+Pareceres CTARF nº 022 e 023/2023.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
+> 017781-26-28** (SMAMUS, 10/09/2026), que identificou os processos administrativos SEI vinculados
+> aos 8 Expedientes Únicos (EUs) em licenciamento no eixo P1/P2 do bairro Vila Nova, solicito
+> cópia digital das seguintes peças, já concluídas ou já produzidas nos respectivos processos —
+> não uma nova análise ou consolidação:
+>
+> (a) o **Parecer CAADHAP nº 110/2021** (EU 002.329584.00.2, processo SEI
+> **21.0.000001235-9**), concluído em 11/06/2021;
+>
+> (b) o **Parecer CAADHAP nº 007/2025** de Diretrizes (EU 002.345695.00.1, processo SEI
+> **25.0.000013939-7**), concluído entre novembro e dezembro de 2025;
+>
+> (c) o **Parecer CEFH nº 005/2026** de aprovação do desmembramento (EU 002.290209.00.5,
+> processo SEI **25.0.000100882-2**), concluído em 26/06/2026; e
+>
+> (d) eventuais pareceres técnicos já emitidos e concluídos — não classificados como documento
+> preparatório pendente de decisão — no processo SEI **25.0.000145763-5** (EU 002.322436.00.8),
+> mesmo que a etapa de Diretrizes como um todo ainda não tenha sido concluída.
+>
+> Solicito ainda, quanto a cada uma dessas quatro peças, informação sobre se descrevem **obras
+> viárias, recuos, doações de área ou contrapartidas de mobilidade** vinculadas ao respectivo
+> empreendimento — nos mesmos moldes identificados no Parecer CAUGE nº 048/2025 (EU
+> 002.308796.00.4), já conhecido.
+
 ---
 
 ## Respostas recebidas
@@ -582,6 +622,7 @@ depósito solicitado.
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | 14/09/2026 | aguardando resposta — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
+| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | — | — | — | **redigido, a protocolar** — derivado do Pedido 11 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
