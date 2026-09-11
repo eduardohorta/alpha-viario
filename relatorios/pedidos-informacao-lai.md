@@ -466,6 +466,67 @@ Pareceres CTARF nº 022 e 023/2023.
 > empreendimento — nos mesmos moldes identificados no Parecer CAUGE nº 048/2025 (EU
 > 002.308796.00.4), já conhecido.
 
+## Pedido 20 — SMF: mapa da situação das desapropriações citado no Parecer CTAAPS 093/2020
+
+**Órgão:** Secretaria Municipal da Fazenda (SMF), mesmo canal do Pedido 18 (tema "Obras
+Públicas" ou "Finanças" no e-SIC, conforme indicar).
+
+**Origem:** resposta ao **Pedido 10** (017701-26-68, 11/09/2026) — a SMAMUS declarou não deter
+o "mapa da situação das desapropriações" referido pela SMF no Parecer CTAAPS nº 093/2020, e
+indicou a própria SMF como competente. É a mesma peça, já pedida sem sucesso desde o **Pedido 2**
+original (jul/2026).
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
+> 017701-26-68** (SMAMUS, 11/09/2026), que indicou esta Secretaria como competente, solicito
+> cópia do **"mapa da situação das desapropriações"** referido na manifestação da Secretaria
+> Municipal da Fazenda que integra o **Parecer nº 093/2020 da CTAAPS**, relativo ao processo
+> nº 002.302984.00.0 (empreendimento Alphaville Porto Alegre, Termo de Compromisso nº
+> 41.198/2009). Solicito ainda informação sobre se esse mapa foi atualizado desde 17/09/2020 e,
+> em caso positivo, cópia da versão mais recente.
+
+## Pedido 21 — GEAR-PGM: quadro de pendências de implantação das interseções do eixo Três Meninas
+
+**Órgão:** Procuradoria-Geral do Município (PGM) — Gerência de Acompanhamento e Recuperação de
+Ativos (GEAR), mesmo canal dos Pedidos 8 e 16 (tema "Obras Públicas" no e-SIC).
+
+**Origem:** resposta ao **Pedido 10** (017701-26-68, 11/09/2026) — a SMAMUS indicou a GEAR-PGM
+como competente para o monitoramento e cumprimento do Termo de Compromisso quanto às
+interseções, distinto do que já foi perguntado nos Pedidos 8 e 16 (desapropriações
+especificamente).
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
+> 017701-26-68** (SMAMUS, 11/09/2026), que indicou a GEAR-PGM como competente para o
+> monitoramento do cumprimento do Termo de Compromisso nº 41.198/2009 (Expediente Único
+> 002.302984.00.0), solicito **atualização do quadro de pendências de implantação** consolidado
+> no Parecer CTAAPS nº 093/2020, informando o que mudou desde 17/09/2020 quanto à implantação das
+> interseções da Estrada das Três Meninas com: (a) a Estrada Cristiano Kraemer (2ª fase); (b) a
+> Estrada Kanazawa; (c) a Rua Florestan Fernandes; e (d) a Estrada Costa Gama (2ª fase) — todas
+> então registradas como não implantadas.
+
+## Pedido 22 — DMAE: projeto de drenagem das adequações viárias com a Cristiano Kraemer e a Costa Gama
+
+**Órgão:** Departamento Municipal de Água e Esgotos (DMAE), tema "Água" no e-SIC.
+
+**Origem:** resposta ao **Pedido 10** (017701-26-68, 11/09/2026) — a SMAMUS indicou o DMAE como
+competente para a situação do projeto de drenagem das adequações viárias, que o Parecer CTAAPS
+093/2020 já registrava como faltante para as interseções com a Cristiano Kraemer (P1) e a Costa
+Gama (P7).
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
+> 017701-26-68** (SMAMUS, 11/09/2026), que indicou este Departamento como competente, solicito
+> informação sobre a **situação atual do projeto de drenagem das adequações viárias** das
+> interseções da Estrada das Três Meninas com a Estrada Cristiano Kraemer e com a Estrada Costa
+> Gama, vinculadas ao licenciamento do empreendimento Alphaville Porto Alegre (Expediente Único
+> 002.302984.00.0, Termo de Compromisso nº 41.198/2009) — projeto registrado como **faltante** no
+> Parecer nº 093/2020 da CTAAPS (17/09/2020). Solicito cópia do projeto, se existente, ou
+> informação sobre seu estágio de elaboração e aprovação.
+
 ---
 
 ## Respostas recebidas
@@ -597,6 +658,18 @@ Pareceres CTARF nº 022 e 023/2023.
   outros EUs são REURB-S do DEMHAB no Loteamento Campos de Cristal (Beco do Império e Estr.
   Cristiano Kraemer, 548 — ambos já citados alhures), sem contrapartida nova. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-11-10092026-contrapartida-viária-confirmada-em-novo-empreendimento-junto-ao-p1p6).
+- **Pedido 10 (017701-26-68) — respondido (11/09/2026), com desdobramentos.** A **SMAMUS**
+  confirmou (item "d") que o **Termo de Recebimento Ambiental (TRA) nunca foi emitido**: o
+  processo físico 001.063154.08.0 foi **arquivado pela DLMA em 03/05/2021**, sem conclusão — só o
+  **empreendedor** pode reabri-lo (solicitação de desarquivamento). O extrato anexo do sistema LAM
+  revelou um **TAC com o Ministério Público (nº 00833.00096/2010)**, até então desconhecido do
+  dossiê, e monitoramento ambiental ativo sob processo SEI **21.0.000037696-2** (8ª campanha
+  concluída em 18/12/2020). Confirma, de fonte independente, que o TRA segue condicionado à
+  arborização pendente da Costa Gama e parte da Três Meninas. Os itens "a", "b" e "c" foram
+  **redirecionados por competência**: mapa das desapropriações → **SMF** (Pedido 20); quadro de
+  pendências de implantação das interseções → **GEAR-PGM** (Pedido 21); projeto de drenagem →
+  **DMAE** (Pedido 22). Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
 
 ---
 
@@ -613,7 +686,7 @@ Pareceres CTARF nº 022 e 023/2023.
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo/P1 judicial); demolição judicial pendente desde 2014 no P7 |
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo/P1 judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
-| 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ **10/09/2026** | **prorrogado (+10 dias)** |
+| 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ ~~10/09/2026~~ | **respondido (11/09/2026)** — TRA nunca emitido, processo arquivado (03/05/2021); TAC com o MP revelado; a/b/c redirecionados → Pedidos 20–22 |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ ~~12/09/2026~~ | **respondido (10/09/2026), parcial-negativo** — itens a/b/e indeferidos (art. 12 III Dec. 19.990/2018); c/d deferidos: **contrapartida viária confirmada no EU …796.00.4 (P1+P6)**, Diretriz Viária da Kanazawa confirmada |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ **18/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
@@ -623,6 +696,9 @@ Pareceres CTARF nº 022 e 023/2023.
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | 14/09/2026 | aguardando resposta — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
+| 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema a confirmar no e-SIC) | — | — | — | **redigido, a protocolar** — derivado do Pedido 10 |
+| 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | — | — | — | **redigido, a protocolar** — derivado do Pedido 10 |
+| 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | — | — | — | **redigido, a protocolar** — derivado do Pedido 10 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,

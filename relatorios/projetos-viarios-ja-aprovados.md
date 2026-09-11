@@ -702,6 +702,52 @@ para o EU 002.308796.00.4), em vez de pedir uma "análise consolidada" — a for
 o indeferimento. **Pedido 19 protocolado nesse formato** (018104-26-38, 10/09/2026, prazo
 30/09/2026) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
 
+## Resposta LAI ao Pedido 10 (11/09/2026): TRA nunca emitido, processo arquivado, TAC com o Ministério Público revelado
+
+> A resposta ao **Pedido 10** — mapa das desapropriações e atualização do Parecer CTAAPS
+> 093/2020 — chegou em **11/09/2026** (protocolo **017701-26-68**), um dia após o novo prazo
+> (10/09). Respondeu a **SMAMUS**, com manifestação da sua Assessoria Jurídica, e anexou um
+> extrato completo do sistema **LAM (Licenciamento Ambiental)** cobrindo 2013–2021. O anexo bruto
+> fica em `retornos-protocolos/017701-26-68/` (fora do repositório público); abaixo, os fatos
+> institucionais.
+
+**Item (d) — Termo de Recebimento Ambiental (TRA): confirmado que nunca foi emitido.** O
+processo físico **001.063154.08.0** (etapa "Termo de Recebimento Ambiental" do Condomínio
+Alphaville Porto Alegre, Estr. das Três Meninas 1400 a 3000, bairro **Belém Velho**) foi
+**encerrado sem emissão do TRA** e **enviado ao Arquivo Municipal pela DLMA em 03/05/2021**
+("etapa de TRA restou inconclusa"). Para retomar, **o empreendedor** — não o Município, e não
+esta comissão — precisa formalizar **solicitação de desarquivamento**, seguida de digitalização
+e migração ao SEI. É um beco sem saída para a via da LAI: a peça não existe em meio digital
+disponível até que o empreendedor tome essa iniciativa.
+
+**Achado novo: um TAC com o Ministério Público, até agora desconhecido do dossiê.** O extrato do
+LAM registra, em 28/07/2017, que os relatórios de monitoramento ambiental (biogás, água
+subterrânea, água superficial, solo) atendiam às diretrizes de um **TAC (Termo de Ajustamento de
+Conduta) nº 00833.00096/2010**, firmado com o **Ministério Público Civil**, em atendimento ao
+**Inquérito Civil 00833.00096/2010** — um instrumento jurídico paralelo ao Termo de Compromisso
+municipal, que este dossiê não tinha identificado até aqui. O mesmo registro **confirma, de fonte
+independente**, o motivo da TRA pendente: "resta pendente a arborização do trecho da Estrada
+Costa Gama e parte da Estrada Três Meninas... em razão dos ajustes dos projetos de implantação da
+Estrada das Três Meninas e dos custos decorrentes das novas desapropriações assumidas pelo ente
+público em face da alteração do traçado". As campanhas de monitoramento seguiram até a **8ª
+campanha (relatório anual concluído em 18/12/2020)**, e continuam hoje sob um processo SEI
+**ativo e diferente**: **21.0.000037696-2** — não consultado ainda por este dossiê.
+
+**Itens (a), (b) e (c) — redirecionados por competência.** A SMAMUS declarou não deter essas
+informações, citando o art. 11, parágrafo único, do Decreto Municipal nº 19.990/2018 (um órgão
+por pedido):
+
+| Item | Conteúdo | Órgão competente indicado |
+|---|---|---|
+| (a) | Cópia do "mapa da situação das desapropriações" | **SMF** (Secretaria da Fazenda) |
+| (b) | Atualização do quadro de pendências de implantação das interseções (P1 2ª fase, Kanazawa, Florestan Fernandes, Costa Gama 2ª fase) | **GEAR-PGM** |
+| (c) | Situação do projeto de drenagem das interseções com a Cristiano Kraemer e a Costa Gama | **DMAE** |
+
+Nenhum dos três itens está coberto pelos pedidos já em andamento com esses órgãos (o Pedido 18
+com a SMF é sobre a Cláusula Nona, não o mapa; os Pedidos 8/16 com a PGM são sobre os processos
+de desapropriação, não o quadro geral de pendências de implantação). Geram os **Pedidos 20, 21 e
+22** na [trilha LAI](pedidos-informacao-lai.md).
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
