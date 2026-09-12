@@ -527,6 +527,33 @@ Gama (P7).
 > Parecer nº 093/2020 da CTAAPS (17/09/2020). Solicito cópia do projeto, se existente, ou
 > informação sobre seu estágio de elaboração e aprovação.
 
+## Pedido 23 — SMAMUS/SMAM: Termo de Ajustamento de Conduta nº 00833.00096/2010
+
+**Órgão:** SMAMUS (área ambiental / SMAM), tema "Ambiental" no e-SIC.
+
+**Origem:** o extrato do sistema LAM anexado à resposta do **Pedido 10** (017701-26-68,
+11/09/2026) revelou um **TAC firmado com o Ministério Público** (nº 00833.00096/2010, via
+Inquérito Civil de mesmo número) sobre monitoramento ambiental do empreendimento Alphaville
+Porto Alegre. Consulta pública confirmou que o Inquérito Civil foi instaurado para apurar dano
+ambiental pelo fato de o empreendimento estar construído sobre um antigo lixão do DMLU (biogás e
+contaminação de água) — mas não localizou o texto do TAC nem confirmou um relato adicional, de
+membro da comissão, sobre gravames de matrícula (hortas, árvores frutíferas, poço artesiano) e
+doação de maquinário à SMAM. Este pedido busca a peça diretamente.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
+> 017701-26-68** (SMAMUS, 11/09/2026), que citou um Termo de Ajustamento de Conduta vinculado ao
+> Inquérito Civil nº **00833.00096/2010** (Ministério Público, referente ao empreendimento
+> Alphaville Porto Alegre, Expediente Único 002.302984.00.0), solicito: (a) cópia do referido
+> **Termo de Ajustamento de Conduta**, incluindo eventuais aditivos; (b) informação sobre se o
+> TAC determinou **gravames sobre matrículas** do empreendimento — em caso positivo, cópia da
+> respectiva cláusula e identificação das matrículas gravadas; (c) informação sobre se, em
+> cumprimento ao TAC, houve **doação de máquinas, equipamentos ou veículos** (como tratores) a
+> esta Secretaria ou à Secretaria Municipal do Meio Ambiente, com cópia do termo de recebimento
+> ou registro patrimonial correspondente, valor e data; e (d) confirmação de que a liberação do
+> Habite-se do empreendimento foi condicionada ao cumprimento desse TAC.
+
 ---
 
 ## Respostas recebidas
@@ -699,6 +726,7 @@ Gama (P7).
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
+| 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | — | — | — | **redigido, a protocolar** — derivado do Pedido 10 + relato de membro da comissão |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
