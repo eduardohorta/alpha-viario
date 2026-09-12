@@ -726,7 +726,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
-| 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | — | — | — | **redigido, a protocolar** — derivado do Pedido 10 + relato de membro da comissão |
+| 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 + relato de membro da comissão |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
