@@ -726,7 +726,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
-| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
+| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
@@ -787,6 +787,12 @@ SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 
 Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
 sistematizada em nossos arquivos"). Novo prazo: **24/09/2026** — um dia após o prazo original
 (14/09), mesmo padrão dos demais.
+
+**Prorrogação do Pedido 16 (15/09/2026, por e-mail):** a PGM também prorrogou o prazo por **10
+dias**, com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma
+justificativa ("a informação não se encontra sistematizada em nossos arquivos"). Novo prazo:
+**24/09/2026** — os Pedidos 16 e 17, protocolados no mesmo dia (21/08), prorrogaram no mesmo dia
+e para o mesmo novo prazo.
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
