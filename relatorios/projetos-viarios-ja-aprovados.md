@@ -415,6 +415,15 @@ caducado (Pedido 3) → alça nomeada em decreto (Decreto 20.860/2020) → desap
 legal vencido (23/12/2025, a confirmar) → 2ª fase nunca implantada (Parecer CTAAPS 093/2020) →
 agora, sinalização nunca aprovada e processo transferido à SMMU.
 
+**Pedido 15 (SMMU, 15/09/2026) — a SMMU confirma o mesmo achado, terceira vez.** O derivado à
+SMMU (017822-26-45) respondeu com o **mesmíssimo texto** da EPTC (item 1 acima): sem projeto de
+sinalização aprovado, mesma regra de 4 anos, mesma conclusão sobre a necessidade de o
+empreendedor reaprovar ambos os projetos junto à SMMU/EPTC — agora com a **SMMU confirmando
+diretamente**, fechando o ciclo do encaminhamento. A resposta abriu um **novo processo SEI
+26.0.000139096-0** para o atendimento, e cita um "despacho de 2020" como anexo, mas **o anexo
+não veio** junto à resposta (mesmo padrão do Pedido 13) — provavelmente uma referência ao já
+conhecido Decreto nº 20.659/2020, sem conteúdo novo esperado; não priorizado para reexame.
+
 ## Resposta LAI ao Pedido 8 (21/08/2026): PGM detalha as quatro desapropriações pendentes e confirma o Termo vigente
 
 > A resposta ao **Pedido 8** — saldo das obrigações do Termo de Compromisso e status das

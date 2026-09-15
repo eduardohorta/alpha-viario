@@ -697,6 +697,13 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   pendências de implantação das interseções → **GEAR-PGM** (Pedido 21); projeto de drenagem →
   **DMAE** (Pedido 22). Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
+- **Pedido 15 (017822-26-45) — respondido (15/09/2026), confirma o Pedido 1.** A **SMMU**
+  respondeu com o mesmíssimo teor da resposta da EPTC ao Pedido 1: **sem projeto de sinalização
+  aprovado** para a nova interseção Costa Gama × Três Meninas; mesma regra de validade de 4
+  anos; mesma conclusão de que o empreendedor precisa reaprovar os projetos funcional e de
+  sinalização junto à SMMU/EPTC. Terceira confirmação independente do mesmo achado. Abriu o
+  processo SEI **26.0.000139096-0** e citou um "despacho de 2020" como anexo, que **não veio** —
+  provavelmente o já conhecido Decreto 20.659/2020; não priorizado para reexame.
 
 ---
 
@@ -718,7 +725,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ **18/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
-| 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ **18/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 1 |
+| 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | 14/09/2026 | aguardando resposta — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | 14/09/2026 | aguardando resposta — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
