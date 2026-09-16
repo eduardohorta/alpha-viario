@@ -4,10 +4,10 @@
   "fontes": {
     "relatorios/guia-validacao-comissao.md": "043270f9cd9a1e6067c698c498fd8ba07400b2ecf041f7754c52eb1dbc4415ea",
     "relatorios/memorando-externo.md": "c3adf06bafa2df199b23da3e30f84a982021170108a5e757872456f9512fe502",
-    "relatorios/anexo-matriz-pontos.md": "2c9e76a6d034fc95d39b432ed79d948968c54f5ba97679ef94d1485f85cdd76b",
+    "relatorios/anexo-matriz-pontos.md": "2d46d6a4dc2f81f546fbf940af379607f50e20ac9017bd9e5ae5f081b8796e55",
     "scripts/build_pacote.py": "0f75d260a8030334dcd749f33180d866c0d615ccf1ca654adf13cef5b6c0bc73"
   },
-  "saida_md_sha256": "fdd4662459d58fa88565fa762a24156025c72dba1e94f5c945df3ea59bd943df",
+  "saida_md_sha256": "afb248e0dff319400173466d8316a399ac2dffef93d9877b19f7d30a27d462fc",
   "pdf_proveniencia": {
     "gerador": "pandoc 2.18"
   }

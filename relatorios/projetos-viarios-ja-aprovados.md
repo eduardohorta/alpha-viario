@@ -424,6 +424,21 @@ diretamente**, fechando o ciclo do encaminhamento. A resposta abriu um **novo pr
 não veio** junto à resposta (mesmo padrão do Pedido 13) — provavelmente uma referência ao já
 conhecido Decreto nº 20.659/2020, sem conteúdo novo esperado; não priorizado para reexame.
 
+**Pedido 12 (SMMU, 16/09/2026) — estende o achado ao P1.** O derivado sobre o expediente de
+sinalização do corredor (…09872, 017789-26-61) trouxe uma informação nova: a SMMU **não
+encontrou projeto de sinalização aprovado** nem para a interseção **Três Meninas × Cristiano
+Kraemer (P1)**, nem para a **Costa Gama × Três Meninas (P7, projeto definitivo)** — as duas
+juntas, na mesma resposta. Até aqui, a ausência de sinalização aprovada só estava confirmada
+para o P7 (Pedidos 1 e 15); esta resposta **estende o mesmo achado ao P1**, reforçando que a
+interseção da rótula segue sem nenhum projeto de sinalização vigente, além da 2ª fase geométrica
+já sabida como não aprovada (Parecer CTAAPS 093/2020). Repete a regra de 4 anos (quarta
+confirmação independente) e traz um dado procedimental novo: a **SMMU não guarda cópias de
+projetos aprovados** — orienta buscar a **Equipe de Protocolo e Arquivo da SMAP** (Secretaria
+Municipal de Administração e Patrimônio), via `prefeitura.poa.br/carta-de-servicos/pesquisa-e-
+acesso-documentos-arquivo`, para eventuais peças mais antigas. Abriu o processo SEI
+**26.0.000139066-9**. Não avaliado se vale perseguir a via SMAP — o ganho esperado é baixo, já
+que qualquer projeto antigo teria caducado pela regra dos 4 anos.
+
 ## Resposta LAI ao Pedido 8 (21/08/2026): PGM detalha as quatro desapropriações pendentes e confirma o Termo vigente
 
 > A resposta ao **Pedido 8** — saldo das obrigações do Termo de Compromisso e status das

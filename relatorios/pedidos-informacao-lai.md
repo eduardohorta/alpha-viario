@@ -704,6 +704,16 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   sinalização junto à SMMU/EPTC. Terceira confirmação independente do mesmo achado. Abriu o
   processo SEI **26.0.000139096-0** e citou um "despacho de 2020" como anexo, que **não veio** —
   provavelmente o já conhecido Decreto 20.659/2020; não priorizado para reexame.
+- **Pedido 12 (017789-26-61) — respondido (16/09/2026), estende o achado ao P1.** A **SMMU**
+  informou que **não encontrou projeto de sinalização aprovado** nem para a interseção
+  **Cristiano Kraemer × Três Meninas (P1)**, nem para a **Costa Gama × Três Meninas (P7,
+  definitivo)** — as duas juntas. Até aqui a ausência de sinalização só estava confirmada para o
+  P7 (Pedidos 1 e 15); esta resposta **estende o achado ao P1**. Repete a regra de 4 anos (quarta
+  confirmação) e informa que a **SMMU não guarda cópias de projetos aprovados**, orientando
+  buscar a Equipe de Protocolo e Arquivo da **SMAP** para eventuais peças mais antigas (não
+  perseguido — ganho esperado baixo). Abriu o processo SEI **26.0.000139066-9**. Leitura completa
+  em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-1-17082026-sinalização-da-nova-interseção-não-encontrada-processo-passa-à-smmu).
 
 ---
 
@@ -722,7 +732,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo/P1 judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ ~~10/09/2026~~ | **respondido (11/09/2026)** — TRA nunca emitido, processo arquivado (03/05/2021); TAC com o MP revelado; a/b/c redirecionados → Pedidos 20–22 |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ ~~12/09/2026~~ | **respondido (10/09/2026), parcial-negativo** — itens a/b/e indeferidos (art. 12 III Dec. 19.990/2018); c/d deferidos: **contrapartida viária confirmada no EU …796.00.4 (P1+P6)**, Diretriz Viária da Kanazawa confirmada |
-| 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ **18/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 4 |
+| 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ ~~18/09/2026~~ | **respondido (16/09/2026)** — sem sinalização aprovada para P1 e P7; SMMU não guarda cópias, orienta SMAP; derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
