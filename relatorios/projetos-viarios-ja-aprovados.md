@@ -772,6 +772,19 @@ com a SMF é sobre a Cláusula Nona, não o mapa; os Pedidos 8/16 com a PGM são
 de desapropriação, não o quadro geral de pendências de implantação). Geram os **Pedidos 20, 21 e
 22** na [trilha LAI](pedidos-informacao-lai.md).
 
+**Pedido 21 (PGM, 16/09/2026) — nada mudou desde 2020, e a PGM explica o porquê.** A GEAR-PGM
+respondeu de forma direta: **a situação das quatro interseções não sofreu alteração fática**
+desde o Parecer CTAAPS nº 093/2020 — seguem exatamente como estavam: Cristiano Kraemer (2ª
+fase), Kanazawa, Florestan Fernandes e Costa Gama (2ª fase), todas **não implantadas**. A
+explicação institucional: a implantação dessas interseções está **integrada às obras de
+alargamento viário** ainda pendentes nos **Trechos 01** (Cristiano Kraemer → empreendimento) e
+**03** (empreendimento → Costa Gama) — ou seja, as interseções **não podem ser construídas
+isoladamente**, dependem do alargamento do corredor como um todo. E a PGM liga isso, de forma
+explícita, à **mesma causa-raiz já mapeada nos Pedidos 8, 9 e 16**: a execução está
+"**condicionada à regularização dominial e desapropriatória dos imóveis lindeiros**" e ao
+cronograma das obras — confirmação institucional direta de que **tudo trava no mesmo gargalo**
+(desapropriações pendentes), não em quatro problemas separados.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |

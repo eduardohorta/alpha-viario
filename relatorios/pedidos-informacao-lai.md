@@ -714,6 +714,15 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   perseguido — ganho esperado baixo). Abriu o processo SEI **26.0.000139066-9**. Leitura completa
   em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-1-17082026-sinalização-da-nova-interseção-não-encontrada-processo-passa-à-smmu).
+- **Pedido 21 (018132-26-62) — respondido (16/09/2026): nada mudou desde 2020.** A **GEAR-PGM**
+  confirmou que a situação das quatro interseções (Cristiano Kraemer 2ª fase, Kanazawa, Florestan
+  Fernandes, Costa Gama 2ª fase) **não sofreu alteração fática** desde o Parecer CTAAPS 093/2020
+  — seguem todas não implantadas. Explicou o motivo: a implantação está **integrada às obras de
+  alargamento** ainda pendentes nos Trechos 01 e 03, e a execução está **condicionada à
+  regularização dominial e desapropriatória dos imóveis lindeiros** — confirmação institucional
+  de que o mesmo gargalo (desapropriações) trava tanto o corredor quanto as interseções. Leitura
+  completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
 
 ---
 
@@ -741,7 +750,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
-| 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
+| 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 + relato de membro da comissão |
 
