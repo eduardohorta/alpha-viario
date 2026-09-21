@@ -747,7 +747,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
-| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | 21/09/2026 | aguardando resposta — derivado do Pedido 9 |
+| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ **01/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
@@ -812,6 +812,11 @@ dias**, com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.99
 justificativa ("a informação não se encontra sistematizada em nossos arquivos"). Novo prazo:
 **24/09/2026** — os Pedidos 16 e 17, protocolados no mesmo dia (21/08), prorrogaram no mesmo dia
 e para o mesmo novo prazo.
+
+**Prorrogação do Pedido 18 (21/09/2026, por e-mail):** a SMF também prorrogou o prazo por **10
+dias**, com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma
+justificativa ("a informação não se encontra sistematizada em nossos arquivos"). Novo prazo:
+**01/10/2026** — comunicada no próprio dia do prazo original (21/09), mesmo padrão dos demais.
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
