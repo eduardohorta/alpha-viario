@@ -731,7 +731,8 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   quatro itens já estão nas mãos deste dossiê** (Expediente Único 002.302984.00.0; empreendedora
   Villa Nova Desenvolvimento Urbano Ltda.; Cláusula Nona do 2º aditivo nº 53.107/2013; resposta
   da PGM ao Pedido 9, 017700-26-00) — candidato natural a reexame/complementação, não a um novo
-  pedido.
+  pedido. **Reexame apresentado em 22/09/2026** (status "Aguardando reexame"), fornecendo os
+  quatro itens pedidos e reiterando a pergunta original (a-d).
 
 ---
 
@@ -756,7 +757,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
-| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ | **respondido (22/09/2026), sem localização** — SMF pede complementação (processo, depositante, cópia do TC, cópia da resposta da PGM); reexame preparado; derivado do Pedido 9 |
+| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ | **aguardando reexame** (apresentado 22/09/2026) — SMF pediu complementação, fornecida com os 4 itens; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
