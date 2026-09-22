@@ -737,19 +737,19 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   **EPTC** não enviou o "Relatório de Ocorrências" citado no processo judicial do P7; em vez
   disso, redirecionou ao portal **ObservaMOB** e anexou um **shapefile bruto de sinistros de toda
   a cidade** (`ACIDENTES_TRANSITO_2010_202609`, **264.567 registros**, 2010 a set/2026, incluindo
-  ocorrências só com danos materiais). **Extraímos nós mesmos o recorte do P7** com o mesmo
-  método já usado no dossiê (100 m/200 m, mesma fórmula de distância): **67 ocorrências** no
-  limiar principal (2010–2026), contra as ~18 já publicadas (2020–2025, só com vítima) — a
-  diferença é a janela maior e a inclusão de danos materiais (73% dos 67 não têm vítima
-  registrada). Achado a confirmar: **um registro de 2014 com o campo `Fatais=1`** (fora da janela
-  do relatório judicial, 2019–2024) — o campo `Morte` do mesmo registro está zerado, sugerindo
-  que os dois campos contam coisas distintas no cadastro da EPTC; não tratar como sinistro fatal
-  confirmado sem checagem adicional. Também extraídos os dados de 2025–2026 pedidos no item (c)
-  do pedido original. Metodologia completa em
-  [acidentes_metodologia.md §Rodada 04](../dados/tratados/acidentes_metodologia.md#rodada-04-parcial-só-p7--base-oficial-eptc-via-pedido-17-22092026);
-  dados em `dados/tratados/eptc_acidentes_p7_2010_202609.csv`. **A base cobre todo o município —
-  poderia, em tese, refazer a Rodada 02 para os 9 pontos com fonte mais rica; não executado, fica
-  como decisão em aberto.**
+  ocorrências só com danos materiais). **Reprocessamos os 9 pontos** com o mesmo método já usado
+  no dossiê (mesma fórmula de distância, mesmos limiares — 100 m/200 m interseções, 50 m/100 m
+  corredores): os números sobem entre 2× e 4,5× em todos os pontos (P4: 409→1.648; P7: 18→67),
+  explicado pela janela maior (16 anos, não 6) e pela inclusão de danos materiais, não por piora
+  real. **Achado que exige atenção:** o campo `Fatais` da EPTC (= óbito no local + óbito
+  posterior) revela **fatais que a base anterior não capturava** — P4 sobe de 2 para 8, e P7 e P9
+  aparecem com 1 cada, onde antes registravam zero (o do P7 é de 2014, óbito posterior à
+  internação, fora da janela do relatório judicial de 2019–2024, mas um óbito real, não um erro
+  de cadastro). Os dados de 2025–2026 pedidos no item (c) do pedido original também foram
+  extraídos. Metodologia completa, tabela comparativa dos 9 pontos e limitações em
+  [acidentes_metodologia.md §Rodada 04](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
+  **Decisão em aberto para a comissão:** se estes números substituem os já usados nas peças
+  aprovadas (memorando, ofício) ou se os dois conjuntos convivem com a ressalva de metodologia.
 
 ---
 

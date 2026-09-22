@@ -785,7 +785,7 @@ explícita, à **mesma causa-raiz já mapeada nos Pedidos 8, 9 e 16**: a execuç
 cronograma das obras — confirmação institucional direta de que **tudo trava no mesmo gargalo**
 (desapropriações pendentes), não em quatro problemas separados.
 
-## Resposta LAI ao Pedido 17 (22/09/2026): base bruta da EPTC em vez do relatório pedido, extração própria do P7
+## Resposta LAI ao Pedido 17 (22/09/2026): base bruta da EPTC em vez do relatório pedido, reprocessamento dos 9 pontos
 
 O **Pedido 17** pedia especificamente o "Relatório de Ocorrências" que o acórdão do agravo de
 instrumento do P7 (5218710-18.2025.8.21.7000) citava como prova no processo judicial. A **EPTC**
@@ -794,24 +794,30 @@ não enviou essa peça — redirecionou ao portal **ObservaMOB** e anexou, em ve
 ocorrências só com danos materiais (não apenas as com vítima da base "Dados Abertos POA" já
 usada no dossiê).
 
-Como o arquivo cobre a cidade inteira e não vem filtrado, **extraímos o recorte do P7 nós
-mesmos**, com o mesmo método (distância geométrica, limiares de 100 m/200 m) já documentado em
-[`dados/tratados/acidentes_metodologia.md`](../dados/tratados/acidentes_metodologia.md#rodada-04-parcial-só-p7--base-oficial-eptc-via-pedido-17-22092026).
-Resultado: **67 ocorrências** no limiar principal (2010–2026) — mais que o triplo das ~18 já
-publicadas, porque a janela é maior e porque 73% dos 67 não têm vítima registrada (a base
-anterior só capturava sinistros com vítima ou já georreferenciados). Entre os achados: **um
-registro de 2014 com o campo "Fatais" marcado**, fora da janela do relatório judicial
-(2019–2024) e com o campo "Morte" zerado no mesmo registro — tratado como **achado a confirmar**,
-não como fato estabelecido, até esclarecer a distinção entre os dois campos no cadastro da EPTC.
-Os dados de 2025–2026 também pedidos no item (c) do Pedido 17 foram extraídos: 13 ocorrências no
-período, incluindo um agrupamento em 6 datas a 24 m do ponto de referência que pode refletir
+Como o arquivo cobre a cidade inteira e não vem filtrado, **reprocessamos os 9 pontos do
+projeto**, não só o P7, com o mesmo método (distância geométrica, mesmos limiares — 100 m/200 m
+interseções, 50 m/100 m corredores) já documentado em
+[`dados/tratados/acidentes_metodologia.md`](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
+Os números sobem entre 2× e 4,5× em todos os pontos (P4: 409→1.648; P7: 18→67) — explicado pela
+janela maior (16 anos, não 6) e pela inclusão de danos materiais, não por uma piora real na
+sinistralidade. Entre os achados: o campo "Fatais" da EPTC (= óbito no local + óbito posterior)
+revela **fatais que a base anterior não capturava** — P4 sobe de 2 para 8 registros fatais, e P7
+e P9 aparecem com 1 cada, onde antes registravam zero. O caso do P7 é um registro de 2014 com
+"Morte" zerado mas "MortePoste" (óbito posterior) marcado — checamos essa relação em vários
+registros da cidade inteira e confirmamos que **é um óbito real**, só que posterior ao acidente,
+fora da janela do relatório judicial (2019–2024), não um erro de cadastro. Os dados de 2025–2026
+também pedidos no item (c) do Pedido 17 foram extraídos: no P7, 13 ocorrências no período,
+incluindo um agrupamento em 6 datas a 24 m do ponto de referência que pode refletir
 geocodificação num ponto fixo do cruzamento, não a localização exata de cada evento.
 
-**Oportunidade em aberto, não executada.** A base da EPTC é bem mais rica e atual que a usada na
-Rodada 02 do dossiê (Dados Abertos POA, 2020–2025) — poderia, em tese, refazer a análise de
-sinistros para os 9 pontos inteiros com essa fonte oficial. Isso não foi feito nesta rodada
-(processado só o P7, o objeto específico do pedido); é uma decisão de escopo para a comissão, não
-uma pendência técnica.
+**Decisão em aberto para a comissão.** A base da EPTC é bem mais rica e atual que a usada na
+Rodada 02 do dossiê (Dados Abertos POA, 2020–2025), mas cobre uma janela maior e um critério mais
+amplo (inclui dano material). A tabela comparativa completa dos 9 pontos está em
+[`relatorios/anexo-matriz-pontos.md`](anexo-matriz-pontos.md) (seção "Evidência de sinistros —
+base oficial da EPTC").
+Falta decidir se estes números substituem os já usados nas peças aprovadas (memorando, ofício) ou
+se os dois conjuntos convivem com a ressalva de metodologia explicada acima; não é uma pendência
+técnica, é uma escolha de escopo.
 
 ## Relação com os pontos do projeto
 
