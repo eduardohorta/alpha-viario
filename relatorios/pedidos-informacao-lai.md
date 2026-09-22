@@ -733,6 +733,23 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   da PGM ao Pedido 9, 017700-26-00) — candidato natural a reexame/complementação, não a um novo
   pedido. **Reexame apresentado em 22/09/2026** (status "Aguardando reexame"), fornecendo os
   quatro itens pedidos e reiterando a pergunta original (a-d).
+- **Pedido 17 (017904-26-00) — respondido (22/09/2026), não veio o relatório específico.** A
+  **EPTC** não enviou o "Relatório de Ocorrências" citado no processo judicial do P7; em vez
+  disso, redirecionou ao portal **ObservaMOB** e anexou um **shapefile bruto de sinistros de toda
+  a cidade** (`ACIDENTES_TRANSITO_2010_202609`, **264.567 registros**, 2010 a set/2026, incluindo
+  ocorrências só com danos materiais). **Extraímos nós mesmos o recorte do P7** com o mesmo
+  método já usado no dossiê (100 m/200 m, mesma fórmula de distância): **67 ocorrências** no
+  limiar principal (2010–2026), contra as ~18 já publicadas (2020–2025, só com vítima) — a
+  diferença é a janela maior e a inclusão de danos materiais (73% dos 67 não têm vítima
+  registrada). Achado a confirmar: **um registro de 2014 com o campo `Fatais=1`** (fora da janela
+  do relatório judicial, 2019–2024) — o campo `Morte` do mesmo registro está zerado, sugerindo
+  que os dois campos contam coisas distintas no cadastro da EPTC; não tratar como sinistro fatal
+  confirmado sem checagem adicional. Também extraídos os dados de 2025–2026 pedidos no item (c)
+  do pedido original. Metodologia completa em
+  [acidentes_metodologia.md §Rodada 04](../dados/tratados/acidentes_metodologia.md#rodada-04-parcial-só-p7--base-oficial-eptc-via-pedido-17-22092026);
+  dados em `dados/tratados/eptc_acidentes_p7_2010_202609.csv`. **A base cobre todo o município —
+  poderia, em tese, refazer a Rodada 02 para os 9 pontos com fonte mais rica; não executado, fica
+  como decisão em aberto.**
 
 ---
 
@@ -756,7 +773,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | aguardando resposta — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 8 |
-| 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ **24/09/2026** | **prorrogado (+10 dias)** — derivado do Pedido 7, achado no agravo 5218710-18.2025.8.21.7000 |
+| 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ | **aguardando reexame** (apresentado 22/09/2026) — SMF pediu complementação, fornecida com os 4 itens; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |

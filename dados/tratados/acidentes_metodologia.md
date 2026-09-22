@@ -129,3 +129,43 @@ Contexto ampliado (200 m): 57 ocorrências. Distância mínima registrada: 3,8 m
 ## Próximo passo técnico
 
 Revisar manualmente `acidentes_revisao_manual_proximos.csv` e `acidentes_p4_registros_segmentados.csv`, validar a geometria em imagem aérea/base municipal e, se necessário, ajustar os pontos de referência, limiares e marcos do P4. Para relatório externo, usar os números refinados apenas como "indícios preliminares por proximidade", nunca como prova causal.
+
+## Rodada 04 (parcial, só P7) — base oficial EPTC via Pedido 17 (22/09/2026)
+
+**Fonte nova, distinta da Rodada 02.** O Pedido 17 (protocolo 017904-26-00), pedindo o "Relatório
+de Ocorrências" citado no processo judicial do P7, foi respondido em 22/09/2026 com um
+redirecionamento ao portal **ObservaMOB** e um link para um shapefile bruto da própria EPTC:
+`ACIDENTES_TRANSITO_2010_202609` — **264.567 registros, todo o município, de 2010 a
+setembro/2026**, incluindo sinistros só com danos materiais (não apenas os com vítima da base
+"Dados Abertos POA" usada na Rodada 02). O arquivo bruto (~560 MB) fica em
+`retornos-protocolos/017904-26-00/` (gitignored); processado com
+`scripts/extrair_eptc_p7.py`, que lê o DBF diretamente (sem depender de bibliotecas GIS) e usa a
+mesma fórmula de distância e os mesmos limiares (100 m / 200 m) da Rodada 02, aplicados **só ao
+P7** nesta rodada.
+
+**Resultado — P7, limiar principal (100 m):** **67 ocorrências** (2010–2026), contra as ~18 da
+Rodada 02 (2020–2025, só registros com vítima ou georreferenciados). A diferença se explica pela
+janela temporal maior e pela inclusão de sinistros só com danos materiais (49 das 67, ou 73%, não
+têm vítima registrada). Contexto (200 m): 86 ocorrências. Por severidade (100 m): 5 vítimas
+graves, 18 feridos, 17 com motocicleta envolvida.
+
+**Achado que exige cautela: um registro com campo `Fatais=1`** (id 579827, 25/02/2014, Estr.
+Costa Gama, 88,6 m do ponto de referência, motocicleta envolvida). O campo `Morte` do mesmo
+registro está zerado — os dois campos parecem contar coisas distintas no cadastro da EPTC, e o
+registro está **fora da janela do relatório judicial (2019–2024)**. **Não incorporar como "sinistro
+fatal confirmado no P7" sem checagem adicional** (o próprio boletim, se possível, ou nova pergunta
+à EPTC sobre a distinção `Morte` x `Fatais`) — registrar por ora como achado a confirmar.
+
+**2025–2026 (atualização pedida no Pedido 17):** 13 ocorrências no limiar principal, incluindo um
+agrupamento recorrente a 24,1 m do ponto de referência (Três Meninas × Costa Gama, `Cruzamento=Sim`)
+em 6 datas distintas entre abr/2025 e ago/2026 — pode indicar geocodificação num ponto fixo de
+referência do cruzamento, não a localização exata de cada ocorrência; não inflar a leitura sem
+checar os boletins individuais.
+
+**Escopo desta rodada.** Processado **só o P7**, por ser o objeto específico do Pedido 17. A base
+da EPTC cobre o município inteiro e poderia, em tese, refazer a Rodada 02 para os 9 pontos com uma
+fonte mais rica e mais atual — não executado aqui; decisão em aberto com a comissão (custo:
+reprocessar ~264 mil registros para 9 referências, o método já existe e é reaproveitável).
+
+Dados tratados: `dados/tratados/eptc_acidentes_p7_2010_202609.csv` (86 registros, contexto 200 m,
+com a coluna `primary` marcando o limiar principal). Script: `scripts/extrair_eptc_p7.py`.

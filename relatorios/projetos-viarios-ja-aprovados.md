@@ -785,6 +785,34 @@ explícita, à **mesma causa-raiz já mapeada nos Pedidos 8, 9 e 16**: a execuç
 cronograma das obras — confirmação institucional direta de que **tudo trava no mesmo gargalo**
 (desapropriações pendentes), não em quatro problemas separados.
 
+## Resposta LAI ao Pedido 17 (22/09/2026): base bruta da EPTC em vez do relatório pedido, extração própria do P7
+
+O **Pedido 17** pedia especificamente o "Relatório de Ocorrências" que o acórdão do agravo de
+instrumento do P7 (5218710-18.2025.8.21.7000) citava como prova no processo judicial. A **EPTC**
+não enviou essa peça — redirecionou ao portal **ObservaMOB** e anexou, em vez disso, um
+**shapefile bruto com 264.567 sinistros de todo o município (2010 a setembro/2026)**, incluindo
+ocorrências só com danos materiais (não apenas as com vítima da base "Dados Abertos POA" já
+usada no dossiê).
+
+Como o arquivo cobre a cidade inteira e não vem filtrado, **extraímos o recorte do P7 nós
+mesmos**, com o mesmo método (distância geométrica, limiares de 100 m/200 m) já documentado em
+[`dados/tratados/acidentes_metodologia.md`](../dados/tratados/acidentes_metodologia.md#rodada-04-parcial-só-p7--base-oficial-eptc-via-pedido-17-22092026).
+Resultado: **67 ocorrências** no limiar principal (2010–2026) — mais que o triplo das ~18 já
+publicadas, porque a janela é maior e porque 73% dos 67 não têm vítima registrada (a base
+anterior só capturava sinistros com vítima ou já georreferenciados). Entre os achados: **um
+registro de 2014 com o campo "Fatais" marcado**, fora da janela do relatório judicial
+(2019–2024) e com o campo "Morte" zerado no mesmo registro — tratado como **achado a confirmar**,
+não como fato estabelecido, até esclarecer a distinção entre os dois campos no cadastro da EPTC.
+Os dados de 2025–2026 também pedidos no item (c) do Pedido 17 foram extraídos: 13 ocorrências no
+período, incluindo um agrupamento em 6 datas a 24 m do ponto de referência que pode refletir
+geocodificação num ponto fixo do cruzamento, não a localização exata de cada evento.
+
+**Oportunidade em aberto, não executada.** A base da EPTC é bem mais rica e atual que a usada na
+Rodada 02 do dossiê (Dados Abertos POA, 2020–2025) — poderia, em tese, refazer a análise de
+sinistros para os 9 pontos inteiros com essa fonte oficial. Isso não foi feito nesta rodada
+(processado só o P7, o objeto específico do pedido); é uma decisão de escopo para a comissão, não
+uma pendência técnica.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
