@@ -487,13 +487,30 @@ Cruzando com os três decretos de 23/12/2020 já documentados:
   processo(s) próprio(s) — uma resolvida por **acordo** (093/FC 8059, escritura pública) e outra
   ajuizada (094/FC 8060, petição inicial protocolada em 27/05/2026 e novamente em 08/07/2026). A
   quem pertence o processo 092/FC 8058 (o do decreto) não foi verificado por esta via.
-- **Achado transversal:** a mesma consulta ao SEI mostra que os processos 077, 093, 094 e 101 já
-  receberam um pagamento inicial (empenho) entre 01/09/2020 e 01/10/2020 — logo após os decretos
-  de 23/12/2020. Ou seja, essas desapropriações não ficaram paradas por seis anos sem nenhum
-  movimento financeiro: houve um depósito provisório, e o que seguia em aberto era o **valor
-  final e a formalização** — por acordo, ação judicial ou (no caso do P6) um novo decreto. No
-  processo do eixo/P1 (002.079077.09.9), a ação judicial digitalizada foi juntada ao processo
-  administrativo em 19/12/2025, confirmando que já tramita.
+- **Achado transversal (corrigido em 24/09/2026):** a consulta pública ao SEI mostrou que os
+  processos 077, 093, 094 e 101 registram empenho e pagamento entre 01/09/2020 e 01/10/2020 —
+  **antes**, e não depois, dos decretos de 23/12/2020. O **objeto desses pagamentos não está
+  demonstrado**: no processo do eixo/P1 (077), o índice do SEI os encadeia com o requerimento e o
+  recibo da certidão de matrícula do Registro de Imóveis (set/2020), o que sugere custas de
+  instrução do processo, e não depósito indenizatório; os documentos do empenho não foram
+  disponibilizados para confirmar, e nos demais processos esse encadeamento não foi reverificado.
+  Portanto **não se pode afirmar que houve depósito provisório em 2020**. No processo do eixo/P1
+  (002.079077.09.9), o que o índice confirma é que a ação judicial digitalizada foi juntada ao
+  processo administrativo em 19/12/2025, ou seja, já tramita.
+- **Laudos de 2025 do eixo/P1 (acesso externo ao SEI, 24/09/2026).** A PGM (PAESC) concedeu à
+  comissão acesso externo parcial ao processo 002.079077.09.9, por 30 dias. Dos 62 documentos
+  listados (15/08/2019 a 22/12/2025), foram disponibilizados apenas dois **laudos da SMF/ESJL, de
+  29/10/2025**, que substituem os de agosto/2020: o de **avaliação do terreno** e o de
+  **benfeitorias**. Confirmam a mesma área atingida do decreto (8,74 m² + 420,34 m²) e que **não há
+  edificação atingida** — é uma faixa de alargamento em terreno cercado e vegetado (vistoria de
+  17/10/2025). O valor total (terreno + benfeitorias, ref. out/2025) é **inferior a R$ 50 mil**,
+  ordem de grandeza bem abaixo dos R$ 200 mil da Cláusula Nona, cuja destinação segue pendente
+  (Pedido 18). Os laudos informam valor, não status: o índice do processo registra reaberturas em
+  10/2024 e 03/2025 (esta com pedido de atualização dos laudos), atualização da matrícula e
+  digitalização da ação em 12/2025, e **nenhuma movimentação entre 14/01/2026 e 24/09/2026** —
+  não há no SEI informação posterior à resposta da PGM ao Pedido 9. A ação judicial, a matrícula
+  e o balancete (sigilo fiscal, art. 198 do CTN) não foram disponibilizados. Identificação de
+  terceiros e valores itemizados não são reproduzidos aqui; ficam em `interno/`.
 - A **escritura amigável firmada em 093/FC 8059** é compatível com o [indício extraoficial
   registrado acima](#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar) — o relato de
   que a indenização de um dos proprietários do P7 foi paga em quase totalidade — mas trata de uma

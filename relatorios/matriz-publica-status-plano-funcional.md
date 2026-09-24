@@ -59,7 +59,9 @@
   20.860 (que tramita à parte, no processo 092, e já está concluído — ver acima). Ou seja, o P7
   tem pelo menos **duas frentes fundiárias separadas**: a nomeada no decreto (resolvida) e outra
   parcela ainda pendente (093 por acordo, 094 em ação judicial). Os processos do eixo/P1 (077) e
-  do P6 (101) também já receberam um **pagamento inicial em 2020**, logo após os decretos. A
+  do P6 (101) também registram **empenho e pagamento em 2020, antes dos decretos**, de objeto
+  ainda não demonstrado (no 077, o encadeamento sugere custas de certidão de matrícula, não
+  indenização). A
   identidade da parte interessada nos processos 093/094 não é publicada aqui; consta apenas em
   registro interno, como os demais dados pessoais de terceiros do dossiê. Detalhe e ressalvas em
   [projetos viários documentados §3](projetos-viarios-ja-aprovados.md#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar).
