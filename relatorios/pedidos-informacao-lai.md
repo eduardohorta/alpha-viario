@@ -628,7 +628,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-1-17082026-sinalização-da-nova-interseção-não-encontrada-processo-passa-à-smmu).
 - **Pedido 8 (017520-26-22) — respondido (21/08/2026), no prazo prorrogado.** A **PGM** (a)
   confirmou a obrigação pendente de alargamento nos trechos 1 e 3, incluindo as interseções, com
-  o **P7 expressamente citado**; (b) detalhou **quatro desapropriações** em andamento: eixo/P1 e
+  o **P7 expressamente citado**; (b) detalhou **quatro desapropriações** em andamento: eixo (Três Meninas 1085) e
   uma frente do P7 em **ação judicial sem sentença**, outra frente do P7 **resolvida por acordo**
   (escritura pública), e o **P6 aguardando a publicação de novo decreto** (indício de caducidade
   da declaração original); mencionou ainda uma **demolição judicial pendente desde 2014** de um
@@ -667,7 +667,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   16 ou exige um novo pedido próprio, distinto do Pedido 18 financeiro.
 - **Pedido 9 (017700-26-00) — respondido (01/09/2026), parcial.** A **PGM** confirmou que o
   imóvel diretamente referido no Decreto 20.860/2020 (P7/alça) foi desapropriado por acordo em
-  2025; que o imóvel do Decreto 20.861/2020 (eixo/P1) está em ação judicial desde 19/12/2025,
+  2025; que o imóvel do Decreto 20.861/2020 (Três Meninas, 1085) está em ação judicial desde 19/12/2025,
   sem imissão provisória na posse; e que o Decreto 20.859/2020 (P6) **caducou em 28/12/2025**,
   com novo decreto previsto a partir de dez/2026. Os itens sobre o depósito da Cláusula Nona não
   foram respondidos de mérito: a PGM os atribuiu à **SMF**. O [Pedido 18](#pedido-18--smf-depósito-cobrança-e-destinação-da-cláusula-nona) foi protocolado diretamente à secretaria em 01/09 (nº 018008-26-10; prazo 21/09).
@@ -768,7 +768,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   **Atualização (25/09/2026):** a promessa começou a ser cumprida menos de 24 horas depois. A PGM
   abriu, às 16h00, novo acesso externo (30 dias, até 25/10/2026) ao seu **processo interno do SIC**
   (SEI 26.0.000115687-9), com as **petições iniciais tarjadas das duas ações**: a do 094
-  (5194093-05.2026.8.21.0001) e a do eixo/P1 (5327233-72.2025.8.21.0001, em três partes). Isso
+  (5194093-05.2026.8.21.0001) e a do imóvel da Três Meninas, 1085 (5327233-72.2025.8.21.0001, em três partes). Isso
   atende o item (c). **Restam sem resposta** o Parecer 985/1997 e a Informação 4084/2022 (item b) e
   o cronograma dos quatro processos (item d); o reexame, se necessário, fica restrito a eles. O
   conteúdo está em [Acesso externo ao SEI](projetos-viarios-ja-aprovados.md#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
@@ -786,8 +786,8 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ ~~13/08/2026~~ | **respondido (24/08/2026), parcial** — SMMU: sinalização concluída, implantação parcial (baias de ônibus paradas desde set/2024, SMSURB); nó do P2 encaminhado à EPTC |
 | 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
-| 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo/P1 judicial); demolição judicial pendente desde 2014 no P7 |
-| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo/P1 judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
+| 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo (Três Meninas 1085) judicial); demolição judicial pendente desde 2014 no P7 |
+| 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo (Três Meninas 1085) judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
 | 10 — Mapa das desapropriações e atualização do Parecer CTAAPS 093/2020 | SMOI / SMAMUS (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017701-26-68 | ~~31/08~~ ~~10/09/2026~~ | **respondido (11/09/2026)** — TRA nunca emitido, processo arquivado (03/05/2021); TAC com o MP revelado; a/b/c redirecionados → Pedidos 20–22 |
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ ~~12/09/2026~~ | **respondido (10/09/2026), parcial-negativo** — itens a/b/e indeferidos (art. 12 III Dec. 19.990/2018); c/d deferidos: **contrapartida viária confirmada no EU …796.00.4 (P1+P6)**, Diretriz Viária da Kanazawa confirmada |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ ~~18/09/2026~~ | **respondido (16/09/2026)** — sem sinalização aprovada para P1 e P7; SMMU não guarda cópias, orienta SMAP; derivado do Pedido 4 |

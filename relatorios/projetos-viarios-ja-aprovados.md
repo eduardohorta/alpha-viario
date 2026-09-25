@@ -144,10 +144,20 @@ Três decretos, todos motivados pelo **alargamento viário da Estrada das Três 
 |---|---|---|---|---|
 | **20.859/2020** | Estr. das Três Meninas esq. **Estr. Kanazawa** (Belém Velho) | 1.806,73 m² | 002.079101.09.7 | **P6** |
 | **20.860/2020** | **Estr. Costa Gama** — atingido pela **alça de ligação** (Belém Velho) | 1.334,07 m² | SEI 002.079092.09.8 | **P7** |
-| **20.861/2020** | Estr. das Três Meninas, 1085 (Vila Nova) | 8,74 m² + 420,34 m² | 002.079077.09.9 | eixo/P1 |
+| **20.861/2020** | Estr. das Três Meninas, 1085 (Vila Nova) | 8,74 m² + 420,34 m² | 002.079077.09.9 | eixo (Três Meninas 1085) |
 
 Isso responde, pela via documental, o que a SMOI/DPOV declarou **não deter** (status das
 desapropriações) e que foi perguntado à PGM no [Pedido 8](pedidos-informacao-lai.md).
+
+**Correção (25/09/2026): o Decreto 20.861 não é do P1.** Este dossiê o vinha rotulando de "eixo/P1".
+O croqui da ação (Ficha Cadastral 8040, anexo da petição inicial) mostra a faixa de 420,34 m²
+junto ao cruzamento da Estrada das Três Meninas com a Rua Florestan Fernandes, e a comissão confirma
+que o nº 1085 fica perto dessa rua. Pelo OSM do repositório, o cruzamento está a cerca de 1 km a
+sudeste da rótula do P1 (Cristiano Kraemer), na região do P6. Entre os cinco decretos conhecidos,
+**nenhum cobre a rótula do P1**: a 2ª fase dessa interseção depende do projeto e da drenagem que o
+Parecer CTAAPS 093/2020 diz faltar, e nenhuma das quatro desapropriações que a PGM listou é para ela.
+Já a faixa do 20.861, em ação judicial, integra o alargamento da Três Meninas no acesso da
+Florestan Fernandes, relevante para o P6.
 
 **Atualização (24/09/2026): há mais dois decretos, para imóveis vizinhos da alça do P7.** O acesso
 externo ao SEI mostrou que os processos 093 e 094 têm decreto próprio, e o texto dos dois, lido no
@@ -167,7 +177,7 @@ intervalo de um ano do art. 10 do DL 3.365), leitura que **segue sem confirmaç�
 cada processo está em [Acesso externo ao SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 
 *Nota sobre datas:* o DOPA disponibilizou os decretos 20.859, 20.860 e 20.861 em **edição extra de
-23/12/2020** (ed. 6410). Na petição inicial do eixo/P1 (obtida em 25/09/2026), a PGM escreve que o
+23/12/2020** (ed. 6410). Na petição inicial da ação do imóvel da Três Meninas, 1085 (obtida em 25/09/2026), a PGM escreve que o
 20.861 foi "disponibilizado no dia 23 de dezembro de 2020 (publicado em 28/12/2020)", citando a Lei
 nº 11.029/2011. É essa contagem que explica que a PGM dê **28/12/2025** como data da caducidade do
 P6. Nas comparações abaixo, quando só se conhece a data de disponibilização, ela é usada como
@@ -193,7 +203,7 @@ perdidas para a mesma obra.
 > indenização pela desapropriação do P7 (Decreto 20.860/2020) foi paga **em sua quase
 > totalidade**, restando apenas um pequeno saldo. Se verdadeiro, sugere que houve **acordo**
 > (uma das duas vias do art. 10 que afastam a caducidade). Não é, porém, um documento, não
-> cobre os outros dois decretos (P6 e eixo/P1) nem a Cláusula Nona, e **não substitui a
+> cobre os outros dois decretos (P6 e o eixo) nem a Cláusula Nona, e **não substitui a
 > resposta oficial da PGM** (Pedidos 8 e 9) — segue como indicativo até confirmação.
 >
 > **Atualização (21/08/2026):** a resposta ao Pedido 8 chegou e trata exatamente disso, processo
@@ -496,7 +506,7 @@ que decide a questão, o que o Parecer CTAAPS 093/2020 já indicava.
 
 Cruzando com os três decretos de 23/12/2020 já documentados:
 
-- **002.079077.09.9 = Decreto 20.861/2020** (Três Meninas 1085, eixo/P1) — a desapropriação **não
+- **002.079077.09.9 = Decreto 20.861/2020** (Três Meninas 1085, junto à Florestan Fernandes) — a desapropriação **não
   foi efetivada por acordo**, mas **foi ajuizada** dentro do prazo do art. 10 do DL 3.365/1941, o
   que **afasta a caducidade por essa via** — mesmo sem sentença, a lei exige apenas que a ação
   seja "intentada", não julgada, dentro dos 5 anos.
@@ -567,7 +577,7 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
   próprio — 20.860/2020, concluída por acordo em 2025; 20.808/2020, com escritura em 26/11/2025 e
   registro aparentemente em andamento; e 22.570/2024, em ação judicial desde 08/07/2026.)* A
   demolição judicial permanece um obstáculo físico separado.
-- **Eixo/P1** — a desapropriação (Decreto 20.861/2020) está **em ação judicial dentro do prazo**,
+- **Eixo (Três Meninas 1085)** — a desapropriação (Decreto 20.861/2020) está **em ação judicial dentro do prazo**,
   sem imissão provisória na posse; não houve caducidade, mas a área ainda não está disponível por
   essa via.
 - **Cláusula Nona (R$ 200 mil)** — a PGM atribuiu a matéria à **SMF**; o Pedido 9 não confirmou
@@ -602,9 +612,9 @@ do Decreto 20.860 propriamente dito está **concluído** (este item); as parcela
 com o status já descrito no Pedido 8 (uma por acordo, outra em ação judicial) — entraves
 distintos, não o mesmo entrave visto por dois ângulos.
 
-### 2. Eixo/P1 segue judicializado, ainda sem imissão provisória na posse
+### 2. Eixo (Três Meninas 1085) segue judicializado, ainda sem imissão provisória na posse
 
-Para o imóvel do **Decreto 20.861/2020** (eixo/P1), a PGM confirma a ação de desapropriação
+Para o imóvel do **Decreto 20.861/2020** (Três Meninas, 1085), a PGM confirma a ação de desapropriação
 **5327233-72.2025.8.21.0001**, distribuída em 19/12/2025, dentro do prazo legal. Não houve
 pedido liminar de imissão provisória na posse; segundo a resposta, essa providência foi deixada
 para momento oportuno, em consonância com o cronograma de obras. A declaração não caducou, mas a
@@ -639,7 +649,7 @@ de terceiros.
 > PGM. Os nomes das partes (pessoas físicas) não são reproduzidos aqui — ficam em `interno/`,
 > como os demais dados pessoais de terceiros do dossiê.
 
-**Eixo/P1 (5327233-72.2025.8.21.0001).** Tramita na 2ª Vara da Fazenda Pública do Foro Central
+**Três Meninas, 1085 (5327233-72.2025.8.21.0001).** Tramita na 2ª Vara da Fazenda Pública do Foro Central
 de Porto Alegre, proposta em 19/12/2025. Não é uma desapropriação de proprietário único: a
 autuação lista **treze réus pessoas físicas e uma empresa**, indicando um imóvel em condomínio
 ou partilha entre herdeiros — o que por si explica a dificuldade de citação já registrada nos
@@ -878,7 +888,7 @@ técnica, é uma escolha de escopo.
 
 | Processo (FC) | Ponto | Decreto | Área atingida | Situação e último ato |
 |---|---|---|---|---|
-| **077** (8040) | eixo/P1 | 20.861/2020 | 429,08 m² | Ação distribuída em 19/12/2025, dentro do prazo (a PGM conta até 28/12/2025), **sem pedido de imissão provisória na posse**. Sem movimentação administrativa entre 14/01/2026 e 24/09/2026. |
+| **077** (8040) | eixo (Três Meninas 1085) | 20.861/2020 | 429,08 m² | Ação distribuída em 19/12/2025, dentro do prazo (a PGM conta até 28/12/2025), **sem pedido de imissão provisória na posse**. Sem movimentação administrativa entre 14/01/2026 e 24/09/2026. |
 | **092** (8058) | P7, alça | 20.860/2020 | 1.334,07 m² | Concluído por acordo em 2025 (Pedido 9). Não foi objeto deste acesso. |
 | **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, **na véspera** de completar cinco anos da disponibilização do decreto no DOPA (27/11/2020); empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). |
 | **094** (8060) | P7, alça | 22.570/2024 | 28,33 m² | Minuta de acordo em abr/2025, sem êxito segundo a própria petição inicial; ação proposta em 08/07/2026, **sem pedido de imissão provisória na posse**. Decreto válido até cerca de 03/2029. |
@@ -887,7 +897,7 @@ técnica, é uma escolha de escopo.
 Dos cinco decretos hoje conhecidos, **só o do P6 caducou**: os demais foram cumpridos por acordo,
 ajuizados dentro do prazo ou ainda estão no prazo. Dois foram cumpridos no limite: a escritura do
 093 é de 26/11/2025, na véspera de cinco anos da disponibilização do decreto (27/11/2020); a ação do
-eixo/P1 foi distribuída em 19/12/2025, quatro dias antes de cinco anos da disponibilização
+eixo (Três Meninas 1085) foi distribuída em 19/12/2025, quatro dias antes de cinco anos da disponibilização
 (23/12/2020) e nove dias antes do prazo que a PGM conta a partir da publicação (28/12/2020). Na petição inicial do 094 (obtida em 25/09/2026), a PGM afirma que "foram infrutíferas as
 tentativas de formalização de acordo extrajudicial"; os motivos não constam.
 
@@ -897,7 +907,7 @@ São oito laudos, da divisão de avaliação de imóveis da SMF (fev–out/2025)
 2020 e 2022 por decurso de tempo. Em todos, a **área atingida é a do decreto** e **nenhuma edificação é
 atingida**: são faixas de alargamento em terrenos cercados e vegetados, junto à via.
 
-Ordem de grandeza (ref. 2025, terreno mais benfeitorias): **eixo/P1, abaixo de R$ 50 mil**; as
+Ordem de grandeza (ref. 2025, terreno mais benfeitorias): **eixo (Três Meninas 1085), abaixo de R$ 50 mil**; as
 duas parcelas da alça (093 e 094), **entre R$ 20 mil e R$ 25 mil juntas** (a oferta da petição do 094,
 de jul/2026, atualiza o laudo de 2025); **P6, entre R$ 100 mil e
 R$ 200 mil**. Os quatro processos somam **entre R$ 200 mil e R$ 250 mil**, sem contar o 092. É um
@@ -944,13 +954,13 @@ foram disponibilizados.
 ### 5. Petições iniciais das duas ações (liberadas em 25/09/2026)
 
 Em 25/09/2026 a PGM liberou, no seu processo interno do SIC (SEI 26.0.000115687-9), as petições
-iniciais tarjadas: a do eixo/P1 (em três partes, com os anexos) e a do 094. Nomes dos réus e outros
+iniciais tarjadas: a do imóvel da Três Meninas, 1085 (em três partes, com os anexos) e a do 094. Nomes dos réus e outros
 dados pessoais estão tarjados. As duas seguem o mesmo modelo: pedem a **citação** dos réus (art. 16
 do DL 3.365, inclusive para o art. 34-A), a **procedência com a indenização fixada no valor
 ofertado** e a produção de provas, e **não pedem imissão provisória na posse** (a capa do processo
 marca "antecipação de tutela: não requerida").
 
-- **Eixo/P1 (5327233-72.2025.8.21.0001):** autuada em 19/12/2025 no 1º Juízo da 2ª Vara da Fazenda
+- **Três Meninas, 1085 (5327233-72.2025.8.21.0001):** autuada em 19/12/2025 no 1º Juízo da 2ª Vara da Fazenda
   Pública. O valor da causa é igual à oferta, feita sobre os laudos de out/2025 (abaixo de R$ 50 mil
   no total). A inicial informa que o Decreto 20.861 foi "disponibilizado no dia 23 de dezembro de
   2020 (publicado em 28/12/2020)", origem da contagem de 28/12/2025. Anexa o decreto, certidões de
@@ -987,10 +997,10 @@ em **24/10/2026**, e o ao processo do SIC, em **25/10/2026**.
 
 | Cobertura documental | Pontos | Leitura segura |
 |---|---|---|
-| **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020). |
+| **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020). Nenhum dos cinco decretos de desapropriação conhecidos cobre esta rótula (o Decreto 20.861/2020 é junto à Florestan Fernandes, ver acima). |
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
-| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
+| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
 | **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
