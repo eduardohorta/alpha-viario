@@ -58,8 +58,9 @@
   **parcelas distintas** do imóvel do Decreto 20.860 (que tramita à parte, no processo 092, e já
   está concluído — ver acima). A identidade da parte interessada não é publicada aqui; consta
   apenas em registro interno, como os demais dados pessoais de terceiros do dossiê.
-- **Confirmado por acesso externo ao SEI (24/09/2026), provável resposta ao Pedido 16:** a PGM
-  liberou os laudos de 2025 dos quatro processos e, no do P6, três despachos. Achados: (i) as duas
+- **Confirmado por acesso externo ao SEI (24/09/2026), resposta ao Pedido 16:** a PGM liberou
+  os documentos sem dados pessoais — os laudos de 2025 dos quatro processos e, no do P6, três
+  despachos —, e disse que os demais serão tarjados e liberados depois. Achados: (i) as duas
   parcelas da alça têm **decreto próprio** — 20.808/2020 (093) e 22.570/2024 (094); (ii) só o
   decreto do **P6 caducou**: o 077 foi ajuizado a tempo, o 093 teve escritura em 26/11/2025 (registro
   aparentemente em andamento) e o 094 está em ação judicial; (iii) no P6, a PGM quer **revisar o
@@ -68,7 +69,8 @@
   houve novos aditivos** e que as obrigações do empreendedor permanecem; (v) os empenhos de 2020,
   que o dossiê tomava por pagamento inicial, eram **emolumentos do Registro de Imóveis**. Os quatro
   laudos somam, em ordem de grandeza, entre R$ 200 mil e R$ 250 mil (teto, sem o 092). Faltam
-  as petições, o processo judicial do 077 e os pareceres citados (→ reexame do Pedido 16). Detalhe
+  as petições, o processo judicial do 077 e os pareceres citados (a PGM promete liberá-los
+  tarjados, sem prazo; reexame do Pedido 16 até 04/10 se não vierem). Detalhe
   em [projetos viários documentados](projetos-viarios-ja-aprovados.md#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 - **Confirmado por consulta direta ao TJRS (21/08/2026):** a ação do eixo/P1 envolve **treze réus
   e uma empresa** (indício de imóvel em condomínio/herança, o que explica a dificuldade de

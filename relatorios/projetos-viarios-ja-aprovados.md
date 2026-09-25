@@ -862,11 +862,12 @@ técnica, é uma escolha de escopo.
 
 > Em **24/09/2026**, a PGM (Procuradoria de Aquisições e Escrituras, PAESC) concedeu à comissão
 > acesso externo parcial, por 30 dias (até 24/10/2026), aos quatro processos administrativos de
-> desapropriação (SEI 002.079077.09.9, 002.079093.09.4, 002.079094.09.0 e 002.079101.09.7). A
-> concessão coincide com o prazo do [Pedido
-> 16](pedidos-informacao-lai.md#pedido-16--pgm-peças-técnicas-e-cronograma-dos-4-processos-de-desapropriação-citados-no-pedido-8)
-> e provavelmente o responde — a confirmar pelo texto da resposta no e-SIC. Foram disponibilizados
-> apenas **os laudos de avaliação e de benfeitorias de 2025** de cada processo e, no processo do
+> desapropriação (SEI 002.079077.09.9, 002.079093.09.4, 002.079094.09.0 e 002.079101.09.7). Essa
+> concessão é a resposta ao [Pedido
+> 16](pedidos-informacao-lai.md#pedido-16--pgm-peças-técnicas-e-cronograma-dos-4-processos-de-desapropriação-citados-no-pedido-8):
+> às 18h51 a PGM registrou no e-SIC que "foi concedido, na data de hoje, acesso aos documentos que
+> não possuem informações pessoais" e que os demais "serão tarjados e, após, concedido o acesso".
+> Foram disponibilizados apenas **os laudos de avaliação e de benfeitorias de 2025** de cada processo e, no processo do
 > P6, **três despachos**. Nomes de proprietários, matrículas e valores por imóvel ficam em
 > `interno/`, fora do repositório público.
 
@@ -943,8 +944,10 @@ lidos no DOPA): as **petições iniciais** do 094 e o **processo judicial digita
 16); o **Parecer 985/1997** e a **Informação 4084/2022** (item (b)); a escritura e os e-mails do
 093, marcados como "documento preparatório" com restrição temporária (art. 7º, §3º da LAI), que
 em tese perde razão de ser quando o ato decisório se consuma; e o processo 092, não acessado.
-Encaminhamento: **reexame do Pedido 16** (art. 22 do Decreto Municipal 19.990/2018) para os itens
-(b), (c) e (d). O acesso vence em **24/10/2026**.
+Encaminhamento: a PGM disse que os documentos com dados pessoais serão tarjados e liberados
+depois, **sem prazo**. O reexame do Pedido 16 (art. 22 do Decreto Municipal 19.990/2018) tem prazo
+de 10 dias da resposta, isto é, até 04/10/2026; se a liberação não vier até lá, cabe reexame para
+os itens (b), (c) e (d). O acesso atual vence em **24/10/2026**.
 
 ## Relação com os pontos do projeto
 
