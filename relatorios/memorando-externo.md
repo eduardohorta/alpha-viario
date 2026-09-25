@@ -33,7 +33,7 @@ Além disso, a documentação oficial do licenciamento do empreendimento no eixo
 
 - há um **Plano Funcional aprovado** para a Estr. das Três Meninas e um **Termo de Compromisso sem prazo de validade** (a cláusula que o limitava a 30 meses foi suprimida por aditivo em 2012);
 - o **Parecer CTAAPS nº 093/2020**, elaborado pelo Município, registra que **não foram implantadas** as segundas fases das interseções da Estr. das Três Meninas com a **Estr. Cristiano Kraemer (ponto 1)**, com a **Estr. Kanazawa e a R. Florestan Fernandes (ponto 6)** e com a **Estr. Costa Gama (ponto 7)**;
-- **três decretos de 23/12/2020** declararam de utilidade pública as áreas necessárias ao alargamento, inclusive a da **alça de ligação com a Estr. Costa Gama** (Decreto nº 20.860/2020);
+- **três decretos de 23/12/2020** declararam de utilidade pública as áreas necessárias ao alargamento, inclusive a da **alça de ligação com a Estr. Costa Gama** (Decreto nº 20.860/2020), e outros dois (de 27/11/2020 e de 19/03/2024) alcançam parcelas vizinhas da mesma alça;
 - o **projeto geométrico** dessa conexão, aprovado na CTAAPS em 2013, **perdeu a validade** (Decreto nº 20.659/2020) — e a própria **EPTC já recomendava, em 2020, revisar os projetos** em razão do tempo decorrido.
 
 Ou seja: para vários pontos é possível **partir de soluções que a própria cidade já projetou e cujas áreas já declarou de utilidade pública** — a serem revalidadas, atualizadas às condições atuais e concluídas, não estudadas do zero. A resposta da PGM ao Pedido 9 já individualizou parte do quadro fundiário; a situação completa das intervenções segue sob apuração, e a confirmação financeira da Cláusula Nona foi remetida à **Secretaria Municipal da Fazenda**.

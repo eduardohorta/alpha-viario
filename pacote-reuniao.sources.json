@@ -3,11 +3,11 @@
   "comando": "python3 scripts/build_pacote.py",
   "fontes": {
     "relatorios/guia-validacao-comissao.md": "043270f9cd9a1e6067c698c498fd8ba07400b2ecf041f7754c52eb1dbc4415ea",
-    "relatorios/memorando-externo.md": "c763a5c67ec1f238c9a081ea57c2a585f91fe35b0044ff842b5327112e50f084",
-    "relatorios/anexo-matriz-pontos.md": "9e90fd33c2fb41fe22569b22f63761afe73fbb6af39f176d757fbe3393c93213",
+    "relatorios/memorando-externo.md": "df15b207c16c7641b809bfda17155aab9b8e0be6f1b01e51ea28502239374bf0",
+    "relatorios/anexo-matriz-pontos.md": "f003b9178655d00eda9bdcd74c91d4f8b018b41d5959dc10ad4e4de1086d078e",
     "scripts/build_pacote.py": "0f75d260a8030334dcd749f33180d866c0d615ccf1ca654adf13cef5b6c0bc73"
   },
-  "saida_md_sha256": "54f8fbf232514cd368a2dcbfd4a63824bbd1e689de6dc6492fdd5c60f80e2192",
+  "saida_md_sha256": "8eb2a572b3d90de143db96ceebddefb7a824486484b88fa1a440715b21f87fdb",
   "pdf_proveniencia": {
     "gerador": "pandoc 2.18"
   }
