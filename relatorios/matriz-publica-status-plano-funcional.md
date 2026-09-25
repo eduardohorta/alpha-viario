@@ -27,7 +27,7 @@
 - **Confirmado pelas respostas LAI (jul/2026):** o **projeto do P7** (Três Meninas × Costa Gama) foi **obtido** — 1ª etapa e solução definitiva, com conector a oeste — e **caducou** (Dec. 20.659/2020); o saldo das obrigações e as desapropriações estão com a **PGM**.
 - **Confirmado pela documentação da administração do Alphaville (07/08/2026):**
   - a **"alça de ligação"** do P7 está nomeada no **Decreto nº 20.860/2020** — não é mais denominação comunitária;
-  - **três decretos de utilidade pública** (23/12/2020) alcançam P6, P7 e o eixo;
+  - **três decretos de utilidade pública** (23/12/2020) alcançam P6, P7 e o eixo (o SEI revelou depois mais dois, de 08/12/2020 e 19/03/2024, para outras parcelas da alça do P7);
   - o **Termo de Compromisso não tem prazo de validade**: o 1º aditivo (2012) **suprimiu** a cláusula de validade de 30 meses **e** a que desobrigaria o empreendedor por atraso nas imissões de posse;
   - o **quadro de execução** (Parecer CTAAPS 093/2020) mostra 1º trecho só em 1ª etapa, 3º trecho com ~300 m estreitados, e **nenhuma** das 2ªs fases de interseção implantada;
   - a própria **EPTC recomendou em 2020 revisar os projetos** por decurso de tempo.
@@ -51,20 +51,25 @@
   processo (092) é **distinto** dos processos 093/094 citados na resposta ao Pedido 8 — ver
   bullet abaixo.
 - **Ainda não confirmado:** correspondência das estacas; recebimento definitivo e ambiental;
-  o **depósito de R$ 200 mil** da Cláusula Nona (Pedido 18/SMF, prazo 21/09); e a atualização do
+  o **depósito de R$ 200 mil** da Cláusula Nona (Pedido 18/SMF, em reexame desde 22/09); e a atualização do
   Parecer CTAAPS 093/2020, ainda pendente no Pedido 10.
 - **Confirmado por consulta pública ao SEI-PMPA (21/08/2026) e reconciliado com a resposta ao
-  Pedido 9:** os processos 093 e 094 (uma desapropriação por acordo, outra judicial) pertencem à
-  **mesma parte interessada** entre si, mas são **parcelas distintas** do imóvel do Decreto
-  20.860 (que tramita à parte, no processo 092, e já está concluído — ver acima). Ou seja, o P7
-  tem pelo menos **duas frentes fundiárias separadas**: a nomeada no decreto (resolvida) e outra
-  parcela ainda pendente (093 por acordo, 094 em ação judicial). Os processos do eixo/P1 (077) e
-  do P6 (101) também registram **empenho e pagamento em 2020, antes dos decretos**, de objeto
-  ainda não demonstrado (no 077, o encadeamento sugere custas de certidão de matrícula, não
-  indenização). A
-  identidade da parte interessada nos processos 093/094 não é publicada aqui; consta apenas em
-  registro interno, como os demais dados pessoais de terceiros do dossiê. Detalhe e ressalvas em
-  [projetos viários documentados §3](projetos-viarios-ja-aprovados.md#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar).
+  Pedido 9:** os processos 093 e 094 pertencem à **mesma parte interessada** entre si, mas são
+  **parcelas distintas** do imóvel do Decreto 20.860 (que tramita à parte, no processo 092, e já
+  está concluído — ver acima). A identidade da parte interessada não é publicada aqui; consta
+  apenas em registro interno, como os demais dados pessoais de terceiros do dossiê.
+- **Confirmado por acesso externo ao SEI (24/09/2026), provável resposta ao Pedido 16:** a PGM
+  liberou os laudos de 2025 dos quatro processos e, no do P6, três despachos. Achados: (i) as duas
+  parcelas da alça têm **decreto próprio** — 20.808/2020 (093) e 22.570/2024 (094); (ii) só o
+  decreto do **P6 caducou**: o 077 foi ajuizado a tempo, o 093 teve escritura em 26/11/2025 (registro
+  aparentemente em andamento) e o 094 está em ação judicial; (iii) no P6, a PGM quer **revisar o
+  projeto** para excluir áreas já consolidadas como públicas e programa a reabertura para dez/2026
+  — o novo decreto não sai antes de 29/12/2026; (iv) a GEAR/PGM confirmou em 28/03/2025 que **não
+  houve novos aditivos** e que as obrigações do empreendedor permanecem; (v) os empenhos de 2020,
+  que o dossiê tomava por pagamento inicial, eram **emolumentos do Registro de Imóveis**. Os quatro
+  laudos somam, em ordem de grandeza, entre R$ 200 mil e R$ 250 mil (teto, sem o 092). Faltam
+  as petições, o processo judicial do 077 e os pareceres citados (→ reexame do Pedido 16). Detalhe
+  em [projetos viários documentados](projetos-viarios-ja-aprovados.md#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 - **Confirmado por consulta direta ao TJRS (21/08/2026):** a ação do eixo/P1 envolve **treze réus
   e uma empresa** (indício de imóvel em condomínio/herança, o que explica a dificuldade de
   citação); a 2ª frente do P7 segue o rito do art. 13 do Decreto-Lei nº 3.365/1941, com os réus

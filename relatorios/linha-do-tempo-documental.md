@@ -18,18 +18,20 @@
 | **2013** | Projeto geométrico da conexão **Três Meninas × Costa Gama** aprovado na **CTAAPS** (a "alça"), em duas etapas. | A solução do **P7** foi efetivamente **desenhada e aprovada**. |
 | **23/08/2013** | **2º aditivo** (registro 53.107): fixa prazos, exige projetos das interseções com **Kanazawa e Florestan Fernandes (P6)** e da 2ª fase da Costa Gama, prevê as **desapropriações** (Cláusula Oitava) e um **depósito de R$ 200 mil** após a declaração de utilidade pública (Cláusula Nona). | Amplia e detalha as obrigações — inclusive **financeiras**. |
 | **17/09/2020** | **Parecer CTAAPS nº 093/2020**, feito a pedido da PGM: registra que o **1º trecho ficou só na 1ª etapa**, o **3º trecho** foi implantado parcialmente e que **nenhuma 2ª fase de interseção** (P1, P6, P7) foi implantada. A **própria EPTC recomenda revisar os projetos** por decurso de tempo. | É o **quadro oficial de execução**: muito pactuado, pouco concluído — e a revisão que pedimos **já era recomendação do Município**. |
+| **08/12/2020** | **Decreto nº 20.808** declara de utilidade pública uma parcela vizinha da **alça de ligação** do P7 (processo 093). | É o primeiro dos decretos hoje conhecidos; a parcela teve **escritura em 26/11/2025**, dentro do prazo. |
 | **23/12/2020** | **Três decretos de desapropriação** (nº 20.859 na Kanazawa/**P6**; nº 20.860 na Costa Gama, citando a **"alça de ligação"**/**P7**; nº 20.861 na Três Meninas, 1085). | O Município **declarou de utilidade pública** as áreas das obras — e **disparou** o prazo do depósito de R$ 200 mil. |
 | **~2024** | O **projeto complementar** do P7 **perde a validade** (projetos complementares valem 4 anos — Decreto nº 20.659/2020). | A solução aprovada **caducou** sem ser executada. |
-| **23/12/2025** | Vence o **prazo legal de 5 anos** (art. 10 do Decreto-Lei federal 3.365/1941) para efetivar as desapropriações declaradas em 2020. | Se não houve acordo nem ação judicial, as **declarações caducaram** — *a confirmar com a PGM (Pedido 9)*. |
-| **2026** | A comissão retoma o tema com **evidência própria** (sinistros, sonda de tempos de viagem, 10 pedidos LAI) e a **documentação da administração do empreendimento**. O novo **PDUS/LUOS** é sancionado em **14/07/2026**. | Reúne-se a base para pedir à cidade que **conclua o que ela mesma começou**. |
+| **19/03/2024** | **Decreto nº 22.570** declara de utilidade pública mais uma parcela da alça do P7 (processo 094), provavelmente refazendo uma declaração anterior que caducou. | A parcela está em **ação judicial desde 08/07/2026**; o decreto vale até cerca de 03/2029. |
+| **23–28/12/2025** | Vence o **prazo legal de 5 anos** (art. 10 do Decreto-Lei federal 3.365/1941) para efetivar as desapropriações declaradas em 2020. | **Só a declaração do P6 caducou** (28/12/2025, Pedido 9 e SEI): o eixo/P1 foi ajuizado em 19/12/2025 e a alça teve acordo (092 e 093) ou ação (094). A PGM quer revisar o projeto do P6 e só pode editar novo decreto a partir de **29/12/2026**. |
+| **2026** | A comissão retoma o tema com **evidência própria** (sinistros, sonda de tempos de viagem, 23 pedidos LAI) e a **documentação da administração do empreendimento**. O novo **PDUS/LUOS** é sancionado em **14/07/2026**. | Reúne-se a base para pedir à cidade que **conclua o que ela mesma começou**. |
 
 ## Leitura em três frases
 
 1. Ao longo de **mais de dez anos**, o Município **pactuou, projetou, aprovou e declarou de
    utilidade pública** as intervenções viárias do eixo da Três Meninas — e a maior parte
    **nunca foi concluída**.
-2. Alguns prazos administrativos **já venceram** (o projeto do P7 caducou; o prazo das
-   desapropriações venceu em 23/12/2025), o que torna a apuração **urgente**: os Pedidos 8, 9 e
-   10 pedem exatamente esse status atual.
+2. Alguns prazos administrativos **já venceram** (o projeto do P7 caducou; a declaração de
+   utilidade pública do P6 caducou em 28/12/2025), o que torna a apuração **urgente**: os Pedidos
+   8, 9, 10 e 16 pedem exatamente esse status atual.
 3. Por isso o pleito não é "façam obras novas", e sim **"retomem e concluam o que já foi
    acordado, projetado e declarado"** — atualizado às condições de hoje.

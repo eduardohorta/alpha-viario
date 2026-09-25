@@ -149,6 +149,21 @@ Três decretos, todos motivados pelo **alargamento viário da Estrada das Três 
 Isso responde, pela via documental, o que a SMOI/DPOV declarou **não deter** (status das
 desapropriações) e que foi perguntado à PGM no [Pedido 8](pedidos-informacao-lai.md).
 
+**Atualização (24/09/2026): há mais dois decretos, para imóveis vizinhos da alça do P7.** O acesso
+externo ao SEI mostrou que os processos 093 e 094 têm decreto próprio; não são apenas "parcelas"
+do Decreto 20.860:
+
+| Decreto | Imóvel | Área | Processo | Ponto |
+|---|---|---|---|---|
+| **20.808/2020** (08/12/2020) | Estr. das Três Meninas, alça de ligação com a Costa Gama (Belém Velho) | 48,02 m² | 002.079093.09.4 (FC 8059) | **P7** |
+| **22.570/2024** (19/03/2024) | Estr. das Três Meninas, alça de ligação com a Costa Gama (Belém Velho) | 28,33 m² | 002.079094.09.0 (FC 8060) | **P7** |
+
+O texto dos dois decretos não foi lido (no SEI consta só o título). No processo 094, uma "minuta
+– decreto 2017" (set/2022) e um intervalo de 13 meses antes da nova minuta (jan/2024) sugerem que o
+decreto de 2024 **refez uma declaração anterior que caducou**, o que seria compatível com o
+intervalo de um ano do art. 10 do DL 3.365. É leitura provável, a confirmar. A situação de cada
+processo está em [Acesso externo ao SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
+
 ### 3. ⚠️ Os decretos podem ter caducado em 23/12/2025 — a confirmar
 
 O **art. 10 do Decreto-Lei federal nº 3.365/1941** determina que a desapropriação deve
@@ -205,6 +220,12 @@ reajustado pela **Taxa SELIC**, com **multa de 20% e juros de 1% ao mês** em ca
 Os decretos foram publicados em **23/12/2020**; o gatilho, portanto, ocorreu, e o prazo venceu
 por volta de **07/01/2021**. Se o depósito foi feito, há recurso vinculado às desapropriações
 do eixo; se não foi, há crédito municipal a cobrar. **A confirmar com a PGM/SMF.**
+
+*Nota (24/09/2026):* o primeiro dos decretos hoje conhecidos é o **20.808/2020, de 08/12/2020**
+(ver §2). Se o gatilho da cláusula for o primeiro decreto, e não o de 23/12/2020, o prazo do
+depósito teria vencido já em dezembro de 2020. E a soma dos laudos de 2025 dos quatro processos
+lidos tem a mesma ordem de grandeza dos R$ 200 mil (ver [Acesso externo ao
+SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação)).
 
 ### 6. Parecer CTAAPS nº 093/2020 — o quadro de execução que faltava
 
@@ -485,32 +506,22 @@ Cruzando com os três decretos de 23/12/2020 já documentados:
   **duas outras parcelas**, com o mesmo interessado entre si (confirmado por consulta pública ao
   SEI-PMPA em 21/08/2026), aparentemente necessárias à mesma obra do P7 mas cobertas por
   processo(s) próprio(s) — uma resolvida por **acordo** (093/FC 8059, escritura pública) e outra
-  ajuizada (094/FC 8060, petição inicial protocolada em 27/05/2026 e novamente em 08/07/2026). A
-  quem pertence o processo 092/FC 8058 (o do decreto) não foi verificado por esta via.
+  ajuizada (094/FC 8060, com três versões da petição inicial no SEI — 13/05, 27/05 e
+  08/07/2026 — e distribuição no TJRS em 08/07/2026). A quem pertence o processo 092/FC 8058 (o
+  do decreto) não foi verificado por esta via. *(Atualização de 24/09/2026: cada uma das duas
+  parcelas tem decreto próprio, 20.808/2020 e 22.570/2024 — ver a seção "As desapropriações foram
+  declaradas de utilidade pública", acima.)*
 - **Achado transversal (corrigido em 24/09/2026):** a consulta pública ao SEI mostrou que os
   processos 077, 093, 094 e 101 registram empenho e pagamento entre 01/09/2020 e 01/10/2020 —
-  **antes**, e não depois, dos decretos de 23/12/2020. O **objeto desses pagamentos não está
-  demonstrado**: no processo do eixo/P1 (077), o índice do SEI os encadeia com o requerimento e o
-  recibo da certidão de matrícula do Registro de Imóveis (set/2020), o que sugere custas de
-  instrução do processo, e não depósito indenizatório; os documentos do empenho não foram
-  disponibilizados para confirmar, e nos demais processos esse encadeamento não foi reverificado.
-  Portanto **não se pode afirmar que houve depósito provisório em 2020**. No processo do eixo/P1
-  (002.079077.09.9), o que o índice confirma é que a ação judicial digitalizada foi juntada ao
-  processo administrativo em 19/12/2025, ou seja, já tramita.
-- **Laudos de 2025 do eixo/P1 (acesso externo ao SEI, 24/09/2026).** A PGM (PAESC) concedeu à
-  comissão acesso externo parcial ao processo 002.079077.09.9, por 30 dias. Dos 62 documentos
-  listados (15/08/2019 a 22/12/2025), foram disponibilizados apenas dois **laudos da SMF/ESJL, de
-  29/10/2025**, que substituem os de agosto/2020: o de **avaliação do terreno** e o de
-  **benfeitorias**. Confirmam a mesma área atingida do decreto (8,74 m² + 420,34 m²) e que **não há
-  edificação atingida** — é uma faixa de alargamento em terreno cercado e vegetado (vistoria de
-  17/10/2025). O valor total (terreno + benfeitorias, ref. out/2025) é **inferior a R$ 50 mil**,
-  ordem de grandeza bem abaixo dos R$ 200 mil da Cláusula Nona, cuja destinação segue pendente
-  (Pedido 18). Os laudos informam valor, não status: o índice do processo registra reaberturas em
-  10/2024 e 03/2025 (esta com pedido de atualização dos laudos), atualização da matrícula e
-  digitalização da ação em 12/2025, e **nenhuma movimentação entre 14/01/2026 e 24/09/2026** —
-  não há no SEI informação posterior à resposta da PGM ao Pedido 9. A ação judicial, a matrícula
-  e o balancete (sigilo fiscal, art. 198 do CTN) não foram disponibilizados. Identificação de
-  terceiros e valores itemizados não são reproduzidos aqui; ficam em `interno/`.
+  **antes**, e não depois, dos decretos de dezembro de 2020. O acesso externo de 24/09/2026
+  esclareceu o objeto: nos quatro processos a cadeia é a mesma (requerimento de matrícula ao
+  Registro de Imóveis, nota de empenho, pagamento, recibo do Registro e a matrícula juntada), e no
+  processo do P6 o recibo se chama **"Recibo de Emolumentos"**. São **custas de certidão**, e não
+  depósito indenizatório. Portanto **não houve depósito provisório em 2020**: a frase anterior deste
+  dossiê, que falava em "pagamento inicial, logo após os decretos", estava errada.
+- **Laudos de 2025 e despachos do SEI (24/09/2026).** A PGM concedeu acesso externo parcial aos
+  quatro processos; o que veio, o que mudou e o que ficou de fora está na seção [Acesso externo ao
+  SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 - A **escritura amigável firmada em 093/FC 8059** é compatível com o [indício extraoficial
   registrado acima](#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar) — o relato de
   que a indenização de um dos proprietários do P7 foi paga em quase totalidade — mas trata de uma
@@ -539,16 +550,21 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
 
 - **P6** — a resposta posterior ao Pedido 9 confirmou expressamente que a declaração do Decreto
   20.859/2020 **caducou em 28/12/2025**; a PGM prevê novo decreto a partir de dezembro de 2026.
+  *(24/09/2026: os despachos do SEI mostram que a PGM quer antes revisar o projeto para excluir
+  áreas já consolidadas como públicas; o novo decreto não sai antes de 29/12/2026.)*
 - **P7** — o Pedido 8 descreveu duas frentes (uma por acordo e outra judicial), enquanto o Pedido
   9 informa que o imóvel diretamente referido no Decreto 20.860/2020 foi concluído por acordo em
-  2025. A relação entre esses registros ainda precisa ser reconciliada antes de se afirmar o
-  status fundiário integral; a demolição judicial permanece um obstáculo físico separado.
+  2025. *(24/09/2026: reconciliado. A alça tem ao menos três parcelas, cada uma com decreto
+  próprio — 20.860/2020, concluída por acordo em 2025; 20.808/2020, com escritura em 26/11/2025 e
+  registro aparentemente em andamento; e 22.570/2024, em ação judicial desde 08/07/2026.)* A
+  demolição judicial permanece um obstáculo físico separado.
 - **Eixo/P1** — a desapropriação (Decreto 20.861/2020) está **em ação judicial dentro do prazo**,
   sem imissão provisória na posse; não houve caducidade, mas a área ainda não está disponível por
   essa via.
 - **Cláusula Nona (R$ 200 mil)** — a PGM atribuiu a matéria à **SMF**; o Pedido 9 não confirmou
   depósito, cobrança ou destinação. O **Pedido 18** foi protocolado diretamente à Fazenda em
-  01/09/2026 (nº 018008-26-10; prazo 21/09).
+  01/09/2026 (nº 018008-26-10); a SMF pediu complementação e o **reexame foi apresentado em
+  22/09/2026**, aguardando resposta.
 
 ## Resposta LAI ao Pedido 9 (01/09/2026): três decretos individualizados; depósito segue a confirmar com a SMF
 
@@ -836,6 +852,92 @@ Falta decidir se estes números substituem os já usados nas peças aprovadas (m
 se os dois conjuntos convivem com a ressalva de metodologia explicada acima; não é uma pendência
 técnica, é uma escolha de escopo.
 
+## Acesso externo ao SEI (24/09/2026): laudos e despachos dos quatro processos de desapropriação
+
+> Em **24/09/2026**, a PGM (Procuradoria de Aquisições e Escrituras, PAESC) concedeu à comissão
+> acesso externo parcial, por 30 dias (até 24/10/2026), aos quatro processos administrativos de
+> desapropriação (SEI 002.079077.09.9, 002.079093.09.4, 002.079094.09.0 e 002.079101.09.7). A
+> concessão coincide com o prazo do [Pedido
+> 16](pedidos-informacao-lai.md#pedido-16--pgm-peças-técnicas-e-cronograma-dos-4-processos-de-desapropriação-citados-no-pedido-8)
+> e provavelmente o responde — a confirmar pelo texto da resposta no e-SIC. Foram disponibilizados
+> apenas **os laudos de avaliação e de benfeitorias de 2025** de cada processo e, no processo do
+> P6, **três despachos**. Nomes de proprietários, matrículas e valores por imóvel ficam em
+> `interno/`, fora do repositório público.
+
+### 1. Situação de cada processo (pelo índice do SEI, em 24/09/2026)
+
+| Processo (FC) | Ponto | Decreto | Área atingida | Situação e último ato |
+|---|---|---|---|---|
+| **077** (8040) | eixo/P1 | 20.861/2020 | 429,08 m² | Ação distribuída em 19/12/2025, antes do quinquênio. Sem movimentação administrativa entre 14/01/2026 e 24/09/2026. |
+| **092** (8058) | P7, alça | 20.860/2020 | 1.334,07 m² | Concluído por acordo em 2025 (Pedido 9). Não foi objeto deste acesso. |
+| **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, antes do quinquênio do decreto de 08/12/2020; empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). |
+| **094** (8060) | P7, alça | 22.570/2024 | 28,33 m² | Minuta de acordo em abr/2025; ação proposta em 08/07/2026. Decreto válido até cerca de 03/2029. |
+| **101** (8067) | P6 | 20.859/2020 | 1.806,73 m² | **Decreto caducou em 28/12/2025.** Sem petição nem minuta de novo decreto; a PGM programa reabrir em dez/2026. |
+
+Dos cinco decretos hoje conhecidos, **só o do P6 caducou**: os demais foram cumpridos por acordo,
+ajuizados dentro do prazo ou ainda estão no prazo. A ação do 094 foi proposta bem depois da minuta
+de acordo, o que indica que o acordo não se concretizou (inferência; os motivos estão em
+documentos restritos).
+
+### 2. O que os laudos de 2025 mostram
+
+São oito laudos, da divisão de avaliação de imóveis da SMF (fev–out/2025), que atualizam os de
+2020 e 2022 por decurso de tempo. Em todos, a **área atingida é a do decreto** e **nenhuma edificação é
+atingida**: são faixas de alargamento em terrenos cercados e vegetados, junto à via.
+
+Ordem de grandeza (ref. 2025, terreno mais benfeitorias): **eixo/P1, abaixo de R$ 50 mil**; as
+duas parcelas da alça (093 e 094), **cerca de R$ 20 mil juntas**; **P6, entre R$ 100 mil e
+R$ 200 mil**. Os quatro processos somam **entre R$ 200 mil e R$ 250 mil**, sem contar o 092. É um
+**teto, não uma previsão**: o laudo do P6 avalia toda a área do decreto, e a PGM quer excluir
+áreas já consolidadas como públicas (item 3).
+
+Para a Cláusula Nona, a soma tem a **mesma ordem de grandeza** dos R$ 200 mil, sem correção pela
+SELIC. Isso torna mais relevante saber se o depósito foi feito e a que se destina (Pedido 18).
+Nenhum documento lido liga a cláusula a essas indenizações: é comparação de grandeza, não vínculo.
+
+### 3. P6: a PGM quer revisar o projeto antes de refazer o decreto
+
+Os três despachos disponibilizados, no processo 101:
+
+- **28/03/2025, Gerência de Engenharia e Arquitetura (GEAR/PGM).** Em resposta a questionamento
+  da SMF, informa que **não foram assinados novos aditivos ao Termo de Compromisso** e que
+  **permanecem as obrigações do empreendedor** indicadas nele e nos aditivos. Opina que o
+  **projeto de desapropriação deve ser revisado**: o Município só deve indenizar áreas que não
+  eram usadas como leito viário e passeio, na Três Meninas e na Kanazawa. Pelo "princípio do
+  concurso voluntário" (Parecer 985/1997), áreas usadas como públicas por longo tempo já passaram
+  a ser públicas; indeniza-se apenas o que exceder a cerca existente.
+- **29/10/2025, PAESC.** Encaminha à CAUGE/SMAMUS, para avaliar a necessidade de revisão do
+  projeto. Cita o entendimento da PAESC sobre incorporação de áreas consolidadas ao uso público
+  (prazo de 10 anos do Código Civil de 2002, Informação 4084/2022) e alerta que o decreto
+  caducará em 28/12/2025.
+- **22/01/2026, PAESC.** O decreto caducou e o ajuizamento ficou inviável; o ato só pode ser
+  reeditado após um ano (art. 10 do DL 3.365). Encerra o expediente e **programa a reabertura
+  para dezembro de 2026**, para novo decreto e "tratativas de negociação extrajudicial".
+
+Leitura: (i) corrobora e detalha a resposta ao Pedido 9 (revisão topográfica e de memorial em
+jan–fev/2026); (ii) o despacho da GEAR é uma **confirmação independente e anterior** de que o
+Termo de Compromisso e as obrigações do empreendedor permanecem; (iii) contado a partir de
+28/12/2025, **o novo decreto não sai antes de 29/12/2026**, de modo que a desapropriação do P6, e a
+obra que dela depende, dificilmente começam antes de 2027; (iv) a área e o valor a indenizar tendem a
+**diminuir** em relação ao decreto original.
+
+### 4. Balancetes
+
+Os balancetes juntados (um no processo do P1, vários nominais no da alça) parecem levantamentos de
+débitos do imóvel ou dos proprietários, pelos títulos e pelas unidades emissoras (inferência).
+Não têm relação aparente com a Cláusula Nona. Estão sob sigilo fiscal (art. 198 do CTN) e não
+foram disponibilizados.
+
+### 5. O que não foi liberado e o encaminhamento
+
+Ficaram de fora: o **texto dos decretos** 20.808/2020 e 22.570/2024 (só no Diário Oficial); as
+**petições iniciais** do 094 e o **processo judicial digitalizado** do 077 (item (c) do Pedido
+16); o **Parecer 985/1997** e a **Informação 4084/2022** (item (b)); a escritura e os e-mails do
+093, marcados como "documento preparatório" com restrição temporária (art. 7º, §3º da LAI), que
+em tese perde razão de ser quando o ato decisório se consuma; e o processo 092, não acessado.
+Encaminhamento: **reexame do Pedido 16** (art. 22 do Decreto Municipal 19.990/2018) para os itens
+(b), (c) e (d). O acesso vence em **24/10/2026**.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -843,8 +945,8 @@ técnica, é uma escolha de escopo.
 | **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020). |
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
-| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, não o imóvel do decreto — uma resolvida por acordo, outra em ação judicial, ambas ainda pendentes. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
+| **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 
