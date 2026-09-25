@@ -59,7 +59,7 @@ Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS 
 - [ ] **Sonda de tempos:** agregados consolidados (janela 04–16/jul, 1.440 medições) — ver
       [resumo](dados/tratados/sonda_tempos_resumo.md). Reprocessar perto do protocolo.
 - [ ] **LAIs:** incorporar as respostas conforme chegarem; registrar as pendentes.
-- [x] **Novo P9:** georreferenciado por **pin (14/08)** e associado (~17 sinistros; 2 graves, 6 motos) — incorporado ao pipeline, à matriz e ao mapa.
+- [x] **Novo P9:** georreferenciado por **pin (14/08)** e associado (55 sinistros na base oficial da EPTC; 17 na Dados Abertos POA) — incorporado ao pipeline, à matriz e ao mapa.
 - [ ] **Pedido à SMAMUS/EPTC:** manter explícito que o dossiê é indicativo e solicita vistoria,
       contagens, planos semafóricos e demais validações.
 

@@ -5,7 +5,7 @@
 
 ## Reenquadramento à luz dos dados
 
-Os sinistros (refinados por **associação à distância** na Rodada 02) reforçam o eixo de **segurança viária (PSVS/Visão Zero)**, com a fluidez como benefício secundário. **Motociclistas têm envolvimento relevante, sobretudo em P4, P2, P3 e P8.** A gravidade mais robusta está no **corredor da Av. Vicente Monteggia (P4)** — inclusive com fatais (a segmentar por trecho). Em **P5** há sinistralidade no entorno, mas a fatalidade aparece só no contexto ampliado e **não é atribuível à conversão** sem validação de campo. *(Associação por distância ≠ prova causal — ver [resumo refinado](../dados/tratados/acidentes_resumo_distancia_pontos.csv).)*
+Os sinistros (base oficial da EPTC, 2010–2026, com **associação à distância**; a base Dados Abertos POA fica como evidência auxiliar) reforçam o eixo de **segurança viária (PSVS/Visão Zero)**, com a fluidez como benefício secundário. **Motociclistas têm envolvimento relevante, sobretudo em P4, P2, P3, P8 e P9.** A gravidade mais robusta está no **corredor da Av. Vicente Monteggia (P4)** — com 8 fatais em 2010–2026, mais graves no trecho S06 e mais fatais no S03 (segmentado por trecho na base da EPTC). Em **P5** há sinistralidade no entorno, mas a fatalidade aparece só no contexto ampliado e **não é atribuível à conversão** sem validação de campo. *(Associação por distância ≠ prova causal — ver [resumo da base EPTC](../dados/tratados/eptc_acidentes_resumo_distancia_pontos.csv) e, como auxiliar, o [resumo Dados Abertos POA](../dados/tratados/acidentes_resumo_distancia_pontos.csv).)*
 
 ## Escada de intervenção (revisada)
 

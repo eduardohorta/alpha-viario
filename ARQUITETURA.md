@@ -25,9 +25,15 @@ pessoais/registrais ficam no privado ou em `interno/` (gitignored).
 ## Como o dado vira dossiê (4 fluxos)
 
 ### 1. Sinistros (segurança)
-Dados Abertos POA (CC-BY; bruto ~15 MB **gitignored**) → `scripts/processar_sinistros_distancia.py`
-+ `scripts/segmentar_p4_monteggia.py` → `dados/tratados/acidentes_*` → anexo/matriz.
-Reprodução: `make data` (confere o SHA-256 do bruto contra `dados/brutos/manifest.json`).
+**Base oficial (desde 24/09/2026): a da EPTC**, obtida por LAI (Pedido 17; 264.567 registros,
+2010–2026; shapefile de ~560 MB **gitignored**, não reproduzível por `make data`) →
+`scripts/processar_sinistros_eptc_distancia.py` + `scripts/segmentar_p4_monteggia.py --eptc` →
+`dados/tratados/eptc_acidentes_*` → anexo/matriz.
+
+**Evidência auxiliar:** Dados Abertos POA (CC-BY; bruto ~15 MB **gitignored**, 2020–2025, só com
+vítima) → `scripts/processar_sinistros_distancia.py` + `scripts/segmentar_p4_monteggia.py` →
+`dados/tratados/acidentes_*`. Reprodução: `make data` (confere o SHA-256 do bruto contra
+`dados/brutos/manifest.json`).
 
 ### 2. Sonda de tempos (fluidez)
 O coletor roda em **Google Cloud (Cloud Function + Scheduler)** nos picos e **commita a
@@ -66,7 +72,7 @@ volta a ser exigido).
 - Licença dupla: **MIT** (código) / **CC BY 4.0** (conteúdo). Ver [LICENSE](LICENSE).
 
 ## Fronteira público × privado — o que NUNCA vai ao repo público
-- Bruto de sinistros (~15 MB) e bruto da sonda (Google) — gitignored / repo privado.
+- Bruto de sinistros (~15 MB Dados Abertos POA; ~560 MB base EPTC) e bruto da sonda (Google) — gitignored / repo privado.
 - **Chave da Routes API** — só no ambiente da Google Cloud.
 - Nomes reais de moradores (anonimizados como Morador A/B); `interno/termos-sensiveis.txt`
   (privado) liga a checagem que bloqueia vazamento.

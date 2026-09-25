@@ -5,6 +5,10 @@ Entrada principal: `dados/tratados/acidentes_associados_distancia.csv`, ja
 filtrada na Rodada 02 por proximidade da geometria OSM. Esta rotina apenas
 projeta os registros P4 no eixo OSM da Monteggia e resume trechos entre marcos
 de intersecao observados nos proprios registros geocodificados.
+
+Com `--eptc`, usa a base oficial da EPTC (Pedido 17):
+`dados/tratados/eptc_acidentes_associados_distancia.csv`, e grava os mesmos
+arquivos com prefixo `eptc_` (mesmos marcos, para comparabilidade).
 """
 
 from __future__ import annotations
@@ -14,6 +18,7 @@ import heapq
 import json
 import math
 import statistics
+import sys
 import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -22,6 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OSM_PATH = ROOT / "dados/brutos/osm_vias_alpha_viario.json"
 ASSOCIADOS_PATH = ROOT / "dados/tratados/acidentes_associados_distancia.csv"
+EPTC_ASSOCIADOS_PATH = ROOT / "dados/tratados/eptc_acidentes_associados_distancia.csv"
 OUT_DIR = ROOT / "dados/tratados"
 
 EARTH_R = 6_371_000.0
@@ -197,9 +203,11 @@ def int_field(row: dict[str, str], name: str) -> int:
     return int(float(value.replace(",", ".")))
 
 
-def load_p4_records(axis_segments: list[dict[str, object]]) -> list[dict[str, object]]:
+def load_p4_records(
+    axis_segments: list[dict[str, object]], path: Path | None = None
+) -> list[dict[str, object]]:
     records: list[dict[str, object]] = []
-    with ASSOCIADOS_PATH.open(newline="", encoding="utf-8") as f:
+    with (path or ASSOCIADOS_PATH).open(newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             if row.get("ponto") != "P4" or row.get("associacao_principal") != "sim":
@@ -384,17 +392,18 @@ def write_csv(path: Path, rows: list[dict[str, object]], fieldnames: list[str]) 
             writer.writerow(row)
 
 
-def main() -> None:
+def main(eptc: bool = False) -> None:
+    prefix = "eptc_acidentes_p4" if eptc else "acidentes_p4"
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     axis_segments, total_length_m = build_axis()
-    records = load_p4_records(axis_segments)
+    records = load_p4_records(axis_segments, EPTC_ASSOCIADOS_PATH if eptc else None)
     markers = observed_intersection_markers(records)
     breakpoints = build_breakpoints(total_length_m)
     segment_summaries = summarize_segments(records, breakpoints)
     bin_summaries = summarize_bins(records, total_length_m)
 
     write_csv(
-        OUT_DIR / "acidentes_p4_marcos_intersecoes.csv",
+        OUT_DIR / f"{prefix}_marcos_intersecoes.csv",
         markers,
         [
             "logradouro",
@@ -405,7 +414,7 @@ def main() -> None:
         ],
     )
     write_csv(
-        OUT_DIR / "acidentes_p4_segmentos.csv",
+        OUT_DIR / f"{prefix}_segmentos.csv",
         segment_summaries,
         [
             "segmento_id",
@@ -426,7 +435,7 @@ def main() -> None:
         ],
     )
     write_csv(
-        OUT_DIR / "acidentes_p4_registros_segmentados.csv",
+        OUT_DIR / f"{prefix}_registros_segmentados.csv",
         records,
         [
             "segmento_id",
@@ -451,7 +460,7 @@ def main() -> None:
         ],
     )
     write_csv(
-        OUT_DIR / "acidentes_p4_hotspots_250m.csv",
+        OUT_DIR / f"{prefix}_hotspots_250m.csv",
         bin_summaries,
         [
             "janela_id",
@@ -481,11 +490,13 @@ def main() -> None:
             "nem validacao visual em mapa/aerofoto"
         ),
     }
-    (OUT_DIR / "acidentes_p4_segmentacao_metadata.json").write_text(
+    if eptc:
+        metadata["fonte"] = "base oficial da EPTC (Pedido 17, 22/09/2026), 2010-2026"
+    (OUT_DIR / f"{prefix}_segmentacao_metadata.json").write_text(
         json.dumps(metadata, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
 
 
 if __name__ == "__main__":
-    main()
+    main(eptc="--eptc" in sys.argv[1:])

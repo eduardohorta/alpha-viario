@@ -1,5 +1,11 @@
 # Metodologia preliminar - acidentes de trânsito
 
+> **Hierarquia das bases (decisão da comissão, 24/09/2026).** A **base oficial** de sinistros do
+> dossiê é a da **EPTC** (Rodada 04, obtida pelo Pedido 17: 264.567 registros, 2010–2026, todas as
+> ocorrências). A base **Dados Abertos POA** (Rodadas 01–03 e 05, descritas neste arquivo:
+> 2020–2025, só com vítima) permanece como **evidência auxiliar** e continua reproduzível por
+> `make data`. Ver a [Rodada 04](#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
+
 Fonte consultada: Dados Abertos POA, conjunto "Acidentes de Trânsito - Acidentes", recurso CSV/API `b56f8123-716a-4893-9348-23945f1ea1b9`. Licença **CC-BY**. Origem, URL, SHA-256 e comando de download em [`dados/brutos/manifest.json`](../brutos/manifest.json); reprodução via `make data`.
 
 Consultas realizadas em: 2026-06-04.
@@ -150,17 +156,17 @@ execução: ~34 s para 264.567 registros.
 
 **Resultado — limiar principal (100 m / 50 m conforme o ponto), 2010–2026:**
 
-| Ponto | Rodada 02 (2020–2025, c/ vítima) | Rodada 04/EPTC (2010–2026, todas) | Graves | Fatais | Motos |
+| Ponto | **Oficial:** Rodada 04/EPTC (2010–2026, todas) | Graves | Fatais | Motos | Auxiliar: Rodada 02 (2020–2025, c/ vítima) |
 |---|---:|---:|---:|---:|---:|
-| P1 | 29 | 58 | 3 | 0 | 18 |
-| P2 | 58 | 150 | 14 | 0 | 50 |
-| P3 | 44 | 136 | 12 | 0 | 57 |
-| P4 | 409 | 1.648 | 94 | 8 | 640 |
-| P5 | 71 | 311 | 6 | 0 | 57 |
-| P6 | 8 | 36 | 2 | 0 | 15 |
-| P7 | 18 | 67 | 6 | 1 | 17 |
-| P8 | 36 | 124 | 11 | 0 | 44 |
-| P9 | 17 | 55 | 6 | 1 | 26 |
+| P1 | 58 | 3 | 0 | 18 | 29 |
+| P2 | 150 | 14 | 0 | 50 | 58 |
+| P3 | 136 | 12 | 0 | 57 | 44 |
+| P4 | 1.648 | 94 | 8 | 640 | 409 |
+| P5 | 311 | 6 | 0 | 57 | 71 |
+| P6 | 36 | 2 | 0 | 15 | 8 |
+| P7 | 67 | 6 | 1 | 17 | 18 |
+| P8 | 124 | 11 | 0 | 44 | 36 |
+| P9 | 55 | 6 | 1 | 26 | 17 |
 
 Os números sobem entre 2× e 4,5× em todos os pontos. A explicação dominante é metodológica, não
 uma piora real: **janela 2,7× mais longa (16 anos contra 6)** e **inclusão de sinistros só com
@@ -184,15 +190,36 @@ checar os boletins individuais.
 
 **Limitações desta rodada (além das já listadas para a Rodada 02):**
 
-- P4 e P6 não foram resegmentados com a base nova — a Rodada 03 (segmentação do P4) segue
-  baseada na Rodada 02; refazê-la com 1.648 registros é trabalho futuro, não feito aqui.
+- P6 é rota (polilinha) e não tem segmentação por trecho. O **P4 foi resegmentado** na base da
+  EPTC (seção abaixo); a Rodada 03, baseada na Dados Abertos POA, fica como auxiliar.
 - Overlap entre pontos (mesmo sinistro perto de duas referências) não recalculado para a base
   EPTC.
 - "Fatais" é o campo mais confiável para óbitos (soma local + posterior); no dossiê público,
   preferir esse campo a "Morte" isoladamente.
-- **Decisão em aberto:** se os números da Rodada 04 substituem os da Rodada 02 nas peças já
-  aprovadas pela comissão (memorando, ofício, 13/08/2026), ou se os dois conjuntos convivem com a
-  ressalva de janela/critério.
+- **Decisão (24/09/2026):** os números da Rodada 04 (EPTC) substituem os da Rodada 02 como base
+  oficial nas peças (anexo, memorandos, ofício, matriz de problemas); os da Rodada 02 ficam como
+  evidência auxiliar, sempre identificados como tal, com a ressalva de janela e de critério
+  (16 anos e danos materiais contra 6 anos e só com vítima).
+
+**P4 resegmentado na base da EPTC (24/09/2026).** `scripts/segmentar_p4_monteggia.py --eptc`
+projeta os 1.648 registros do corredor no eixo OSM e resume os **mesmos trechos S01–S07** da
+Rodada 03 (marcos fixos, para comparabilidade):
+
+| Trecho | Extensão | Sinistros | Graves | Fatais | Motos | Rodada 03 (aux.): sinistros / graves / fatais |
+|---|---:|---:|---:|---:|---:|---|
+| S01 Cavalhada/Nonoai → Fábio Araújo Santos | 271 m | 494 | 16 | 0 | 136 | 104 / 11 / 0 |
+| S02 Fábio Araújo Santos → Otto Niemeyer | 402 m | 158 | 14 | 0 | 68 | 42 / 3 / 0 |
+| S03 Otto Niemeyer → Estr. Aracaju | 524 m | 320 | 8 | 3 | 127 | 65 / 2 / 0 |
+| S04 Estr. Aracaju → Rua Amapá | 277 m | 122 | 12 | 1 | 70 | 44 / 3 / 1 |
+| S05 Rua Amapá → Estr. João Vedana | 460 m | 193 | 11 | 2 | 74 | 48 / 4 / 0 |
+| S06 Estr. João Vedana → Estr. João Passuelo | 710 m | 248 | 25 | 2 | 116 | 67 / 9 / 1 |
+| S07 Estr. João Passuelo → Av. João Salomoni / Rodrigues da Fonseca | 257 m | 113 | 8 | 0 | 49 | 39 / 4 / 0 |
+| **Total** | 2.901 m | **1.648** | **94** | **8** | **640** | 409 / 36 / 2 |
+
+Leitura: o **S06** continua o trecho com mais graves (25) e o **S03** passa a concentrar mais
+fatais (3, dos 8); o **S01** tem a maior densidade (1.823 ocorrências/km), provavelmente dominada
+pelo entroncamento com a Av. Cavalhada/Nonoai, com poucos graves — a validar em vistoria. Os
+trechos são projeções em marcos aproximados, não base cadastral (limite herdado da Rodada 03).
 
 **Arquivos desta rodada:**
 
@@ -204,6 +231,9 @@ checar os boletins individuais.
 - `dados/tratados/eptc_acidentes_associados_distancia.csv` — registros individuais associados,
   9 pontos.
 - `dados/tratados/eptc_acidentes_distancia_metadata.json` — metadados da extração completa.
+- `dados/tratados/eptc_acidentes_p4_{segmentos,marcos_intersecoes,registros_segmentados,hotspots_250m}.csv`
+  e `eptc_acidentes_p4_segmentacao_metadata.json` — P4 por trecho na base da EPTC.
 
-Nenhum dos dois scripts é reexecutável sem o DBF bruto local (gitignored); servem como registro
-auditável do método, não como pipeline reproduzível via `make data`.
+Os dois scripts de extração não são reexecutáveis sem o DBF bruto local (gitignored); servem como
+registro auditável do método, não como pipeline reproduzível via `make data`. Já a segmentação do
+P4 (`--eptc`) é reexecutável a partir do CSV versionado `eptc_acidentes_associados_distancia.csv`.

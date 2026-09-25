@@ -67,5 +67,24 @@ class TestReproducaoP4(unittest.TestCase):
             _compare(d, P4_OUTPUTS, self)
 
 
+P4_EPTC_OUTPUTS = [n.replace("acidentes_p4", "eptc_acidentes_p4") for n in P4_OUTPUTS]
+
+
+class TestReproducaoP4Eptc(unittest.TestCase):
+    """P4 por trecho na base oficial da EPTC — usa só o CSV associado versionado."""
+
+    def test_outputs_identicos(self):
+        import segmentar_p4_monteggia as seg
+
+        orig = seg.OUT_DIR
+        with tempfile.TemporaryDirectory() as d:
+            seg.OUT_DIR = pathlib.Path(d)
+            try:
+                seg.main(eptc=True)
+            finally:
+                seg.OUT_DIR = orig
+            _compare(d, P4_EPTC_OUTPUTS, self)
+
+
 if __name__ == "__main__":
     unittest.main()
