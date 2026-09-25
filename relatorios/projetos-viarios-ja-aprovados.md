@@ -166,9 +166,12 @@ sugerem que o decreto de 2024 **refez uma declaração que caducou** (o que seri
 intervalo de um ano do art. 10 do DL 3.365), leitura que **segue sem confirmação**. A situação de
 cada processo está em [Acesso externo ao SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 
-*Nota sobre datas:* o DOPA publicou os decretos 20.859, 20.860 e 20.861 em **edição extra de
-23/12/2020** (ed. 6410). A PGM, porém, registra **28/12/2025** como data da caducidade do P6, uma
-diferença de cinco dias que os documentos lidos não explicam.
+*Nota sobre datas:* o DOPA disponibilizou os decretos 20.859, 20.860 e 20.861 em **edição extra de
+23/12/2020** (ed. 6410). Na petição inicial do eixo/P1 (obtida em 25/09/2026), a PGM escreve que o
+20.861 foi "disponibilizado no dia 23 de dezembro de 2020 (publicado em 28/12/2020)", citando a Lei
+nº 11.029/2011. É essa contagem que explica que a PGM dê **28/12/2025** como data da caducidade do
+P6. Nas comparações abaixo, quando só se conhece a data de disponibilização, ela é usada como
+referência (é a mais antiga, portanto a mais rigorosa).
 
 ### 3. ⚠️ Os decretos podem ter caducado em 23/12/2025 — a confirmar
 
@@ -875,18 +878,18 @@ técnica, é uma escolha de escopo.
 
 | Processo (FC) | Ponto | Decreto | Área atingida | Situação e último ato |
 |---|---|---|---|---|
-| **077** (8040) | eixo/P1 | 20.861/2020 | 429,08 m² | Ação distribuída em 19/12/2025, antes do quinquênio. Sem movimentação administrativa entre 14/01/2026 e 24/09/2026. |
+| **077** (8040) | eixo/P1 | 20.861/2020 | 429,08 m² | Ação distribuída em 19/12/2025, dentro do prazo (a PGM conta até 28/12/2025), **sem pedido de imissão provisória na posse**. Sem movimentação administrativa entre 14/01/2026 e 24/09/2026. |
 | **092** (8058) | P7, alça | 20.860/2020 | 1.334,07 m² | Concluído por acordo em 2025 (Pedido 9). Não foi objeto deste acesso. |
-| **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, **um dia antes** do fim do quinquênio do decreto (27/11/2020); empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). |
-| **094** (8060) | P7, alça | 22.570/2024 | 28,33 m² | Minuta de acordo em abr/2025; ação proposta em 08/07/2026. Decreto válido até cerca de 03/2029. |
+| **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, **na véspera** de completar cinco anos da disponibilização do decreto no DOPA (27/11/2020); empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). |
+| **094** (8060) | P7, alça | 22.570/2024 | 28,33 m² | Minuta de acordo em abr/2025, sem êxito segundo a própria petição inicial; ação proposta em 08/07/2026, **sem pedido de imissão provisória na posse**. Decreto válido até cerca de 03/2029. |
 | **101** (8067) | P6 | 20.859/2020 | 1.806,73 m² | **Decreto caducou em 28/12/2025.** Sem petição nem minuta de novo decreto; a PGM programa reabrir em dez/2026. |
 
 Dos cinco decretos hoje conhecidos, **só o do P6 caducou**: os demais foram cumpridos por acordo,
 ajuizados dentro do prazo ou ainda estão no prazo. Dois foram cumpridos no limite: a escritura do
-093 é de 26/11/2025, e o quinquênio vencia em 27/11/2025; a ação do eixo/P1 foi distribuída em
-19/12/2025, quatro dias antes do fim do prazo contado da publicação de 23/12/2020. A ação do 094 foi proposta bem depois da minuta
-de acordo, o que indica que o acordo não se concretizou (inferência; os motivos estão em
-documentos restritos).
+093 é de 26/11/2025, na véspera de cinco anos da disponibilização do decreto (27/11/2020); a ação do
+eixo/P1 foi distribuída em 19/12/2025, quatro dias antes de cinco anos da disponibilização
+(23/12/2020) e nove dias antes do prazo que a PGM conta a partir da publicação (28/12/2020). Na petição inicial do 094 (obtida em 25/09/2026), a PGM afirma que "foram infrutíferas as
+tentativas de formalização de acordo extrajudicial"; os motivos não constam.
 
 ### 2. O que os laudos de 2025 mostram
 
@@ -895,7 +898,8 @@ São oito laudos, da divisão de avaliação de imóveis da SMF (fev–out/2025)
 atingida**: são faixas de alargamento em terrenos cercados e vegetados, junto à via.
 
 Ordem de grandeza (ref. 2025, terreno mais benfeitorias): **eixo/P1, abaixo de R$ 50 mil**; as
-duas parcelas da alça (093 e 094), **cerca de R$ 20 mil juntas**; **P6, entre R$ 100 mil e
+duas parcelas da alça (093 e 094), **entre R$ 20 mil e R$ 25 mil juntas** (a oferta da petição do 094,
+de jul/2026, atualiza o laudo de 2025); **P6, entre R$ 100 mil e
 R$ 200 mil**. Os quatro processos somam **entre R$ 200 mil e R$ 250 mil**, sem contar o 092. É um
 **teto, não uma previsão**: o laudo do P6 avalia toda a área do decreto, e a PGM quer excluir
 áreas já consolidadas como públicas (item 3).
@@ -937,17 +941,47 @@ débitos do imóvel ou dos proprietários, pelos títulos e pelas unidades emiss
 Não têm relação aparente com a Cláusula Nona. Estão sob sigilo fiscal (art. 198 do CTN) e não
 foram disponibilizados.
 
-### 5. O que não foi liberado e o encaminhamento
+### 5. Petições iniciais das duas ações (liberadas em 25/09/2026)
 
-Ficaram de fora (os textos dos decretos 20.808/2020 e 22.570/2024 não vieram pelo SEI, mas foram
-lidos no DOPA): as **petições iniciais** do 094 e o **processo judicial digitalizado** do 077 (item (c) do Pedido
-16); o **Parecer 985/1997** e a **Informação 4084/2022** (item (b)); a escritura e os e-mails do
-093, marcados como "documento preparatório" com restrição temporária (art. 7º, §3º da LAI), que
-em tese perde razão de ser quando o ato decisório se consuma; e o processo 092, não acessado.
-Encaminhamento: a PGM disse que os documentos com dados pessoais serão tarjados e liberados
-depois, **sem prazo**. O reexame do Pedido 16 (art. 22 do Decreto Municipal 19.990/2018) tem prazo
-de 10 dias da resposta, isto é, até 04/10/2026; se a liberação não vier até lá, cabe reexame para
-os itens (b), (c) e (d). O acesso atual vence em **24/10/2026**.
+Em 25/09/2026 a PGM liberou, no seu processo interno do SIC (SEI 26.0.000115687-9), as petições
+iniciais tarjadas: a do eixo/P1 (em três partes, com os anexos) e a do 094. Nomes dos réus e outros
+dados pessoais estão tarjados. As duas seguem o mesmo modelo: pedem a **citação** dos réus (art. 16
+do DL 3.365, inclusive para o art. 34-A), a **procedência com a indenização fixada no valor
+ofertado** e a produção de provas, e **não pedem imissão provisória na posse** (a capa do processo
+marca "antecipação de tutela: não requerida").
+
+- **Eixo/P1 (5327233-72.2025.8.21.0001):** autuada em 19/12/2025 no 1º Juízo da 2ª Vara da Fazenda
+  Pública. O valor da causa é igual à oferta, feita sobre os laudos de out/2025 (abaixo de R$ 50 mil
+  no total). A inicial informa que o Decreto 20.861 foi "disponibilizado no dia 23 de dezembro de
+  2020 (publicado em 28/12/2020)", origem da contagem de 28/12/2025. Anexa o decreto, certidões de
+  matrícula, os laudos de avaliação e de benfeitorias, um croqui e o comprovante de inscrição de
+  uma empresa que figura entre os réus (o TJRS já mostrava treze pessoas físicas e uma empresa).
+- **Alça do P7, parcela do 094 (5194093-05.2026.8.21.0001):** distribuída em 08/07/2026 no 2º Juízo
+  da 3ª Vara da Fazenda Pública. O valor da causa é igual à oferta, atualizada em jul/2026 em
+  relação ao laudo de 2025. A inicial diz que o Decreto 22.570 foi disponibilizado em 19/03/2024 e
+  que "foram infrutíferas as tentativas de formalização de acordo extrajudicial". Os anexos que
+  cita (certidão, memoriais, croqui e laudo) não vieram.
+
+Sem imissão provisória nas duas ações, o Município só terá a posse das áreas quando elas avançarem
+ou se pedir a imissão depois, o que a PGM já dissera ao Pedido 9 ("momento oportuno, em consonância
+com o cronograma de obras"). Para o eixo e para a alça, portanto, a obra depende do andamento de
+duas ações judiciais, e não só da declaração de utilidade pública.
+
+### 6. O que não foi liberado e o encaminhamento
+
+As **petições iniciais** das duas ações (item (c) do Pedido 16) foram liberadas depois, em
+25/09/2026, por novo acesso ao processo interno do SIC da PGM (SEI 26.0.000115687-9, até
+25/10/2026). Os textos dos decretos 20.808/2020 e 22.570/2024 não vieram pelo SEI, mas foram lidos
+no DOPA. Ficaram de fora: o **Parecer 985/1997** e a **Informação 4084/2022** (item (b)); o
+cronograma dos quatro processos (item (d)); a escritura e os e-mails do 093, marcados como
+"documento preparatório" com restrição temporária (art. 7º, §3º da LAI), que em tese perde razão de
+ser quando o ato decisório se consuma; e o processo 092, não acessado.
+
+Encaminhamento: a PGM disse que os documentos com dados pessoais seriam tarjados e liberados
+depois, e começou a cumprir em menos de 24 horas. O reexame do Pedido 16 (art. 22 do Decreto
+Municipal 19.990/2018) tem prazo de 10 dias da resposta, isto é, até 04/10/2026; se o restante não
+vier até lá, cabe reexame apenas para os itens (b) e (d). O acesso ao SEI dos quatro processos vence
+em **24/10/2026**, e o ao processo do SIC, em **25/10/2026**.
 
 ## Relação com os pontos do projeto
 

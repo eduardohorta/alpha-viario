@@ -68,9 +68,9 @@
   — o novo decreto não sai antes de 29/12/2026; (iv) a GEAR/PGM confirmou em 28/03/2025 que **não
   houve novos aditivos** e que as obrigações do empreendedor permanecem; (v) os empenhos de 2020,
   que o dossiê tomava por pagamento inicial, eram **emolumentos do Registro de Imóveis**. Os quatro
-  laudos somam, em ordem de grandeza, entre R$ 200 mil e R$ 250 mil (teto, sem o 092). Faltam
-  as petições, o processo judicial do 077 e os pareceres citados (a PGM promete liberá-los
-  tarjados, sem prazo; reexame do Pedido 16 até 04/10 se não vierem). Detalhe
+  laudos somam, em ordem de grandeza, entre R$ 200 mil e R$ 250 mil (teto, sem o 092). Em
+  25/09 a PGM liberou também as petições iniciais das duas ações; faltam os pareceres citados e
+  o cronograma (reexame do Pedido 16 até 04/10 se não vierem). Detalhe
   em [projetos viários documentados](projetos-viarios-ja-aprovados.md#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 - **Confirmado por consulta direta ao TJRS (21/08/2026):** a ação do eixo/P1 envolve **treze réus
   e uma empresa** (indício de imóvel em condomínio/herança, o que explica a dificuldade de

@@ -765,6 +765,13 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   do Decreto 19.990/2018), isto é, até **04/10/2026** (domingo; na prática, sexta 02/10); a
   autoridade responde em 10 dias, improrrogável (art. 23). Se a liberação prometida não vier até lá,
   apresentar o reexame, com os números SEI dos documentos que faltam.
+  **Atualização (25/09/2026):** a promessa começou a ser cumprida menos de 24 horas depois. A PGM
+  abriu, às 16h00, novo acesso externo (30 dias, até 25/10/2026) ao seu **processo interno do SIC**
+  (SEI 26.0.000115687-9), com as **petições iniciais tarjadas das duas ações**: a do 094
+  (5194093-05.2026.8.21.0001) e a do eixo/P1 (5327233-72.2025.8.21.0001, em três partes). Isso
+  atende o item (c). **Restam sem resposta** o Parecer 985/1997 e a Informação 4084/2022 (item b) e
+  o cronograma dos quatro processos (item d); o reexame, se necessário, fica restrito a eles. O
+  conteúdo está em [Acesso externo ao SEI](projetos-viarios-ja-aprovados.md#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 
 ---
 
@@ -787,7 +794,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 24/09/2026) — derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
-| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM diz que os demais "serão tarjados" e liberados depois, sem prazo; reexame até 04/10/2026 se não vierem — derivado do Pedido 8 |
+| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); reexame até 04/10/2026 — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **aguardando reexame** (apresentado 22/09/2026) — SMF pediu complementação, fornecida com os 4 itens; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
