@@ -25,8 +25,9 @@
       de capacidade da Cristiano Kraemer), sem detalhe de condomínio.
 - [x] **Questionário:** **em espera** (não é condição do protocolo).
 - [x] **Sensibilidade (o que tornar público):** itens 1–5 **privados por ora** (peças em versão
-      conservadora); material de contextualização **restrito aos membros**; **repositório privado**;
-      sinistros **só agregados**.
+      conservadora); material de contextualização **restrito aos membros**; **repositório público** (os membros
+      acessam sem login no GitHub; o cuidado é com dados pessoais de terceiros e documentos não
+      públicos, que ficam fora do Git, em `interno/` e `retornos-protocolos/`); sinistros **só agregados**.
 - [x] **Termos sensíveis:** `interno/termos-sensiveis.txt` **criado**
       — ⚠️ **preencher com os nomes reais** (proprietários desapropriados / moradores) antes do protocolo.
 
