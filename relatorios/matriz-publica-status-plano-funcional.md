@@ -27,7 +27,7 @@
 - **Confirmado pelas respostas LAI (jul/2026):** o **projeto do P7** (Três Meninas × Costa Gama) foi **obtido** — 1ª etapa e solução definitiva, com conector a oeste — e **caducou** (Dec. 20.659/2020); o saldo das obrigações e as desapropriações estão com a **PGM**.
 - **Confirmado pela documentação da administração do Alphaville (07/08/2026):**
   - a **"alça de ligação"** do P7 está nomeada no **Decreto nº 20.860/2020** — não é mais denominação comunitária;
-  - **três decretos de utilidade pública** (23/12/2020) alcançam P6, P7 e o eixo (o SEI revelou depois mais dois, de 08/12/2020 e 19/03/2024, para outras parcelas da alça do P7);
+  - **três decretos de utilidade pública** (23/12/2020) alcançam P6, P7 e o eixo (o SEI revelou depois mais dois, de 27/11/2020 e 19/03/2024, para outras parcelas da alça do P7);
   - o **Termo de Compromisso não tem prazo de validade**: o 1º aditivo (2012) **suprimiu** a cláusula de validade de 30 meses **e** a que desobrigaria o empreendedor por atraso nas imissões de posse;
   - o **quadro de execução** (Parecer CTAAPS 093/2020) mostra 1º trecho só em 1ª etapa, 3º trecho com ~300 m estreitados, e **nenhuma** das 2ªs fases de interseção implantada;
   - a própria **EPTC recomendou em 2020 revisar os projetos** por decurso de tempo.

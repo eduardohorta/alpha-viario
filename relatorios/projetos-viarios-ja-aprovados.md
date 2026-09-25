@@ -150,19 +150,25 @@ Isso responde, pela via documental, o que a SMOI/DPOV declarou **não deter** (s
 desapropriações) e que foi perguntado à PGM no [Pedido 8](pedidos-informacao-lai.md).
 
 **Atualização (24/09/2026): há mais dois decretos, para imóveis vizinhos da alça do P7.** O acesso
-externo ao SEI mostrou que os processos 093 e 094 têm decreto próprio; não são apenas "parcelas"
-do Decreto 20.860:
+externo ao SEI mostrou que os processos 093 e 094 têm decreto próprio, e o texto dos dois, lido no
+Diário Oficial de Porto Alegre (DOPA), confirma; não são apenas "parcelas" do Decreto 20.860:
 
-| Decreto | Imóvel | Área | Processo | Ponto |
+| Decreto | Imóvel (segundo o decreto) | Área | Processo | Ponto |
 |---|---|---|---|---|
-| **20.808/2020** (08/12/2020) | Estr. das Três Meninas, alça de ligação com a Costa Gama (Belém Velho) | 48,02 m² | 002.079093.09.4 (FC 8059) | **P7** |
-| **22.570/2024** (19/03/2024) | Estr. das Três Meninas, alça de ligação com a Costa Gama (Belém Velho) | 28,33 m² | 002.079094.09.0 (FC 8060) | **P7** |
+| **20.808/2020** (27/11/2020; DOPA ed. 6392) | Estr. Costa Gama, atingido pela **alça de ligação** entre a Costa Gama e a Três Meninas (Belém Velho) | 48,02 m² | 002.079093.09.4 (FC 8059) | **P7** |
+| **22.570/2024** (19/03/2024; DOPA ed. 7219) | Estr. Costa Gama, atingido pelo alargamento da Três Meninas (Belém Velho) | 28,33 m² | 002.079094.09.0 (FC 8060) | **P7** |
 
-O texto dos dois decretos não foi lido (no SEI consta só o título). No processo 094, uma "minuta
-– decreto 2017" (set/2022) e um intervalo de 13 meses antes da nova minuta (jan/2024) sugerem que o
-decreto de 2024 **refez uma declaração anterior que caducou**, o que seria compatível com o
-intervalo de um ano do art. 10 do DL 3.365. É leitura provável, a confirmar. A situação de cada
-processo está em [Acesso externo ao SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
+Ambos declaram o imóvel de utilidade pública "por ser necessário" ao "alargamento viário
+projetado da Estrada das Três Meninas" e entram em vigor na publicação. O 20.808 nomeia a "alça de
+ligação", como o 20.860. Nenhum dos dois textos cita declaração anterior; no processo 094, uma
+"minuta – decreto 2017" (set/2022) e um intervalo de 13 meses antes da nova minuta (jan/2024)
+sugerem que o decreto de 2024 **refez uma declaração que caducou** (o que seria compatível com o
+intervalo de um ano do art. 10 do DL 3.365), leitura que **segue sem confirmação**. A situação de
+cada processo está em [Acesso externo ao SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
+
+*Nota sobre datas:* o DOPA publicou os decretos 20.859, 20.860 e 20.861 em **edição extra de
+23/12/2020** (ed. 6410). A PGM, porém, registra **28/12/2025** como data da caducidade do P6, uma
+diferença de cinco dias que os documentos lidos não explicam.
 
 ### 3. ⚠️ Os decretos podem ter caducado em 23/12/2025 — a confirmar
 
@@ -221,9 +227,9 @@ Os decretos foram publicados em **23/12/2020**; o gatilho, portanto, ocorreu, e 
 por volta de **07/01/2021**. Se o depósito foi feito, há recurso vinculado às desapropriações
 do eixo; se não foi, há crédito municipal a cobrar. **A confirmar com a PGM/SMF.**
 
-*Nota (24/09/2026):* o primeiro dos decretos hoje conhecidos é o **20.808/2020, de 08/12/2020**
+*Nota (24/09/2026):* o primeiro dos decretos hoje conhecidos é o **20.808/2020, de 27/11/2020**
 (ver §2). Se o gatilho da cláusula for o primeiro decreto, e não o de 23/12/2020, o prazo do
-depósito teria vencido já em dezembro de 2020. E a soma dos laudos de 2025 dos quatro processos
+depósito (15 dias após a publicação) teria vencido já em meados de dezembro de 2020. E a soma dos laudos de 2025 dos quatro processos
 lidos tem a mesma ordem de grandeza dos R$ 200 mil (ver [Acesso externo ao
 SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação)).
 
@@ -870,12 +876,14 @@ técnica, é uma escolha de escopo.
 |---|---|---|---|---|
 | **077** (8040) | eixo/P1 | 20.861/2020 | 429,08 m² | Ação distribuída em 19/12/2025, antes do quinquênio. Sem movimentação administrativa entre 14/01/2026 e 24/09/2026. |
 | **092** (8058) | P7, alça | 20.860/2020 | 1.334,07 m² | Concluído por acordo em 2025 (Pedido 9). Não foi objeto deste acesso. |
-| **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, antes do quinquênio do decreto de 08/12/2020; empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). |
+| **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, **um dia antes** do fim do quinquênio do decreto (27/11/2020); empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). |
 | **094** (8060) | P7, alça | 22.570/2024 | 28,33 m² | Minuta de acordo em abr/2025; ação proposta em 08/07/2026. Decreto válido até cerca de 03/2029. |
 | **101** (8067) | P6 | 20.859/2020 | 1.806,73 m² | **Decreto caducou em 28/12/2025.** Sem petição nem minuta de novo decreto; a PGM programa reabrir em dez/2026. |
 
 Dos cinco decretos hoje conhecidos, **só o do P6 caducou**: os demais foram cumpridos por acordo,
-ajuizados dentro do prazo ou ainda estão no prazo. A ação do 094 foi proposta bem depois da minuta
+ajuizados dentro do prazo ou ainda estão no prazo. Dois foram cumpridos no limite: a escritura do
+093 é de 26/11/2025, e o quinquênio vencia em 27/11/2025; a ação do eixo/P1 foi distribuída em
+19/12/2025, quatro dias antes do fim do prazo contado da publicação de 23/12/2020. A ação do 094 foi proposta bem depois da minuta
 de acordo, o que indica que o acordo não se concretizou (inferência; os motivos estão em
 documentos restritos).
 
@@ -930,8 +938,8 @@ foram disponibilizados.
 
 ### 5. O que não foi liberado e o encaminhamento
 
-Ficaram de fora: o **texto dos decretos** 20.808/2020 e 22.570/2024 (só no Diário Oficial); as
-**petições iniciais** do 094 e o **processo judicial digitalizado** do 077 (item (c) do Pedido
+Ficaram de fora (os textos dos decretos 20.808/2020 e 22.570/2024 não vieram pelo SEI, mas foram
+lidos no DOPA): as **petições iniciais** do 094 e o **processo judicial digitalizado** do 077 (item (c) do Pedido
 16); o **Parecer 985/1997** e a **Informação 4084/2022** (item (b)); a escritura e os e-mails do
 093, marcados como "documento preparatório" com restrição temporária (art. 7º, §3º da LAI), que
 em tese perde razão de ser quando o ato decisório se consuma; e o processo 092, não acessado.
