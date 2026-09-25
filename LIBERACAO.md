@@ -27,7 +27,9 @@
 - [x] **Sensibilidade (o que tornar público):** itens 1–5 **privados por ora** (peças em versão
       conservadora); material de contextualização **restrito aos membros**; **repositório público** (os membros
       acessam sem login no GitHub; o cuidado é com dados pessoais de terceiros e documentos não
-      públicos, que ficam fora do Git, em `interno/` e `retornos-protocolos/`); sinistros **só agregados**.
+      públicos, que ficam fora do Git, em `interno/` e `retornos-protocolos/`); sinistros: **dados
+      abertos** (Dados Abertos POA e base da EPTC obtida por LAI), que podem ser publicados também por
+      registro, por serem anônimos (sem identidade de vítimas).
 - [x] **Termos sensíveis:** `interno/termos-sensiveis.txt` **criado**
       — ⚠️ **preencher com os nomes reais** (proprietários desapropriados / moradores) antes do protocolo.
 
