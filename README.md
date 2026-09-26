@@ -2,10 +2,14 @@
 
 Projeto comunitário para propor melhorias viárias no entorno do Alphaville Porto Alegre (Estr. das Três Meninas, bairro **Vila Nova**), com qualidade técnica para apresentação à **Prefeitura de Porto Alegre (EPTC/SMMU)**. **Todas as vias são municipais.**
 
-## Status atual — 2026-09-01
-**Fase 0 madura.** Concluídos: revisão documental (Etapa 1), leitura dos expedientes administrativos do Alphaville, base de sinistros (com P4 segmentado), matriz dos pontos, avaliação das soluções, peças externas e instrumentos de coleta. Os expedientes confirmam o Plano Funcional, obrigações para o eixo Três Meninas e execução parcial; **desenhos vigentes e status atual ainda dependem de confirmação municipal**. Os pedidos LAI 1–7 foram protocolados em 10/07/2026; os **Pedidos 2 e 3 já foram respondidos (21/07)** — o **projeto do P7 (Três Meninas × Costa Gama) foi obtido e está caducado** (Dec. 20.659/2020), o que desdobrou o **Pedido 8 à PGM** (protocolado em 22/07, nº 017520-26-22). Em **07/08** a administração do Alphaville repassou à comissão o **Termo de Compromisso integral, seus aditivos, o Parecer CTAAPS nº 093/2020 e três decretos de desapropriação de 23/12/2020** — o que confirmou a **"alça de ligação" do P7 em ato normativo**, mostrou que as **2ªs fases das interseções de P1, P6 e P7 nunca foram implantadas** e que o **TC não tem prazo de validade**; ver [projetos viários documentados](relatorios/projetos-viarios-ja-aprovados.md). Daí os **Pedidos 9 e 10**, protocolados em 07/08 (nº 017700-26-00 e 017701-26-68): efetivação das desapropriações e depósito da Cláusula Nona; mapa das desapropriações e atualização do Parecer CTAAPS 093/2020. A [sonda de tempos](campo/sonda-tempos-google.md) é executada por serviços Google Cloud e encaminha seus registros ao repositório privado `alpha-viario-sonda`; ela forma, com os sinistros e as LAIs, a evidência prévia deste ciclo. **Não há mobilização para coleta física ou questionário; ambos ficam em espera e não bloqueiam o protocolo.** O pedido à EPTC é justamente de dados e vistoria técnica. **Governança automatizada:** cadastro canônico de pontos, `public-check`, build do pacote e manifesto de dados (ver [Cadastro e governança](#cadastro-e-governança)).
+## Status atual — 2026-09-25
+A base oficial do dossiê é a **EPTC**, obtida pelo Pedido 17 (01/01/2010–09/09/2026); Dados Abertos POA (01/01/2020–31/08/2025) permanece como auxiliar. **Ambas contêm registros com e sem vítimas registradas.** A [reconciliação por ID na janela comum](dados/tratados/sinistros_reconciliacao.md) distingue diferenças de cobertura e coordenadas. Não interpretar a comparação dos totais como tendência de segurança.
 
-**Atualização de 01/09:** o **Pedido 9** respondeu parcialmente: a PGM informa conclusão por acordo em 2025 do imóvel diretamente referido no Decreto 20.860/P7, ação judicial sem imissão provisória para o eixo (Três Meninas 1085) e caducidade da DUP do P6 em 28/12/2025; o depósito da Cláusula Nona foi remetido à SMF, onde o **Pedido 18** foi protocolado no mesmo dia (nº **018008-26-10**, prazo 21/09). A relação entre os processos fundiários do P7 citados nas respostas dos Pedidos 8 e 9 permanece a reconciliar.
+A trilha LAI soma **23 pedidos protocolados**. A situação atual está no [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento): Pedido 14 sem resposta registrada; 16 com documentos ainda faltantes; 18 em reexame; 19, 20, 22 e 23 aguardando resposta. O 21 foi respondido em 16/09. A documentação de 24–25/09 reconcilia as parcelas fundiárias do P7; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes (P6), não ao P1.
+
+**Reunião:** a comissão está preparando a ata, conforme informação recebida em 25/09; será incorporada quando disponibilizada. Não antecipar suas deliberações. As decisões documentadas de 13/08 permanecem como referência. **A data e o comprovante do protocolo principal ainda não estão confirmados neste repositório.**
+
+A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregados são estimativas descritivas e a comparação R05/R06 mede assimetria entre sentidos, não o efeito isolado da alça. A continuidade posterior da coleta e as cotas de produção precisam de conferência no ambiente privado. Coleta física e questionário seguem em espera e não bloqueiam o protocolo.
 
 **Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`). **Inspeção nova? Comece pela** [ARQUITETURA.md](ARQUITETURA.md) — como as peças (dois repositórios, fluxos de dado, governança) se encaixam.
 
@@ -21,7 +25,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 6. **P6** — Acesso à Av. Dr. Vergara (rota de chão batido Florestan/Kanazawa)
 7. **P7** — Acesso à Estr. Costa Gama, sem conversão à esquerda
 8. **P8** — Semáforo Estr. Costa Gama × Estr. Afonso Lourenço Mariante
-9. **P9** *(preliminar)* — Rótula da Vila Nova (Estr. Cristiano Kraemer), da demanda D4
+9. **P9** *(preliminar)* — Entroncamento Rua Santuário × Av. Oscar Pereira (decisão de 13/08; pin de 14/08). A antiga referência da rótula permanece apenas no histórico de D4
 
 ## Índice de documentos
 
@@ -66,7 +70,7 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - [consultas/respostas/README.md](consultas/respostas/README.md) — **pipeline de tabulação das respostas** (`make respostas`)
 
 **Dados (sinistros)**
-- [dados/tratados/acidentes_resumo_distancia_pontos.csv](dados/tratados/acidentes_resumo_distancia_pontos.csv) — **resumo refinado por ponto**
+- [dados/tratados/acidentes_resumo_distancia_pontos.csv](dados/tratados/acidentes_resumo_distancia_pontos.csv) — **resumo auxiliar por ponto**; [resumo oficial EPTC](dados/tratados/eptc_acidentes_resumo_distancia_pontos.csv) e [reconciliação](dados/tratados/sinistros_reconciliacao.md)
 - [dados/tratados/acidentes_metodologia.md](dados/tratados/acidentes_metodologia.md) · [revisão manual](dados/tratados/acidentes_revisao_manual_notas.md)
 - [scripts/processar_sinistros_distancia.py](scripts/processar_sinistros_distancia.py)
 - [Segmentação do P4](dados/tratados/acidentes_p4_segmentos.csv) · [hot spots](dados/tratados/acidentes_p4_hotspots_250m.csv) · [script](scripts/segmentar_p4_monteggia.py)
@@ -94,11 +98,11 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 - **Escopo (contribuição comunitária):** além de circulação/segurança, investigar **drenagem/alagamento**; os impactos alcançam também o Terraville e demais usuários da região.
 
 ## Próximos passos
-Detalhe, dependências e datas-alvo: [ROTEIRO.md](ROTEIRO.md). Em síntese (trilhas paralelas):
-1. **Acompanhar os [pedidos LAI](relatorios/pedidos-informacao-lai.md)** — **18 protocolados**: **1, 2, 3, 4, 5, 6, 7 e 8 já responderam** (1 e 5, parciais — o 1 sobre sinalização migrada à SMMU, o 5 sobre a Av. Monte Cristo com o nó do P2 encaminhado à EPTC); **9 respondeu parcialmente em 01/09** e originou o **Pedido 18 à SMF** (018008-26-10, prazo 21/09); 10 está prorrogado até 10/09; 11 vence 02/09; 12–15 vencem 08/09 (o 15 desdobra o 1, à SMMU); 16–17 vencem 14/09 (desdobram os Pedidos 8 e 7). Incorporar as respostas à matriz conforme chegarem.
-2. **Manter e consolidar a sonda** após 2–4 semanas: agregados por rota, horário, atraso e assimetria, com metodologia e limitações declaradas.
-3. **Validar o pacote com a comissão em 13/8** ([guia](relatorios/guia-validacao-comissao.md)) e obter assinatura/canal ([LIBERACAO.md](LIBERACAO.md)).
-4. **Protocolar na EPTC** dentro da janela da LOA 2027 (meta: **01/set**, para dar tempo às respostas LAI ainda em prazo), solicitando os dados e a vistoria técnica que complementam a evidência já disponível.
+1. Incorporar a ata que a comissão está preparando, quando disponibilizada.
+2. Acompanhar as pendências LAI no [registro atualizado](relatorios/pedidos-informacao-lai.md#acompanhamento), sem repetir pedidos já respondidos.
+3. Confirmar a situação do protocolo principal, seu comprovante e o encaminhamento técnico; usar [LIBERACAO.md](LIBERACAO.md) antes de novo envio.
+4. Validar os pontos em base municipal/vistoria e conferir o enquadramento territorial do novo P9; a consulta de julho usava o antigo ponto.
+5. Manter os agregados e as sínteses documentais atualizados, com janela e limites explícitos.
 
 ## Licença
 Licenciamento duplo — **código** (`scripts/`, `tests/`, `Makefile`, `.github/`) sob **MIT**; **conteúdo** (textos, questionários, dados próprios) sob **CC BY 4.0**. Dados de terceiros mantêm suas licenças. Ver [LICENSE](LICENSE).

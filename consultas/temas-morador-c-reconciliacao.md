@@ -4,7 +4,7 @@
 
 | Tema do Morador C | Cobertura atual | Pontos/dimensoes relacionados | Gap / encaminhamento |
 |---|---|---|---|
-| 1. Estrada das Tres Meninas e acessos diretos | Parcialmente coberto | P1, P6, P7, P9; D1-D4 | O corredor e varios acessos constam dos compromissos administrativos. Mapear o executado e confrontar geometria, passeios, drenagem e retornos com a situacao atual. |
+| 1. Estrada das Tres Meninas e acessos diretos | Parcialmente coberto | P1, P6, P7; D1-D4 | O corredor e varios acessos constam dos compromissos administrativos. Mapear o executado e confrontar geometria, passeios, drenagem e retornos com a situacao atual. |
 | 2. Rotula da Tres Meninas com Cristiano Kraemer | Coberto | P1 | A intersecao consta expressamente do Plano Funcional/aditamento. Confirmar projeto vigente, execucao e adequacao ao problema atual; coletar foto/video e fila. |
 | 3. Trevo Cristiano Kraemer, Belem Velho e Monte Cristo | Coberto | P2 | Manter duas trilhas: sinergia com PSVS/Monte Cristo e status do Plano Funcional. Validar status atual com EPTC. |
 | 4. Acesso a Av. Vicente Monteggia | Coberto | P3 | O documento trata Rodrigues da Fonseca no no de sinalizacao, mas nao comprova cobertura do acesso especifico a Monteggia. Coletar tempos de espera e conflitos de entrada. |
@@ -20,4 +20,4 @@
 - Os temas 1, 8, 9 e 10 sao dimensoes transversais, nao pontos isolados.
 - Drenagem deve ser inventariada em camada propria, com localizacao e evidencia visual.
 - As referencias internas de condominio usadas nas demandas D1-D4 devem ser convertidas em coordenadas ou logradouros publicos antes de qualquer envio externo.
-- D2 e D3 continuam condicionadas ao filtro de beneficio publico; D4 ja tem tratamento mais adequado como P9 preliminar.
+- D2 e D3 continuam condicionadas ao filtro de beneficio publico; D4 permanece como demanda histórica da rótula da Vila Nova; o P9 atual é Rua Santuário × Av. Oscar Pereira, adotado em 13/08/2026.

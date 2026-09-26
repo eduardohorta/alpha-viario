@@ -2,9 +2,9 @@
 
 > **Condução:** CLAUDE · **Data de acesso às fontes:** 2026-06-04 · **Status:** preliminar (a complementar com leitura integral das minutas/leis).
 >
-> ⚠️ **Mudança de marco regulatório:** o antigo **PDDUA** está sendo substituído pelo **novo Plano Diretor (PDUS)**, aprovado pela Câmara em **23/04/2026**, e pela **LUOS**, aprovada em **13/05/2026**. **Nosso projeto deve referenciar o novo marco (PDUS + LUOS 2026)**, e não mais o PDDUA.
+> ⚠️ **Mudança de marco regulatório:** o antigo **PDDUA** está sendo substituído pelo **novo Plano Diretor (PDUS)**, aprovado pela Câmara em **23/04/2026**, e pela **LUOS**, aprovada em **13/05/2026**. O projeto deve distinguir o novo marco anunciado do regime legal efetivamente aplicável durante a transição.
 >
-> ✅ **Sanção confirmada (atualização 2026-08-07):** PDUS e LUOS foram **sancionados em 14/07/2026**, com **4 vetos parciais** (isenção de taxa de permeabilidade do 4º Distrito; alterações de zoneamento da Lomba do Pinheiro; Transferência do Direito de Construir de imóveis tombados; e dois artigos de matéria específica) — **nenhum deles afeta a Zona Sul nem os pontos do projeto**. **As leis entram em vigor 180 dias após a publicação**, período em que **segue valendo o PDDUA (LC 434/99)**. Fonte: imprensa (14/07/2026); **confirmar a data exata de publicação** para fixar o fim da transição (ordem de **jan/2027**). Isso reforça a janela: o novo regime e a **LOA 2027** convergem para agir já.
+> **Notícia de sanção (registro de 07/08/2026):** a imprensa informou sanção em 14/07/2026, vetos parciais e transição de 180 dias após a publicação. **Publicação, textos finais, vetos e efeitos em cada ponto ainda precisam ser conferidos em fonte oficial.** Não tratar parâmetros de minuta nem ausência de efeitos dos vetos na Zona Sul como conclusões verificadas.
 
 ## 1. Fontes verificadas (2026-06-04)
 
@@ -18,7 +18,7 @@
 | Política Nacional de Mobilidade Urbana | Lei Federal **12.587/2012** | Vigente | base nacional (hierarquia modal) |
 | CTB | Lei Federal 9.503/1997 | Vigente | normas de trânsito/sinalização |
 
-> **Pendente de verificação direta:** dados abertos de acidentes (Dados Abertos POA) — atribuído ao CODEX na Tarefa B.
+> **Dados verificados:** base auxiliar e EPTC reproduzidas e reconciliadas em 25/09/2026; ver [metodologia](../dados/tratados/acidentes_metodologia.md). As afirmações urbanísticas abaixo distinguem resposta oficial, notícia e parâmetros de minuta; o texto legal final e a transição permanecem por conferir.
 
 ## 2. O que mudou: PDUS + LUOS 2026
 
@@ -55,7 +55,7 @@ As **cinco diretrizes centrais do novo PDUS** são: adaptação às mudanças cl
 
 ## 5. Pendências a confirmar (com Prefeitura/EPTC)
 
-- [x] Confirmar **sanção/publicação** do PDUS/LUOS e **regras de transição** — *resolvido (ver nota no topo):* **sancionados em 14/07/2026** (4 vetos parciais, nenhum na Zona Sul); **vigência 180 dias após a publicação**, com o **PDDUA vigente na transição**. Confirmar a data exata de publicação.
+- [ ] Confirmar no texto final **publicação, vetos e regras de transição** do PDUS/LUOS — há notícia de sanção (ver nota no topo): **sancionados em 14/07/2026** (4 vetos parciais, nenhum na Zona Sul); **vigência 180 dias após a publicação**, com o **PDDUA vigente na transição**. Confirmar a data exata de publicação.
 - [x] **Zoneamento de Vila Nova** no novo PDUS/LUOS — **resolvido pela resposta ao Pedido 6 (13/08/2026, ver §2):** entorno em **ZOT 1, 3, 14 e 15** (LC 1075/1076); **não é vetor de intensificação** (sem AIO/OUC/PTU); 8 empreendimentos com contrapartidas viárias listados pela DEL. Parâmetros referem-se às minutas — reconferir no texto final publicado.
 - [x] **Escopo da requalificação da Av. Monte Cristo** — *resolvido (ver §6):* trecho Eduardo Prado ↔ Estr. Cristiano Kraemer, 1.500 m, prioridade a travessias/acessibilidade/paradas; **termina no nosso P2**. Projeto anunciado em **fev/2025** (asfalto já concluído pela SMSUrb; sinalização/desenho em implantação); **sem data pública de conclusão** — confirmar status atual com a EPTC. Atende Acergs, escola especial e hospital no trecho.
 - [x] **Região/subprefeitura de Vila Nova** — *resolvido (ver §6):* Subprefeitura Centro-Sul (Região 12 do OP); Região de Planejamento 6 (Centro-Sul e Sul).
@@ -72,7 +72,7 @@ As **cinco diretrizes centrais do novo PDUS** são: adaptação às mudanças cl
 
 ### 6.2 Enquadramento territorial e canais de protocolo
 - **Vila Nova:** Subprefeitura **Centro-Sul (Região 12 do OP)**; **Região de Planejamento 6 (Centro-Sul e Sul)** para fins de Plano Diretor.
-- ✅ **Bairro/subprefeitura de cada ponto — confirmado em 2026-07-22** por consulta geoespacial
+- **Consulta de bairro/subprefeitura em 2026-07-22 (cadastro anterior à troca do P9)** por consulta geoespacial
   (ponto-em-polígono) à camada oficial de bairros da SMAMUS (Lei Complementar 12.112/16):
 
   | Ponto | Bairro oficial | Região do OP / Subprefeitura | RP (Plano Diretor) |
@@ -85,16 +85,16 @@ As **cinco diretrizes centrais do novo PDUS** são: adaptação às mudanças cl
   | P6 (rota) | Vila Nova → **Belém Velho** (extremidade próxima à Dr. Vergara) | Região 12 – Centro-Sul → **Região 9 – Glória** | RP6 → **RP5** |
   | P7 | Vila Nova | Região 12 – Centro-Sul | RP6 |
   | P8 | **Belém Velho** | **Região 9 – Glória** | **RP5** |
-  | P9 | Campo Novo | Região 12 – Centro-Sul | RP6 |
+  | P9 atual (Santuário × Oscar Pereira) | A validar | A validar | A validar |
 
-  **Achado:** 7 dos 9 pontos ficam **integralmente** na Região 12 – Centro-Sul, confirmando o
+  **Achado:** 7 dos 9 pontos da configuração de julho (antes da troca do P9) ficam **integralmente** na Região 12 – Centro-Sul, confirmando o
   default já usado no memorando/ofício. Só **P8** (semáforo Costa Gama × Afonso Lourenço
   Mariante) e a **extremidade do P6** (acesso rumo à Av. Dr. Vergara) caem na **Região 9 –
   Glória** — subprefeitura distinta da Centro-Sul, não a "Região Sul/15" que se cogitava
   inicialmente. O interlocutor central segue sendo a **EPTC/SMMU** (competência sobre todas as
-  vias municipais); a Subprefeitura Glória é apoio territorial adicional só para P8 e o trecho
+  vias municipais); a Subprefeitura Glória é apoio territorial adicional para P8 e o trecho
   final do P6.
-  *Metodologia: consulta `esriGeometryPoint` às coordenadas de `dados/pontos.csv` contra
+  *Metodologia: consulta `esriGeometryPoint` às coordenadas da versão de julho de `dados/pontos.csv` contra
   `gis-smamus.portoalegre.rs.gov.br/.../A02_SOLO_CRIADO/bairros/MapServer/0`; bairro → região/
   subprefeitura via [lista oficial de subprefeituras](https://prefeitura.poa.br/carta-de-servicos/subprefeituras);
   região → RP via [Regiões de Planejamento do Plano Diretor](https://prefeitura.poa.br/planodiretor/regiao-de-planejamento-6).*

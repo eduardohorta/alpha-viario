@@ -1,33 +1,26 @@
-# Sonda de tempos de viagem (Google Routes API) — setup sem cobrança
+# Sonda de tempos de viagem (Google Routes API) — coleta, limites e custos
 
-> Coleta série histórica própria de **tempo de viagem com trânsito** nas 12 rotas de
+> Coleta série histórica própria de **tempo de viagem com trânsito** nas 14 rotas de
 > [dados/rotas-sonda-tempos.csv](../dados/rotas-sonda-tempos.csv) (corredor P4 e trecho
 > S06 nos dois sentidos, travessia do P7 nos dois sentidos, semáforo do P8, nós P1/P2,
-> conversão do P5, acesso do P3). Rodando 2–4 semanas nos picos, produz: perfil de
+> conversão do P5, acesso do P3 e dois sentidos do P9). Rodando 2–4 semanas nos picos, produz: perfil de
 > atraso por hora/dia, assimetria direcional (insumo do critério da faixa reversível) e
-> o custo em minutos do retorno do P7.
+> a assimetria entre sentidos no P7, sem isolar o efeito da alça.
 >
 > **Peso probatório:** dado *indicativo* de fonte neutra e reproduzível — entra no dossiê
 > com metodologia declarada ("tempos estimados pela Routes API do Google"), como os
 > sinistros. Não substitui contagem da EPTC; complementa.
 
-## Garantia de custo zero — 3 camadas
+## Controles de custo — sem garantia automática de gratuidade
 
-A garantia **dura** é do lado do Google (camada 1); o script é redundância.
+O script local usa `TRAFFIC_AWARE`, recurso da SKU **Compute Routes Pro**, conforme [documentação de faturamento](https://developers.google.com/maps/documentation/routes/usage-and-billing). A [tabela de preços](https://developers.google.com/maps/billing-and-pricing/pricing), consultada em 25/09/2026, informa franquia mensal de **5.000 eventos** para essa SKU. Conferir condições, consumo agregado da conta e tabela vigente antes de executar.
 
-1. **Teto de cota no Console** *(obrigatório — bloqueio do lado do Google)*:
-   em *APIs & Services → Routes API → Quotas*, definir **"Compute Routes requests
-   per day" = 200**. Acima disso a API retorna erro `429` — **não cobra**.
-2. **Orçamento com alerta**: em *Billing → Budgets*, criar orçamento de **US$ 1**
-   com alerta em 50/90/100%. Se algum e-mail chegar, algo está errado — pare tudo.
-3. **Tetos do coletor**: recusa a rodada se exceder **160 chamadas/dia** ou
-   **4.500/mês**, e só coleta nas janelas 06–09h / 17–20h.
+- Os tetos **locais** documentados são 160 chamadas/dia e 4.500/mês. A operação em nuvem usa outro ambiente; não se pode inferir sua configuração a partir deste script.
+- O bruto local registra **4.884 medições em agosto**, com **17 dias acima de 160**, máximo 168. Esses dados não provam cobrança, mas mostram que o teto de 160/4.500 não descreve um limite efetivo de toda a série. Conferir tentativas, outros projetos e faturamento no Cloud.
+- Uma cota de 200/dia não garante ficar abaixo de 5.000/mês. Configurar limites disponíveis no Console e monitorar o consumo total; a aplicabilidade da cota diária precisa ser verificada no serviço em produção.
+- Orçamento com alertas é mecanismo de acompanhamento, não bloqueio automático de cobrança. Manter chave restrita à Routes API.
 
-Dimensionamento: 12 rotas × 2 coletas/h × 6 h de pico = **144 chamadas/dia ≈
-4.320/mês** — abaixo do teto do script e da ordem da **faixa gratuita mensal** do
-Google Maps Platform (~10 mil chamadas/SKU nas SKUs Essentials na tabela de 2025;
-**conferir a tabela vigente** e o SKU da `computeRoutes` com `TRAFFIC_AWARE` antes
-de ligar a sonda — se o SKU for de faixa menor, os tetos acima ainda mantêm folga).
+Não foram alteradas cotas, agendamentos ou serviços em produção nesta revisão.
 
 ## Execução e armazenamento — Google Cloud + repositório privado
 
@@ -47,10 +40,10 @@ Actions integram a operação corrente.
 ## Setup (uma vez, ~20 min)
 
 1. Criar projeto no [Google Cloud Console](https://console.cloud.google.com) (precisa
-   de conta de billing — não haverá cobrança com as travas acima).
+   de conta de billing; conferir limites e preço antes de executar).
 2. Ativar **somente** a *Routes API*.
 3. Criar **API key restrita**: *Credentials → API key → API restrictions → Routes API*.
-4. Definir o **teto de cota** (camada 1) e o **orçamento** (camada 2).
+4. Definir o **limites de cota disponíveis** e o **orçamento com alertas**.
 5. Testar a seco (sem chave, nenhuma chamada): `python3 scripts/coletar_tempos_google.py --dry-run`
 6. Testar 1 rodada real fora de pico: `GOOGLE_MAPS_API_KEY=SUA_CHAVE python3 scripts/coletar_tempos_google.py --force`
 7. Na operação corrente, manter o agendamento e o encaminhamento dos registros nos
@@ -85,8 +78,10 @@ Actions integram a operação corrente.
 |-------|---------------------|
 | R01–R02 | Perfil e assimetria do corredor P4 por hora (critério 1 da faixa reversível) |
 | R03–R04 | O trecho S06 (crítico em sinistros) também concentra atraso? |
-| R05 vs R06 | Custo real do retorno distante do P7 (assimetria dos sentidos) |
+| R05 vs R06 | Assimetria estimada entre sentidos do P7; não estima isoladamente o efeito do retorno |
 | R07–R08 | Atraso na travessia do semáforo do P8 no pico |
 | R09–R10 | Atraso conjunto dos nós P1+P2 |
 | R11 | Tempo da conversão do P5 no pico |
 | R12 | Dificuldade de acesso à Monteggia (P3) |
+
+O campo legado `duracao_livre_s` corresponde a `staticDuration`: estimativa **sem considerar tráfego**, não fluxo livre medido. Definições na [API](https://developers.google.com/maps/documentation/routes/reference/rest/v2/TopLevel/computeRoutes). R13/R14 cobrem o P9 desde 14/08/2026; as demais rotas, desde 04/07.

@@ -36,7 +36,7 @@
 | P6 (Florestan/Kanazawa) | ☐ | ☐ | ☐ |
 | P7 (Três Meninas × Costa Gama) | ☑ | ☑ | ☑ |
 | P8 (Costa Gama × Mariante) | ☑ | ☑ | ☑ |
-| P9 (Rótula Vila Nova) | ☐ | ☐ | ☐ |
+| P9 atual (Rua Santuário × Av. Oscar Pereira) | ☐ | ☐ | ☐ |
 | Estr. das Três Meninas (eixo) | ☐ | ☐ | ☐ |
 
 ## O que observar (para a leitura posterior)

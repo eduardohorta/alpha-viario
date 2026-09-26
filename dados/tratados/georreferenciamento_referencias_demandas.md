@@ -8,7 +8,8 @@
 
 ## Metodologia
 
-- **P9** foi localizado na base OSM local (`dados/brutos/osm_vias_alpha_viario.json`) como rótula/circular na Estrada Cristiano Kraemer. A coordenada e o centroide aproximado dos segmentos OSM com `junction=circular`. **Transversal confirmada em 20/07/2026 (checagem visual em OSM/Street View): Av. Juca Batista.** O recorte OSM local não continha a Juca Batista — ele filtra 12 vias nomeadas —, por isso a transversal não aparecia na conectividade da rótula. A confirmação é corroborada pelos registros de sinistros associados por distância: 56 dos 57 no contexto de 200 m citam Juca Batista e/ou Cristiano Kraemer, sem que os nomes tenham sido usados na seleção.
+- **P9 atual:** Rua Santuário × Av. Oscar Pereira, pin de 14/08/2026 (−30.096763, −51.178065), conforme `dados/pontos.csv`.
+- **D4 / antigo P9 (histórico retirado em 13/08/2026)** foi localizado na base OSM local (`dados/brutos/osm_vias_alpha_viario.json`) como rótula/circular na Estrada Cristiano Kraemer. A coordenada e o centroide aproximado dos segmentos OSM com `junction=circular`. **Transversal confirmada em 20/07/2026 (checagem visual em OSM/Street View): Av. Juca Batista.** O recorte OSM local não continha a Juca Batista — ele filtra 12 vias nomeadas —, por isso a transversal não aparecia na conectividade da rótula. A confirmação é corroborada pelos registros de sinistros associados por distância: 56 dos 57 no contexto de 200 m citam Juca Batista e/ou Cristiano Kraemer, sem que os nomes tenham sido usados na seleção.
 - **P7/alça** foi registrada no ponto de referência já usado para o encontro Estrada das 3 Meninas x Estrada Costa Gama. Esta coordenada **não** representa o traçado da alça relatada; apenas o nó operacional de referência.
 - **Clube** foi localizado via Nominatim/OSM como `Alphaville Clube`, no endereço 1701 da Estrada das 3 Meninas.
 - **Toscana** e **Vêneto** foram associados a endereços públicos encontrados em páginas imobiliárias; o Nominatim retornou segmentos da Estrada das 3 Meninas, não portarias ou polígonos. Portanto, confiança baixa.
@@ -17,10 +18,10 @@
 
 ## Recomendações de campo
 
-- Coletar pin GPS específico para: P9, entrada/saída da rótula, quebra-molas de chegada/saída, Veneto, Lombardia, Clube, Reserva e Toscana.
+- Validar o pin já obtido do P9 atual; para D4, coletar referência da entrada/saída da rótula, quebra-molas de chegada/saída, Veneto, Lombardia, Clube, Reserva e Toscana.
 - Para D1, registrar o ponto exato "antes do Veneto" e "antes do Lombardia"; o nome do residencial não basta.
 - Para D2, registrar origem, destino, retorno atualmente usado e o ponto onde se imagina a nova manobra.
-- Para P7, solicitar o desenho da alça; até lá, qualquer coordenada e apenas referência de entorno.
+- Para P7, usar o desenho obtido em julho/2026 para validação técnica. A coordenada do CSV continua sendo apenas o nó de referência, não o traçado da alça.
 
 ## Fontes públicas usadas
 

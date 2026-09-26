@@ -7,8 +7,7 @@
 
 ## 0. Verificação automática
 - [ ] `make release-check` **verde** (modo estrito: links, vazamento de `interno/`/`revisoes/`,
-      placeholders e consistência dos pontos). *(residuais conhecidos: número/data do ofício e
-      pacote a rebuildar — ver §4.)*
+      placeholders e consistência dos pontos). Executar novamente para cada versão enviada; ver §4.
 
 ## 1. Decisões da comissão (13/08/2026) — destravam o `release-check`
 - [x] **Identidade e assinatura:** peças assinadas por **Eduardo de Oliveira Horta (representante)**
@@ -31,40 +30,28 @@
       abertos** (Dados Abertos POA e base da EPTC obtida por LAI), que podem ser publicados também por
       registro, por serem anônimos (sem identidade de vítimas).
 - [x] **Termos sensíveis:** `interno/termos-sensiveis.txt` **criado**
-      — ⚠️ **preencher com os nomes reais** (proprietários desapropriados / moradores) antes do protocolo.
+      — 23 termos conferidos na inspeção de 25/09; atualizar a lista privada antes de cada envio.
 
-## 2. Rechecagem institucional datada (imediatamente antes de protocolar)
-Confirmar, com data, antes de enviar — detalhe e responsáveis em [PENDENCIAS §A](PENDENCIAS.md):
-- [ ] **Respostas do e-SIC** (decisão: aguardar antes de protocolar): **responderam 1, 4, 5, 6, 7
-      e 8** (1 e 5, parciais) e o **9** (01/09, parcial: depósito remetido à SMF); os **10 e 11**
-      estão prorrogados até **10/09 e 12/09**; **12–15** vencem 08/09 (o 15, protocolo
-      017822-26-45, desdobra o 1 e vai à SMMU); **16–17** vencem 14/09 (desdobram os Pedidos 8 e
-      7); **18** (018008-26-10, SMF) vence 21/09.
-      **Decisão de 20/08:** protocolar em **01/09/2026**, sem esperar os derivados 11–17 (prazos
-      08/09 e 14/09) — dá tempo aos pedidos originais ainda no prazo (9, 10) sem empurrar o
-      protocolo para depois da janela confortável da LOA 2027.
-- [ ] **Janela da LOA 2027:** o Executivo envia a proposta à Câmara **por volta de 15/out**
-      (a confirmar no texto da Lei Orgânica) — **início de setembro ainda alcança o orçamento 2027.**
-- [ ] **PDUS/LUOS** — sanção/publicação e transição (Pedido 6 respondido: ZOT 1/3/14/15, não é vetor de adensamento).
-- [ ] **Projeto da Av. Monte Cristo** — status atual: **Pedido 5 respondeu (24/08)**. Sinalização
-      concluída em projeto, implantação parcial (SMSURB parado desde set/2024); o nó específico
-      do P2 tem projeto próprio da GPTC-EPTC, com manifestação ainda pendente. Afeta P2.
-- [ ] **Plano Funcional** — desenhos vigentes e status de implantação: **Pedido 4 respondeu**
-      (quadro de expedientes complementares) e **Pedido 1 respondeu, parcial** (EPTC: sem
-      sinalização aprovada para a nova interseção Costa Gama; processo migrou à SMMU — Pedido
-      15). Os desenhos gráficos do corredor completo (Anexo 7) não vieram em nenhuma das duas.
-- [ ] **Canais institucionais** — setor de protocolo na SMAMUS e encaminhamento das cópias.
+## 2. Rechecagem institucional — posição de 25/09/2026
+- [ ] **Ata:** a comissão está preparando a ata da reunião; incorporar quando disponibilizada, sem presumir deliberações.
+- [ ] **Protocolo principal:** confirmar envio, número, data e comprovante. O alvo anterior de 01/09 não comprova realização.
+- [ ] **LAIs:** 23 pedidos protocolados. Acompanhar 14, documentos restantes do 16, reexame de 18 e respostas 19/20/22/23; o 21 foi respondido em 16/09. Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
+- [ ] **LOA 2027:** envio do projeto até 15/out e votação até 5/dez, conforme [fonte municipal](https://prefeitura.poa.br/smpg/lei-orcamentaria-anual-loa). Confirmar viabilidade orçamentária do pleito; o calendário não garante recursos.
+- [ ] **PDUS/LUOS:** conferir textos finais, vetos, publicação, transição e parâmetros aplicáveis; a resposta do Pedido 6 inclui referências a minutas.
+- [ ] **P2:** acompanhar manifestação da EPTC sobre o projeto do nó da Monte Cristo.
+- [ ] **Desenhos e execução:** manter distinta a aprovação histórica, a validade atual, a situação fundiária e a implantação física.
+- [ ] **Canais:** confirmar setor de protocolo, encaminhamento das cópias e enquadramento territorial do novo P9.
 
 ## 3. Base de evidência e enquadramento técnico
-- [ ] **Sonda de tempos:** agregados consolidados (janela 04–16/jul, 1.440 medições) — ver
-      [resumo](dados/tratados/sonda_tempos_resumo.md). Reprocessar perto do protocolo.
-- [ ] **LAIs:** incorporar as respostas conforme chegarem; registrar as pendentes.
-- [x] **Novo P9:** georreferenciado por **pin (14/08)** e associado (55 sinistros na base oficial da EPTC; 17 na Dados Abertos POA) — incorporado ao pipeline, à matriz e ao mapa.
-- [ ] **Pedido à SMAMUS/EPTC:** manter explícito que o dossiê é indicativo e solicita vistoria,
-      contagens, planos semafóricos e demais validações.
+- [x] **Sonda local:** 8.582 medições, 14 rotas, 04/07–01/09/2026; [resumo](dados/tratados/sonda_tempos_resumo.md). R05/R06 medem assimetria direcional, sem isolar o efeito da alça. Conferir série posterior em produção quando necessário.
+- [x] **Sinistros:** base EPTC principal, auxiliar sem filtro de vítimas e [reconciliação por ID na janela comum](dados/tratados/sinistros_reconciliacao.md).
+- [x] **Novo P9:** Rua Santuário × Av. Oscar Pereira, pin de 14/08; 55 sinistros EPTC e 17 auxiliares.
+- [ ] **LAIs:** incorporar respostas futuras e manter pendências datadas.
+- [ ] **Pedido institucional:** preservar o caráter indicativo, a solicitação de vistoria e a validação pela autoridade competente.
 
-## 4. Residuais para o dia do protocolo
-- Número e data do **ofício** (hoje `nº 01/2026`, "setembro de 2026" — confirmar).
-- **Rebuild do pacote** (`make pacote`, exige Pandoc/XeLaTeX) para refletir as peças atualizadas.
+## 4. Residuais para o ato do protocolo
+- Confirmar número/data do ofício (atualmente nº 01/2026, setembro de 2026).
+- Gerar `make pacote` e executar `make release-check`; verificar visualmente o PDF. O gate automático não certifica o conteúdo jurídico nem substitui essa inspeção.
+- Conferir a lista privada de termos sensíveis e os anexos que efetivamente serão enviados.
 
 Coleta física comunitária e questionário não são gates deste ciclo.

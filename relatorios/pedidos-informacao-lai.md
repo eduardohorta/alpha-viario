@@ -741,8 +741,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   ocorrências só com danos materiais). **Reprocessamos os 9 pontos** com o mesmo método já usado
   no dossiê (mesma fórmula de distância, mesmos limiares — 100 m/200 m interseções, 50 m/100 m
   corredores): os números sobem entre 2× e 4,5× em todos os pontos (P4: 409→1.648; P7: 18→67),
-  explicado pela janela maior (16 anos, não 6) e pela inclusão de danos materiais, não por piora
-  real. **Achado que exige atenção:** o campo `Fatais` da EPTC (= óbito no local + óbito
+  com janelas, cobertura e coordenadas diferentes. Ambas as bases incluem registros sem vítimas; a [reconciliação na mesma janela](../dados/tratados/sinistros_reconciliacao.md) detalha as diferenças, sem inferir tendência de segurança. **Achado que exige atenção:** o campo `Fatais` da EPTC (= óbito no local + óbito
   posterior) revela **fatais que a base anterior não capturava** — P4 sobe de 2 para 8, e P7 e P9
   aparecem com 1 cada, onde antes registravam zero (o do P7 é de 2014, óbito posterior à
   internação, fora da janela do relatório judicial de 2019–2024, mas um óbito real, não um erro

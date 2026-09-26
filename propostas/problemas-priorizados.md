@@ -6,9 +6,9 @@
 >
 > **Princípio:** separar **problema → hipótese causal → solução**. As "soluções candidatas" são **hipóteses**.
 > **Grafia:** "Estrada Cristiano **Kraemer**" (corrigido de "Cremer"; confirmada pela comissão).
-> **Projetos documentados:** os expedientes administrativos confirmam **Plano Funcional aprovado na SMT/EPTC**, obrigações específicas para P1/P2, estudos nos acessos de P6 e conexão em etapas para P7. P3 e P9 mantêm relação parcial/indireta; P4/P5/P8 permanecem fora da cobertura identificada. Ver [projetos-viarios-ja-aprovados.md](../relatorios/projetos-viarios-ja-aprovados.md). **A execução integral e o status atual continuam a confirmar.**
+> **Projetos documentados:** os expedientes administrativos confirmam **Plano Funcional aprovado na SMT/EPTC**, obrigações específicas para P1/P2, estudos nos acessos de P6 e conexão em etapas para P7. P3 mantém relação parcial; P4/P5/P8 e o P9 atual permanecem fora da cobertura específica identificada. Ver [projetos-viarios-ja-aprovados.md](../relatorios/projetos-viarios-ja-aprovados.md). **A execução integral e o status atual continuam a confirmar.**
 >
-> **Nota metodológica (sinistros):** a Rodada 01 usou *triagem* por bounding box; a Rodada 02 refez por **associação à distância real** da malha OSM (limiar **≤100 m** para interseções e **≤50 m** para corredores/rotas). **Decisão de 24/09/2026:** a base oficial de sinistros passa a ser a da **EPTC** (Rodada 04, obtida pelo Pedido 17: 264.567 registros, 2010–2026, todas as ocorrências, inclusive danos materiais); os números abaixo são os da EPTC, pelo mesmo critério de distância. Os da **R02** (Dados Abertos POA, 2020–2025, só com vítima, com o P9 incorporado na Rodada 05) ficam como **evidência auxiliar**, indicados como *R02*. Os números da EPTC são de 2× a 4,5× maiores pela janela (16 anos, não 6) e pela inclusão de danos materiais, **não por piora real** — ver [metodologia](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026). **Associação por distância ≠ prova causal** — exige geocodificação fina, base municipal e vistoria.
+> **Nota metodológica (sinistros):** a Rodada 01 usou *triagem* por bounding box; a Rodada 02 refez por **associação à distância real** da malha OSM (limiar **≤100 m** para interseções e **≤50 m** para corredores/rotas). **Decisão de 24/09/2026:** a base oficial de sinistros passa a ser a da **EPTC** (Rodada 04, obtida pelo Pedido 17: 264.567 registros, 2010–2026, todas as ocorrências, inclusive danos materiais); os números abaixo são os da EPTC, pelo mesmo critério de distância. Os da **R02** (Dados Abertos POA, 2020–2025, sem filtro de vítimas, com o P9 atual incorporado em agosto) ficam como **evidência auxiliar**, indicados como *R02*. As bases têm janelas, cobertura e coordenadas diferentes; **ambas incluem registros sem vítimas**. A diferença de totais não demonstra tendência de segurança — ver [metodologia](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026). **Associação por distância ≠ prova causal** — exige geocodificação fina, base municipal e vistoria.
 
 ## Quadro-resumo
 
@@ -36,7 +36,7 @@
 > Camada obrigatória de modos vulneráveis em todos os pontos: travessia · calçada/acostamento · acessibilidade · paradas de ônibus · motos · bicicleta · conflito com pedestre/ciclista · velocidade. Marcados *a levantar*.
 
 ### P1 — Rótula Estr. Três Meninas × Estr. Cristiano Kraemer
-- **Sinistros (base EPTC 2010–2026, ≤100 m):** 58 ocorr. · 3 graves · 0 fatais · 18 motos. *Auxiliar (R02, 2020–2025, com vítima): 29 ocorr. · 4 graves · 6 motos.*
+- **Sinistros (base EPTC 2010–2026, ≤100 m):** 58 ocorr. · 3 graves · 0 fatais · 18 motos. *Auxiliar (R02, 2020–2025, sem filtro de vítimas): 29 ocorr. · 4 graves · 6 motos.*
 - **Problema operacional:** estrangulamento na rótula (relato).
 - **Problema de segurança:** graves e motos sugerem conflito/velocidade na rótula.
 - **Hipótese causal (a testar):** geometria/deflexão inadequada e/ou desbalanceamento de volume; possível velocidade de entrada alta.
@@ -95,7 +95,7 @@
 ### P6 — Acesso à Av. Dr. Vergara (chão batido)
 - **Sinistros (base EPTC 2010–2026, ≤50 m):** 36 ocorr. · 2 graves · 0 fatais · 15 motos (vários dos mais próximos estão na Estr. Três Meninas, perto da conexão) — **evidência de sinistro fraca, mesmo na base maior; não usar como argumento central**. *Auxiliar (R02): 8 ocorr.*
 - **Problema operacional:** acesso por chão batido (R. Florestan Fernandes + Estr. Kanazawa); rota precária.
-- **Achado documental:** o segundo aditamento de 2013 exigiu novos estudos das interseções da Estr. das Três Meninas com **Kanazawa** e **Florestan Fernandes**, seguidos de projetos de pavimento. Não foi localizada comprovação de aprovação/execução desses projetos, e a obrigação não cobre necessariamente toda a rota até a Av. Dr. Vergara.
+- **Achado documental:** o segundo aditamento de 2013 exigiu novos estudos das interseções da Estr. das Três Meninas com **Kanazawa** e **Florestan Fernandes**, seguidos de projetos de pavimento. O Parecer CTAAPS 093/2020 registra projetos aprovados e nenhuma implantação. A obrigação não cobre necessariamente toda a rota até a Av. Dr. Vergara.
 - **Checagem OSM:** Estr. Kanazawa `unpaved/dirt`; R. Florestan Fernandes asfalto porém `smoothness=very_bad`, `sidewalk=no`.
 - **Problema (eixo do argumento):** **precariedade física** — pavimento, drenagem, calçada, iluminação, seção; risco de tráfego de passagem em via residencial.
 - **Hipótese causal:** ausência de rota pavimentada adequada força desvios; via despreparada.
@@ -107,7 +107,7 @@
 ### P7 — Acesso à Estr. Costa Gama bairro→centro (sem conversão à esquerda)
 - **Sinistros (base EPTC 2010–2026, ≤100 m):** 67 ocorr. · 6 graves · **1 fatal** (2014, ~89 m; óbito posterior ao acidente) · 17 motos. *Auxiliar (R02): 18 ocorr. · 1 grave.*
 - **Problema operacional:** não é possível converter à esquerda; exige retorno em rótula distante.
-- **Achado documental:** o expediente-mãe confirma projeto geométrico aprovado para a conexão Três Meninas–Costa Gama, dividido em **primeira etapa sem desapropriação** e **solução definitiva após desapropriações**. Correspondência de 2013 informa que a nova ligação estava aprovada na CTAAPS. A geometria específica de uma **“alça à esquerda” não foi confirmada** nas peças identificadas.
+- **Achado documental:** o expediente-mãe confirma projeto geométrico aprovado para a conexão Três Meninas–Costa Gama, dividido em **primeira etapa sem desapropriação** e **solução definitiva após desapropriações**. Correspondência de 2013 informa que a nova ligação estava aprovada na CTAAPS. O desenho obtido em julho/2026 identifica conector a oeste; o Decreto 20.860/2020 nomeia a **alça de ligação**. A atualização do projeto e sua execução permanecem pendentes.
 - **Problema de segurança:** abrir conversão à esquerda pode **criar** conflito pior que o desvio atual.
 - **Hipótese causal:** o problema real pode ser a **distância/tempo do retorno**, não a proibição.
 - **Evidência mínima a coletar:** distância e tempo do retorno atual + volume do movimento desejado + velocidade na Costa Gama + fila/armazenagem para baia + visibilidade + acidentes no entorno.
@@ -143,7 +143,7 @@
 - **Escopo regional:** os problemas afetam também o **Terraville** e demais usuários da Zona Sul — reforça o **benefício público além do condomínio**.
 
 ## Próximos preenchimentos necessários
-- **Sonda:** consolidar os agregados por rota e janela horária, incluindo atraso versus fluxo livre, assimetria no P4 e custo do retorno no P7.
+- **Sonda:** consolidar os agregados por rota e janela horária, incluindo o índice de estimativas com/sem considerar tráfego e assimetrias entre sentidos no P4/P7, sem isolar o efeito causal de uma intervenção.
 - **Sinistros:** **validar por aerofoto e vistoria técnica da EPTC os segmentos P4-S06/S03/S01** e os registros mais próximos — ver [segmentos (EPTC)](../dados/tratados/eptc_acidentes_p4_segmentos.csv), [segmentos (R03, auxiliar)](../dados/tratados/acidentes_p4_segmentos.csv), [revisão manual](../dados/tratados/acidentes_revisao_manual_notas.md) e [metodologia](../dados/tratados/acidentes_metodologia.md).
 - **Imagem aérea + base SMAMUS:** confirmar geometria real de cada ponto.
 - **Planos oficiais:** zoneamento de Vila Nova no novo PDUS; escopo da requalificação da Av. Monte Cristo.

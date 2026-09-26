@@ -14,7 +14,7 @@ andam **em paralelo**; só convergem no protocolo.
 |--------|---------|----------------|-----------|
 | **A — Informação (LAI)** | [Pedidos de acesso à informação](relatorios/pedidos-informacao-lai.md) sobre Plano Funcional, execução, Costa Gama, Monte Cristo, PDUS | **nada** — pessoa física protocola hoje | 1 morador (gabinete apoia) |
 | **B — Comissão** | Decisões mínimas: quem assina, canal, D2/D3 e P9 | agenda da comissão | comissão |
-| **C — Dados independentes** | Série da [sonda de tempos](campo/sonda-tempos-google.md) nas 12 rotas e capturas já registradas do trânsito típico | **nada** | serviços Google Cloud → repositório privado |
+| **C — Dados independentes** | Série da [sonda de tempos](campo/sonda-tempos-google.md) nas 14 rotas e capturas já registradas do trânsito típico | **nada** | serviços Google Cloud → repositório privado |
 | **D — Gabinete** | Agregação da sonda, mapa, matriz e incorporação das respostas LAI | insumos de A e C | CLAUDE/CODEX |
 
 **Dependências reais (e só estas):**
@@ -33,10 +33,8 @@ ou apoio a uma vistoria técnica, mas não condicionam a consolidação nem o pr
 
 ## 2. Janelas de calendário (por que não dá para esperar indefinidamente)
 
-- **LOA 2027.** O Executivo municipal elabora a proposta orçamentária de 2027 tipicamente
-  entre **agosto e setembro de 2026**. Pleito protocolado e em análise técnica **até meados
-  de agosto** ainda pode disputar previsão de recursos para 2027; depois disso, a mira
-  realista passa a ser 2028. *(Confirmar as datas da LDO/LOA municipais na época.)*
+- **LOA 2027.** A [página oficial municipal](https://prefeitura.poa.br/smpg/lei-orcamentaria-anual-loa), consultada em 25/09/2026, informa envio do projeto até **15/out** e votação até **5/dez**. Não há fundamento nesta fonte para um corte absoluto em agosto. Essas datas não garantem dotação: confirmar com o Município os requisitos e a viabilidade de inclusão do pleito.
+
 - **Regulamentação do PDUS/LUOS.** Sanção, publicação e transição em curso em 2026. É a
   janela para vincular **contrapartidas viárias de novos empreendimentos** da Zona Sul aos
   pontos do projeto (alavanca §E do PENDENCIAS) — depois que os primeiros licenciamentos
@@ -45,7 +43,9 @@ ou apoio a uma vistoria técnica, mas não condicionam a consolidação nem o pr
   primeira quinzena de julho, as respostas chegam **até o início de agosto** — a tempo de
   entrar no dossiê.
 
-## 3. Datas-alvo
+## 3. Histórico das metas (jul–set/2026)
+
+> Metas e status registrados à época, preservados para rastreabilidade; não são a lista de pendências atual. A meta de 01/09 não comprova protocolo. A relação fundiária do P7 foi reconciliada em 24/09.
 
 | Até | Entrega | Trilha |
 |-----|---------|--------|
@@ -58,45 +58,19 @@ ou apoio a uma vistoria técnica, mas não condicionam a consolidação nem o pr
 | **11/ago** | **Pedido 8 prorrogado pela PGM** por 10 dias (mesma base legal e justificativa dos Pedidos 1, 4, 5, 6 — art. 14 §3º Dec. Mun. 19.990/2018, "informação não sistematizada"). Novo prazo: **21/08/2026**. Ver [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento). | A |
 | **21/ago** ✅ | **Pedido 8 respondido pela PGM**, no próprio novo prazo. Confirma o **Termo de Compromisso vigente**; detalha **quatro desapropriações** em andamento (P7: uma por acordo, outra judicial; eixo (Três Meninas 1085) judicial; P6 aguardando novo decreto); revela **demolição judicial pendente desde 2014** no P7. Ver [leitura completa](relatorios/projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente). | A |
 | **01/set** ✅ | **Pedido 9 respondido parcialmente pela PGM.** Imóvel diretamente referido no Decreto 20.860/P7 concluído por acordo em 2025; eixo (Três Meninas 1085) judicializado, sem imissão provisória; P6 com DUP caducada em 28/12/2025 e novo decreto previsto a partir de dez/2026. O depósito da Cláusula Nona foi remetido à SMF → **Pedido 18 protocolado** no mesmo dia (018008-26-10, prazo 21/09). A relação entre os processos fundiários do P7 citados nas respostas 8 e 9 exige reconciliação. | A, D |
-| **13/ago** | Comissão valida pontos e peças, define assinatura/canal e encaminha o protocolo com pedido explícito de vistoria e dados técnicos da EPTC. | B |
+| **13/ago** ✅ | Comissão validou pontos e peças, define assinatura/canal e encaminha o protocolo com pedido explícito de vistoria e dados técnicos da EPTC. | B |
 | ~~20/ago~~ **01/set** | `make release-check` **já verde em 20/08** — decisão de 20/08: aguardar mais alguns dias antes de protocolar, para dar tempo às respostas ainda em prazo (~~Pedido 5, vencido~~ **respondido em 24/08**; ~~8, 21/08~~ **respondido em 21/08**; **9 respondido parcialmente em 01/09; 10 prorrogado até 10/09**). Novo alvo: **protocolo na EPTC em 01/09/2026**, sem dependência de coleta física ou questionário. | convergência |
 | **set–out** | Acompanhamento: cobrança de prazos, reunião técnica, vistoria conjunta; acionamento do canal político **depois** do protocolo (sequência em `interno/`) | — |
 
-## 4. Plano B — se a comissão continuar lenta
+## 4. Decisões vigentes e próximos passos
 
-> **ACIONADO em 15/07/2026.** A reunião não aconteceu até a data-alvo; a mensagem com
-> as 3 decisões reduzidas foi enviada à comissão (WhatsApp/e-mail) no mesmo dia.
-> Aguardando resposta — atualizar esta seção e o [LIBERACAO.md](LIBERACAO.md) assim que
-> ela chegar.
+O Plano B acionado em 15/07 é histórico: as decisões mínimas foram tomadas em **13/08**. Assina Eduardo de Oliveira Horta, pela **Comissão Viária Estrada das Três Meninas**; canal principal **SMAMUS**, com cópia à EPTC/SMMU e às Subprefeituras Centro-Sul/Glória. O enquadramento territorial do novo P9 ainda requer confirmação.
 
-A pausa atual (aguardando a comissão desde meados de junho) não pode paralisar as trilhas
-A, C e D. Se não houver reunião até **15/jul**:
+1. Incorporar a **ata em preparação pela comissão** (informação de 25/09), sem antecipar deliberações.
+2. Confirmar o **protocolo principal**: envio, número, data e comprovante ainda não confirmados aqui.
+3. Acompanhar os **23 pedidos LAI** pela [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento): faltam resposta de 14, documentos de 16, reexame de 18 e respostas 19/20/22/23. Pedido 21 respondeu em 16/09.
+4. Consolidar novas evidências, gerar o pacote e fazer revisão factual, `make release-check` e inspeção visual do PDF antes de novo envio.
 
-1. ✅ **Reduzir a pauta a 3 decisões** e colhê-las por mensagem (WhatsApp/e-mail), sem
-   reunião: (a) quem assina; (b) canal de protocolo; (c) confirmação dos pontos/D2–D3.
-   Todo o resto tem default proposto pelo gabinete.
-   *(mensagem enviada em 15/07 — rascunho arquivado em `interno/`, não versionado)*
-2. **Sonda e LAI não esperam** — a coleta automática e a resposta institucional não
-   dependem da comissão.
-3. **Última alternativa** (decisão a registrar): protocolo como **grupo de moradores
-   nominados** em vez de "comissão". Pior que o ideal, melhor que perder a janela da LOA.
+## 5. O que está disponível
 
-## 5. Defaults propostos pelo gabinete (a confirmar pela comissão)
-
-- **Canal de protocolo:** EPTC – Solicitações de Trânsito, com cópia à Subprefeitura
-  Centro-Sul (cobre 7 dos 9 pontos) e, especificamente para o P8 e a extremidade do P6,
-  também à Subprefeitura Glória — ver [mapeamento por ponto](relatorios/revisao-documental.md#62-enquadramento-territorial-e-canais-de-protocolo).
-- **Questionário:** manter em espera; só definir responsável, retenção e meta de respostas
-  se a comissão decidir reabrir essa frente.
-
-## 6. O que já está pronto e não bloqueia nada
-
-- Peças externas em rascunho ([memorando](relatorios/memorando-externo.md) ·
-  [ofício](relatorios/oficio-eptc-rascunho.md) · [anexo](relatorios/anexo-matriz-pontos.md))
-  — faltam apenas os campos da comissão.
-- [Pedidos LAI redigidos](relatorios/pedidos-informacao-lai.md) — prontos para colar no e-SIC.
-- [Sonda de tempos de viagem](campo/sonda-tempos-google.md) — 12 rotas cadastradas, coletor com travas de custo (`make sonda`).
-- [Mapa dos pontos](mapas/mapa-pontos.png) — gerado do cadastro canônico (`make mapa`).
-- [Pipeline de respostas do questionário](consultas/respostas/README.md) — mantido em
-  espera, sem função de gate no ciclo atual.
-- Governança: `make check` / `make release-check` / testes / CI.
+Peças institucionais preenchidas, cadastro P1–P9, mapa, sinistros EPTC e auxiliares reconciliados, sonda com 8.582 medições em 14 rotas até 01/09 e documentação administrativa de 24–25/09 incorporada. A coleta e as cotas atuais de produção devem ser verificadas no ambiente privado. Questionário e coleta física permanecem em espera.

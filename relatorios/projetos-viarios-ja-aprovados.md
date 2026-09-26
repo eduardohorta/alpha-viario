@@ -5,7 +5,7 @@
 
 > **Achado documental:** o licenciamento do Alphaville Porto Alegre gerou obrigações viárias formalizadas em 2009 e ajustadas em 2013. O processo administrativo registra um **Plano Funcional da Estrada das Três Meninas aprovado na SMT/EPTC**, uma conexão em etapas com a Estrada Costa Gama e intervenções em interseções associadas. Portanto, parte do projeto atual deve ser formulada como **verificação, atualização e eventual conclusão de soluções já projetadas**, não como estudo integralmente novo.
 >
-> **Limite da evidência:** os documentos comprovam o histórico de aprovação, obrigações e execução parcial, mas **não comprovam o status administrativo ou físico em 2026**. A vigência, as substituições posteriores, as desapropriações e o que falta executar devem ser confirmados nos processos atuais da Prefeitura.
+> **Limite da evidência:** os documentos comprovam o histórico de aprovação, obrigações e execução parcial, mas **não comprovam integralmente a implantação física ou o saldo atual de todas as obrigações**. As respostas de 2026 individualizam parte do status administrativo; permanecem as lacunas expressamente indicadas abaixo.
 >
 > **Atualização (jul/2026):** as respostas LAI aos Pedidos 2 e 3 já confirmaram parte disso — o projeto do P7 foi **obtido** e está **caducado**; ver a seção [Respostas LAI de julho de 2026](#respostas-lai-de-julho-de-2026-o-projeto-do-p7-foi-obtido-e-caducou). Em seguida, a **documentação repassada pela administração do Alphaville** em 07/08 (TC integral, aditivos, Parecer CTAAPS 093/2020 e decretos de desapropriação) fechou boa parte do que faltava — ver [Documentação repassada pela administração](#documentação-repassada-pela-administração-do-alphaville-ago2026). **O status administrativo de 2026 continua a confirmar** (efetivação das desapropriações, depósito da Cláusula Nona, recebimentos).
 >
@@ -183,31 +183,17 @@ nº 11.029/2011. É essa contagem que explica que a PGM dê **28/12/2025** como 
 P6. Nas comparações abaixo, quando só se conhece a data de disponibilização, ela é usada como
 referência (é a mais antiga, portanto a mais rigorosa).
 
-### 3. ⚠️ Os decretos podem ter caducado em 23/12/2025 — a confirmar
+### 3. Caducidade e efetivação: situação individualizada pela PGM
 
-O **art. 10 do Decreto-Lei federal nº 3.365/1941** determina que a desapropriação deve
-**efetivar-se mediante acordo ou ser intentada judicialmente dentro de 5 anos** contados da
-expedição do decreto, **findos os quais este caducará** (e só após 1 ano o mesmo bem pode ser
-objeto de nova declaração).
+A hipótese levantada em agosto de que todas as declarações de 2020 poderiam ter caducado foi superada pelas respostas e peças de setembro. **Projeto caducado e declaração de utilidade pública caducada são situações distintas.** O projeto do P7 precisa de revalidação, mas isso não significa caducidade de todas as suas declarações fundiárias.
 
-Decretos de **23/12/2020** → prazo em **23/12/2025**, já vencido. **Se** não houve acordo nem
-ação judicial até lá, as três declarações de utilidade pública **caducaram**. Não temos como
-afirmar que caducaram — só a PGM sabe se houve acordo ou ajuizamento. Mas a data está vencida,
-o que torna a pergunta **urgente e verificável**: é o item central do desdobramento do Pedido 8.
+- **20.859/P6:** a PGM informa caducidade em 28/12/2025 e revisão do projeto antes de novo decreto, não antes de 29/12/2026.
+- **20.861/faixa junto à Florestan Fernandes:** ação ajuizada em 19/12/2025, sem imissão provisória; não é a rótula P1.
+- **20.860/P7, processo 092:** acordo concluído em 2025.
+- **20.808/P7, processo 093:** escritura em 26/11/2025; registro ainda a confirmar.
+- **22.570/P7, processo 094:** ação ajuizada em 08/07/2026.
 
-Se confirmada a caducidade, o quadro do P7 fica: **projeto aprovado (2013) caducado** +
-**declaração de utilidade pública (2020) caducada** — duas janelas administrativas abertas e
-perdidas para a mesma obra.
-
-> **Indício extraoficial (ago/2026):** um relato pessoal — não documental — indica que a
-> indenização pela desapropriação do P7 (Decreto 20.860/2020) foi paga **em sua quase
-> totalidade**, restando apenas um pequeno saldo. Se verdadeiro, sugere que houve **acordo**
-> (uma das duas vias do art. 10 que afastam a caducidade). Não é, porém, um documento, não
-> cobre os outros dois decretos (P6 e o eixo) nem a Cláusula Nona, e **não substitui a
-> resposta oficial da PGM** (Pedidos 8 e 9) — segue como indicativo até confirmação.
->
-> **Atualização (21/08/2026):** a resposta ao Pedido 8 chegou e trata exatamente disso, processo
-> a processo — ver [Resposta LAI ao Pedido 8](#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
+Esses são os estados documentais informados, não certificação de posse ou implantação física. Ver respostas aos Pedidos 8/9 e acesso ao SEI de 24–25/09 abaixo. O relato extraoficial de pagamento, anterior às respostas, fica superado pela informação institucional do processo 092; não comprova o depósito da Cláusula Nona.
 
 ### 4. O Termo de Compromisso não tem prazo de validade — e a "cláusula de escape" foi suprimida
 
@@ -231,14 +217,12 @@ e o segundo aditivo (2013) ainda **ratifica** expressamente as cláusulas remane
 > e passa a ser posição institucional da própria Procuradoria. Ver [Resposta LAI ao Pedido
 > 8](#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
 
-### 5. Obrigação financeira com gatilho já disparado (Cláusula Nona do 2º aditivo)
+### 5. Obrigação financeira e gatilho a individualizar (Cláusula Nona do 2º aditivo)
 
 A Cláusula Nona do segundo aditivo obriga a compromissária a **depositar R$ 200.000,00 em favor
 do Município em até 15 dias após a publicação do Decreto de Utilidade Pública** — valor
 reajustado pela **Taxa SELIC**, com **multa de 20% e juros de 1% ao mês** em caso de atraso.
-Os decretos foram publicados em **23/12/2020**; o gatilho, portanto, ocorreu, e o prazo venceu
-por volta de **07/01/2021**. Se o depósito foi feito, há recurso vinculado às desapropriações
-do eixo; se não foi, há crédito municipal a cobrar. **A confirmar com a PGM/SMF.**
+A data de 23/12/2020 é a de disponibilização dos três decretos; a PGM toma **28/12/2020** como publicação. Há ainda o Decreto 20.808/2020, de novembro. **Não se fixa aqui o vencimento financeiro:** a SMF deve esclarecer qual ato aciona a cláusula, sua publicação, pagamento, cobrança e destinação. O Pedido 18 está em reexame desde 22/09/2026.
 
 *Nota (24/09/2026):* o primeiro dos decretos hoje conhecidos é o **20.808/2020, de 27/11/2020**
 (ver §2). Se o gatilho da cláusula for o primeiro decreto, e não o de 23/12/2020, o prazo do
@@ -696,7 +680,7 @@ complemento aos dados já obtidos no Pedido 7.
 
 > A resposta ao **Pedido 11** — contrapartidas viárias dos 8 empreendimentos em análise no eixo
 > P1/P2, desdobramento da resposta ao Pedido 6 — chegou em **10/09/2026** (protocolo
-> **017781-26-28**), oito dias após o novo prazo (02/09). Respondeu a **SMAMUS** (Diretoria do
+> **017781-26-28**), antes do prazo prorrogado de 12/09 (prazo inicial: 02/09). Respondeu a **SMAMUS** (Diretoria do
 > Escritório de Licenciamento). Os PDFs brutos ficam em `retornos-protocolos/017781-26-28/`
 > (fora do repositório público); abaixo, os fatos institucionais.
 
@@ -843,16 +827,14 @@ O **Pedido 17** pedia especificamente o "Relatório de Ocorrências" que o acór
 instrumento do P7 (5218710-18.2025.8.21.7000) citava como prova no processo judicial. A **EPTC**
 não enviou essa peça — redirecionou ao portal **ObservaMOB** e anexou, em vez disso, um
 **shapefile bruto com 264.567 sinistros de todo o município (2010 a setembro/2026)**, incluindo
-ocorrências só com danos materiais (não apenas as com vítima da base "Dados Abertos POA" já
+ocorrências sem vítimas registradas (presentes também na base "Dados Abertos POA" já
 usada no dossiê).
 
 Como o arquivo cobre a cidade inteira e não vem filtrado, **reprocessamos os 9 pontos do
 projeto**, não só o P7, com o mesmo método (distância geométrica, mesmos limiares — 100 m/200 m
 interseções, 50 m/100 m corredores) já documentado em
 [`dados/tratados/acidentes_metodologia.md`](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
-Os números sobem entre 2× e 4,5× em todos os pontos (P4: 409→1.648; P7: 18→67) — explicado pela
-janela maior (16 anos, não 6) e pela inclusão de danos materiais, não por uma piora real na
-sinistralidade. Entre os achados: o campo "Fatais" da EPTC (= óbito no local + óbito posterior)
+Os totais são maiores (P4: 409→1.648; P7: 18→67), mas ambas as bases incluem registros sem vítimas. Além da janela maior, a [reconciliação por ID na mesma janela](../dados/tratados/sinistros_reconciliacao.md) identifica diferenças de cobertura e coordenadas. Isso não demonstra tendência de sinistralidade. Entre os achados: o campo "Fatais" da EPTC (= óbito no local + óbito posterior)
 revela **fatais que a base anterior não capturava** — P4 sobe de 2 para 8 registros fatais, e P7
 e P9 aparecem com 1 cada, onde antes registravam zero. O caso do P7 é um registro de 2014 com
 "Morte" zerado mas "MortePoste" (óbito posterior) marcado — checamos essa relação em vários
@@ -946,7 +928,7 @@ obra que dela depende, dificilmente começam antes de 2027; (iv) a área e o val
 
 ### 4. Balancetes
 
-Os balancetes juntados (um no processo do P1, vários nominais no da alça) parecem levantamentos de
+Os balancetes juntados (um no processo da faixa da Três Meninas 1085, junto à Florestan Fernandes/P6, vários nominais no da alça) parecem levantamentos de
 débitos do imóvel ou dos proprietários, pelos títulos e pelas unidades emissoras (inferência).
 Não têm relação aparente com a Cláusula Nona. Estão sob sigilo fiscal (art. 198 do CTN) e não
 foram disponibilizados.
@@ -1002,7 +984,7 @@ em **24/10/2026**, e o ao processo do SIC, em **25/10/2026**.
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
 | **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
-| **Indireta** | P9 | Relaciona-se ao eixo Cristiano Kraemer, mas não foi localizado item específico para a Rótula da Vila Nova. |
+| **Sem cobertura específica identificada** | P9 atual | Rua Santuário × Av. Oscar Pereira. A antiga associação ao eixo Cristiano Kraemer referia-se à rótula retirada em 13/08, mantida apenas no histórico de D4. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 
 ## Consequência prática para o projeto
@@ -1020,8 +1002,7 @@ Até essa resposta, a formulação pública correta é: **há projetos e obriga�
 **Para o P7, as respostas de jul--set/2026** afinam o item 3: o projeto definitivo
 Três Meninas--Costa Gama **existiu, foi aprovado e caducou**, e o **Termo de Compromisso permanece
 vigente**. A PGM informa que o imóvel diretamente referido no Decreto 20.860 foi desapropriado
-por acordo em 2025; como sua relação com os outros processos fundiários citados na resposta ao
-Pedido 8 não foi explicada, essa parcela ainda requer reconciliação documental. A formulação
+por acordo em 2025. A reconciliação de 24/09 identificou três parcelas da mesma alça, com decretos próprios: 092 concluído; 093 com escritura e registro a confirmar; 094 em ação judicial. A formulação
 pública correta é: **a cidade projetou e aprovou uma solução, não a implantou e a deixou caducar;
 a obrigação de concluí-la segue vigente, mas sua viabilização exige projeto e sinalização novos,
 execução material da demolição judicial e confirmação completa da situação fundiária**.

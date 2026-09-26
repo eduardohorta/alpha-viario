@@ -37,14 +37,14 @@ Contíguos; podem ser cobertos numa mesma sessão de pico, com uma dupla por pon
 | 5 | B | P1, P2, P7, P8 | pico tarde | útil |
 | 6 | B | P6 (levantamento físico) | livre | útil |
 | 7 | A+B | pontos de acesso/lazer | pico | fim de semana |
-| 8 | B | Georref. D1–D4/P9 (rótula Vila Nova; condomínios) | livre | útil |
+| 8 | B | Georref. D1–D4 (rótula Vila Nova; condomínios) e sessão própria do P9 atual (Santuário × Oscar Pereira) | livre | útil |
 
 ## Por sessão — o que levar e produzir
 - **Levar:** celular (vídeo + GPS), cronômetro, prancheta/planilha impressa ou app, colete, [roteiro](observacoes/roteiro-vistoria.md).
 - **Produzir:** linhas preenchidas na [ficha CSV](observacoes/modelo-observacao-campo.csv) (contagem 15 min por movimento, fila, tempo de espera, conflitos, modos vulneráveis) + fotos/vídeos nomeados por `ponto_data_periodo`.
 - **Para P8:** anotar **tempos de semáforo** (ciclo, verde por aproximação, fila residual).
 - **Para P7:** **medir distância/tempo do retorno atual** (rodar o trajeto).
-- **Demandas D1–D4 e P9 — sessão de georreferenciamento:** localizar com GPS a **Rótula da Vila Nova (P9)** e os pontos de referência (Veneto, Lombardia, Clube, Reserva, Toscana); fotografar a posição dos quebra-molas (chegada/saída); medir distância/tempo do retorno citado em **D2**; registrar se os movimentos usam **vias públicas ou acessos internos** do condomínio. Para **D1**, medir velocidade praticada e checar travessias/pedestres. Ver [registro de demandas](../consultas/registro-demandas-comunitarias.md).
+- **Demandas D1–D4 e P9 — sessão de georreferenciamento:** validar o pin do **P9 atual (Rua Santuário × Av. Oscar Pereira)** em sessão própria e localizar com GPS a **Rótula da Vila Nova (D4, antigo P9 retirado)** e os pontos de referência (Veneto, Lombardia, Clube, Reserva, Toscana); fotografar a posição dos quebra-molas (chegada/saída); medir distância/tempo do retorno citado em **D2**; registrar se os movimentos usam **vias públicas ou acessos internos** do condomínio. Para **D1**, medir velocidade praticada e checar travessias/pedestres. Ver [registro de demandas](../consultas/registro-demandas-comunitarias.md).
 
 ## Consolidação
 Após cada sessão, a dupla anexa os registros e marca o ponto como "coletado" na matriz. Quando os 8 pontos tiverem ≥2 janelas coletadas, consolidamos a evidência e atualizamos a matriz — e o memorando deixa de depender só de dados preliminares.

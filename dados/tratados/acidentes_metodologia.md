@@ -3,7 +3,7 @@
 > **Hierarquia das bases (decisão da comissão, 24/09/2026).** A **base oficial** de sinistros do
 > dossiê é a da **EPTC** (Rodada 04, obtida pelo Pedido 17: 264.567 registros, 2010–2026, todas as
 > ocorrências). A base **Dados Abertos POA** (Rodadas 01–03 e 05, descritas neste arquivo:
-> 2020–2025, só com vítima) permanece como **evidência auxiliar** e continua reproduzível por
+> 2020–2025, com e sem vítimas registradas) permanece como **evidência auxiliar** e continua reproduzível por
 > `make data`. Ver a [Rodada 04](#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
 
 Fonte consultada: Dados Abertos POA, conjunto "Acidentes de Trânsito - Acidentes", recurso CSV/API `b56f8123-716a-4893-9348-23945f1ea1b9`. Licença **CC-BY**. Origem, URL, SHA-256 e comando de download em [`dados/brutos/manifest.json`](../brutos/manifest.json); reprodução via `make data`.
@@ -73,7 +73,9 @@ Resumo refinado pelo limiar principal:
 
 Observação sobre P5: a fatalidade capturada na triagem por bounding box fica a cerca de 128 m da referência P5 e aparece apenas no contexto ampliado, associada a `AV CAVALHADA` sem logradouro secundário. Portanto, ela deve ser tratada como alerta de contexto, não como evidência direta da conversão João Salomoni -> Cavalhada sem revisão manual.
 
-**Sobreposição entre pontos (totais não somáveis).** Considerando todas as associações (limiar principal + contexto ampliado), há **858 linhas** em `acidentes_associados_distancia.csv` para **800 sinistros distintos**: **58 sinistros aparecem em mais de um ponto** (o mesmo registro fica perto de duas referências, p. ex. P1/P9 na Cristiano Kraemer ou P7/P8 no eixo Costa Gama). **Logo, os totais por ponto não podem ser somados** — a soma superestima o total real. Restringindo às associações principais (`associacao_principal=sim`), são 673 linhas para 647 sinistros distintos (26 em mais de um ponto). Use sempre a contagem de sinistros **distintos** ao falar de um total agregado.
+**Sobreposição entre pontos (totais não somáveis; cadastro atual P1–P9).** Na base auxiliar há **883 linhas para 825 IDs distintos**, dos quais 58 aparecem em mais de um ponto. No recorte principal, **690 linhas / 664 IDs**, com 26 IDs em mais de um ponto. Na EPTC, são **3.252 linhas / 3.050 IDs** no principal + contexto, com 200 IDs em mais de um ponto; no principal, **2.585 linhas / 2.513 IDs**, com 72 em mais de um ponto. O ID 804757 está duplicado dentro do contexto de P1 e de P2 na EPTC (02/09/2026), sem efeito sobre o principal. Não foi removido silenciosamente. Para totais agregados, distinguir linhas, pares ID/ponto e eventos por ID.
+
+**Unidades:** ocorrências contam registros associados; feridos, graves e fatais contam pessoas nos respectivos campos; motos contam veículos, não ocorrências com moto. No P4 EPTC são 640 motos em 619 ocorrências com moto; no P9, 26 em 25.
 
 ## Rodada 03 - segmentação do P4 por trecho
 
@@ -107,7 +109,9 @@ Leitura preliminar:
 
 Limite adicional: esta segmentação é suficiente para priorizar vistoria e mapas, mas não substitui base cadastral municipal, aerofoto, análise de boletins individualizados nem inspeção de campo.
 
-## Rodada 05 - inclusão do P9 (rótula Cristiano Kraemer x Juca Batista)
+## Rodada 05 - inclusão histórica do antigo P9 (rótula Cristiano Kraemer x Juca Batista)
+
+> **Histórico superado em 13/08/2026.** Os números desta seção pertencem à referência retirada. O **P9 atual é Rua Santuário × Av. Oscar Pereira**, coordenadas −30.096763, −51.178065, com 17 ocorrências auxiliares principais e 55 na EPTC. Os arquivos atuais foram regenerados para esse novo ponto; não reproduzem mais as 33/57 ocorrências históricas abaixo.
 
 Até a Rodada 03 o P9 não tinha coordenada confirmada e ficava fora da associação por distância; a matriz registrava "sinistros: a levantar". Em 20/07/2026 a transversal foi confirmada visualmente (OSM/Street View) como **Av. Juca Batista**, e o ponto entrou no pipeline com **os mesmos limiares das demais interseções** (principal 100 m, contexto 200 m), na coordenada -30.1476851, -51.2045098.
 
@@ -130,7 +134,7 @@ Contexto ampliado (200 m): 57 ocorrências. Distância mínima registrada: 3,8 m
 - Registros sem coordenada válida não foram inventados nem posicionados artificialmente.
 - A grafia dos logradouros precisa ser confirmada com base municipal oficial antes de protocolo.
 - Os totais não devem ser usados como prova causal sem inspeção dos registros individuais, mapa e vistoria de campo.
-- **Totais por ponto não são somáveis:** 58 dos 857 sinistros distintos associam-se a mais de um ponto (ver "Sobreposição entre pontos"). Para um agregado, conte sinistros distintos.
+- **Totais por ponto não são somáveis:** 58 dos 825 IDs distintos da base auxiliar associam-se a mais de um ponto (ver "Sobreposição entre pontos"). Para um agregado, conte sinistros distintos.
 
 ## Próximo passo técnico
 
@@ -142,8 +146,8 @@ Revisar manualmente `acidentes_revisao_manual_proximos.csv` e `acidentes_p4_regi
 de Ocorrências" citado no processo judicial do P7, foi respondido em 22/09/2026 com um
 redirecionamento ao portal **ObservaMOB** e um link para um shapefile bruto da própria EPTC:
 `ACIDENTES_TRANSITO_2010_202609` — **264.567 registros, todo o município, de 2010 a
-setembro/2026**, incluindo sinistros só com danos materiais (não apenas os com vítima, como na
-base "Dados Abertos POA" usada na Rodada 02). O arquivo bruto (~560 MB) fica em
+setembro/2026**, incluindo sinistros sem vítimas registradas, presentes também na
+base "Dados Abertos POA" usada na Rodada 02. O arquivo bruto (~560 MB) fica em
 `retornos-protocolos/017904-26-00/` (gitignored, fora do repositório público).
 
 **Duas passagens.** Uma primeira extração cobriu só o P7 (`scripts/extrair_eptc_p7.py`), para
@@ -156,7 +160,7 @@ execução: ~34 s para 264.567 registros.
 
 **Resultado — limiar principal (100 m / 50 m conforme o ponto), 2010–2026:**
 
-| Ponto | **Oficial:** Rodada 04/EPTC (2010–2026, todas) | Graves | Fatais | Motos | Auxiliar: Rodada 02 (2020–2025, c/ vítima) |
+| Ponto | **Oficial:** Rodada 04/EPTC (2010–2026, todas) | Graves | Fatais | Motos | Auxiliar: Rodada 02 (2020–2025, sem filtro de vítimas) |
 |---|---:|---:|---:|---:|---:|
 | P1 | 58 | 3 | 0 | 18 | 29 |
 | P2 | 150 | 14 | 0 | 50 | 58 |
@@ -168,11 +172,7 @@ execução: ~34 s para 264.567 registros.
 | P8 | 124 | 11 | 0 | 44 | 36 |
 | P9 | 55 | 6 | 1 | 26 | 17 |
 
-Os números sobem entre 2× e 4,5× em todos os pontos. A explicação dominante é metodológica, não
-uma piora real: **janela 2,7× mais longa (16 anos contra 6)** e **inclusão de sinistros só com
-danos materiais** (na extração do P7, 73% dos 67 registros não tinham vítima registrada — a
-Rodada 02 não os capturava). Overlap entre pontos não recalculado nesta rodada; assumir a mesma
-ordem de grandeza da Rodada 02 (registros perto de mais de uma referência) até nova checagem.
+As janelas são diferentes: EPTC **01/01/2010–09/09/2026**, auxiliar **01/01/2020–31/08/2025**. Ambas incluem registros sem vítimas: 46.437 das 75.176 linhas auxiliares têm `cont_vit = 0`. Portanto, não atribuir a diferença à introdução de danos materiais nem inferir uma piora real. A [reconciliação](sinistros_reconciliacao.md), reexecutável por `make reconcile-data`, compara IDs na mesma janela e explica as diferenças observadas por ausência do ID no outro bruto, coordenada inválida ou coordenada fora do limiar. A causa administrativa das revisões permanece desconhecida.
 
 **Campo `Fatais` esclarecido — não é mais "achado a confirmar".** A checagem cruzada mostrou que
 `Fatais = Morte + MortePoste` (óbito no local + óbito posterior à internação) em todos os casos
@@ -192,14 +192,12 @@ checar os boletins individuais.
 
 - P6 é rota (polilinha) e não tem segmentação por trecho. O **P4 foi resegmentado** na base da
   EPTC (seção abaixo); a Rodada 03, baseada na Dados Abertos POA, fica como auxiliar.
-- Overlap entre pontos (mesmo sinistro perto de duas referências) não recalculado para a base
-  EPTC.
+- Sobreposição EPTC calculada nos metadados; ver contagens e duplicação de contexto na seção de sobreposição acima.
 - "Fatais" é o campo mais confiável para óbitos (soma local + posterior); no dossiê público,
   preferir esse campo a "Morte" isoladamente.
 - **Decisão (24/09/2026):** os números da Rodada 04 (EPTC) substituem os da Rodada 02 como base
   oficial nas peças (anexo, memorandos, ofício, matriz de problemas); os da Rodada 02 ficam como
-  evidência auxiliar, sempre identificados como tal, com a ressalva de janela e de critério
-  (16 anos e danos materiais contra 6 anos e só com vítima).
+  evidência auxiliar, sempre identificados como tal, com a ressalva das diferentes janelas, coberturas e coordenadas; não há filtro de vítimas em nenhuma delas.
 
 **P4 resegmentado na base da EPTC (24/09/2026).** `scripts/segmentar_p4_monteggia.py --eptc`
 projeta os 1.648 registros do corredor no eixo OSM e resume os **mesmos trechos S01–S07** da

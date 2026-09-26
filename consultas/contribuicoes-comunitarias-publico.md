@@ -6,7 +6,7 @@
 - **D1** — Moderação de velocidade na Estr. das Três Meninas (quebra-molas).
 - **D2** — Retorno mais curto no eixo Três Meninas/Cristiano Kraemer *(a avaliar quanto ao benefício público)*.
 - **D3** — Melhoria de capacidade/geometria no eixo Cristiano Kraemer *(a avaliar; hipótese de maior custo)*.
-- **D4 → P9 (preliminar)** — Ajuste geométrico/moderação na Rótula da Vila Nova.
+- **D4 (antigo P9, retirado em 13/08/2026)** — Ajuste geométrico/moderação na Rótula da Vila Nova.
 - **P7** — os expedientes administrativos confirmam uma **conexão projetada em duas etapas** entre Três Meninas e Costa Gama, com solução definitiva condicionada a desapropriações. A descrição comunitária como **“alça à esquerda”** continua sendo hipótese até a identificação do desenho geométrico.
 
 ## Diretrizes de método sugeridas pela comunidade

@@ -8,7 +8,7 @@
 
 ## O que é
 Projeto comunitário que propõe melhorias viárias em **9 pontos (P1–P9)** à EPTC/Prefeitura
-de Porto Alegre. O produto é um **dossiê técnico** protocolado na EPTC pedindo dados e
+de Porto Alegre. O produto é um **dossiê técnico** destinado à SMAMUS, com cópia à EPTC/SMMU, pedindo dados e
 vistoria. Fase atual: montar a **evidência prévia** (sinistros + tempos de viagem +
 documentos oficiais via LAI); coleta física comunitária e questionário ficam **em espera**
 e não bloqueiam o protocolo.
@@ -30,8 +30,7 @@ pessoais/registrais ficam no privado ou em `interno/` (gitignored).
 `scripts/processar_sinistros_eptc_distancia.py` + `scripts/segmentar_p4_monteggia.py --eptc` →
 `dados/tratados/eptc_acidentes_*` → anexo/matriz.
 
-**Evidência auxiliar:** Dados Abertos POA (CC-BY; bruto ~15 MB **gitignored**, 2020–2025, só com
-vítima) → `scripts/processar_sinistros_distancia.py` + `scripts/segmentar_p4_monteggia.py` →
+**Evidência auxiliar:** Dados Abertos POA (CC-BY; bruto ~15 MB **gitignored**, 2020–2025, com e sem vítimas registradas) → `scripts/processar_sinistros_distancia.py` + `scripts/segmentar_p4_monteggia.py` →
 `dados/tratados/acidentes_*`. Reprodução: `make data` (confere o SHA-256 do bruto contra
 `dados/brutos/manifest.json`).
 
@@ -50,7 +49,7 @@ Capturas do Google Maps (e, se acionada, coleta física) → registradas em
 `campo/observacoes/inventario-evidencias.csv` com classificação **público/interno**.
 
 ### 4. Documentos oficiais (LAI) e questionário
-Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (17 protocolados) buscam o que só a
+Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (23 protocolados; situação datada no acompanhamento) buscam o que só a
 Prefeitura tem. Uma **segunda via documental** é a administração do
 empreendimento, que repassou à comissão o TC integral, aditivos, pareceres e decretos
 (`nova-documentacao/`, gitignored). **As respostas brutas ficam em
@@ -67,7 +66,8 @@ volta a ser exigido).
   dos questionários (`scripts/pontos.py`, via regiões marcadas nos documentos).
 - **Porteiros:** `make check` (public-check — links quebrados, vazamento de áreas privadas,
   placeholders, consistência dos pontos) e `make release-check` (estrito, antes de
-  protocolar). O CI roda os dois + testes a cada push.
+  protocolar). O CI roda o `public-check` em modo de desenvolvimento, sincronização e testes a cada push.
+  O modo estrito é local e exige a lista privada de termos sensíveis. O gate não substitui revisão factual nem visual.
 - Pacote de reunião **gerado** das fontes (`make pacote`, exige Pandoc); testes em `tests/`.
 - Licença dupla: **MIT** (código) / **CC BY 4.0** (conteúdo). Ver [LICENSE](LICENSE).
 
