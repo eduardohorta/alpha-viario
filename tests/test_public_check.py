@@ -3,6 +3,8 @@ import pathlib
 import sys
 import tempfile
 import unittest
+import json
+from unittest.mock import patch
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
@@ -52,6 +54,38 @@ class TestReleaseScope(unittest.TestCase):
             "consultas/moradores/aviso-privacidade.md",
             public_check.EXTERNAL_PIECES,
         )
+
+
+class TestPackageOutputs(unittest.TestCase):
+    def test_missing_or_modified_pdf_and_md_only_build_are_stale(self):
+        with tempfile.TemporaryDirectory() as d:
+            root = pathlib.Path(d)
+            md, pdf = root / "pacote-reuniao.md", root / "pacote-reuniao.pdf"
+            md.write_text("conteúdo")
+            pdf.write_bytes(b"pdf original")
+            manifest = root / "pacote-reuniao.sources.json"
+            sources = {p: "unused" for p in (
+                "scripts/build_pacote.py", "mapas/mapa-pontos.png",
+                "relatorios/guia-validacao-comissao.md", "relatorios/memorando-externo.md",
+                "relatorios/anexo-matriz-pontos.md")}
+            for p in sources:
+                f = root / p
+                f.parent.mkdir(parents=True, exist_ok=True)
+                f.write_text("fonte")
+                sources[p] = public_check._sha256(f)
+            data = {"fontes": sources, "saida_md_sha256": public_check._sha256(md),
+                    "saida_pdf_sha256": public_check._sha256(pdf)}
+            manifest.write_text(json.dumps(data))
+            with patch.object(public_check, "ROOT", root), patch.object(public_check, "PACOTE_MANIFEST", manifest):
+                self.assertEqual(public_check.check_stale_package(), [])
+                pdf.write_bytes(b"pdf alterado")
+                self.assertTrue(public_check.check_stale_package())
+                pdf.unlink()
+                self.assertTrue(public_check.check_stale_package())
+                pdf.write_bytes(b"pdf original")
+                del data["saida_pdf_sha256"]
+                manifest.write_text(json.dumps(data))
+                self.assertTrue(public_check.check_stale_package())
 
 
 if __name__ == "__main__":

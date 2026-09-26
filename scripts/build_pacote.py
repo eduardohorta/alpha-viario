@@ -39,15 +39,16 @@ SOURCES = [
 
 # Mantido fixo (não derivado da data de hoje) para que o build seja determinístico
 # e os testes de reprodução byte a byte funcionem. A comissão atualiza quando quiser.
-DATE = "Julho de 2026"
+DATE = "25 de setembro de 2026"
 
 FRONTMATTER = f"""---
 title: "Projeto Viário — Vila Nova / Zona Sul"
-subtitle: "Pacote de reunião — Comissão de Mobilidade"
-author: "Comissão de Mobilidade — Moradores do Alphaville Porto Alegre"
+subtitle: "Pacote de reunião e acompanhamento"
+author: "Comissão Viária Estrada das Três Meninas"
 date: "{DATE}"
 lang: pt-BR
-geometry: margin=2.2cm
+geometry: margin=2cm
+papersize: a4
 fontsize: 11pt
 ---"""
 
@@ -113,16 +114,17 @@ def _pandoc_version() -> str:
 def write_manifest(pandoc_version: str | None = None) -> None:
     fontes = {src: _sha256(ROOT / src) for src in SOURCES}
     fontes["scripts/build_pacote.py"] = _sha256(Path(__file__).resolve())
+    fontes["mapas/mapa-pontos.png"] = _sha256(ROOT / "mapas/mapa-pontos.png")
     manifest = {
         "gerado_por": "scripts/build_pacote.py",
         "comando": "python3 scripts/build_pacote.py",
         "fontes": fontes,
-        # Determinístico (o .md não embute timestamp). O .pdf embute data de
-        # criação, então não é byte-reprodutível e não tem hash registrado aqui.
+        # Hash do PDF identifica esta execução, sem prometer reprodução binária.
         "saida_md_sha256": _sha256(OUT_MD),
     }
     if pandoc_version:  # proveniência do PDF (só no build de liberação)
         manifest["pdf_proveniencia"] = {"gerador": pandoc_version}
+        manifest["saida_pdf_sha256"] = _sha256(OUT_PDF)
     MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 

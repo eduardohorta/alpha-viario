@@ -44,7 +44,7 @@ EXTERNAL_PIECES = [
     "pacote-reuniao.md",
 ]
 
-PRIVATE_DIRS = ("interno", "revisoes")
+PRIVATE_DIRS = ("interno", "revisoes", "retornos-protocolos", "nova-documentacao", "expedientes-unicos")
 
 # Manifesto de fontes do pacote (escrito pelo build do pacote — Fase 2).
 PACOTE = "pacote-reuniao.md"
@@ -174,6 +174,16 @@ def check_stale_package() -> list[Issue]:
                       "(gere com o build do pacote).")]
     manifest = json.loads(PACOTE_MANIFEST.read_text(encoding="utf-8"))
     issues: list[Issue] = []
+    for name, key in ((PACOTE, "saida_md_sha256"), ("pacote-reuniao.pdf", "saida_pdf_sha256")):
+        output = ROOT / name
+        if not manifest.get(key) or not output.exists() or _sha256(output) != manifest[key]:
+            issues.append(Issue("AVISO", "stale-package", name, None,
+                                "saída ausente, alterada ou sem hash de build completo; rode make pacote"))
+    required = {"scripts/build_pacote.py", "mapas/mapa-pontos.png",
+                "relatorios/guia-validacao-comissao.md", "relatorios/memorando-externo.md",
+                "relatorios/anexo-matriz-pontos.md"}
+    if not required.issubset(manifest.get("fontes", {})):
+        issues.append(Issue("AVISO", "stale-package", PACOTE, None, "manifesto de fontes incompleto"))
     for relp, recorded in manifest.get("fontes", {}).items():
         f = ROOT / relp
         if not f.exists():
