@@ -15,8 +15,10 @@ permitir comparação direta entre as duas fontes.
 import struct, math, csv, json
 from pathlib import Path
 
-DBF = Path("/Users/eduardohorta/alpha-viario/retornos-protocolos/017904-26-00/ACIDENTES_TRANSITO_2010_202609/ACIDENTES_TRANSITO_2010_202609.dbf")
-OUT_CSV = Path("/private/tmp/claude-502/-Users-eduardohorta-alpha-viario/15b055fa-d750-4033-8400-7aa517914b8a/scratchpad/pedido17/p7_matches.csv")
+ROOT = Path(__file__).resolve().parents[1]
+
+DBF = ROOT / "retornos-protocolos/017904-26-00/ACIDENTES_TRANSITO_2010_202609/ACIDENTES_TRANSITO_2010_202609.dbf"
+OUT_CSV = ROOT / "dados/tratados/eptc_acidentes_p7_2010_202609.csv"
 
 P7_LAT, P7_LON = -30.13373, -51.17574
 EARTH_R = 6_371_000.0

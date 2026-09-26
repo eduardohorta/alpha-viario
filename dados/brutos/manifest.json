@@ -44,6 +44,19 @@
       "licenca": "Creative Commons Attribution (CC-BY)",
       "licenca_url": "http://www.opendefinition.org/licenses/cc-by",
       "versionado": true
+    },
+    {
+      "arquivo": "retornos-protocolos/017904-26-00/ACIDENTES_TRANSITO_2010_202609/ACIDENTES_TRANSITO_2010_202609.dbf",
+      "fonte": "EPTC — anexo do Pedido 17, protocolo 017904-26-00, resposta de 22/09/2026",
+      "sha256": "8df4de536591a43aba80e1d9873c4d689ff9111ed7c703f31fbfc486a92d79e5",
+      "tamanho_bytes": 559561095,
+      "registros": 264567,
+      "janela_temporal": {
+        "inicio": "2010-01-01",
+        "fim": "2026-09-09"
+      },
+      "versionado": false,
+      "nota": "Bruto local obtido via LAI, mantido fora do Git. Reprodução oficial: scripts/processar_sinistros_eptc_distancia.py; reconciliação: make reconcile-data. Licença específica não identificada nesta conferência."
     }
   ]
 }

@@ -1,0 +1,247 @@
+{
+  "janela": [
+    "20200101",
+    "20250831"
+  ],
+  "criterio": "associacao_principal; mesmo ID; sem filtro de vitimas",
+  "registros_brutos": {
+    "auxiliar": 75176,
+    "eptc": 264567
+  },
+  "auxiliar_cont_vit_zero": 46437,
+  "divergencias_metricas_ids_comuns_por_associacao": {},
+  "classificacao_por_ponto": [
+    {
+      "ponto": "P1",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 3
+    },
+    {
+      "ponto": "P1",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 2
+    },
+    {
+      "ponto": "P1",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 2
+    },
+    {
+      "ponto": "P1",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 3
+    },
+    {
+      "ponto": "P1",
+      "presente_no_recorte": "eptc",
+      "motivo": "id_ausente_no_bruto",
+      "n": 1
+    },
+    {
+      "ponto": "P2",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 5
+    },
+    {
+      "ponto": "P2",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 2
+    },
+    {
+      "ponto": "P2",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 5
+    },
+    {
+      "ponto": "P2",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 7
+    },
+    {
+      "ponto": "P2",
+      "presente_no_recorte": "eptc",
+      "motivo": "id_ausente_no_bruto",
+      "n": 2
+    },
+    {
+      "ponto": "P3",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 3
+    },
+    {
+      "ponto": "P3",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 4
+    },
+    {
+      "ponto": "P3",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 4
+    },
+    {
+      "ponto": "P3",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 9
+    },
+    {
+      "ponto": "P3",
+      "presente_no_recorte": "eptc",
+      "motivo": "id_ausente_no_bruto",
+      "n": 3
+    },
+    {
+      "ponto": "P4",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 2
+    },
+    {
+      "ponto": "P4",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 14
+    },
+    {
+      "ponto": "P4",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 9
+    },
+    {
+      "ponto": "P4",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 35
+    },
+    {
+      "ponto": "P4",
+      "presente_no_recorte": "eptc",
+      "motivo": "id_ausente_no_bruto",
+      "n": 11
+    },
+    {
+      "ponto": "P5",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 2
+    },
+    {
+      "ponto": "P5",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 3
+    },
+    {
+      "ponto": "P5",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 4
+    },
+    {
+      "ponto": "P5",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 12
+    },
+    {
+      "ponto": "P5",
+      "presente_no_recorte": "eptc",
+      "motivo": "id_ausente_no_bruto",
+      "n": 7
+    },
+    {
+      "ponto": "P6",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 2
+    },
+    {
+      "ponto": "P6",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 2
+    },
+    {
+      "ponto": "P7",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 11
+    },
+    {
+      "ponto": "P7",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 6
+    },
+    {
+      "ponto": "P7",
+      "presente_no_recorte": "eptc",
+      "motivo": "id_ausente_no_bruto",
+      "n": 1
+    },
+    {
+      "ponto": "P8",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 2
+    },
+    {
+      "ponto": "P8",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 7
+    },
+    {
+      "ponto": "P8",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 5
+    },
+    {
+      "ponto": "P8",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 7
+    },
+    {
+      "ponto": "P9",
+      "presente_no_recorte": "auxiliar",
+      "motivo": "id_ausente_no_bruto",
+      "n": 1
+    },
+    {
+      "ponto": "P9",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_fora_do_limiar",
+      "n": 3
+    },
+    {
+      "ponto": "P9",
+      "presente_no_recorte": "eptc",
+      "motivo": "coordenada_invalida",
+      "n": 1
+    }
+  ],
+  "insumos_sha256": {
+    "dados/brutos/cat_acidentes.csv": "0e3f977f8e8a9c2026405d9fe62e29cd843250413ec4b22edd309f839f3f061f",
+    "retornos-protocolos/017904-26-00/ACIDENTES_TRANSITO_2010_202609/ACIDENTES_TRANSITO_2010_202609.dbf": "8df4de536591a43aba80e1d9873c4d689ff9111ed7c703f31fbfc486a92d79e5",
+    "dados/brutos/osm_vias_alpha_viario.json": "a0ab667778008c5c5b5892fa9349fd6d67aa8a397e149ce73a3d48900c2ce11c",
+    "scripts/reconciliar_sinistros.py": "5a22671ceb7ad23e2d90fe94c1c3dc62f21db626093cf012f1f3ffba555220de",
+    "scripts/processar_sinistros_distancia.py": "acb36f832f1a307eef9f85945afc754d57e503f7c01ce7f1ffee6b0950fea25e",
+    "scripts/processar_sinistros_eptc_distancia.py": "e594d8d6d70cb7a168f9a40b538e51c4b1d207572f26d7708980007292c4f626",
+    "dados/tratados/acidentes_associados_distancia.csv": "202532b8e3f6fbb4344ff5bdcf231246255e278ae2e6e49ee674c27b1236d79e",
+    "dados/tratados/eptc_acidentes_associados_distancia.csv": "e584b017ed71b449223f371b84b48d0a7f29e2f5025fb0cd05ae46ce59f53e13"
+  }
+}

@@ -41,7 +41,7 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"AUSENTE  {item['arquivo']}")
                 ok = False
             else:
-                print(f"pulado   {item['arquivo']} (não versionado; rode 'make fetch-data')")
+                print(f"pulado   {item['arquivo']} (não versionado; consulte a origem no manifesto)")
             continue
         got = sha256(path)
         if got == item["sha256"]:

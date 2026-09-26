@@ -8,7 +8,7 @@ os registros brutos da Google Routes API:
   dados/tratados/sonda_tempos_agregado.csv   agregados por rota × janela
   dados/tratados/sonda_tempos_resumo.md      resumo textual para o dossiê
 
-Índice de atraso = duracao_s / duracao_livre_s (>1 = mais lento que o fluxo livre).
+Índice = duration / staticDuration (estimativas com/sem considerar tráfego).
 
 Uso:
   python3 scripts/agregar_sonda.py [--input CAMINHO]
@@ -152,19 +152,39 @@ def _write_resumo(raw, grp, rotas, janela, agg) -> None:
         "# Sonda de tempos de viagem — resumo agregado",
         "",
         f"> **Gerado por `scripts/agregar_sonda.py`.** Janela: **{janela[0]} a {janela[1]}**; "
-        f"**{len(raw)} medições** válidas em 12 rotas. Fonte: **Google Routes API** "
+        f"**{len(raw)} medições** válidas em {len({r['rota_id'] for r in raw})} rotas. Fonte: **Google Routes API** "
         "(sonda própria do projeto, coleta nos picos e fins de semana). "
         "**Indicativo, não substitui medição da EPTC** — pede-se vistoria e contagens oficiais.",
-        "> Índice de atraso = duração real ÷ duração em fluxo livre (>1 = mais lento). "
+        "> Índice = duração estimada com tráfego ÷ duração estimada sem considerar tráfego (`duration/staticDuration`). "
         "Apenas **agregados**; os registros brutos da Google não são publicados.",
         "",
         "## Rotas mais lentas no pico (dia útil)",
+        "",
+        "Série disponível de cada rota; janelas diferentes não constituem comparação controlada. Ver janela comum abaixo.",
         "",
         "| Rota | Ponto | Índice de atraso (mediana) | p85 | Duração mediana | Trecho |",
         "|------|-------|---------------------------:|----:|----------------:|--------|",
     ]
     for rid, pid, dimed, dip85, dur, desc in rank:
         lines.append(f"| {rid} | {pid} | {dimed:.2f} | {dip85:.2f} | {dur//60}min{dur%60:02d}s | {desc} |")
+
+    # Mesmo conjunto de timestamps para todas as rotas, além de datas comuns:
+    # evita que frequência/horários distintos determinem o ranking.
+    samples = {rid: {r['timestamp']: r for r in picos(rid)} for rid in rotas}
+    shared = set.intersection(*(set(v) for v in samples.values()))
+    if shared:
+        comparable = [(rid, agg([samples[rid][ts] for ts in sorted(shared)])) for rid in rotas]
+        comparable.sort(key=lambda x: (-x[1]['idx_atraso_med'], x[0]))
+        lines += ["", "## Comparação em timestamps comuns a todas as rotas", "",
+                  f"{min(shared)[:10]}–{max(shared)[:10]}, somente picos de dias úteis: "
+                  f"**{len(shared)} observações por rota**, com datas e horários idênticos. "
+                  "Isso controla a composição temporal, não diferenças entre percursos nem o efeito de obras.", "",
+                  "| Rota | Ponto | n | Índice mediano | p85 | Duração mediana (s) |",
+                  "|---|---|---:|---:|---:|---:|"]
+        for rid, a in comparable:
+            lines.append(f"| {rid} | {rotas[rid]['ponto_id']} | {a['n']} | {a['idx_atraso_med']:.2f} | {a['idx_atraso_p85']:.2f} | {a['dur_med_s']} |")
+    else:
+        lines += ["", "Não há timestamps de pico comuns a todas as rotas; não foi produzido ranking temporalmente pareado."]
 
     lines += ["", "## Assimetria direcional no pico", "",
               "| Par | Sentido A | Sentido B | Razão A/B (tempo) |",
@@ -185,18 +205,23 @@ def _write_resumo(raw, grp, rotas, janela, agg) -> None:
         d6 = median([float(r["duracao_s"]) for r in r06])
         di6 = median([float(r["distancia_m"]) for r in r06])
         lines += ["", "## Destaque — P7 (retorno distante)", "",
-                  f"A rota **legalmente disponível** de Três Meninas→Costa Gama (R05, incluindo o "
-                  f"retorno distante) leva **{d5/60:.1f} min / {di5/1000:.1f} km** no pico, contra "
-                  f"**{d6/60:.1f} min / {di6/1000:.1f} km** do movimento direto permitido (R06) — "
-                  f"o desvio **{d5/d6:.1f}× o tempo** e **{di5/di6:.1f}× a distância**. "
-                  "É a medida empírica do custo imposto aos moradores pela ausência da conversão/alça."]
+                  f"Três Meninas→Costa Gama (R05) tem estimativa mediana de "
+                  f"**{d5/60:.1f} min / {di5/1000:.1f} km** no pico, contra "
+                  f"**{d6/60:.1f} min / {di6/1000:.1f} km** no sentido oposto (R06): "
+                  f"razões de **{d5/d6:.2f}× no tempo** e **{di5/di6:.2f}× na distância**. "
+                  "A assimetria é compatível com diferenças de percurso e tráfego, mas não isola "
+                  "o efeito da ausência da alça. Não compara a mesma viagem com e sem a intervenção. "
+                  "O coletor não armazena a geometria das rotas, portanto os campos de duração e distância "
+                  "não comprovam por si sós o trajeto do retorno."]
 
     lines += ["", "## Limitações",
               "- Rotas R13/R14 (P9) entraram na coleta em 14/08/2026, mais tarde que as demais "
               "(04/07/2026) — amostra menor (centenas de medições, não milhares) para esse ponto.",
               "- Tempos do Google refletem estimativa de tráfego, não contagem volumétrica.",
-              "- Índice <1 em rotas curtas ocorre quando a duração em fluxo livre é conservadora; "
-              "os agregados (mediana/p85) são robustos a esses casos.", ""]
+              "- Índices menores que 1 podem refletir diferenças entre as estimativas da API. "
+              "Mediana e p85 não corrigem eventual viés sistemático do denominador.",
+              "- Definições: [Google Routes API](https://developers.google.com/maps/documentation/routes/reference/rest/v2/TopLevel/computeRoutes). "
+              "O nome legado `duracao_livre_s` no CSV corresponde a `staticDuration`, não a fluxo livre medido.", ""]
 
     OUT_MD.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
