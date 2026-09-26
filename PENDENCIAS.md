@@ -11,7 +11,8 @@
 - [ ] **[C]** Confirmar data, canal e comprovante do protocolo principal; a meta de 01/09 não comprova envio.
 - [ ] **[G]** Acompanhar Pedido 14 sem resposta registrada, documentos restantes do 16, reexame do 18 e respostas 19/20/22/23. Pedido 21 respondido em 16/09. Prazos vigentes: [acompanhamento LAI](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [ ] **[G]** Validar enquadramento territorial do P9 atual; o resultado geoespacial de julho usava a rótula retirada em agosto.
-- [ ] **[G]** Conferir coleta/cotas atuais no ambiente privado: o bruto local termina em 01/09; isso não comprova pausa.
+- [x] **[G]** Coleta e cotas conferidas no Console (26/09/2026, somente leitura): coleta ativa, cota diária de 200 em 84%, R$ 0,36 de custo no mês e nenhuma cobrança da Routes API. Ver [campo/sonda-tempos-google.md](campo/sonda-tempos-google.md).
+- [ ] **[C]** Decidir o destino da sonda: manter, reduzir uma rodada por dia ou pausar os jobs. A campanha prevista era de 2 a 4 semanas e já tem cerca de 12; a 168 chamadas por dia, outubro passa da franquia mensal de 5.000 eventos.
 
 As seções abaixo preservam marcos datados; prazos originais citados em itens concluídos são históricos.
 

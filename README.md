@@ -9,7 +9,7 @@ A trilha LAI soma **23 pedidos protocolados**. A situação atual está no [acom
 
 **Reunião:** a comissão está preparando a ata, conforme informação recebida em 25/09; será incorporada quando disponibilizada. Não antecipar suas deliberações. As decisões documentadas de 13/08 permanecem como referência. **A data e o comprovante do protocolo principal ainda não estão confirmados neste repositório.**
 
-A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregados são estimativas descritivas e a comparação R05/R06 mede assimetria entre sentidos, não o efeito isolado da alça. A continuidade posterior da coleta e as cotas de produção precisam de conferência no ambiente privado. Coleta física e questionário seguem em espera e não bloqueiam o protocolo.
+A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregados são estimativas descritivas e a comparação R05/R06 mede assimetria entre sentidos, não o efeito isolado da alça. Conferido no Console em 26/09/2026: a coleta segue ativa (12 rodadas por dia, 14 rotas), com a cota diária de 200 em cerca de 84% de uso e sem custo da Routes API até então; ver [detalhe](campo/sonda-tempos-google.md). Coleta física e questionário seguem em espera e não bloqueiam o protocolo.
 
 **Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`). **Inspeção nova? Comece pela** [ARQUITETURA.md](ARQUITETURA.md) — como as peças (dois repositórios, fluxos de dado, governança) se encaixam.
 

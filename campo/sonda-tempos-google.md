@@ -22,6 +22,14 @@ O script local usa `TRAFFIC_AWARE`, recurso da SKU **Compute Routes Pro**, confo
 
 Não foram alteradas cotas, agendamentos ou serviços em produção nesta revisão.
 
+## Conferência no Console (26/09/2026, somente leitura)
+
+- **Coleta ativa.** Os dois jobs do Cloud Scheduler (`*/30 6-8` e `*/30 17-19`, horário de Brasília) estão habilitados e a última execução de cada um terminou com sucesso. A série continua depois de 01/09; o bruto local é apenas a última cópia.
+- **Tráfego da Routes API.** 5.122 solicitações em 30 dias (27/08 a 26/09), sem erros, média de cerca de 171 por dia. Nas últimas 24 horas o painel mostrou 266, valor que não expliquei; a média e o item seguinte indicam cerca de 168 por dia (12 rodadas por 14 rotas).
+- **Cota diária.** A cota `ComputeRoutesRequestsPerDay` existe e está com uso de 84% (cerca de 168 de 200). O Console mostra o alerta "uso de cota elevado".
+- **Faturamento (1 a 25/09).** R$ 0,36 no total: Secret Manager e Cloud Run Functions, já descontada a franquia. Não há linha da Routes API. O orçamento mensal de R$ 5 alerta em 50%, 90% e 100%; é um alerta, não uma trava de gasto.
+- **Risco.** A revisão de 25/09 registrou, pela tabela de preços do Google, franquia mensal de 5.000 eventos para o recurso com tráfego (preço a confirmar na tabela vigente). A 168 por dia, um mês de 30 dias soma cerca de 5.040 e um de 31 dias, cerca de 5.208: o excedente seria pequeno, mas passa a haver cobrança. Agosto (4.884 medições) ficou abaixo, sem custo. Opções: reduzir uma rodada por dia (154 por dia, 4.774 em 31 dias) ou pausar os jobs ao fim da campanha, prevista para 2 a 4 semanas e já com cerca de 12.
+
 ## Execução e armazenamento — Google Cloud + repositório privado
 
 A sonda **é executada por serviços Google Cloud** nas janelas de pico. O repositório
