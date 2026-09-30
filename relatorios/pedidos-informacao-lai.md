@@ -796,7 +796,7 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); reexame até 04/10/2026 — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **aguardando reexame** (apresentado 22/09/2026) — SMF pediu complementação, fornecida com os 4 itens; derivado do Pedido 9 |
-| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | 30/09/2026 | aguardando resposta — derivado do Pedido 11 |
+| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **10/10/2026** (sábado) | **prorrogado (+10 dias)** — derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
@@ -865,6 +865,14 @@ e para o mesmo novo prazo.
 dias**, com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma
 justificativa ("a informação não se encontra sistematizada em nossos arquivos"). Novo prazo:
 **01/10/2026** — comunicada no próprio dia do prazo original (21/09), mesmo padrão dos demais.
+
+**Prorrogação do Pedido 19 (30/09/2026, por e-mail):** a SMAMUS (por e-mail do SIC, assinado
+pela SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do
+Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
+sistematizada em nossos arquivos"). Novo prazo: **10/10/2026**, um sábado — comunicada no próprio
+dia do prazo original (30/09), mesmo padrão dos Pedidos 10 e 11, também da SMAMUS. A justificativa
+padrão contrasta com o pedido, que pede só a cópia de documentos já concluídos; o texto vem sem
+qualquer análise do conteúdo.
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a

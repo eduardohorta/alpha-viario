@@ -760,7 +760,7 @@ buscados de outra forma: com os 8 números de processo SEI em mãos, um novo ped
 **cópia de documentos específicos já existentes** em cada processo (o mesmo formato que funcionou
 para o EU 002.308796.00.4), em vez de pedir uma "análise consolidada" — a formulação que motivou
 o indeferimento. **Pedido 19 protocolado nesse formato** (018104-26-38, 10/09/2026, prazo
-30/09/2026) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
+30/09/2026, prorrogado para 10/10/2026) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
 
 ## Resposta LAI ao Pedido 10 (11/09/2026): TRA nunca emitido, processo arquivado, TAC com o Ministério Público revelado
 
