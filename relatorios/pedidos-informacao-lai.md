@@ -870,9 +870,7 @@ justificativa ("a informação não se encontra sistematizada em nossos arquivos
 pela SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do
 Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
 sistematizada em nossos arquivos"). Novo prazo: **10/10/2026**, um sábado — comunicada no próprio
-dia do prazo original (30/09), mesmo padrão dos Pedidos 10 e 11, também da SMAMUS. A justificativa
-padrão contrasta com o pedido, que pede só a cópia de documentos já concluídos; o texto vem sem
-qualquer análise do conteúdo.
+dia do prazo original (30/09), mesmo padrão dos Pedidos 10 e 11, também da SMAMUS.
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
