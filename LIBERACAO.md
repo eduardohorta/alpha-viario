@@ -35,7 +35,7 @@
 ## 2. Rechecagem institucional — posição de 25/09/2026
 - [ ] **Ata:** a comissão está preparando a ata da reunião; incorporar quando disponibilizada, sem presumir deliberações.
 - [ ] **Protocolo principal:** confirmar envio, número, data e comprovante. O alvo anterior de 01/09 não comprova realização.
-- [ ] **LAIs:** 23 pedidos protocolados. Acompanhar 14, documentos restantes do 16, reexame de 18 e respostas 19/20/22/23; o 21 foi respondido em 16/09. Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
+- [ ] **LAIs:** 24 pedidos protocolados. Acompanhar 14, documentos restantes do 16, respostas 19/20/22/23/24 (o 18 foi respondido sem localização em 02/10 e remetido à SMAMUS, gerando o 24); o 21 foi respondido em 16/09. Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [ ] **LOA 2027:** envio do projeto até 15/out e votação até 5/dez, conforme [fonte municipal](https://prefeitura.poa.br/smpg/lei-orcamentaria-anual-loa). Confirmar viabilidade orçamentária do pleito; o calendário não garante recursos.
 - [ ] **PDUS/LUOS:** conferir textos finais, vetos, publicação, transição e parâmetros aplicáveis; a resposta do Pedido 6 inclui referências a minutas.
 - [ ] **P2:** acompanhar manifestação da EPTC sobre o projeto do nó da Monte Cristo.

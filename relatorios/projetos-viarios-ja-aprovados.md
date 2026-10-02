@@ -567,7 +567,10 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
 - **Cláusula Nona (R$ 200 mil)** — a PGM atribuiu a matéria à **SMF**; o Pedido 9 não confirmou
   depósito, cobrança ou destinação. O **Pedido 18** foi protocolado diretamente à Fazenda em
   01/09/2026 (nº 018008-26-10); a SMF pediu complementação e o **reexame foi apresentado em
-  22/09/2026**, aguardando resposta.
+  22/09/2026**. **Resposta ao reexame (02/10/2026): a SMF não localizou nenhuma informação** e
+  orientou novo pedido à SMAMUS; cogitou, sem indicar processo, que a questão possa estar
+  judicializada. Segue **sem confirmação de depósito, cobrança ou destinação** por qualquer órgão;
+  novo pedido à SMAMUS protocolado em 02/10/2026 (Pedido 24, nº 018445-26-82).
 
 ## Resposta LAI ao Pedido 9 (01/09/2026): três decretos individualizados; depósito segue a confirmar com a SMF
 
@@ -760,7 +763,7 @@ buscados de outra forma: com os 8 números de processo SEI em mãos, um novo ped
 **cópia de documentos específicos já existentes** em cada processo (o mesmo formato que funcionou
 para o EU 002.308796.00.4), em vez de pedir uma "análise consolidada" — a formulação que motivou
 o indeferimento. **Pedido 19 protocolado nesse formato** (018104-26-38, 10/09/2026, prazo
-30/09/2026, prorrogado para 10/10/2026) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
+30/09/2026, prorrogado; o e-SIC exibe 13/10/2026) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
 
 ## Resposta LAI ao Pedido 10 (11/09/2026): TRA nunca emitido, processo arquivado, TAC com o Ministério Público revelado
 

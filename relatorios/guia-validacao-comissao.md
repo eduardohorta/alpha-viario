@@ -26,7 +26,7 @@
 - **Ata em preparação pela comissão**, conforme atualização recebida em 25/09. Incorporar quando disponibilizada; não presumir deliberações ou protocolo já realizado.
 - **Sonda:** 8.582 medições em 14 rotas até 01/09. Usar tempos estimados e assimetrias direcionais, com janelas explícitas, sem atribuir causalmente a diferença R05/R06 à alça.
 - **Sinistros:** base EPTC principal e Dados Abertos POA auxiliar, ambas sem filtro de vítimas. [Reconciliação por ID](../dados/tratados/sinistros_reconciliacao.md) na mesma janela disponível.
-- **LAIs:** 23 pedidos; acompanhar 14, documentos faltantes de 16, reexame de 18 e respostas de 19/20/22/23 no [registro](pedidos-informacao-lai.md#acompanhamento). O 21 foi respondido em 16/09. Pedidos 9 e 10 já foram protocolados e respondidos; não repetir o encaminhamento antigo.
+- **LAIs:** 24 pedidos; acompanhar 14, documentos faltantes de 16 e respostas de 19/20/22/23/24 no [registro](pedidos-informacao-lai.md#acompanhamento). O 21 foi respondido em 16/09; o 18 foi respondido em 02/10 sem localizar o depósito da Cláusula Nona e remetido à SMAMUS (Pedido 24, protocolado no mesmo dia). Pedidos 9 e 10 já foram protocolados e respondidos; não repetir o encaminhamento antigo.
 - **Documentos:** parcelas do P7 reconciliadas por decreto/processo; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes, no eixo P6. Manter separadas aprovação, vigência do projeto, desapropriação e execução física.
 - **Peças:** conferir número/data do ofício e comprovação do protocolo principal. O gate automático deve ser acompanhado da leitura factual e da inspeção visual do PDF.
 

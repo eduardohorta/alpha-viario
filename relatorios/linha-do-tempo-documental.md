@@ -23,7 +23,7 @@
 | **19/03/2024** | **Decreto nº 22.570** declara de utilidade pública mais uma parcela da alça do P7 (processo 094), sem comprovação de que tenha substituído declaração anterior caducada. | A parcela está em **ação judicial desde 08/07/2026**; o decreto vale até cerca de 03/2029. |
 | **23–28/12/2025** | Vence o **prazo legal de 5 anos** (art. 10 do Decreto-Lei federal 3.365/1941) para efetivar as desapropriações declaradas em 2020. | **Só a declaração do P6 caducou** (28/12/2025, Pedido 9 e SEI): o eixo (Três Meninas 1085) foi ajuizado em 19/12/2025 e a alça teve acordo (092 e 093) ou ação (094). A PGM quer revisar o projeto do P6 e só pode editar novo decreto a partir de **29/12/2026**. |
 | **Jul/2026 (confirmação)** | A resposta LAI confirma que o **projeto complementar do P7 está caducado** (Dec. 20.659/2020). A data exata da perda de validade não foi estabelecida. | A solução deve ser atualizada/revalidada antes de executar. |
-| **2026** | A comissão retoma o tema com **evidência própria** (sinistros, sonda de tempos de viagem, 23 pedidos LAI) e a **documentação da administração do empreendimento**. O novo **PDUS/LUOS** é sancionado em **14/07/2026**. | Reúne-se a base para pedir à cidade que **conclua o que ela mesma começou**. |
+| **2026** | A comissão retoma o tema com **evidência própria** (sinistros, sonda de tempos de viagem, 24 pedidos LAI) e a **documentação da administração do empreendimento**. O novo **PDUS/LUOS** é sancionado em **14/07/2026**. | Reúne-se a base para pedir à cidade que **conclua o que ela mesma começou**. |
 
 ## Leitura em três frases
 

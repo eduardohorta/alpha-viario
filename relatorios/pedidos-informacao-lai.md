@@ -555,6 +555,52 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 > ou registro patrimonial correspondente, valor e data; e (d) confirmação de que a liberação do
 > Habite-se do empreendimento foi condicionada ao cumprimento desse TAC.
 
+## Pedido 24 — SMAMUS: depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF)
+
+**Protocolado em 02/10/2026** (nº **018445-26-82**, prazo **26/10/2026** conforme o e-SIC; tema
+"Infraestrutura Urbana"; sem anexos — as respostas anteriores são citadas por protocolo).
+
+**Órgão:** SMAMUS (órgão que conduz o Expediente Único 002.302984.00.0 e o Termo de Compromisso).
+Tema do e-SIC a conferir no momento do envio.
+
+**Origem:** a **PGM** (Pedido 9, 017700-26-00, 01/09/2026) atribuiu à SMF os itens do depósito;
+a **SMF** (Pedido 18, 018008-26-10) não localizou dados no pedido inicial (22/09) nem no reexame
+(02/10) e orientou novo pedido à SMAMUS. A cadeia PGM → SMF → SMAMUS não resolveu a questão; o
+pedido cita as duas respostas por protocolo (a SMF pediu justamente esse contexto e invocou a vedação
+de pedido cumulativo a mais de um órgão — aqui há um órgão só) e pede, em último caso, que a
+SMAMUS **indique expressamente qual órgão detém a informação**.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, solicito informações sobre a **Cláusula Nona do
+> segundo aditivo** ao Termo de Compromisso nº **41.198/2009**, registrado sob nº **53.107**, de
+> 23/08/2013 (Expediente Único 002.302984.00.0; compromissária: Villa Nova Desenvolvimento
+> Urbano Ltda.). A cláusula prevê depósito de **R$ 200.000,00**, corrigido pela SELIC, em favor
+> do Município até 15 dias após a publicação dos Decretos Municipais nº 20.859, 20.860 e 20.861,
+> de 23/12/2020, além de multa de 20% e juros de 1% ao mês em caso de inadimplemento.
+>
+> Informo, para identificação do objeto, o encaminhamento já recebido: (i) a PGM, no pedido nº
+> **017700-26-00** (01/09/2026), declarou que os itens financeiros competem à SMF; (ii) a SMF, no
+> pedido nº **018008-26-10** e no respectivo reexame (resposta de 02/10/2026), informou que não
+> localizou nenhuma informação e orientou a apresentação de novo pedido a esta Secretaria, como
+> possível detentora da informação. Ambas as respostas estão disponíveis no e-SIC, nos
+> protocolos citados.
+>
+> Solicito: (a) informar se o depósito foi efetuado, com data, valor total recebido e forma de
+> atualização aplicada; (b) se não foi efetuado integralmente, informar se o crédito foi
+> constituído e a situação da cobrança administrativa ou judicial; (c) informar a destinação dada
+> aos valores eventualmente recebidos; (d) a SMF aventou, sem indicar processo, que a questão
+> poderia estar judicializada: **havendo ação judicial ou procedimento administrativo sobre a
+> Cláusula Nona, indicar o número do processo**; e (e) **caso esta Secretaria não detenha a
+> informação, indicar expressamente o órgão ou setor que a detém**, para o devido
+> encaminhamento.
+>
+> O pedido não requer identificação, CPF, dados bancários ou valores individualizados de
+> terceiros. Se houver documentos com tais dados, solicito seu fornecimento com as tarjas
+> necessárias, preservando os fatos institucionais, os valores globais e a situação do crédito.
+
+**Anexos:** nenhum — as duas respostas já estão no e-SIC da mesma conta e são citadas por protocolo.
+
 ---
 
 ## Respostas recebidas
@@ -734,6 +780,15 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
   da PGM ao Pedido 9, 017700-26-00) — candidato natural a reexame/complementação, não a um novo
   pedido. **Reexame apresentado em 22/09/2026** (status "Aguardando reexame"), fornecendo os
   quatro itens pedidos e reiterando a pergunta original (a-d).
+  **Resposta ao reexame registrada em 02/10/2026:** a SMF informa que, após verificação nos seus
+  sistemas, **não localizou nenhuma informação** relacionada ao pedido; diz que, em contato com
+  outras secretarias (não identificadas), "levantou-se a possibilidade" de a questão estar
+  judicializada, sem que o assunto tenha sido direcionado à SMF; e orienta abrir **nova
+  solicitação à SMAMUS**, "possível detentora da informação". Leitura: é uma **segunda
+  remessa em cadeia** (PGM → SMF → SMAMUS) e, até aqui, **nenhum órgão confirmou ou negou o
+  depósito**; a hipótese de judicialização é conjectura da SMF, sem processo indicado, e não
+  deve ser tratada como fato. Providência: **Pedido 24** à SMAMUS (protocolado em 02/10, nº 018445-26-82), que
+  anexa as duas respostas para atender ao art. 11, parágrafo único, do Decreto 19.990/2018.
 - **Pedido 17 (017904-26-00) — respondido (22/09/2026), não veio o relatório específico.** A
   **EPTC** não enviou o "Relatório de Ocorrências" citado no processo judicial do P7; em vez
   disso, redirecionou ao portal **ObservaMOB** e anexou um **shapefile bruto de sinistros de toda
@@ -795,12 +850,13 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); reexame até 04/10/2026 — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
-| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **aguardando reexame** (apresentado 22/09/2026) — SMF pediu complementação, fornecida com os 4 itens; derivado do Pedido 9 |
-| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **10/10/2026** (sábado) | **prorrogado (+10 dias)** — derivado do Pedido 11 |
+| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
+| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **13/10/2026** (e-SIC; e-mail da SMAMUS dizia 10/10, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 + relato de membro da comissão |
+| 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | 26/10/2026 | aguardando resposta — derivado dos Pedidos 9 e 18 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
