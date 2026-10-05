@@ -852,7 +852,7 @@ SMAMUS **indique expressamente qual órgão detém a informação**.
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **13/10/2026** (e-SIC; e-mail da SMAMUS dizia 10/10, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 11 |
-| 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
+| 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 + relato de membro da comissão |
@@ -933,6 +933,12 @@ pela SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**
 Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
 sistematizada em nossos arquivos"). Novo prazo: **15/10/2026** — comunicada no próprio dia do
 prazo original (05/10), mesmo padrão dos Pedidos 10, 11 e 19.
+
+**Prorrogação do Pedido 20 (05/10/2026, por e-mail):** a SMF (por e-mail do SIC, assinado pela
+SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do
+Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
+sistematizada em nossos arquivos"). Novo prazo: **15/10/2026** — comunicada no próprio dia do
+prazo original (05/10).
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a
