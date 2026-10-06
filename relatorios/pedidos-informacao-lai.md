@@ -642,6 +642,89 @@ indique qual órgão detém a informação.
 
 **Anexos:** nenhum — a resposta do DMAE está no e-SIC da mesma conta e é citada por protocolo.
 
+## Pedido 26 — PGM: peças que faltam do Pedido 16 (Parecer 985/1997, Informação 4084/2022) e cronograma dos 4 processos
+
+**Protocolado em 06/10/2026** (nº **018485-26-62**, prazo **26/10/2026** conforme o e-SIC; tema
+"Obras Públicas"; sem anexos — a resposta anterior e os acessos ao SEI são citados por
+protocolo/número).
+
+**Órgão:** Procuradoria-Geral do Município (PGM), mesmo canal dos Pedidos 8 e 16 (tema "Obras
+Públicas" no e-SIC).
+
+**Origem:** o **Pedido 16** (017903-26-42) foi respondido em 24/09/2026 com acesso externo ao SEI
+(laudos, três despachos do processo 002.079101.09.7) e, em 25/09, com as petições iniciais das
+duas ações (SEI 26.0.000115687-9). A PGM disse que os demais documentos seriam tarjados e
+liberados depois, **sem prazo**. Em 06/10 o e-SIC não mostrava nada além da resposta de 24/09, e
+o prazo do reexame (art. 22 do Decreto 19.990/2018) já passou. Restam o **Parecer 985/1997** e a
+**Informação 4084/2022** (citados nos despachos de 28/03/2025 e 29/10/2025) e o **cronograma**
+(item d). Como o reexame venceu, o pedido restringe o objeto a essas peças e cita o Pedido 16 por
+protocolo.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento ao **pedido nº 017903-26-42** (PGM,
+> respondido em 24/09/2026), solicito as informações e peças que ainda não foram fornecidas,
+> relativas aos processos administrativos **002.079077.09.9**, **002.079093.09.4**,
+> **002.079094.09.0** e **002.079101.09.7** (desapropriações vinculadas ao alargamento da Estrada
+> das Três Meninas e à conexão com a Estrada Costa Gama, Termo de Compromisso nº 41.198/2009).
+>
+> Informo, para identificação do objeto, o que já foi recebido: o acesso externo ao SEI
+> concedido em 24/09/2026 (laudos e despachos) e, em 25/09/2026, o acesso ao processo SEI
+> 26.0.000115687-9 (petições iniciais das duas ações). A resposta de 24/09 informou que os
+> demais documentos seriam tarjados e liberados depois, o que ainda não ocorreu quanto às peças
+> abaixo.
+>
+> Solicito: (a) cópia do **Parecer nº 985/1997** (princípio do "concurso voluntário"), citado no
+> despacho da GEAR/PGM de 28/03/2025 no processo 002.079101.09.7; (b) cópia da **Informação nº
+> 4084/2022**, citada no despacho da PAESC de 29/10/2025 no mesmo processo; e (c) **situação
+> atual e previsão dos próximos atos** de cada um dos quatro processos, com as datas previstas,
+> se houver (por exemplo, nova declaração de utilidade pública, ajuizamento, imissão na posse,
+> conclusão), ou a informação de que não há cronograma definido. Se alguma peça for mantida
+> restrita, solicito a indicação da hipótese legal e da data ou do evento em que a restrição
+> cessa, e o fornecimento da parte não restrita.
+>
+> O pedido não requer identificação, CPF, dados bancários ou valores individualizados de
+> terceiros. Se houver documentos com tais dados, solicito seu fornecimento com as tarjas
+> necessárias, preservando os fatos institucionais e jurídicos.
+
+**Anexos:** nenhum — a resposta anterior e os acessos ao SEI são citados por protocolo/número.
+
+## Pedido 27 — DMAE: execução e recebimento das redes de água e esgoto (refaz o Pedido 14, vencido)
+
+**Protocolado em 06/10/2026** (nº **018487-26-78**, prazo **26/10/2026** conforme o e-SIC; tema
+"Água"; sem anexos).
+
+**Órgão:** Departamento Municipal de Água e Esgotos (DMAE), tema "Água" no e-SIC.
+
+**Origem:** o **Pedido 14** (017791-26-78, 14/08/2026) está "Aguardando resposta" com prazo final
+em 08/09/2026, sem resposta nem prorrogação (conferido no e-SIC em 06/10/2026, 28 dias de
+atraso). O e-SIC não oferece reexame nem recurso para a falta de resposta. O pedido refaz as
+perguntas, cita o protocolo vencido e **não substitui** o Pedido 14, que segue aberto.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
+> 017396-26-01** (SMAMUS, 14/08/2026), que indicou a **CISE/DMAE** como competente para a
+> execução e o recebimento das redes, solicito, quanto às **redes de abastecimento de água e de
+> esgotamento sanitário (cloacal)** do corredor da Estrada das Três Meninas vinculadas ao Termo
+> de Compromisso nº **41.198/2009** e seu segundo aditamento nº **53.107/2013** (Expediente Único
+> **002.302984.00.0**; expedientes de rede de água **002.302984.00.0.09861**, aprovado em
+> 12/11/2010, e de esgoto cloacal **002.302984.00.0.09862**, com diretrizes de projeto emitidas
+> em 22/05/2013): (a) informação sobre se as redes de água e de esgoto foram **executadas e
+> recebidas** e em que trechos; (b) a **situação atual do projeto de esgoto cloacal**
+> (002.302984.00.0.09862), que constava apenas em etapa de diretrizes de projeto, e se houve
+> projeto executivo aprovado posteriormente; e (c) cópia das **peças e dos termos de
+> recebimento** correspondentes, quando existentes e não sigilosos.
+>
+> Informo que as mesmas perguntas foram apresentadas por este canal no **pedido nº
+> 017791-26-78** (14/08/2026, prazo final 08/09/2026), que consta como "aguardando resposta" e
+> sem prorrogação. Caso a resposta já esteja em elaboração naquele protocolo, solicito que seja
+> reaproveitada para este.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros.
+
+**Anexos:** nenhum.
+
 ---
 
 ## Respostas recebidas
@@ -897,9 +980,9 @@ indique qual órgão detém a informação.
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ ~~12/09/2026~~ | **respondido (10/09/2026), parcial-negativo** — itens a/b/e indeferidos (art. 12 III Dec. 19.990/2018); c/d deferidos: **contrapartida viária confirmada no EU …796.00.4 (P1+P6)**, Diretriz Viária da Kanazawa confirmada |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ ~~18/09/2026~~ | **respondido (16/09/2026)** — sem sinalização aprovada para P1 e P7; SMMU não guarda cópias, orienta SMAP; derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
-| 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 24/09/2026) — derivado do Pedido 4 |
+| 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 24/09 e 06/10/2026; sem botão de reexame) — refeito no **Pedido 27**; derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
-| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); reexame até 04/10/2026 — derivado do Pedido 8 |
+| 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); prazo do reexame (04/10/2026) venceu sem reexame apresentado — peças restantes pedidas no **Pedido 26** — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **13/10/2026** (e-SIC; e-mail da SMAMUS dizia 10/10, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 11 |
@@ -909,6 +992,8 @@ indique qual órgão detém a informação.
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 + relato de membro da comissão |
 | 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | 26/10/2026 | aguardando resposta — derivado dos Pedidos 9 e 18 |
 | 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | 26/10/2026 | aguardando resposta — derivado do Pedido 22 |
+| 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | 26/10/2026 | aguardando resposta — complementa o Pedido 16 |
+| 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | aguardando resposta — refaz o Pedido 14, vencido |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
