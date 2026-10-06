@@ -824,6 +824,16 @@ explícita, à **mesma causa-raiz já mapeada nos Pedidos 8, 9 e 16**: a execuç
 cronograma das obras — confirmação institucional direta de que **tudo trava no mesmo gargalo**
 (desapropriações pendentes), não em quatro problemas separados.
 
+**Pedido 22 (DMAE, resposta registrada em 06/10/2026) — sem registro de novo andamento da drenagem.** O DMAE
+respondeu que, desde o Parecer CTAAPS nº 093/2020, **não tem registro de nenhum novo andamento**
+de projetos ou obras de drenagem vinculados ao empreendimento (Estr. Três Meninas, 1500), e
+indicou a **CTAAPS** e a **PGM** para informações sobre o cumprimento do Termo de Compromisso.
+A resposta **não envia projeto** e **não diz se existe** projeto de drenagem aprovado para as
+adequações das interseções com a Cristiano Kraemer (P1) e a Costa Gama (P7), nem seu estágio —
+apenas que nada mudou no DMAE desde 2020. A lacuna registrada pela DEP naquele parecer ("falta
+projeto de drenagem para as adequações viárias") **segue sem confirmação de que tenha sido
+suprida** e sem órgão que se declare responsável por supri-la.
+
 ## Resposta LAI ao Pedido 17 (22/09/2026): base bruta da EPTC em vez do relatório pedido, reprocessamento dos 9 pontos
 
 O **Pedido 17** pedia especificamente o "Relatório de Ocorrências" que o acórdão do agravo de

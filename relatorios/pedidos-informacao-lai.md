@@ -601,6 +601,47 @@ SMAMUS **indique expressamente qual órgão detém a informação**.
 
 **Anexos:** nenhum — as duas respostas já estão no e-SIC da mesma conta e são citadas por protocolo.
 
+## Pedido 25 — SMAMUS/CTAAPS: projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (após resposta do DMAE)
+
+**Protocolado em 06/10/2026** (nº **018483-26-57**, prazo **26/10/2026** conforme o e-SIC; tema
+"Infraestrutura Urbana"; sem anexos — a resposta do DMAE é citada por protocolo).
+
+**Órgão:** SMAMUS — Comissão Técnica de Análise de Projetos Urbanísticos (CTAAPS), autora do
+Parecer nº 093/2020. Tema do e-SIC: "Infraestrutura Urbana" (como nos Pedidos 19 e 24); o formulário não tem campo de órgão.
+
+**Origem:** o **DMAE** (Pedido 22, 018133-26-10) respondeu que não tem registro de novo
+andamento da drenagem desde o Parecer 093/2020, sem dizer se o projeto existe, e indicou a
+CTAAPS e a PGM. A PGM já respondeu no Pedido 21 sem tratar de drenagem. O pedido tem **um órgão
+só** (art. 11, parágrafo único, do Decreto 19.990/2018) e pede, em último caso, que a CTAAPS
+indique qual órgão detém a informação.
+
+**Texto para protocolar:**
+
+> Com base na Lei Federal nº 12.527/2011, solicito informações sobre o **projeto de drenagem das
+> adequações viárias** das interseções da Estrada das Três Meninas com a Estrada Cristiano
+> Kraemer e com a Estrada Costa Gama, vinculadas ao Termo de Compromisso nº 41.198/2009
+> (Expediente Único 002.302984.00.0; empreendimento Alphaville Porto Alegre). O **Parecer nº
+> 093/2020 da CTAAPS** (17/09/2020) registra, na manifestação do DMAE/DEP, que "falta projeto de
+> drenagem para as adequações viárias" dessas interseções.
+>
+> Informo, para identificação do objeto, o encaminhamento já recebido: o **DMAE**, no pedido nº
+> **018133-26-10**, respondeu que, desde a emissão do Parecer CTAAPS nº 093/2020, não tem registro
+> de novo andamento de projetos ou obras de drenagem vinculados ao empreendimento, e indicou esta
+> Comissão e a PGM como responsáveis pelo controle do cumprimento do Termo de Compromisso. A
+> resposta está disponível no e-SIC, no protocolo citado.
+>
+> Solicito: (a) informar se, desde 17/09/2020, foi apresentado, analisado ou aprovado projeto de
+> drenagem para as adequações viárias dessas duas interseções, com cópia do projeto e do
+> respectivo parecer, ou, se existir, o número do expediente e o estágio; (b) se não existe, se
+> essa pendência registrada no Parecer 093/2020 segue **em aberto** no acompanhamento do Termo de
+> Compromisso e quem é o responsável por sua execução; e (c) **caso esta Comissão não detenha a
+> informação, indicar expressamente o órgão ou setor que a detém**, para o devido
+> encaminhamento.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros.
+
+**Anexos:** nenhum — a resposta do DMAE está no e-SIC da mesma conta e é citada por protocolo.
+
 ---
 
 ## Respostas recebidas
@@ -770,6 +811,16 @@ SMAMUS **indique expressamente qual órgão detém a informação**.
   de que o mesmo gargalo (desapropriações) trava tanto o corredor quanto as interseções. Leitura
   completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
+- **Pedido 22 (018133-26-10) — respondido (registrado em 06/10/2026): sem registro de novo andamento desde 2020.** O
+  **DMAE** informou que, desde a emissão do Parecer CTAAPS nº 093/2020, **não tem registro de
+  nenhum novo andamento** de projetos ou obras de drenagem vinculados ao empreendimento
+  (Estr. Três Meninas, 1500), e indicou a **CTAAPS** e a **PGM** como órgãos responsáveis pelo
+  controle do cumprimento do Termo de Compromisso. **Limites da resposta:** não envia o projeto,
+  não diz se existe projeto aprovado para as interseções com a Cristiano Kraemer e a Costa Gama
+  (o que o item pedia) nem descreve seu estágio; "sem registro de novo andamento" não equivale a
+  "projeto inexistente". A PGM já respondeu sobre o tema no Pedido 21 (sem tratar de drenagem), e
+  a CTAAPS integra a SMAMUS. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
 - **Pedido 18 (018008-26-10) — respondido (22/09/2026), sem localização.** A **SMF** informou
   que **não localizou dados** sobre o depósito com as informações fornecidas, e pediu
   complementação: (a) número do processo administrativo; (b) dados do depositante; (c) cópia do
@@ -854,9 +905,10 @@ SMAMUS **indique expressamente qual órgão detém a informação**.
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **13/10/2026** (e-SIC; e-mail da SMAMUS dizia 10/10, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
-| 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | aguardando resposta — derivado do Pedido 10 |
+| 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 + relato de membro da comissão |
 | 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | 26/10/2026 | aguardando resposta — derivado dos Pedidos 9 e 18 |
+| 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | 26/10/2026 | aguardando resposta — derivado do Pedido 22 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
