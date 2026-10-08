@@ -5,9 +5,9 @@ Projeto comunitário para propor melhorias viárias no entorno do Alphaville Por
 ## Status atual — 2026-09-25
 A base oficial do dossiê é a **EPTC**, obtida pelo Pedido 17 (01/01/2010–09/09/2026); Dados Abertos POA (01/01/2020–31/08/2025) permanece como auxiliar. **Ambas contêm registros com e sem vítimas registradas.** A [reconciliação por ID na janela comum](dados/tratados/sinistros_reconciliacao.md) distingue diferenças de cobertura e coordenadas. Não interpretar a comparação dos totais como tendência de segurança.
 
-A trilha LAI soma **27 pedidos protocolados**. A situação atual está no [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento): Pedido 14 vencido sem resposta (refeito no 27); 16 com peças faltantes (reexame não apresentado; pedidas no 26); 18 respondido em 02/10 sem localização do depósito (remetido à SMAMUS); 19, 20, 23, 24, 25, 26 e 27 aguardando resposta. Os 21 (16/09) e 22 (06/10) foram respondidos; o 25 pergunta à CTAAPS sobre a drenagem, após a resposta do DMAE. A documentação de 24–25/09 reconcilia as parcelas fundiárias do P7; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes (P6), não ao P1.
+A trilha LAI soma **30 pedidos protocolados**. A situação atual está no [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento): Pedido 14 vencido sem resposta (refeito no 27); 16 com peças faltantes (reexame não apresentado; pedidas no 26); 18 respondido em 02/10 sem localização do depósito (remetido à SMAMUS); 19, 20, 23, 24, 25, 26, 27, 28, 29 e 30 aguardando resposta. Os 21 (16/09) e 22 (06/10) foram respondidos; o 25 pergunta à CTAAPS sobre a drenagem, após a resposta do DMAE. A documentação de 24–25/09 reconcilia as parcelas fundiárias do P7; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes (P6), não ao P1.
 
-**Reunião:** a comissão está preparando a ata, conforme informação recebida em 25/09; será incorporada quando disponibilizada. Não antecipar suas deliberações. As decisões documentadas de 13/08 permanecem como referência. **A data e o comprovante do protocolo principal ainda não estão confirmados neste repositório.**
+**Reunião:** a ata da reunião com a Diretoria da EPTC (22/09) foi recebida em 08/10/2026, em versão revisada ainda não final; os encaminhamentos estão em [PENDENCIAS.md](PENDENCIAS.md). As decisões documentadas de 13/08 permanecem como referência. **O protocolo principal (ofício à SMAMUS) não foi realizado; a comissão articula uma reunião com a SMAMUS.**
 
 A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregados são estimativas descritivas e a comparação R05/R06 mede assimetria entre sentidos, não o efeito isolado da alça. Conferido no Console em 26/09/2026: a coleta segue ativa (12 rodadas por dia, 14 rotas), com a cota diária de 200 em cerca de 84% de uso e sem custo da Routes API até então; ver [detalhe](campo/sonda-tempos-google.md). Coleta física e questionário seguem em espera e não bloqueiam o protocolo.
 
@@ -98,9 +98,9 @@ A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregad
 - **Escopo (contribuição comunitária):** além de circulação/segurança, investigar **drenagem/alagamento**; os impactos alcançam também o Terraville e demais usuários da região.
 
 ## Próximos passos
-1. Incorporar a ata que a comissão está preparando, quando disponibilizada.
+1. Fechar a versão final da ata da reunião com a EPTC e cumprir seus encaminhamentos.
 2. Acompanhar as pendências LAI no [registro atualizado](relatorios/pedidos-informacao-lai.md#acompanhamento), sem repetir pedidos já respondidos.
-3. Confirmar a situação do protocolo principal, seu comprovante e o encaminhamento técnico; usar [LIBERACAO.md](LIBERACAO.md) antes de novo envio.
+3. Protocolo principal não realizado: acompanhar a articulação da reunião com a SMAMUS e decidir o uso do ofício e do pacote; usar [LIBERACAO.md](LIBERACAO.md) antes de qualquer envio.
 4. Validar os pontos em base municipal/vistoria e conferir o enquadramento territorial do novo P9; a consulta de julho usava o antigo ponto.
 5. Manter os agregados e as sínteses documentais atualizados, com janela e limites explícitos.
 

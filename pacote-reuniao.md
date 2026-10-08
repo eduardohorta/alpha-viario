@@ -43,7 +43,7 @@ fontsize: 11pt
 - **Ata em preparação pela comissão**, conforme atualização recebida em 25/09. Incorporar quando disponibilizada; não presumir deliberações ou protocolo já realizado.
 - **Sonda:** 8.582 medições em 14 rotas até 01/09. Usar tempos estimados e assimetrias direcionais, com janelas explícitas, sem atribuir causalmente a diferença R05/R06 à alça.
 - **Sinistros:** base EPTC principal e Dados Abertos POA auxiliar, ambas sem filtro de vítimas. [Reconciliação por ID](dados/tratados/sinistros_reconciliacao.md) na mesma janela disponível.
-- **LAIs:** 27 pedidos; acompanhar as respostas de 19/20/23/24/25/26/27 (o 14 venceu sem resposta e foi refeito no 27; as peças restantes do 16 foram pedidas no 26) no [registro](relatorios/pedidos-informacao-lai.md#acompanhamento). O 21 foi respondido em 16/09; o 22 (DMAE, drenagem) em 06/10, sem registro de novo andamento desde 2020, e por isso foi feito o 25 à CTAAPS; o 18 foi respondido em 02/10 sem localizar o depósito da Cláusula Nona e remetido à SMAMUS (Pedido 24, protocolado no mesmo dia). Pedidos 9 e 10 já foram protocolados e respondidos; não repetir o encaminhamento antigo.
+- **LAIs:** 30 pedidos; acompanhar as respostas de 19/20/23/24/25/26/27/28/29/30 (o 14 venceu sem resposta e foi refeito no 27; as peças restantes do 16 foram pedidas no 26) no [registro](relatorios/pedidos-informacao-lai.md#acompanhamento). O 21 foi respondido em 16/09; o 22 (DMAE, drenagem) em 06/10, sem registro de novo andamento desde 2020, e por isso foi feito o 25 à CTAAPS; o 18 foi respondido em 02/10 sem localizar o depósito da Cláusula Nona e remetido à SMAMUS (Pedido 24, protocolado no mesmo dia). Pedidos 9 e 10 já foram protocolados e respondidos; não repetir o encaminhamento antigo.
 - **Documentos:** parcelas do P7 reconciliadas por decreto/processo; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes, no eixo P6. Manter separadas aprovação, vigência do projeto, desapropriação e execução física.
 - **Peças:** conferir número/data do ofício e comprovação do protocolo principal. O gate automático deve ser acompanhado da leitura factual e da inspeção visual do PDF.
 
@@ -149,9 +149,9 @@ Adotamos o princípio de **diagnóstico antes da solução** e priorizamos **med
 
 **Problema relatado:** Conflito na confluência de três vias.
 
-**Indícios e documentação:** **150 sinistros (14 graves, 50 motos; base oficial da EPTC, 2010–2026)**; auxiliar: ~58 sinistros em 2020–2025 — ver nota abaixo; **projeto de sinalização da Av. Monte Cristo concluído, implantação apenas parcial** — baias de ônibus paradas desde set/2024 (DCVU-SMSURB); **o nó específico do P2 tem projeto próprio, elaborado pela GPTC-EPTC**, com manifestação da EPTC ainda pendente (resposta ao Pedido 5, 24/08/2026).
+**Indícios e documentação:** **150 sinistros (14 graves, 50 motos; base oficial da EPTC, 2010–2026)**; auxiliar: ~58 sinistros em 2020–2025 — ver nota abaixo; **projeto de sinalização da Av. Monte Cristo concluído, implantação apenas parcial** — baias de ônibus paradas desde set/2024 (DCVU-SMSURB); **no nó do P2, o projeto implantado é da GPTC-EPTC e o processo foi encaminhado à EPTC para manifestação** (SMMU, resposta ao Pedido 5, 24/08/2026).
 
-**Vistoria e encaminhamento:** Movimentos direcionais; **acompanhar a manifestação da EPTC sobre o projeto do nó** (Pedido 5).
+**Vistoria e encaminhamento:** Movimentos direcionais; **obter a manifestação da EPTC sobre o nó** (Pedido 5).
 
 ### P3 — Acesso à Av. Vicente Monteggia (Rodrigues da Fonseca / João Salomoni)
 

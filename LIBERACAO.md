@@ -32,13 +32,13 @@
 - [x] **Termos sensíveis:** `interno/termos-sensiveis.txt` **criado**
       — 23 termos conferidos na inspeção de 25/09; atualizar a lista privada antes de cada envio.
 
-## 2. Rechecagem institucional — posição de 25/09/2026
-- [ ] **Ata:** a comissão está preparando a ata da reunião; incorporar quando disponibilizada, sem presumir deliberações.
-- [ ] **Protocolo principal:** confirmar envio, número, data e comprovante. O alvo anterior de 01/09 não comprova realização.
-- [ ] **LAIs:** 24 pedidos protocolados. Acompanhar 14, documentos restantes do 16, respostas 19/20/22/23/24 (o 18 foi respondido sem localização em 02/10 e remetido à SMAMUS, gerando o 24); o 21 foi respondido em 16/09. Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
+## 2. Rechecagem institucional — posição de 25/09/2026 (atualizada em 08/10/2026)
+- [ ] **Ata:** a ata da reunião com a EPTC (22/09) foi recebida em 08/10/2026, em versão revisada ainda não final; fechar a versão e cumprir os encaminhamentos (ver [PENDENCIAS.md](PENDENCIAS.md)).
+- [ ] **Protocolo principal:** não realizado (confirmado pela comissão em 08/10/2026); a comissão articula reunião com a SMAMUS. Decidir se o ofício segue como protocolo ou como apoio à reunião; número e data só no ato do envio.
+- [ ] **LAIs:** 30 pedidos protocolados. Acompanhar 14, documentos restantes do 16 (Pedido 26), respostas 19/20/23/24/25/26/27/28/29/30 (o 18 foi respondido sem localização em 02/10 e remetido à SMAMUS, gerando o 24); o 21 foi respondido em 16/09. Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [ ] **LOA 2027:** envio do projeto até 15/out e votação até 5/dez, conforme [fonte municipal](https://prefeitura.poa.br/smpg/lei-orcamentaria-anual-loa). Confirmar viabilidade orçamentária do pleito; o calendário não garante recursos.
 - [ ] **PDUS/LUOS:** conferir textos finais, vetos, publicação, transição e parâmetros aplicáveis; a resposta do Pedido 6 inclui referências a minutas.
-- [ ] **P2:** acompanhar manifestação da EPTC sobre o projeto do nó da Monte Cristo.
+- [ ] **P2:** acompanhar a manifestação da EPTC sobre o nó da Monte Cristo. A SMMU informou (Pedido 5) que o projeto *implantado* no nó é da GPTC-EPTC; a ata de 22/09 registra que o trevo "não possui nenhum projeto atualmente" (compatível: sem projeto de melhoria). O Pedido 30 (EPTC, 018518-26-45, prazo 28/10) pergunta se há estudo ou proposta.
 - [ ] **Desenhos e execução:** manter distinta a aprovação histórica, a validade atual, a situação fundiária e a implantação física.
 - [ ] **Canais:** confirmar setor de protocolo, encaminhamento das cópias e enquadramento territorial do novo P9.
 

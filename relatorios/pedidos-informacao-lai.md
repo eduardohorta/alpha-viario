@@ -725,6 +725,130 @@ perguntas, cita o protocolo vencido e **não substitui** o Pedido 14, que segue 
 
 **Anexos:** nenhum.
 
+## Pedido 28 — PGM: demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca
+
+**Protocolado em 08/10/2026** (nº **018515-26-81**, prazo **28/10/2026** conforme o e-SIC; tema
+"Obras Públicas"; sem anexos).
+
+**Órgão:** Procuradoria-Geral do Município (PGM), mesmo canal dos Pedidos 8, 16, 21 e 26.
+
+**Origem:** encaminhamento 2 da ata da reunião com a Diretoria da EPTC (22/09/2026): a EPTC orientou
+procurar a PGM quanto ao Termo de Compromisso no P7 e ao alargamento da Av. Rodrigues da Fonseca.
+Não repete o já respondido: o Pedido 21 (GEAR-PGM, 16/09) disse que nada mudou desde 2020 e o
+Pedido 26 (peças restantes do 16) segue em aberto.
+
+**Texto protocolado:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento às respostas aos pedidos nº
+> **017520-26-22** (21/08/2026) e nº **018132-26-62** (16/09/2026), solicito à PGM as informações
+> abaixo, relativas à confluência da Estrada Costa Gama com a Estrada das Três Meninas e à
+> Avenida Rodrigues da Fonseca.
+>
+> **1. Demolição na confluência (processo judicial nº 5003552-35.2014.8.21.0001, TJRS).** A
+> resposta ao pedido nº 017520-26-22 informou que a PGM aguardava o agendamento do cumprimento do
+> mandado de demolição. Solicito informar: (a) se o mandado foi cumprido ou se há data agendada, e
+> qual; (b) se há, na esquina dessa confluência, outro imóvel edificado (por exemplo, uma casa)
+> cuja demolição ou desocupação esteja prevista, judicial ou administrativamente, indicando o
+> processo e a situação.
+>
+> **2. Cumprimento da obrigação pelo empreendedor.** Solicito cópia de notificações, ofícios ou
+> outras comunicações da PGM (inclusive da GEAR) ao empreendedor do Termo de Compromisso nº
+> 41.198/2009, posteriores ao Parecer CTAAPS nº 093/2020, exigindo a execução da 2ª fase da
+> interseção com a Estrada Costa Gama (alça de ligação), ou a informação de que não há. Solicito
+> também informar se há prazo, cronograma ou procedimento de cobrança em curso.
+>
+> **3. Alargamento da Av. Rodrigues da Fonseca.** Em reunião com a Diretoria da EPTC, em
+> 22/09/2026, foi informado que a EPTC tem pedido de alargamento da Av. Rodrigues da Fonseca junto
+> à esquina da Farmácia São João (próximo à igreja da Vila Nova), que envolve desapropriação e
+> depende da PGM. Solicito informar: (a) se a PGM recebeu solicitação de desapropriação ou de
+> declaração de utilidade pública para esse alargamento, com a data e o órgão solicitante; (b) o
+> número do processo administrativo e sua situação; ou (c) a informação de que não existe
+> processo.
+>
+> O pedido não requer identificação, CPF, dados bancários ou valores individualizados de terceiros.
+> Se houver documentos com tais dados, solicito seu fornecimento com as tarjas necessárias,
+> preservando os fatos institucionais e jurídicos.
+
+**Anexos:** nenhum.
+
+## Pedido 29 — SMAMUS: Termos de Compromisso e contrapartidas viárias dos empreendimentos Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5)
+
+**Protocolado em 08/10/2026** (nº **018516-26-39**, prazo **28/10/2026** conforme o e-SIC; tema
+"Infraestrutura Urbana"; sem anexos).
+
+**Órgão:** SMAMUS, mesmo canal dos Pedidos 11, 19 e 24.
+
+**Origem:** encaminhamento 6 da ata da reunião com a Diretoria da EPTC (22/09/2026): foram citadas
+contrapartidas do **Condomínio Ponta do Arado** (relacionada ao P8) e do empreendimento da esquina
+João Salomoni × Cavalhada (P5, citado como "Melnik", com nova via de ligação entre a João Salomoni e
+a Dr. Vergara). Nenhum dos dois consta dos oito expedientes do mapa do Pedido 6. Como a SMAMUS
+indeferiu no Pedido 11 os itens de "descrição" e "situação" (art. 12, III, do Decreto 19.990/2018) e
+deferiu documentos específicos, o pedido solicita **número do processo e cópia de documentos**.
+
+**Texto protocolado:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
+> 017781-26-28** (SMAMUS, 10/09/2026), solicito informações sobre dois empreendimentos que não
+> constavam do "Mapa Empreendimentos Especiais em Análise — Bairro Vila Nova" (SEI nº
+> 26.0.000107561-5), ambos com contrapartida viária referida em reunião com a Diretoria da EPTC em
+> 22/09/2026:
+>
+> 1. Condomínio Ponta do Arado, com contrapartida relacionada ao cruzamento da Estrada Costa Gama
+> com a Estrada Afonso Lourenço Mariante.
+>
+> 2. Empreendimento na esquina da Av. João Salomoni com a Av. da Cavalhada (citado na reunião como
+> "Melnik"), com contrapartida de uma nova via de ligação entre a Av. João Salomoni e a Av. Dr.
+> Vergara.
+>
+> Para cada um, solicito: (a) o número do Expediente Único e do processo SEI do licenciamento, nos
+> termos do parágrafo único do art. 12 do Decreto Municipal nº 19.990/2018, se alguma parte do
+> pedido não puder ser atendida; (b) cópia do Termo de Compromisso de contrapartidas viárias
+> (assinado ou, se ainda não assinado, a minuta) e do parecer ou das diretrizes que as fixam,
+> quando existentes e não sigilosos; e (c) cópia das peças de projeto viário vinculadas, inclusive
+> o traçado da nova via de ligação no caso 2, quando existentes.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros.
+> Se houver documentos com tais dados, solicito seu fornecimento com as tarjas necessárias.
+
+**Anexos:** nenhum.
+
+## Pedido 30 — EPTC: projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2)
+
+**Protocolado em 08/10/2026** (nº **018518-26-45**, prazo **28/10/2026** conforme o e-SIC; tema
+"Trânsito"; sem anexos).
+
+**Órgão:** EPTC, mesmo canal dos Pedidos 7 e 17 (tema "Trânsito" no e-SIC).
+
+**Origem:** resposta ao **Pedido 5** (017397-26-59, 24/08/2026). A SMMU disse que, nessa confluência,
+"o projeto implantado atualmente no local foi elaborado pela GPTC-EPTC" e encaminhou o processo à
+EPTC "para análise e manifestação no que couber". A ata de 22/09 registra que o trevo "não possui
+nenhum projeto atualmente". Não há divergência: a SMMU fala do desenho implantado; a ata, de projeto
+de melhoria. Resumos anteriores do dossiê ("nó com projeto próprio, manifestação pendente")
+excediam a resposta e foram corrigidos em 08/10/2026. O pedido pergunta, sem pressupor, se há estudo
+ou proposta.
+
+**Texto protocolado:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta ao **pedido nº
+> 017397-26-59** (SMMU, 24/08/2026), que informou que o projeto atualmente implantado na
+> confluência da Av. Monte Cristo, da Av. Rodrigues da Fonseca, da Av. Belém Velho e da Estrada
+> Cristiano Kraemer foi elaborado pela GPTC-EPTC e encaminhou o processo à EPTC para análise e
+> manifestação, solicito:
+>
+> (a) cópia do **projeto implantado** nessa confluência, elaborado pela GPTC-EPTC (peças gráficas e
+> de sinalização), quando existente e não sigiloso;
+>
+> (b) a informação sobre a **existência de estudo, projeto ou proposta de intervenção** (melhoria,
+> alteração geométrica ou de sinalização) para o mesmo local, em qualquer fase, com o número do
+> processo e a situação, ou a informação de que não existe;
+>
+> (c) a **manifestação da EPTC** no processo encaminhado pela SMMU, ou a informação sobre a situação
+> desse encaminhamento.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros.
+
+**Anexos:** nenhum.
+
 ---
 
 ## Respostas recebidas
@@ -994,6 +1118,9 @@ perguntas, cita o protocolo vencido e **não substitui** o Pedido 14, que segue 
 | 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | 26/10/2026 | aguardando resposta — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | 26/10/2026 | aguardando resposta — complementa o Pedido 16 |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | aguardando resposta — refaz o Pedido 14, vencido |
+| 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
+| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e do Pedido 11 |
+| 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | 28/10/2026 | aguardando resposta — derivado do Pedido 5 |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,

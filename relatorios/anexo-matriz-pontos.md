@@ -22,9 +22,9 @@
 
 **Problema relatado:** Conflito na confluência de três vias.
 
-**Indícios e documentação:** **150 sinistros (14 graves, 50 motos; base oficial da EPTC, 2010–2026)**; auxiliar: ~58 sinistros em 2020–2025 — ver nota abaixo; **projeto de sinalização da Av. Monte Cristo concluído, implantação apenas parcial** — baias de ônibus paradas desde set/2024 (DCVU-SMSURB); **o nó específico do P2 tem projeto próprio, elaborado pela GPTC-EPTC**, com manifestação da EPTC ainda pendente (resposta ao Pedido 5, 24/08/2026).
+**Indícios e documentação:** **150 sinistros (14 graves, 50 motos; base oficial da EPTC, 2010–2026)**; auxiliar: ~58 sinistros em 2020–2025 — ver nota abaixo; **projeto de sinalização da Av. Monte Cristo concluído, implantação apenas parcial** — baias de ônibus paradas desde set/2024 (DCVU-SMSURB); **no nó do P2, o projeto implantado é da GPTC-EPTC e o processo foi encaminhado à EPTC para manifestação** (SMMU, resposta ao Pedido 5, 24/08/2026).
 
-**Vistoria e encaminhamento:** Movimentos direcionais; **acompanhar a manifestação da EPTC sobre o projeto do nó** (Pedido 5).
+**Vistoria e encaminhamento:** Movimentos direcionais; **obter a manifestação da EPTC sobre o nó** (Pedido 5).
 
 ### P3 — Acesso à Av. Vicente Monteggia (Rodrigues da Fonseca / João Salomoni)
 
