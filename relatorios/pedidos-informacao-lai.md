@@ -467,6 +467,44 @@ Pareceres CTARF nº 022 e 023/2023.
 > empreendimento — nos mesmos moldes identificados no Parecer CAUGE nº 048/2025 (EU
 > 002.308796.00.4), já conhecido.
 
+**Conferência com as peças recebidas (14/10/2026):** o texto acima foi protocolado como está. Pelos
+pareceres, o (b) é de **19/11/2025** e o (c) foi aprovado pela CEFH em **14/04/2026** (assinado em
+15/04), não em 26/06/2026 — data vista no SEI público em 10/09 que não é a do parecer. A SMAMUS
+enviou o (a), o (b) e o (c) e não tratou do (d); ver [Respostas recebidas](#respostas-recebidas).
+
+**Reexame do item "d" — texto preparado em 14/10/2026, a apresentar até 24/10/2026** (sábado; na
+prática, sexta 23/10). O e-SIC mostra o botão "Pedir reexame" (art. 22 do Decreto 19.990/2018); o
+formulário é um campo único, "Detalhe o solicitado", sem anexos. O reexame fica restrito ao item
+"d" e à pergunta final quanto a ele; as peças citadas e não obtidas nos pareceres (Parecer CAADHAP
+nº 226/2021, processo DMAE 23.10.000009365-5) não entram aqui e, se interessarem, vão em pedido novo.
+
+> Pedido de reexame (art. 22 do Decreto Municipal nº 19.990/2018) do pedido nº 018104-26-38,
+> respondido em 14/10/2026.
+>
+> A resposta enviou os pareceres dos itens (a), (b) e (c). Não tratou do item (d), que reitero:
+>
+> (d) eventuais pareceres técnicos já emitidos e concluídos — não classificados como documento
+> preparatório pendente de decisão — no processo SEI 25.0.000145763-5 (EU 002.322436.00.8), mesmo
+> que a etapa de Diretrizes como um todo ainda não tenha sido concluída; por exemplo, manifestações
+> técnicas das secretarias, como as que integram os pareceres entregues nos itens (a) e (b).
+>
+> A resposta não enviou nenhuma peça desse processo, não informou que elas não existam e não
+> indicou a razão da recusa. O art. 11, §1º, II e III, da Lei Federal nº 12.527/2011 prevê, para
+> esses casos, a indicação das razões da recusa ou a comunicação de que o órgão não possui a
+> informação.
+>
+> Solicito: (1) cópia digital das peças do item (d); ou (2) se não houver pareceres concluídos nesse
+> processo, que isso seja informado expressamente; ou (3) se o órgão os considerar preparatórios,
+> que isso seja informado expressamente, com a razão e a indicação de quando o acesso será
+> liberado (art. 7º, §3º, da Lei nº 12.527/2011).
+>
+> Reitero também a pergunta final do pedido, quanto a esse processo: se as peças concluídas
+> descrevem obras viárias, recuos, doações de área ou contrapartidas de mobilidade vinculadas ao
+> empreendimento.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros;
+> se as peças contiverem esses dados, podem ser tarjados.
+
 ## Pedido 20 — SMF: mapa da situação das desapropriações citado no Parecer CTAAPS 093/2020
 
 **Órgão:** Secretaria Municipal da Fazenda (SMF), mesmo canal do Pedido 18 (tema "Obras
@@ -1028,6 +1066,21 @@ ou proposta.
   "projeto inexistente". A PGM já respondeu sobre o tema no Pedido 21 (sem tratar de drenagem), e
   a CTAAPS integra a SMAMUS. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
+- **Pedido 19 (018104-26-38) — respondido (14/10/2026, às 11h50, um dia após o prazo), parcial.** A **SMAMUS**
+  enviou os três pareceres dos itens "a", "b" e "c", com as manifestações das secretarias: o
+  **CAADHAP nº 110/2021** (EU 002.329584.00.2; 576 unidades; sem andamento desde 11/06/2021), o
+  **CAADHAP nº 007/2025** (EU 002.345695.00.1, Village Sul I–III; 1.410 unidades; Diretrizes de
+  19/11/2025) e o **CEFH nº 005/2026** (EU 002.290209.00.5, Estr. Cristiano Kraemer, 1150;
+  desmembramento aprovado em 14/04/2026). Nos dois primeiros, a Prefeitura passa ao empreendedor
+  recuos, obras viárias e pavimentação (e, em 2025, paradas e **o custo das desapropriações**,
+  pela Resolução CGOF nº 025/2021, nova no dossiê, de que o parecer de 2021 também dá ciência),
+  amarrados ao Habite-se; no terceiro, só a doação do recuo, e a diretriz da Rua Lídia Marques
+  Netto fica para TPC quando a rua for executada. **Limites da
+  resposta:** o item **"d"** (SEI 25.0.000145763-5, EU 002.322436.00.8) não foi tratado — nem
+  enviado, nem negado, nem justificado; a pergunta final (obras viárias, recuos, doações) só se
+  responde pelo conteúdo das peças; **nenhum dos três cita o TC nº 41.198/2009 ou a rótula do
+  P1**. Reexame até **24/10/2026**. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-19-14102026-pareceres-de-três-empreendimentos-na-cristiano-kraemer-com-obras-viárias-e-desapropriações-a-cargo-do-empreendedor).
 - **Pedido 18 (018008-26-10) — respondido (22/09/2026), sem localização.** A **SMF** informou
   que **não localizou dados** sobre o depósito com as informações fornecidas, e pediu
   complementação: (a) número do processo administrativo; (b) dados do depositante; (c) cópia do
@@ -1109,7 +1162,7 @@ ou proposta.
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); prazo do reexame (04/10/2026) venceu sem reexame apresentado — peças restantes pedidas no **Pedido 26** — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
-| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **13/10/2026** (e-SIC; e-mail da SMAMUS dizia 10/10, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 11 |
+| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **13/10/2026** (e-SIC; e-mail da SMAMUS dizia 10/10, sábado) | **respondido (14/10/2026, 11h50, um dia após o prazo), parcial** — SMAMUS enviou os 3 pareceres pedidos (CAADHAP 110/2021 e 007/2025, CEFH 005/2026): obras viárias, recuos e custo de desapropriação a cargo do empreendedor, sem citar o TC do Alphaville nem a rótula do P1; **item "d" (SEI 25.0.000145763-5) sem resposta**; reexame até 24/10; derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |

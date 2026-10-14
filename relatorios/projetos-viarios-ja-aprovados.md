@@ -740,10 +740,12 @@ sem peça obtida, sem esperar por mais uma resposta LAI:
 - **EU 002.329584.00.2** (SEI 21.0.000001235-9): **parado desde 11/06/2021** — nenhum andamento
   em mais de 4 anos; concluiu na etapa de Diretrizes (Parecer CAADHAP nº 110/2021) e não avançou.
 - **EU 002.345695.00.1** (SEI 25.0.000013939-7): **ativo** — Diretrizes concluídas em nov–dez/2025
-  (Parecer CAADHAP nº 007/2025), com manifestações de SMOI, DMAE, SMF, EPIARB e DEMHAB; pronto
-  para avançar à etapa de EVU.
-- **EU 002.290209.00.5** (SEI 25.0.000100882-2): desmembramento **concluído em 26/06/2026**
-  (Parecer CEFH nº 005/2026) — confirma a resposta ao Pedido 11.
+  (Parecer CAADHAP nº 007/2025; o parecer recebido em 14/10/2026 tem data de **19/11/2025**), com
+  manifestações de SMOI, DMAE, SMF, EPIARB e DEMHAB; pronto para avançar à etapa de EVU.
+- **EU 002.290209.00.5** (SEI 25.0.000100882-2): desmembramento ~~concluído em 26/06/2026~~
+  **aprovado em 14/04/2026** (Parecer CEFH nº 005/2026, assinado em 15/04/2026) — confirma a
+  resposta ao Pedido 11. *Correção de 14/10/2026, pelo texto do parecer: a data de 26/06/2026 vista
+  no SEI público em 10/09 não é a do parecer.*
 - **EU 002.322436.00.8** (SEI 25.0.000145763-5): **muito ativo** — 107 andamentos, o mais recente
   em **04/09/2026** (seis dias antes desta consulta), atualmente em complementação na CEFH.
 
@@ -763,7 +765,8 @@ buscados de outra forma: com os 8 números de processo SEI em mãos, um novo ped
 **cópia de documentos específicos já existentes** em cada processo (o mesmo formato que funcionou
 para o EU 002.308796.00.4), em vez de pedir uma "análise consolidada" — a formulação que motivou
 o indeferimento. **Pedido 19 protocolado nesse formato** (018104-26-38, 10/09/2026, prazo
-30/09/2026, prorrogado; o e-SIC exibe 13/10/2026) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
+30/09/2026, prorrogado; o e-SIC exibe 13/10/2026) e **respondido em 14/10/2026, em parte** ([resposta
+abaixo](#resposta-lai-ao-pedido-19-14102026-pareceres-de-três-empreendimentos-na-cristiano-kraemer-com-obras-viárias-e-desapropriações-a-cargo-do-empreendedor)) — ver [trilha LAI](pedidos-informacao-lai.md#pedido-19--smamus-cópia-dos-pareceres-de-diretrizesevu-ainda-não-obtidos-nos-4-eus-vizinhos-ao-p1p6).
 
 ## Resposta LAI ao Pedido 10 (11/09/2026): TRA nunca emitido, processo arquivado, TAC com o Ministério Público revelado
 
@@ -987,6 +990,141 @@ depois, e começou a cumprir em menos de 24 horas. O reexame do Pedido 16 (art. 
 Municipal 19.990/2018) tem prazo de 10 dias da resposta, isto é, até 04/10/2026; se o restante não
 vier até lá, cabe reexame apenas para os itens (b) e (d). O acesso ao SEI dos quatro processos vence
 em **24/10/2026**, e o ao processo do SIC, em **25/10/2026**.
+
+## Resposta LAI ao Pedido 19 (14/10/2026): pareceres de três empreendimentos na Cristiano Kraemer, com obras viárias e desapropriações a cargo do empreendedor
+
+> A resposta ao **Pedido 19** — cópia de pareceres já concluídos nos EUs vizinhos ao P1/P6 — foi
+> postada no e-SIC em **14/10/2026, às 11h50** (protocolo **018104-26-38**), um dia depois do prazo
+> de 13/10. O SIC da **SMAMUS** listou os três pareceres dos itens "a", "b" e "c" e anexou um PDF
+> de cada um (14, 32 e 7 páginas, com as manifestações das secretarias que os compõem). Os anexos
+> brutos ficam em `retornos-protocolos/018104-26-38/` (fora do repositório público); abaixo, os
+> fatos institucionais.
+
+**Resposta parcial.** O item **"d"** (pareceres já concluídos no processo SEI 25.0.000145763-5,
+EU 002.322436.00.8, o mais ativo dos quatro: 107 andamentos até 10/09) **não foi tratado** — nem
+enviado, nem negado, nem justificado — e a pergunta final (se as peças descrevem obras viárias,
+recuos, doações ou contrapartidas de mobilidade) **não recebeu resposta própria**; o conteúdo dos
+pareceres responde a isso em substância, como segue. O reexame tem prazo de 10 dias da resposta
+(art. 22 do Decreto Municipal 19.990/2018): **até 24/10/2026** (sábado; na prática, sexta 23/10),
+e a autoridade responde em 10 dias, improrrogável (art. 23).
+
+**Parecer CAADHAP nº 110/2021 — EU 002.329584.00.2 (SEI 21.0.000001235-9).**
+
+- **O que é:** Diretrizes de loteamento da CAADHAP (reunião de 10/06/2021; assinaturas de 10 e
+  11/06/2021) para **dois condomínios do Minha Casa Minha Vida, faixa 2 — 576 unidades, 2.304
+  habitantes** — da Lyx Participações e Empreendimentos S.A., no Beco do Império, 601 / Estrada
+  Cristiano Kraemer, 1000 (gleba de 45.276,20 m²). Destinação pública de 18% (8.150 m²), para saúde
+  e praça. **Sem andamento desde 11/06/2021** (SEI público, 10/09/2026).
+- **EPTC (Parecer CPAITC nº 1348/21, 07/06/2021):** a gleba é atingida pelos gravames de alargamento
+  do **Beco do Império** e da **Estrada Cristiano Kraemer** e por duas diretrizes viárias do PDDUA
+  (Rua 5.065 e Diretriz 5.124). O empreendedor deve **doar as áreas dos recuos** (na testada da
+  Cristiano Kraemer, mantê-las e relocar o gradil quando o alargamento for executado, sem edificar
+  onde gere futura desapropriação), **executar o alargamento do Beco do Império** "desde o final do
+  trecho já executado até a Rua 5063", **projetar e executar acesso protegido** na interseção da
+  Cristiano Kraemer com a Rua 5062 (a única ligação entre as duas vias), elaborar **Plano Funcional
+  Viário** sob orientação da EPTC e garantir pavimentação para o transporte coletivo e a ciclovia do
+  Plano Diretor Cicloviário na Cristiano Kraemer.
+- **SMOI:** o Beco do Império não é pavimentado no local; o empreendedor executa o prolongamento da
+  pavimentação na testada da gleba até o pavimento existente, e apresenta os termos de recebimento
+  das obras para o Habite-se. **SMF:** projeto de aquisição de imóveis, se a Comissão exigir
+  aquisições, com o empreendedor ciente da Resolução CGOF nº 025/2021 quanto ao pagamento dos custos.
+- **UEU/SMAMUS (22/04/2021):** o projeto suprimiu a Diretriz 5.124; ela deve ser mantida e estendida
+  até o Beco do Império, para não encravar lotes. **DMAE (09/04/2021):** "há carência de redes
+  pluviais nas vias de acesso ao empreendimento"; exige pontos de deságue com extensão de rede,
+  inclusive redes públicas para as vias externas.
+
+**Parecer CAADHAP nº 007/2025 — EU 002.345695.00.1 (SEI 25.0.000013939-7).**
+
+- **O que é:** Diretrizes de loteamento emitidas em **19/11/2025** pela Coordenação Técnica da
+  CAADHAP, nos termos da LC 1.022/2024 (recomposição urbanística após as enchentes de 2024), para o
+  **Loteamento Residencial Village Sul I, II e III — 1.410 unidades do Minha Casa Minha Vida, 5.640
+  habitantes** — da Tenda Negócios Imobiliários S/A, na Estrada Cristiano Kraemer, 913/1015 (gleba
+  de 87.567 m²). Destinação pública calculada sobre **5% da gleba** (em 2021, 18%) e **condicionantes
+  transferíveis ao Habite-se**. Próxima etapa: EVU com Licença Prévia concomitante. **Validade de 12
+  meses** (art. 10 do Decreto 20.659/2020): contada da emissão, até 19/11/2026 (contagem a
+  confirmar).
+- **SMMU (15/05/2025):** diz que as condições de mobilidade da região são "deficitárias" e que a Rua
+  Catarino Andreatta será "rota alternativa para acesso à Estrada Cristiano Kraemer". Exige
+  **prolongar** a Catarino Andreatta (norte–sul, até a Av. Romeu Samarani Ferreira; 20 m), a Rua
+  Capitão Amarante Xavier (até a Catarino Andreatta; 15 m) e a Rua Frei Albino Aresi (até a
+  Cristiano Kraemer; 12,50 m), mais uma rua projetada entre a Catarino Andreatta e a Cristiano
+  Kraemer; **doar e executar os recuos viários** (gravames de alargamento da Estrada Cristiano
+  Kraemer e da Frei Albino Aresi); pavimentar entre a borda do asfalto e o meio-fio nas testadas;
+  sinalizar as interseções e implantar travessias e **Paradas Seguras** nos dois sentidos da
+  Cristiano Kraemer. **Tudo condicionante da Carta de Habitação**, com projetos executivos aprovados
+  na SMMU/EPTC e na SMOI.
+- **SMOI/EPV (17/07/2025) — o que precisa estar executado para o Habite-se:** as ruas internas; a
+  **Rua Catarino Andreatta em toda a extensão**, "considerando a desapropriação (às expensas do
+  empreendedor) na ligação com Rua Romeu Samarani Ferreira"; a Frei Albino Aresi em frente ao
+  terreno de doação (com a desapropriação necessária) — a ligação da Frei Albino Aresi com a
+  Cristiano Kraemer, que a SMMU e a DPU pedem, **não é exigida "por ora"**, salvo se o acesso à área
+  do DMAE for por ali; calçadas pavimentadas.
+- **DPU/SMAMUS (03/07/2025):** "em havendo necessidade de desapropriações", para o traçado de acesso
+  ou "por outros motivos decorrentes do empreendimento", **os custos ficam a cargo do
+  empreendedor** (Resolução CGOF nº 025/2021). Pede a Capitão Amarante Xavier **até a Cristiano
+  Kraemer, com 12,50 m** — **diverge da SMMU** (até a Catarino Andreatta, 15 m).
+- **SMF (19/03/2025):** projeto de desapropriação, se necessário, no termo de referência da SMF e
+  sob a mesma Resolução; se houver **TPC oriunda de diretriz viária cuja obra não será executada**
+  na ocasião do projeto, o empreendedor **cerca e guarda** a área transferida ao Município até a
+  execução da diretriz, **sem indenização**; a liberação de imóveis do Estado ou da União fica por
+  sua conta.
+- **DMAE (03/06/2025):** a gleba já foi analisada no processo DMAE 23.10.000009365-5; o DMAE quer
+  **duas bacias de amortecimento pluvial** junto ao curso hídrico que a atravessa (doação por
+  parcelamento ou TPC; implantação a cargo do loteamento), e a DPU/SMAMUS concorda, por ser área
+  amplamente atingida por APPs e por áreas alagadiças. Se a doação não se efetivar no local,
+  converte-se em unidades habitacionais para o DEMHAB. Extensões de água e esgoto: "às expensas do
+  interessado", sem previsão de execução pelo DMAE.
+
+**Parecer CEFH nº 005/2026 — EU 002.290209.00.5 (SEI 25.0.000100882-2).**
+
+- **O que é:** aprovação de **desmembramento** na Estrada Cristiano Kraemer, 1150 (Toniolo
+  Engenharia e Investimentos Imobiliários Ltda), na reunião da CEFH de **14/04/2026** (assinado em
+  15/04/2026), para empreendimento da **Faixa 1** do Minha Casa Minha Vida (FAR): dispensado do
+  percentual de doação (art. 3º da LC 1.022/2024), com o Município como partícipe do enquadramento.
+- **Viário:** da matrícula de 20.606,97 m², **163,43 m²** são atingidos por **recuo viário** (doação,
+  em matrícula do Município, condicionante do Habite-se) e **645,15 m²** pela **diretriz do
+  prolongamento da Rua Lídia Marques Netto**, que "será objeto de transferência de potencial
+  construtivo quando da futura execução da rua" — obra futura do Município; o parecer não lista
+  obra viária a cargo do empreendedor.
+- **Carta de Habitação condicionada a:** comprovação do público Faixa I; matrículas, em nome do
+  Município, das áreas atingidas por traçado viário do PDDUA; matrículas dos lotes privados; TRA;
+  liberação do DMAE; liberação da SMMU.
+
+**Resolução CGOF nº 025/2021 — regra nova no dossiê.** Vem anexa aos pareceres de 2021 e de 2025 e é
+citada pela SMF e pela DPU. O Comitê de Gestão Orçamentária e Financeira (Gabinete do Prefeito),
+em 24/03/2021, reeditando a Resolução 012/2020, considerou a impossibilidade de planejar orçamento e
+recursos para desapropriações de obras de contrapartida e determinou: (1) **suspender e levar à
+apreciação prévia do CGOF** todos os pagamentos de termos de compromisso com contrapartida do
+Município que repercuta no Tesouro, "incluindo os já formalizados (passivo)", e os processos em
+tramitação com obrigação de pagamento do Município relativa a termos de compromisso; (2) apreciação
+prévia do CGOF para aprovar EVUs e condicionantes de carta de habitação ou licenciamento com
+repercussão financeira ao Município; (3) **negociar para que as desapropriações sejam feitas com
+recursos dos empreendedores**. **Não está estabelecido** se a resolução alcança o Termo de
+Compromisso nº 41.198/2009 ou as desapropriações de 2020 do eixo (Pedidos 8, 9 e 16): nenhum
+documento recebido as relaciona. Fica como pergunta aberta, não como achado.
+
+**O que isso muda.**
+
+- **A alavanca de contrapartidas se confirma em mais três casos**, todos na Estrada Cristiano
+  Kraemer (a via do P1): nos três, recuos doados ao Município; nos dois loteamentos, também obras
+  viárias e pavimentação a cargo do empreendedor e, em 2025, paradas e o custo das desapropriações
+  (em 2021, ciência da Resolução CGOF); tudo amarrado ao Habite-se. Os pareceres não medem a
+  distância até o P1; "vizinhos ao P1/P6" segue o título do Pedido 19.
+- **Nenhum dos três cita** o Termo de Compromisso nº 41.198/2009, a Estrada das Três Meninas, a
+  rótula do P1, a 2ª fase da interseção ou a drenagem dela. O item "e" do Pedido 11 (se alguma
+  contrapartida cobre a 2ª fase e a drenagem do P1) **segue sem confirmação**, agora também nestes
+  três.
+- **Datas dos registros anteriores corrigidas** pelo texto dos pareceres (ver as notas na consulta
+  ao SEI de 10/09, acima): o Parecer CEFH nº 005/2026 é de 14/04/2026, não de 26/06/2026; o CAADHAP
+  nº 007/2025, de 19/11/2025.
+- **Peças citadas e não obtidas:** o Parecer CAADHAP nº 226/2021 (SEI 32801731), diretrizes
+  anteriores do mesmo empreendimento de 2025; o processo DMAE 23.10.000009365-5 (estudo e
+  pareceres de drenagem da gleba); e tudo do EU 002.322436.00.8 (item "d").
+- **Conferência por ID:** cada parecer foi emitido num expediente SEI próprio, diferente do processo
+  que a SMAMUS cita — CAADHAP 110/2021 no 21.0.000001383-5, CAADHAP 007/2025 no 25.0.000033623-0 e
+  CEFH 005/2026 no 26.0.000011838-8 (é o número que consta no rodapé de cada parecer). Os processos
+  21.0.000001235-9, 25.0.000013939-7 e 25.0.000100882-2 constam no corpo ou no cabeçalho dos
+  próprios pareceres.
 
 ## Relação com os pontos do projeto
 
