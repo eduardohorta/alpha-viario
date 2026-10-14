@@ -888,6 +888,20 @@ ou proposta.
 
 **Anexos:** nenhum.
 
+**Pedido de esclarecimento da EPTC (14/10/2026, por e-mail).** A Equipe de Protocolo e Arquivo
+(Coordenação de Atendimento ao Cidadão, Gerência de Atendimento da EPTC) escreveu, "em atenção ao
+solicitado na demanda e-SIC 018518-26-45, referente ao item (c)", pedindo que se informasse "o
+número do processo a que se refere". Não é resposta de mérito, e o e-SIC não registra o e-mail:
+o status ("Aguardando resposta") e o prazo (28/10/2026) seguiam sem alteração na conferência de
+14/10 à tarde. O requerente respondeu por e-mail no mesmo dia (texto preparado no repositório e
+informado como enviado): o processo é a **própria demanda e-SIC 017397-26-59** (Pedido 5, de
+10/07/2026), respondida pela SMMU em 24/08/2026, às 10h04, com a frase "encaminha-se o presente
+processo à EPTC, para análise e manifestação no que couber". Essa resposta **não cita número de
+SEI**, ao contrário das da SMMU aos Pedidos 12 e 15, e o histórico do 017397-26-59 no e-SIC
+também não mostra nenhum; a resposta pediu que a EPTC informe se localizar o encaminhamento por
+outro número. O e-mail e a resposta ficam em `retornos-protocolos/018518-26-45/` (fora do
+repositório público).
+
 ---
 
 ## Respostas recebidas
@@ -982,7 +996,9 @@ ou proposta.
   informou que o projeto ali implantado foi **elaborado pela GPTC-EPTC** e **encaminhou o
   processo à EPTC** para manifestação — resposta ainda pendente quanto a esse nó específico (é
   um encaminhamento interno da SMMU, não uma orientação para novo pedido; acompanhar se a EPTC
-  se manifesta neste mesmo protocolo antes de cogitar um novo pedido adicional). Incorporado ao
+  se manifesta neste mesmo protocolo antes de cogitar um novo pedido adicional). **Atualização
+  (14/10/2026):** o "processo" encaminhado é a própria demanda e-SIC, sem número de SEI; a EPTC o
+  pediu por e-mail no Pedido 30 (ver lá). Incorporado ao
   [anexo](anexo-matriz-pontos.md).
 - **Pedido 13 (017790-26-10) — respondido (26/08/2026), incompleto.** A **SMOI** informou que o
   **Termo de Recebimento Provisório de 10/04/2013** (a mesma peça já obtida no Pedido 2) estaria
@@ -1175,7 +1191,7 @@ ou proposta.
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | aguardando resposta — refaz o Pedido 14, vencido |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
 | 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e do Pedido 11 |
-| 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | 28/10/2026 | aguardando resposta — derivado do Pedido 5 |
+| 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | 28/10/2026 | aguardando resposta — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
