@@ -1004,9 +1004,10 @@ em **24/10/2026**, e o ao processo do SIC, em **25/10/2026**.
 EU 002.322436.00.8, o mais ativo dos quatro: 107 andamentos até 10/09) **não foi tratado** — nem
 enviado, nem negado, nem justificado — e a pergunta final (se as peças descrevem obras viárias,
 recuos, doações ou contrapartidas de mobilidade) **não recebeu resposta própria**; o conteúdo dos
-pareceres responde a isso em substância, como segue. O reexame tem prazo de 10 dias da resposta
-(art. 22 do Decreto Municipal 19.990/2018): **até 24/10/2026** (sábado; na prática, sexta 23/10),
-e a autoridade responde em 10 dias, improrrogável (art. 23).
+pareceres responde a isso em substância, como segue. O **reexame do item "d" foi apresentado em
+14/10/2026, às 16h43** (art. 22 do Decreto Municipal 19.990/2018, no prazo de 10 dias da
+resposta); a autoridade responde em 10 dias, improrrogável (art. 23), e o e-SIC dá **26/10/2026**
+como prazo final.
 
 **Parecer CAADHAP nº 110/2021 — EU 002.329584.00.2 (SEI 21.0.000001235-9).**
 

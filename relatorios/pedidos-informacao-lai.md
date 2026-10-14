@@ -472,11 +472,12 @@ pareceres, o (b) é de **19/11/2025** e o (c) foi aprovado pela CEFH em **14/04/
 15/04), não em 26/06/2026 — data vista no SEI público em 10/09 que não é a do parecer. A SMAMUS
 enviou o (a), o (b) e o (c) e não tratou do (d); ver [Respostas recebidas](#respostas-recebidas).
 
-**Reexame do item "d" — texto preparado em 14/10/2026, a apresentar até 24/10/2026** (sábado; na
-prática, sexta 23/10). O e-SIC mostra o botão "Pedir reexame" (art. 22 do Decreto 19.990/2018); o
-formulário é um campo único, "Detalhe o solicitado", sem anexos. O reexame fica restrito ao item
-"d" e à pergunta final quanto a ele; as peças citadas e não obtidas nos pareceres (Parecer CAADHAP
-nº 226/2021, processo DMAE 23.10.000009365-5) não entram aqui e, se interessarem, vão em pedido novo.
+**Reexame do item "d" — apresentado em 14/10/2026, às 16h43** (conferido no e-SIC: status
+"Aguardando reexame", prazo final 26/10/2026; a autoridade responde em 10 dias, improrrogável, art.
+23 do Decreto 19.990/2018). O botão "Pedir reexame" (art. 22) abre um formulário de campo único,
+"Detalhe o solicitado", sem anexos; o texto abaixo é o enviado. O reexame fica restrito ao item "d"
+e à pergunta final quanto a ele; as peças citadas e não obtidas nos pareceres (Parecer CAADHAP nº
+226/2021, processo DMAE 23.10.000009365-5) não entram aqui e, se interessarem, vão em pedido novo.
 
 > Pedido de reexame (art. 22 do Decreto Municipal nº 19.990/2018) do pedido nº 018104-26-38,
 > respondido em 14/10/2026.
@@ -1079,7 +1080,8 @@ ou proposta.
   resposta:** o item **"d"** (SEI 25.0.000145763-5, EU 002.322436.00.8) não foi tratado — nem
   enviado, nem negado, nem justificado; a pergunta final (obras viárias, recuos, doações) só se
   responde pelo conteúdo das peças; **nenhum dos três cita o TC nº 41.198/2009 ou a rótula do
-  P1**. Reexame até **24/10/2026**. Leitura completa em
+  P1**. **Reexame do item "d" apresentado em 14/10/2026, às 16h43** (status "Aguardando
+  reexame"; prazo final no e-SIC: 26/10/2026), com o texto registrado na seção do Pedido 19. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-19-14102026-pareceres-de-três-empreendimentos-na-cristiano-kraemer-com-obras-viárias-e-desapropriações-a-cargo-do-empreendedor).
 - **Pedido 18 (018008-26-10) — respondido (22/09/2026), sem localização.** A **SMF** informou
   que **não localizou dados** sobre o depósito com as informações fornecidas, e pediu
@@ -1162,7 +1164,7 @@ ou proposta.
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); prazo do reexame (04/10/2026) venceu sem reexame apresentado — peças restantes pedidas no **Pedido 26** — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
-| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ **13/10/2026** (e-SIC; e-mail da SMAMUS dizia 10/10, sábado) | **respondido (14/10/2026, 11h50, um dia após o prazo), parcial** — SMAMUS enviou os 3 pareceres pedidos (CAADHAP 110/2021 e 007/2025, CEFH 005/2026): obras viárias, recuos e custo de desapropriação a cargo do empreendedor, sem citar o TC do Alphaville nem a rótula do P1; **item "d" (SEI 25.0.000145763-5) sem resposta**; reexame até 24/10; derivado do Pedido 11 |
+| 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ ~~13/10/2026~~ **26/10/2026** (e-SIC, após o reexame; o 13/10 era o prazo prorrogado no e-SIC, e o e-mail da SMAMUS dizia 10/10, sábado) | **respondido (14/10/2026, 11h50, um dia após o prazo), parcial** — SMAMUS enviou os 3 pareceres pedidos (CAADHAP 110/2021 e 007/2025, CEFH 005/2026): obras viárias, recuos e custo de desapropriação a cargo do empreendedor, sem citar o TC do Alphaville nem a rótula do P1; **item "d" (SEI 25.0.000145763-5) sem resposta → reexame apresentado em 14/10 (16h43)**; derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
