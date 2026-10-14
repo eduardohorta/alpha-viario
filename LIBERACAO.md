@@ -33,7 +33,7 @@
       — 23 termos conferidos na inspeção de 25/09; atualizar a lista privada antes de cada envio.
 
 ## 2. Rechecagem institucional — posição de 25/09/2026 (atualizada em 14/10/2026)
-- [ ] **Ata:** a ata da reunião com a EPTC (22/09) foi recebida em 08/10/2026, em versão revisada ainda não final; fechar a versão e cumprir os encaminhamentos (ver [PENDENCIAS.md](PENDENCIAS.md)).
+- [ ] **Ata:** a ata da reunião com a EPTC (22/09) foi recebida em 08/10/2026, em versão revisada ainda não final; fechar a versão (no P5, "Dr Vergara" vira "Estr. João Vedana") e cumprir os encaminhamentos (ver [PENDENCIAS.md](PENDENCIAS.md)).
 - [ ] **Protocolo principal:** não realizado (confirmado pela comissão em 08/10/2026); a comissão articula reunião com a SMAMUS. Decidir se o ofício segue como protocolo ou como apoio à reunião; número e data só no ato do envio.
 - [ ] **LAIs:** 30 pedidos protocolados. Acompanhar 14, documentos restantes do 16 (Pedido 26), respostas 20/23/24/25/26/27/28/29/30 (o 18 foi respondido sem localização em 02/10 e remetido à SMAMUS, gerando o 24); o 21 foi respondido em 16/09 e o 19 em 14/10, em parte (reexame do item "d" apresentado no mesmo dia, prazo 26/10). Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
 - [ ] **LOA 2027:** envio do projeto até 15/out e votação até 5/dez, conforme [fonte municipal](https://prefeitura.poa.br/smpg/lei-orcamentaria-anual-loa). Confirmar viabilidade orçamentária do pleito; o calendário não garante recursos.

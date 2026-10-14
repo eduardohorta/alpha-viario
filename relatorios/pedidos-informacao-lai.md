@@ -820,7 +820,9 @@ Pedido 26 (peças restantes do 16) segue em aberto.
 **Origem:** encaminhamento 6 da ata da reunião com a Diretoria da EPTC (22/09/2026): foram citadas
 contrapartidas do **Condomínio Ponta do Arado** (relacionada ao P8) e do empreendimento da esquina
 João Salomoni × Cavalhada (P5, citado como "Melnik", com nova via de ligação entre a João Salomoni e
-a Dr. Vergara). Nenhum dos dois consta dos oito expedientes do mapa do Pedido 6. Como a SMAMUS
+a Estr. João Vedana, pelos fundos do empreendimento; a ata registrou "Dr Vergara", erro corrigido
+em 14/10/2026, ver a nota abaixo do texto protocolado). Nenhum dos dois consta dos oito
+expedientes do mapa do Pedido 6. Como a SMAMUS
 indeferiu no Pedido 11 os itens de "descrição" e "situação" (art. 12, III, do Decreto 19.990/2018) e
 deferiu documentos específicos, o pedido solicita **número do processo e cópia de documentos**.
 
@@ -850,6 +852,16 @@ deferiu documentos específicos, o pedido solicita **número do processo e cópi
 > Se houver documentos com tais dados, solicito seu fornecimento com as tarjas necessárias.
 
 **Anexos:** nenhum.
+
+**Correção (14/10/2026):** o item 2 do texto acima, como foi protocolado, cita a Av. Dr. Vergara. O
+outro extremo da nova via é a **Estr. João Vedana**, que corre pelos fundos do empreendimento,
+segundo quem esteve na reunião de 22/09. A ata registrou "Dr Vergara", provável confusão de som: a
+Rua Dr. Vergara fica em Belém Velho, perto do P6, a cerca de 4 km do P5 (pelo OpenStreetMap),
+enquanto a Estr. João Vedana corre uns 290 m ao norte da Av. João Salomoni, paralela a ela, e as
+duas começam junto à Av. da Cavalhada. Não há, portanto, ligação dessa via com o P6. A grafia usual
+da incorporadora é "Melnick"; a ata escreve "Melnik". O pedido identifica o empreendimento pela
+esquina e pede o traçado da nova via, então a SMAMUS ainda pode atendê-lo; se a resposta vier em
+torno da Dr. Vergara, o caminho é o reexame.
 
 ## Pedido 30 — EPTC: projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2)
 
@@ -1190,7 +1202,7 @@ repositório público).
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | 26/10/2026 | aguardando resposta — complementa o Pedido 16 |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | aguardando resposta — refaz o Pedido 14, vencido |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
-| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e do Pedido 11 |
+| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
 | 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | 28/10/2026 | aguardando resposta — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
