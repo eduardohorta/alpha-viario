@@ -1095,7 +1095,7 @@ repositório público).
   "projeto inexistente". A PGM já respondeu sobre o tema no Pedido 21 (sem tratar de drenagem), e
   a CTAAPS integra a SMAMUS. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
-- **Pedido 20 (018131-26-04) — resposta intermediária (registrada em 16/10/2026): "em análise", com compromisso de envio em cerca de três semanas.** A **SMF**
+- **Pedido 20 (018131-26-04) — resposta intermediária (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado): "em análise", com compromisso de envio em cerca de três semanas.** A **SMF**
   não enviou o mapa nem negou o acesso. Informou que, **extinta a Assessoria Especial de
   Aquisições e Alienações (AEAA)**, a consolidação e atualização sistemática dos dados das
   desapropriações **deixou de ocorrer de forma contínua** (só "conforme necessidades
@@ -1104,14 +1104,17 @@ repositório público).
   pedido que exija trabalho adicional de consolidação, **reconhece a relevância** e a **Divisão de
   Avaliação de Imóveis fará os levantamentos nas próximas três semanas**, encaminhando as
   informações **por e-mail** ao endereço informado no pedido (não pelo e-SIC). **Limites:** sem
-  data certa (três semanas contadas de 15–16/10 dão cerca de **06/11/2026**), sem garantia de que
+  data certa (três semanas contadas de 15/10 dão cerca de **05/11/2026**), sem garantia de que
   será o "mapa" em si ou apenas uma lista atualizada, e sem resposta ao segundo item (se o mapa
   foi atualizado desde 17/09/2020). A frase sobre a AEAA é, por si, um dado: confirma
   institucionalmente que **não há acompanhamento contínuo** das desapropriações da SMF, o que
   reforça a leitura do Pedido 21 (GEAR-PGM) de que o gargalo está na regularização dominial.
   Resposta guardada em `retornos-protocolos/018131-26-04/`. **Não é caso de reexame agora**
-  (a resposta promete, não nega); acompanhar o e-mail e, se nada chegar até 06/11, cobrar a SMF
-  (ou apresentar reexame/novo pedido, conforme o histórico do e-SIC indicar).
+  (a resposta promete, não nega). **Atenção ao prazo:** o e-SIC marcou o pedido como **CONCLUÍDO**
+  e o botão de reexame (art. 22 do Decreto 19.990/2018, 10 dias) fica aberto só até cerca de
+  **26/10/2026** (25/10 é domingo), antes do prazo prometido pela SMF (cerca de 05/11). Se nada
+  chegar por e-mail até lá, o caminho é cobrar a SMF por e-mail e, esgotado o reexame, novo
+  pedido no e-SIC.
 - **Pedido 19 (018104-26-38) — respondido (14/10/2026, às 11h50, um dia após o prazo), parcial.** A **SMAMUS**
   enviou os três pareceres dos itens "a", "b" e "c", com as manifestações das secretarias: o
   **CAADHAP nº 110/2021** (EU 002.329584.00.2; 576 unidades; sem andamento desde 11/06/2021), o
@@ -1210,10 +1213,10 @@ repositório público).
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ ~~13/10/2026~~ **26/10/2026** (e-SIC, após o reexame; o 13/10 era o prazo prorrogado no e-SIC, e o e-mail da SMAMUS dizia 10/10, sábado) | **respondido (14/10/2026, 11h50, um dia após o prazo), parcial** — SMAMUS enviou os 3 pareceres pedidos (CAADHAP 110/2021 e 007/2025, CEFH 005/2026): obras viárias, recuos e custo de desapropriação a cargo do empreendedor, sem citar o TC do Alphaville nem a rótula do P1; **item "d" (SEI 25.0.000145763-5) sem resposta → reexame apresentado em 14/10 (16h43)**; derivado do Pedido 11 |
-| 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **resposta intermediária (registrada em 16/10/2026): em análise** — SMF diz que a consolidação das desapropriações deixou de ser contínua após a extinção da AEAA e que a Divisão de Avaliação de Imóveis fará o levantamento "ao longo das próximas três semanas", enviando o resultado por e-mail (**cerca de 06/11/2026**); não nega nem envia o mapa — derivado do Pedido 10 |
+| 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **resposta intermediária (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado): em análise** — SMF diz que a consolidação das desapropriações deixou de ser contínua após a extinção da AEAA e que a Divisão de Avaliação de Imóveis fará o levantamento "ao longo das próximas três semanas", enviando o resultado por e-mail (**cerca de 05/11/2026**); não nega nem envia o mapa — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
-| 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **prorrogado (+10 dias)** — derivado do Pedido 10 + relato de membro da comissão |
+| 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **prazo vencido sem resposta** (conferido no e-SIC em 16/10/2026: segue PRAZO_PRORROGADO, sem botão de reexame; apenas CANCELAR) — derivado do Pedido 10 + relato de membro da comissão |
 | 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | 26/10/2026 | aguardando resposta — derivado dos Pedidos 9 e 18 |
 | 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | 26/10/2026 | aguardando resposta — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | 26/10/2026 | aguardando resposta — complementa o Pedido 16 |
@@ -1304,7 +1307,7 @@ Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação n�
 sistematizada em nossos arquivos"). Novo prazo: **15/10/2026** — comunicada no próprio dia do
 prazo original (05/10).
 
-**Resposta do Pedido 20 (registrada em 16/10/2026):** intermediária — a SMF informou que o
+**Resposta do Pedido 20 (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado):** intermediária — a SMF informou que o
 levantamento está em análise e será feito pela Divisão de Avaliação de Imóveis em três semanas,
 com envio por e-mail (ver "Respostas recebidas").
 
