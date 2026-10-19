@@ -1127,6 +1127,56 @@ documento recebido as relaciona. Fica como pergunta aberta, não como achado.
   21.0.000001235-9, 25.0.000013939-7 e 25.0.000100882-2 constam no corpo ou no cabeçalho dos
   próprios pareceres.
 
+## Resposta LAI ao Pedido 23 (19/10/2026): TAC não localizado, arquivamento do MP indica averbações nas matrículas, processo físico de cerca de 18 volumes
+
+> A resposta ao **Pedido 23** — cópia do TAC nº 00833.00096/2010 (Ministério Público), gravames de
+> matrícula, doação de maquinário e relação com o Habite-se — foi postada no e-SIC em
+> **19/10/2026, por volta das 10h17** (protocolo **018163-26-50**; horário tirado do arquivo
+> anexo, a conferir no histórico do e-SIC), quatro dias depois do prazo prorrogado de 15/10. O SIC
+> da **SMAMUS** assinou o texto, que informa a manifestação da Diretoria de Licenciamento e
+> Monitoramento Ambiental, e anexou uma troca de e-mails internos de 02 e 06/10 com o Arquivo
+> Municipal. Os anexos brutos ficam em `retornos-protocolos/018163-26-50/` (fora do repositório
+> público); abaixo, os fatos institucionais.
+
+**O TAC não foi enviado.** A Diretoria **não localizou cópia do TAC** nos registros consultados.
+Consta, porém, dos autos o **documento de arquivamento do Ministério Público** (juntado sob o nº
+**41690350**), segundo o qual a empresa **assumiu obrigações de averbação nas matrículas
+imobiliárias** correspondentes às classificações previstas na **Resolução CONAMA nº 420/2009**
+(gerenciamento de áreas contaminadas), e **posteriormente se constatou que as averbações foram
+feitas**. A própria resposta ressalva que esse documento **não permite identificar os números das
+matrículas, reproduzir a cláusula integral do TAC nem confirmar as demais informações pedidas**.
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| (a) cópia do TAC e aditivos | **Não fornecida** (não localizada). |
+| (b) gravames de matrícula | **Confirmação indireta:** averbações nas matrículas, segundo o arquivamento do MP. Sem números de matrícula, sem a cláusula; o que se averbou são as classificações da Resolução CONAMA 420/2009. O relato de membro da comissão (hortas, árvores frutíferas, poço artesiano) **segue sem confirmação**: o texto não o menciona nem o contradiz. |
+| (c) doação de máquinas à SMAMUS/SMAM | **Não tratado** (nem confirmado, nem negado). |
+| (d) Habite-se condicionado ao TAC | **Não tratado.** |
+
+**Onde a peça pode estar.** A resposta indica o **processo físico nº 001.063154.08.08** (na
+solicitação interna, 001.063154.08.0.00000), **disponível para consulta no Arquivo Municipal, com
+agendamento por e-mail**. Os e-mails anexos mostram que a área da SMAMUS pediu ao Arquivo, em
+02/10, a **digitalização** do processo, "tendo em vista solicitação de requerente", e que o
+Arquivo respondeu em 06/10 que o processo tem **cerca de 18 volumes** e pediu que o requerente o
+contate para **atendimento presencial**, a fim de escolher só a documentação de interesse. O
+processo está separado e à disposição. A SMAMUS levou treze dias para repassar isso ao e-SIC.
+
+**O que isso muda.**
+
+- **O TAC segue sem texto no dossiê**, mas há agora uma **fonte institucional** de que ele (ou o
+  arquivamento do MP que o encerra) trouxe **averbações nas matrículas** da área, o que dá base
+  concreta ao relato de gravames. Falta a lista de matrículas e a cláusula, que só uma
+  consulta ao processo físico ou o documento 41690350 resolveriam.
+- **O pedido novo previsto para 20/10 deixou de ser necessário**: a resposta chegou.
+- **Itens (c) e (d)** (maquinário e Habite-se) viraram **lacuna a registrar**: a SMAMUS ignorou
+  os dois sem negá-los.
+- **Caminhos abertos:** reexame (art. 22 do Decreto 19.990/2018, 10 dias, até **29/10/2026**) para
+  pedir a cópia do documento 41690350 e a resposta aos itens (c) e (d); e/ou consulta presencial
+  ao Arquivo Municipal, com e-mail de agendamento à unidade do Arquivo indicada na resposta.
+  Ambos dependem de decisão da comissão.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |

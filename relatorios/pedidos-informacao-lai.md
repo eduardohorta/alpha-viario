@@ -1095,6 +1095,21 @@ repositório público).
   "projeto inexistente". A PGM já respondeu sobre o tema no Pedido 21 (sem tratar de drenagem), e
   a CTAAPS integra a SMAMUS. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
+- **Pedido 23 (018163-26-50) — respondido (19/10/2026, por volta das 10h17, quatro dias após o prazo prorrogado), parcial.** A **SMAMUS**
+  (Diretoria de Licenciamento e Monitoramento Ambiental) **não localizou cópia do TAC**, mas
+  informou que consta dos autos o **documento de arquivamento do Ministério Público** (nº
+  41690350), segundo o qual a empresa assumiu **obrigações de averbação nas matrículas** conforme
+  as classificações da Resolução CONAMA nº 420/2009, e que as averbações foram depois constatadas.
+  Ressalva que esse documento **não permite identificar as matrículas, reproduzir a cláusula do
+  TAC nem confirmar as demais informações**. **Limites:** os itens (c) (doação de maquinário) e (d)
+  (Habite-se condicionado ao TAC) **não foram tratados**, nem negados; o relato de hortas, árvores
+  e poço segue sem confirmação. Indica o **processo físico nº 001.063154.08.08** no Arquivo
+  Municipal (cerca de 18 volumes, por e-mail do Arquivo de 06/10, que pede agendamento de
+  atendimento presencial para escolher a documentação). Resposta guardada em
+  `retornos-protocolos/018163-26-50/`. **Reexame cabível até 29/10/2026** (art. 22 do Decreto
+  19.990/2018, 10 dias): pedir o documento 41690350 e os itens (c) e (d); decisão da comissão.
+  Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-23-19102026-tac-não-localizado-arquivamento-do-mp-indica-averbações-nas-matrículas-processo-físico-de-cerca-de-18-volumes).
 - **Pedido 20 (018131-26-04) — resposta intermediária (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado): "em análise", com compromisso de envio em cerca de três semanas.** A **SMF**
   não enviou o mapa nem negou o acesso. Informou que, **extinta a Assessoria Especial de
   Aquisições e Alienações (AEAA)**, a consolidação e atualização sistemática dos dados das
@@ -1216,7 +1231,7 @@ repositório público).
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **resposta intermediária (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado): em análise** — SMF diz que a consolidação das desapropriações deixou de ser contínua após a extinção da AEAA e que a Divisão de Avaliação de Imóveis fará o levantamento "ao longo das próximas três semanas", enviando o resultado por e-mail (**cerca de 05/11/2026**); não nega nem envia o mapa — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
-| 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **prazo vencido sem resposta** (conferido no e-SIC em 16/10/2026: segue PRAZO_PRORROGADO, sem botão de reexame; apenas CANCELAR); **decisão de 16/10: se não houver resposta até 20/10/2026, protocolar pedido novo** — derivado do Pedido 10 + relato de membro da comissão |
+| 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **respondido (19/10/2026, ~10h17, quatro dias após o prazo), parcial** — TAC não localizado; arquivamento do MP (doc. 41690350) indica averbações nas matrículas (CONAMA 420/2009), sem números nem cláusula; itens (c) maquinário e (d) Habite-se não tratados; processo físico (~18 volumes) à disposição no Arquivo Municipal, com agendamento; **reexame até 29/10/2026** (decisão da comissão) — derivado do Pedido 10 + relato de membro da comissão |
 | 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | 26/10/2026 | aguardando resposta — derivado dos Pedidos 9 e 18 |
 | 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | 26/10/2026 | aguardando resposta — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | 26/10/2026 | aguardando resposta — complementa o Pedido 16 |
@@ -1301,7 +1316,7 @@ Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação n�
 sistematizada em nossos arquivos"). Novo prazo: **15/10/2026** — comunicada no próprio dia do
 prazo original (05/10), mesmo padrão dos Pedidos 10, 11 e 19.
 
-**Pedido 23 vencido sem resposta (conferido no e-SIC em 16/10/2026):** o status segue PRAZO_PRORROGADO, sem botão de reexame. A comissão decidiu aguardar alguns dias: **se não houver resposta até 20/10/2026, protocola-se pedido novo** com o texto da seção do Pedido 23 (itens a–d), como nos Pedidos 14 (→ 27) e 16 (→ 26).
+**Pedido 23 vencido sem resposta (conferido no e-SIC em 16/10/2026):** o status segue PRAZO_PRORROGADO, sem botão de reexame. A comissão decidiu aguardar alguns dias: **se não houver resposta até 20/10/2026, protocola-se pedido novo** com o texto da seção do Pedido 23 (itens a–d), como nos Pedidos 14 (→ 27) e 16 (→ 26). **Superado em 19/10/2026:** a resposta chegou (ver "Respostas recebidas"), então não há pedido novo.
 
 **Prorrogação do Pedido 20 (05/10/2026, por e-mail):** a SMF (por e-mail do SIC, assinado pela
 SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do

@@ -85,5 +85,10 @@
   desconhecido do dossiê, e um monitoramento ambiental que segue ativo sob processo SEI
   **21.0.000037696-2**. Detalhe em [projetos viários
   documentados](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
+- **Resposta LAI ao Pedido 23 (19/10/2026):** a SMAMUS **não localizou cópia do TAC**, mas informou
+  que o arquivamento do Ministério Público registra **averbações nas matrículas** da área (classes
+  da Resolução CONAMA 420/2009), sem identificar matrículas nem cláusula; doação de maquinário e
+  relação com o Habite-se não foram tratadas. Detalhe em [projetos viários
+  documentados](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-23-19102026-tac-não-localizado-arquivamento-do-mp-indica-averbações-nas-matrículas-processo-físico-de-cerca-de-18-volumes).
 
 Fonte e interpretação detalhada: [projetos viários documentados](projetos-viarios-ja-aprovados.md).
