@@ -1172,10 +1172,11 @@ processo está separado e à disposição. A SMAMUS levou treze dias para repass
 - **O pedido novo previsto para 20/10 deixou de ser necessário**: a resposta chegou.
 - **Itens (c) e (d)** (maquinário e Habite-se) viraram **lacuna a registrar**: a SMAMUS ignorou
   os dois sem negá-los.
-- **Caminhos abertos:** reexame (art. 22 do Decreto 19.990/2018, 10 dias, até **29/10/2026**) para
-  pedir a cópia do documento 41690350 e a resposta aos itens (c) e (d); e/ou consulta presencial
-  ao Arquivo Municipal, com e-mail de agendamento à unidade do Arquivo indicada na resposta.
-  Ambos dependem de decisão da comissão.
+- **Arquivado em 19/10/2026, por decisão da comissão:** não haverá reexame (que permitiria pedir a
+  cópia do documento 41690350 e a resposta aos itens (c) e (d) até **29/10/2026**) nem consulta
+  presencial ao processo físico, por serem desproporcionais ao objetivo do dossiê (o TAC é
+  instrumento ambiental paralelo ao Termo de Compromisso). As lacunas acima ficam como estão.
+  Se o TAC virar alavanca, os dois caminhos continuam possíveis (a consulta ao Arquivo não vence).
 
 ## Relação com os pontos do projeto
 
