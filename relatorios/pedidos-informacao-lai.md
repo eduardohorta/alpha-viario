@@ -1111,7 +1111,7 @@ repositório público).
   consulta ao Arquivo Municipal, por serem desproporcionais ao objetivo; as lacunas ficam registradas.
   Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-23-19102026-tac-não-localizado-arquivamento-do-mp-indica-averbações-nas-matrículas-processo-físico-de-cerca-de-18-volumes).
-- **Pedido 20 (018131-26-04) — resposta intermediária (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado): "em análise", com compromisso de envio em cerca de três semanas.** A **SMF**
+- **Pedido 20 (018131-26-04) — respondido: resposta intermediária no e-SIC (15/10/2026, às 18h08, dentro do prazo prorrogado) e, por e-mail, a planta e a planilha das desapropriações (registradas em 26/10/2026).** A **SMF**
   não enviou o mapa nem negou o acesso. Informou que, **extinta a Assessoria Especial de
   Aquisições e Alienações (AEAA)**, a consolidação e atualização sistemática dos dados das
   desapropriações **deixou de ocorrer de forma contínua** (só "conforme necessidades
@@ -1125,12 +1125,21 @@ repositório público).
   foi atualizado desde 17/09/2020). A frase sobre a AEAA é, por si, um dado: confirma
   institucionalmente que **não há acompanhamento contínuo** das desapropriações da SMF, o que
   reforça a leitura do Pedido 21 (GEAR-PGM) de que o gargalo está na regularização dominial.
-  Resposta guardada em `retornos-protocolos/018131-26-04/`. **Não é caso de reexame agora**
-  (a resposta promete, não nega). **Atenção ao prazo:** o e-SIC marcou o pedido como **CONCLUÍDO**
-  e o botão de reexame (art. 22 do Decreto 19.990/2018, 10 dias) fica aberto só até cerca de
-  **26/10/2026** (25/10 é domingo), antes do prazo prometido pela SMF (cerca de 05/11). Se nada
-  chegar por e-mail até lá, o caminho é cobrar a SMF por e-mail e, esgotado o reexame, novo
-  pedido no e-SIC.
+  Resposta guardada em `retornos-protocolos/018131-26-04/`.
+  **Complemento por e-mail (registrado em 26/10/2026), antes do prazo prometido (cerca de 05/11):**
+  a Ouvidoria da SMF enviou a **planta** "Desapropriações Alphaville" (sem escala, quatro cores) e a
+  **planilha** por ficha cadastral "atualizada em 19/10/26 pela PAESC/PGM", com o aviso de que o
+  material foi elaborado com base em informações da antiga AEAA de **cerca de 17/09/2020**, a data
+  do Parecer 093/2020. Respondido, portanto, o item 1 (o mapa); no item 2 (atualização desde
+  17/09/2020), **só a planilha é nova**, o desenho não. A planilha traz **67 fichas**: 60 lotes nas
+  Três Meninas, Costa Gama e João Salomoni (57 pagos; 3 sem pagamento e sem imissão, FC 8040, 8060 e
+  8067, que são o saldo da PGM no Pedido 8) e **7 lotes na Cristiano Kraemer (P1) com a negociação
+  "suspensa", pela nota "Conforme informação sistema SCAI (2014) – 'Aguarda alteração de
+  projeto-CTAAPS'"**. Limites: sem data por etapa, "concluído" não equivale a registrado (22 dos 60
+  sem registro "OK") e a atribuição das manchas da planta às FCs é inferência. A planilha vem da
+  PGM, não da SMF. **Sem reexame nem pedido novo**; o botão do e-SIC (art. 22 do Decreto
+  19.990/2018, até cerca de 26/10) deixa de ser necessário. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-20-complemento-por-e-mail-26102026-planta-e-planilha-das-desapropriações-com-sete-lotes-da-cristiano-kraemer-suspensos-desde-2014).
 - **Pedido 19 (018104-26-38) — respondido (14/10/2026, às 11h50, um dia após o prazo), parcial.** A **SMAMUS**
   enviou os três pareceres dos itens "a", "b" e "c", com as manifestações das secretarias: o
   **CAADHAP nº 110/2021** (EU 002.329584.00.2; 576 unidades; sem andamento desde 11/06/2021), o
@@ -1229,7 +1238,7 @@ repositório público).
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
 | 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ ~~13/10/2026~~ **26/10/2026** (e-SIC, após o reexame; o 13/10 era o prazo prorrogado no e-SIC, e o e-mail da SMAMUS dizia 10/10, sábado) | **respondido (14/10/2026, 11h50, um dia após o prazo), parcial** — SMAMUS enviou os 3 pareceres pedidos (CAADHAP 110/2021 e 007/2025, CEFH 005/2026): obras viárias, recuos e custo de desapropriação a cargo do empreendedor, sem citar o TC do Alphaville nem a rótula do P1; **item "d" (SEI 25.0.000145763-5) sem resposta → reexame apresentado em 14/10 (16h43)**; derivado do Pedido 11 |
-| 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **resposta intermediária (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado): em análise** — SMF diz que a consolidação das desapropriações deixou de ser contínua após a extinção da AEAA e que a Divisão de Avaliação de Imóveis fará o levantamento "ao longo das próximas três semanas", enviando o resultado por e-mail (**cerca de 05/11/2026**); não nega nem envia o mapa — derivado do Pedido 10 |
+| 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **respondido: intermediária no e-SIC (15/10/2026, às 18h08, dentro do prazo prorrogado) e, por e-mail (registrado em 26/10/2026), planta e planilha "atualizada em 19/10/26 pela PAESC/PGM"** — a SMF disse que, extinta a AEAA, a consolidação das desapropriações deixou de ser contínua; o mapa é de cerca de 17/09/2020 (só a planilha é nova): 67 fichas, 3 lotes sem pagamento e **7 lotes na Cristiano Kraemer (P1) com negociação suspensa desde 2014, "aguarda alteração de projeto-CTAAPS"**; sem reexame ([leitura](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-20-complemento-por-e-mail-26102026-planta-e-planilha-das-desapropriações-com-sete-lotes-da-cristiano-kraemer-suspensos-desde-2014)) — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **respondido (19/10/2026, ~10h17, quatro dias após o prazo), parcial** — TAC não localizado; arquivamento do MP (doc. 41690350) indica averbações nas matrículas (CONAMA 420/2009), sem números nem cláusula; itens (c) maquinário e (d) Habite-se não tratados; processo físico (~18 volumes) à disposição no Arquivo Municipal, com agendamento; **arquivado por decisão da comissão (19/10/2026): sem reexame e sem consulta ao Arquivo**, com as lacunas registradas — derivado do Pedido 10 + relato de membro da comissão |
@@ -1347,7 +1356,8 @@ Pedido 26, o acesso da PGM ao SEI 26.0.000115687-9 (petições iniciais) expirou
 
 **Resposta do Pedido 20 (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado):** intermediária — a SMF informou que o
 levantamento está em análise e será feito pela Divisão de Avaliação de Imóveis em três semanas,
-com envio por e-mail (ver "Respostas recebidas").
+com envio por e-mail. **Complemento por e-mail (registrado em 26/10/2026):** planta e planilha, antes
+do prazo prometido (ver "Respostas recebidas").
 
 **Se a resposta vier negativa ou incompleta:** recurso à autoridade hierarquicamente
 superior em até **10 dias** (art. 15 da LAI), lembrando que a negativa deve indicar a

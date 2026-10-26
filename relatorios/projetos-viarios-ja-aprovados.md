@@ -275,7 +275,7 @@ atualização**". Ou seja, **a própria EPTC já apontava em 2020 a necessidade 
 projetos** — exatamente o que a comissão pede agora.
 
 **Desapropriações (SMF):** o parecer remete a um "**mapa da situação das desapropriações**"
-anexo, que **não veio** no conjunto recebido — peça a solicitar.
+anexo, que **não veio** no conjunto recebido. **Obtido em 26/10/2026** pelo Pedido 20: [planta e planilha](#resposta-lai-ao-pedido-20-complemento-por-e-mail-26102026-planta-e-planilha-das-desapropriações-com-sete-lotes-da-cristiano-kraemer-suspensos-desde-2014).
 
 ### 7. O que isso muda em cada ponto
 
@@ -1177,6 +1177,94 @@ processo está separado e à disposição. A SMAMUS levou treze dias para repass
   presencial ao processo físico, por serem desproporcionais ao objetivo do dossiê (o TAC é
   instrumento ambiental paralelo ao Termo de Compromisso). As lacunas acima ficam como estão.
   Se o TAC virar alavanca, os dois caminhos continuam possíveis (a consulta ao Arquivo não vence).
+
+## Resposta LAI ao Pedido 20 (complemento por e-mail, 26/10/2026): planta e planilha das desapropriações, com sete lotes da Cristiano Kraemer suspensos desde 2014
+
+> O **Pedido 20** — cópia do "mapa da situação das desapropriações" do Parecer CTAAPS 093/2020 e
+> informação sobre sua atualização desde 17/09/2020 — teve duas respostas da **SMF** (protocolo
+> **018131-26-04**). A primeira, pelo e-SIC em **15/10/2026** (18h08), foi intermediária: "em
+> análise", com promessa de envio por e-mail em cerca de três semanas (ver [registro](pedidos-informacao-lai.md#respostas-recebidas)).
+> O **complemento por e-mail**, da Ouvidoria da SMF, trouxe a **planta** e a **planilha**
+> "atualizada em 19/10/26 pela PAESC/PGM" (quatro dias depois da resposta intermediária), antes do
+> prazo prometido (cerca de 05/11). Foi registrado aqui em **26/10/2026**; a data e o horário de
+> envio do e-mail ficam a conferir na caixa de entrada (o e-SIC não o registra, como nos esclarecimentos da EPTC no
+> Pedido 30). Os anexos brutos ficam em `retornos-protocolos/018131-26-04/` (fora do repositório
+> público); abaixo, os fatos institucionais.
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| Cópia do mapa | **Enviada:** prancha única "Desapropriações Alphaville", sem escala, com quatro cores (legenda abaixo) e a planilha por ficha cadastral (FC). |
+| Atualizado desde 17/09/2020? | **Só a planilha.** A SMF diz que a planta foi "elaborada com base em informações da antiga AEAA com data aproximada de 17/09/2020", a mesma data do Parecer 093/2020. Não há levantamento novo do desenho; o que mudou é o status por lote, na planilha atualizada em **19/10/2026**. |
+
+**A planta.** Legenda: **verde** concluídos; **laranja** "PGM – ajuizado – aguarda imissão";
+**vermelho** "PGM – não concluídos"; **ciano** suspensos. Os lotes têm rótulos minúsculos, ilegíveis
+na prancha. O desenho mostra: sete lotes **ciano** na ponta da Estrada Cristiano Kraemer (P1); uma
+grande mancha **vermelha** junto à Kanazawa (P6); uma grande mancha **laranja** na Três Meninas,
+junto à Florestan Fernandes (P6); uma menor perto da Costa Gama (P7); todo o resto verde.
+
+**A planilha: 67 fichas cadastrais** (FC 8001 a 8075, processos de 2009 a 2012), em duas partes.
+
+- **60 lotes** nas estradas das Três Meninas (52), Costa Gama (6) e João Salomoni (2), todos com
+  instrução, avaliação, decreto e negociação "OK". **57 estão pagos**; **3 aguardam pagamento e
+  imissão** (FC 8040, 8060 e 8067). 15 foram judicializados, 8 com imissão
+  registrada. Os pagamentos de **16/06/2025** (FC 8058) e **23/12/2025** (FC 8059) aparecem
+  como comentários nas células.
+- **7 lotes na Estrada Cristiano Kraemer** (FC 8024, 8037, 8041 a 8043, 8045 e 8046; nº 250 a
+  315): instrução, avaliação e decreto "OK" e negociação **"suspenso"**, sem nenhuma etapa
+  seguinte. A nota da planilha diz: "Conforme informação sistema SCAI (2014) – 'Aguarda alteração
+  de projeto-CTAAPS'".
+
+**Conferência com o que o dossiê já tinha (Pedidos 8, 9 e 21).**
+
+| FC | Planilha (19/10/2026) | Conferência |
+|---|---|---|
+| 8040 (Três Meninas, 1085) | judicializado; pagamento e imissão "aguarda"; registro "em tramitação judicial" | **Confere** com os Pedidos 8 e 9 (ação ajuizada em 19/12/2025, sem imissão). |
+| 8060 (Três Meninas, 3330 a 3360) | idem | **Confere** com o Pedido 8 (ação em curso, sem sentença). |
+| 8059 (Três Meninas, 3380) | escritura "OK"; **pago em 23/12/2025**; registro "**aguarda a ART da SMF**" | **Acrescenta:** a escritura do Pedido 8 foi paga em dezembro de 2025 e **falta o registro**, que depende de uma ART da SMF. |
+| 8067 (Três Meninas, 900) | escritura, judicialização, pagamento e imissão "aguarda"; registro "**aguarda prazo p/ distr. Ação Desapr.**" | **Compatível** com o Pedido 8 ("aguarda novo Decreto") e com o Pedido 9 (declaração caducada em 28/12/2025, novo decreto a partir de dezembro de 2026), mas a planilha **não fala em caducidade** e mantém a coluna "decreto" como "OK". |
+| 8058 (Três Meninas, 3390 a 3420) | **pago em 16/06/2025**; registro "OK" | **Confere** com o Pedido 9 (indenização paga em junho de 2025, escritura registrada em julho). |
+
+Os três lotes sem pagamento e sem imissão (8040, 8060, 8067) são os que o desenho deve mostrar
+em laranja e vermelho; a atribuição polígono a polígono é **inferência** (a prancha não legenda
+as FCs). As quatro pendências que a PGM listou no Pedido 8 são, portanto, o saldo da
+negociação nos lotes das Três Meninas e da Costa Gama; o que resta nos demais é registro e
+regularização do processo.
+
+**Novidade para o P1: o 1º trecho está parado por uma dependência de projeto.** Os sete lotes
+da Cristiano Kraemer foram instruídos, avaliados e declarados, mas a negociação está **suspensa
+desde 2014, à espera de "alteração de projeto" na CTAAPS**. Isso fecha, do lado fundiário, o que
+o dossiê tinha só do lado do projeto: a 2ª fase da interseção Cristiano Kraemer × Três Meninas
+**não tinha projeto aprovado** em 2020 (Parecer 093/2020) e as obras do Trecho 1 estão pendentes
+(Pedido 21). A planilha de 19/10/2026 mantém a nota de 2014 como situação vigente. Ela **não diz
+o que precisa ser alterado, nem por quê**, e a leitura de que projeto e desapropriação se travam
+um ao outro é **inferência** (nenhum documento diz que o projeto espera as desapropriações).
+
+**Limites.**
+
+- A planta é um desenho de **2020**; só o status por lote foi atualizado, e a planilha não traz a
+  **data de cada etapa**. A prancha leva o carimbo "10/26", que pode ser a data ou a numeração da
+  folha.
+- A legenda não define "concluído" e a planilha não explica "-" (nas colunas de escritura e de
+  registro) nem "TC" (seis lotes, cinco com registro "-"). Em **22 dos 60 lotes o registro não
+  consta como "OK"**: 7 com "-", 5 aguardando a tramitação judicial, 8 com o processo "em
+  migração" ou "migrado" ao SEI, 1 aguardando a ART da SMF e 1 aguardando a distribuição da ação.
+  Verde na planta, portanto, **não equivale a lote registrado**.
+- A planilha vem da **PAESC/PGM**, não da SMF: a SMF apenas a repassou, o que confirma que o
+  controle das desapropriações, depois da extinção da AEAA, está na PGM.
+- Nada sobre **valores** ou **cronograma** das fases de 2020 em diante.
+
+**O que isso muda.**
+
+- **O "mapa" está fechado:** é a peça que o Parecer 093/2020 citava como anexo e não veio, pedida
+  desde o Pedido 2 e passada de órgão em órgão (SMOI, SMAMUS, SMF). Não há reexame nem pedido novo
+  a fazer sobre ele.
+- **P1:** passa a ter, além do projeto da 2ª fase não aprovado, **sete lotes com negociação
+  suspensa desde 2014** à espera de alteração de projeto, ponto que a comissão pode levar à CTAAPS
+  (o Pedido 25 só trata da drenagem).
+- **P6 e P7:** o saldo se resume aos FC 8040 e 8067 (P6) e 8060 e 8059 (P7); o registro da escritura
+  do FC 8059 depende de uma ART da SMF.
 
 ## Relação com os pontos do projeto
 
