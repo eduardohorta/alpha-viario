@@ -1233,7 +1233,7 @@ repositório público).
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **respondido (19/10/2026, ~10h17, quatro dias após o prazo), parcial** — TAC não localizado; arquivamento do MP (doc. 41690350) indica averbações nas matrículas (CONAMA 420/2009), sem números nem cláusula; itens (c) maquinário e (d) Habite-se não tratados; processo físico (~18 volumes) à disposição no Arquivo Municipal, com agendamento; **arquivado por decisão da comissão (19/10/2026): sem reexame e sem consulta ao Arquivo**, com as lacunas registradas — derivado do Pedido 10 + relato de membro da comissão |
-| 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | 26/10/2026 | aguardando resposta — derivado dos Pedidos 9 e 18 |
+| 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias)** — derivado dos Pedidos 9 e 18 |
 | 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | 26/10/2026 | aguardando resposta — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | 26/10/2026 | aguardando resposta — complementa o Pedido 16 |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | aguardando resposta — refaz o Pedido 14, vencido |
@@ -1324,6 +1324,15 @@ SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 
 Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
 sistematizada em nossos arquivos"). Novo prazo: **15/10/2026** — comunicada no próprio dia do
 prazo original (05/10).
+
+**Prorrogação do Pedido 24 (26/10/2026, por e-mail):** a SMAMUS (por e-mail do SIC, assinado
+pela SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do
+Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
+sistematizada em nossos arquivos"). Novo prazo: **05/11/2026** — comunicada no próprio dia do
+prazo original (26/10), mesmo padrão dos Pedidos 10, 11, 19 e 23, também da SMAMUS. A
+justificativa é a mesma que a SMF deu no Pedido 18 (sem localização): a prorrogação não indica
+que a SMAMUS detenha ou não o dado, e a omissão após 05/11 seguiria o caminho dos Pedidos 14 e 23
+(sem reexame no e-SIC; pedido novo, se a comissão decidir).
 
 **Resposta do Pedido 20 (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado):** intermediária — a SMF informou que o
 levantamento está em análise e será feito pela Divisão de Avaliação de Imóveis em três semanas,
