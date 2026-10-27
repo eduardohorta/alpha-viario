@@ -1266,6 +1266,38 @@ um ao outro é **inferência** (nenhum documento diz que o projeto espera as des
 - **P6 e P7:** o saldo se resume aos FC 8040 e 8067 (P6) e 8060 e 8059 (P7); o registro da escritura
   do FC 8059 depende de uma ART da SMF.
 
+## Resposta LAI ao reexame do Pedido 19 (27/10/2026): item "d" indeferido como documento preparatório, com Diretrizes em análise na CEFH
+
+> A resposta ao **reexame do item "d" do Pedido 19** (protocolo **018104-26-38**, reexame
+> apresentado em 14/10/2026, às 16h43; prazo final 26/10) consta do e-SIC como "Resposta ao pedido
+> de reexame". O arquivo local foi gravado em **27/10/2026, por volta das 12h00**; a data e a hora
+> exatas da postagem ficam a conferir no histórico do e-SIC. Texto bruto em
+> `retornos-protocolos/018104-26-38/resposta.md` (fora do repositório público).
+
+**Indeferido.** A **Comissão de Análise e Aprovação de Demanda Habitacional Prioritária
+(CAADHAP)**, pelo SIC da SMAMUS, informa que os documentos do processo SEI 25.0.000145763-5 (EU
+002.322436.00.8) **são preparatórios, "considerando que a etapa de Diretrizes está em análise na
+CEFH"**, e funda o indeferimento no **art. 7º, § 3º, da Lei nº 12.527/2011**: o acesso aos
+documentos usados como fundamento de decisão é assegurado "com a edição do ato decisório
+respectivo".
+
+**O que a resposta confirma e o que deixa em aberto.**
+
+- **Confirma que existe andamento técnico no processo**: a etapa de Diretrizes do EU
+  002.322436.00.8 está na **CEFH**, a mesma comissão que aprovou o desmembramento do Parecer CEFH nº
+  005/2026 (item "c"). Não diz que não haja pareceres concluídos de secretarias, só que o conjunto é
+  preparatório; as opções (1) e (2) do reexame (enviar ou declarar inexistência) ficaram sem
+  resposta própria, e a opção (3) foi atendida só em parte: a razão foi dada, mas **não há indicação
+  de quando o acesso será liberado**, além de "com o ato decisório".
+- **A pergunta final** (obras viárias, recuos, doações ou contrapartidas de mobilidade deste
+  processo) **continua sem resposta**; o que se sabe vem dos pareceres dos itens "a", "b" e "c".
+- **O marco do acesso é o ato decisório**: o Parecer de Diretrizes da CAADHAP/CEFH para esse EU. No
+  empreendimento vizinho (item "b"), esse parecer saiu em 19/11/2025 e o SEI o mostrou depois; a
+  comissão pode acompanhar o andamento no SEI público e **repetir o pedido (pedido novo) quando
+  as Diretrizes forem emitidas**.
+- Este dossiê não registra instância posterior ao reexame no e-SIC; a decisão de insistir (por
+  outro canal) ou aguardar o ato é da comissão.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
