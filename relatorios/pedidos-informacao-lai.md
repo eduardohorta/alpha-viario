@@ -1254,7 +1254,7 @@ repositório público).
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias)** — complementa o Pedido 16 |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | aguardando resposta — refaz o Pedido 14, vencido |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
-| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | 28/10/2026 | aguardando resposta — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
+| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ **07/11/2026** | **prorrogado (+10 dias)** — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
 | 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | 28/10/2026 | aguardando resposta — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
@@ -1360,6 +1360,14 @@ no Pedido 25, que foi dirigido à SMAMUS/CTAAPS: é o modelo do SIC, não indica
 assumido o Pedido 25. A prorrogação não diz se o órgão detém o dado; a omissão após 05/11 seguiria
 o caminho dos Pedidos 14 e 23 (sem reexame no e-SIC; pedido novo, se a comissão decidir). No
 Pedido 26, o acesso da PGM ao SEI 26.0.000115687-9 (petições iniciais) expirou em 25/10.
+
+**Prorrogação do Pedido 29 (28/10/2026, por e-mail):** a SMAMUS (por e-mail do SIC, assinado
+pela SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do
+Decreto Municipal nº 19.990/2018**) e a mesma justificativa ("a informação não se encontra
+sistematizada em nossos arquivos"). Novo prazo: **07/11/2026**, um sábado — comunicada no próprio
+dia do prazo original (28/10), mesmo padrão dos Pedidos 19, 23 e 24, também da SMAMUS. A
+prorrogação não diz se a SMAMUS detém os Termos de Compromisso; a omissão após 07/11 seguiria o
+caminho dos Pedidos 14 e 23 (sem reexame no e-SIC; pedido novo, se a comissão decidir).
 
 **Resposta do Pedido 20 (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado):** intermediária — a SMF informou que o
 levantamento está em análise e será feito pela Divisão de Avaliação de Imóveis em três semanas,
