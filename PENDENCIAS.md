@@ -16,7 +16,7 @@
 - [ ] **[G]** Verificar se a **Resolução CGOF nº 025/2021** (anexa aos pareceres do Pedido 19) alcança o TC nº 41.198/2009 ou as desapropriações de 2020; nenhum documento recebido as relaciona.
 - [ ] **[G]** Validar enquadramento territorial do P9 atual; o resultado geoespacial de julho usava a rótula retirada em agosto.
 - [x] **[G]** Coleta e cotas conferidas no Console (26/09/2026, somente leitura): coleta ativa, cota diária de 200 em 84%, R$ 0,36 de custo no mês e nenhuma cobrança da Routes API. Ver [campo/sonda-tempos-google.md](campo/sonda-tempos-google.md).
-- [ ] **[C]** Decidir o destino da sonda: manter, reduzir uma rodada por dia ou pausar os jobs. A campanha prevista era de 2 a 4 semanas e já tem cerca de 12; a 168 chamadas por dia, outubro passa da franquia mensal de 5.000 eventos.
+- [x] **[C]** Destino da sonda decidido em 01/11/2026: **coleta pausada** (jobs do agendador pausados; a infraestrutura continua montada e a coleta pode ser retomada). Outubro passou da franquia mensal de 5.000 eventos, como previsto, e acionou o alerta de orçamento. A série vai de 04/07 a 01/11/2026.
 
 As seções abaixo preservam marcos datados; prazos originais citados em itens concluídos são históricos.
 
@@ -55,7 +55,7 @@ As seções abaixo preservam marcos datados; prazos originais citados em itens c
 - [x] **[G]** **Grafia oficial** "Cristiano Kraemer" — confirmada pela comissão.
 
 ## B. Evidência documental e de dados
-- [x] **[G]** **Sonda de tempos de viagem ATIVA desde 2026-07-04** (serviços Google Cloud nos picos, com registros encaminhados ao repositório privado `alpha-viario-sonda`): [controles de custo](campo/sonda-tempos-google.md) informados na implantação, a reconferir em produção (cota 200/dia no Console, orçamento com alertas, chave restrita à Routes API, tetos do coletor). Rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). Meta original: 2–4 semanas de série antes do protocolo — **campanha rodou ~9 semanas (04/07–01/09)**, bem além da meta; pausa do Cloud Scheduler em avaliação.
+- [x] **[G]** **Sonda de tempos de viagem ATIVA desde 2026-07-04** (serviços Google Cloud nos picos, com registros encaminhados ao repositório privado `alpha-viario-sonda`): [controles de custo](campo/sonda-tempos-google.md) informados na implantação, a reconferir em produção (cota 200/dia no Console, orçamento com alertas, chave restrita à Routes API, tetos do coletor). Rotas em [dados/rotas-sonda-tempos.csv](dados/rotas-sonda-tempos.csv). Meta original: 2–4 semanas de série antes do protocolo — **campanha rodou ~9 semanas (04/07–01/09)**, bem além da meta; **coleta pausada em 01/11/2026**.
 - [x] **[G]** **Verificada a continuidade e gerados os agregados (2026-09-01)**: `make sonda-agg` — **8.582 medições** em 14 rotas (12 desde 04/07, mais R13/R14 do P9 desde 14/08). Achado novo: o **entroncamento do P9** tem o maior índice de atraso entre todas as rotas medidas. Ver [resumo](dados/tratados/sonda_tempos_resumo.md).
 - [x] **[G]** **Capturas do trânsito típico** (Google Maps) por ponto/horário: 18 registros em 03/07 no [inventário](campo/observacoes/inventario-evidencias.csv) e no [roteiro](campo/observacoes/transito-tipico/README.md).
 - [x] **[G]** **Agregados da sonda incorporados** ao [anexo](relatorios/anexo-matriz-pontos.md) e ao [pacote](pacote-reuniao.md) (`make pacote-md`, 2026-09-01). Respostas LAI: ver tabela de acompanhamento, atualizada a cada resposta/prorrogação.
