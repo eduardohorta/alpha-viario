@@ -943,6 +943,9 @@ Termo de Compromisso e as obrigações do empreendedor permanecem; (iii) contado
 28/12/2025, **o novo decreto não sai antes de 29/12/2026**, de modo que a desapropriação do P6, e a
 obra que dela depende, dificilmente começam antes de 2027; (iv) a área e o valor a indenizar tendem a
 **diminuir** em relação ao decreto original.
+**Atualização (05/11/2026):** as duas peças citadas vieram pelo Pedido 26. O Parecer 985/1997 trata
+de áreas públicas de **loteamento** (concurso voluntário); o critério dos 10 anos de uso público
+vem da Informação 4084/2022 e do Parecer 1002/1998 ([leitura](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma)).
 
 ### 4. Balancetes
 
@@ -986,6 +989,9 @@ no DOPA. Ficaram de fora: o **Parecer 985/1997** e a **Informação 4084/2022** 
 cronograma dos quatro processos (item (d)); a escritura e os e-mails do 093, marcados como
 "documento preparatório" com restrição temporária (art. 7º, §3º da LAI), que em tese perde razão de
 ser quando o ato decisório se consuma; e o processo 092, não acessado.
+
+**Atualização (05/11/2026):** o Parecer 985/1997, a Informação 4084/2022 e a situação dos quatro
+processos (sem cronograma) vieram pelo Pedido 26 ([leitura](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma)).
 
 Encaminhamento: a PGM disse que os documentos com dados pessoais seriam tarjados e liberados
 depois, e começou a cumprir em menos de 24 horas. O reexame do Pedido 16 (art. 22 do Decreto
@@ -1133,8 +1139,8 @@ documento recebido as relaciona. Fica como pergunta aberta, não como achado.
 
 > A resposta ao **Pedido 23** — cópia do TAC nº 00833.00096/2010 (Ministério Público), gravames de
 > matrícula, doação de maquinário e relação com o Habite-se — foi postada no e-SIC em
-> **19/10/2026, por volta das 10h17** (protocolo **018163-26-50**; horário tirado do arquivo
-> anexo, a conferir no histórico do e-SIC), quatro dias depois do prazo prorrogado de 15/10. O SIC
+> **19/10/2026, por volta das 10h17** (protocolo **018163-26-50**; horário conferido no histórico
+> do e-SIC em 06/11/2026), quatro dias depois do prazo prorrogado de 15/10. O SIC
 > da **SMAMUS** assinou o texto, que informa a manifestação da Diretoria de Licenciamento e
 > Monitoramento Ambiental, e anexou uma troca de e-mails internos de 02 e 06/10 com o Arquivo
 > Municipal. Os anexos brutos ficam em `retornos-protocolos/018163-26-50/` (fora do repositório
@@ -1276,8 +1282,8 @@ inferência, porque a planilha não diz qual projeto precisa ser alterado.
 
 > A resposta ao **reexame do item "d" do Pedido 19** (protocolo **018104-26-38**, reexame
 > apresentado em 14/10/2026, às 16h43; prazo final 26/10) consta do e-SIC como "Resposta ao pedido
-> de reexame". O arquivo local foi gravado em **27/10/2026, por volta das 12h00**; a data e a hora
-> exatas da postagem ficam a conferir no histórico do e-SIC. Texto bruto em
+> de reexame", postada em **27/10/2026, às 10h53** (histórico do e-SIC, conferido em 06/11/2026).
+> Texto bruto em
 > `retornos-protocolos/018104-26-38/resposta.md` (fora do repositório público).
 
 **Indeferido.** A **Comissão de Análise e Aprovação de Demanda Habitacional Prioritária
@@ -1359,6 +1365,72 @@ respectivo".
 - **Reexame:** 10 dias da resposta (art. 22 do Decreto 19.990/2018), até **15/11/2026** (domingo;
   na prática, sexta 13/11). O que ficou sem resposta é **quem responde pela elaboração e pela
   execução** do projeto (item b); a decisão de pedir reexame é da comissão.
+
+## Resposta LAI ao Pedido 26 (05/11/2026): Parecer 985/1997, Informação 4084/2022 e situação dos quatro processos, sem cronograma
+
+> A resposta ao **Pedido 26** (protocolo **018485-26-62**), que pediu as peças do Pedido 16 ainda
+> não liberadas, foi registrada no e-SIC em **05/11/2026, às 23h16**, no último dia do prazo
+> prorrogado, pelo SIC da **PGM**. Vieram dois PDFs digitalizados, sem camada de texto: o
+> **Parecer nº 985/97** (13 páginas) e a **Informação GAE-PGM nº 4084/2022** (3 páginas). Texto da
+> resposta, anexos e notas de leitura em `retornos-protocolos/018485-26-62/` (fora do repositório
+> público); abaixo, só os fatos institucionais.
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| (a) Parecer nº 985/1997 | **Enviado.** |
+| (b) Informação nº 4084/2022 | **Enviada.** |
+| (c) Situação e próximos atos dos quatro processos | **Sem cronograma:** a PGM "reitera" que não há datas definidas para a conclusão de cada procedimento e cita o art. 12, III, do Decreto 19.990/2018. Informa a situação jurídica de cada processo (abaixo). |
+
+**Situação dos quatro processos (PGM, 05/11/2026).** A resposta liga, pela primeira vez num mesmo
+documento, cada processo à sua ficha cadastral (FC) da planilha do Pedido 20:
+
+| Processo | FC | Situação |
+|---|---|---|
+| 002.079093.09.4 | 8059 | Desapropriação **concluída na via administrativa**, por escritura de desapropriação amigável (doc. SEI 36780805); **falta o registro imobiliário**. |
+| 002.079077.09.9 | 8040 | Ação judicial 5327233-72.2025.8.21.0001, na 2ª Vara da Fazenda Pública da Capital, **sem sentença**. |
+| 002.079094.09.0 | 8060 | Ação judicial 5194093-05.2026.8.21.0001, na mesma vara, **sem sentença**. |
+| 002.079101.09.7 | 8067 | Decreto 20.859/2020 **caducou em 28/12/2025**; pelo art. 10 do Decreto-Lei 3.365/1941, novo decreto **só a partir de 29/12/2026**. |
+
+Tudo confere com o que o dossiê já tinha (Pedidos 8 e 9, acesso ao SEI de 24/09 e planilha do
+Pedido 20). A novidade é a correspondência processo ↔ FC, agora dita pela PGM, e não mais deduzida.
+A PGM acrescenta que o andamento dos processos judiciais "depende de atos do Poder Judiciário" e
+que o Pedido 28 tem resposta prevista para **09/11/2026**.
+
+**O Parecer nº 985/97 (07/11/1997; aprovado pelo Procurador-Geral em 09/12/1997).** Não trata de
+desapropriação nem de alargamento viário. Respondeu ao Núcleo de Regularização de Loteamentos se o
+Município podia cadastrar como logradouros as vias e praças de loteamentos clandestinos e
+irregulares. A conclusão é que as áreas públicas de um loteamento passam ao Município pelo
+**"concurso voluntário"**, por força da lei (art. 22 da Lei 6.766/1979; art. 3º do Decreto-Lei
+58/1937), sem escritura nem registro. Nos loteamentos regulares, a transferência se completa com a
+aprovação; nos clandestinos, com a simples destinação ao uso público (abertura de vias, praça
+demarcada). O loteador não pode reivindicar essas áreas nem cobrar indenização por elas.
+
+**A Informação GAE-PGM nº 4084/2022 (05/06/2022).** Trata de outro caso, o alargamento da Rua Anita
+Garibaldi, previsto num Termo de Compromisso em que o empreendedor executa a obra e custeia as
+desapropriações, feitas pelo Município. A Informação aplica o **Parecer nº 1002/1998**: não se
+indeniza a faixa que, embora ainda conste da matrícula particular, já está incorporada ao uso
+público (no caso, calçada) pelo prazo da usucapião, hoje de **10 anos** (art. 1.238, parágrafo
+único, do Código Civil de 2002). Concluiu que **não era caso de prosseguir com a desapropriação**,
+nem de propor ação de usucapião, por custo-benefício.
+
+**O que isso muda.**
+
+- **P6 (processo 101, FC 8067):** fica claro o critério que a PGM quer aplicar ao refazer o
+  decreto (ver [despachos de 2025](#3-p6-a-pgm-quer-revisar-o-projeto-antes-de-refazer-o-decreto)):
+  não indenizar a parte da faixa da Três Meninas e da Kanazawa que já é leito viário ou passeio há
+  mais de 10 anos (Informação 4084/2022 e Parecer 1002/1998). O Parecer 985/97, que o despacho de
+  28/03/2025 citou como fonte do "concurso voluntário", só alcança áreas de **loteamento**; o
+  dossiê não sabe se a faixa do P6 veio de loteamento, e isso fica a conferir. A tendência já
+  registrada se mantém: área e valor a indenizar menores, e decreto novo só a partir de
+  29/12/2026.
+- **O cronograma não existe** e não virá por LAI: a PGM o declara inexistente e ampara a recusa no
+  art. 12, III, do Decreto 19.990/2018. Com o Pedido 25 (projeto de drenagem só depois das
+  desapropriações), fica documentado que **nenhuma etapa do P1, do P6 ou do P7 tem data**.
+- **O Pedido 16 está fechado:** as peças que faltavam (itens b e d) chegaram por este pedido.
+  Não há reexame a fazer; o prazo, se a comissão quiser insistir no cronograma, vai até 15/11/2026
+  (domingo; na prática, sexta 13/11).
 
 ## Relação com os pontos do projeto
 
