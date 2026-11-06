@@ -646,6 +646,10 @@ SMAMUS **indique expressamente qual órgão detém a informação**.
 **Protocolado em 06/10/2026** (nº **018483-26-57**, prazo **26/10/2026** conforme o e-SIC; tema
 "Infraestrutura Urbana"; sem anexos — a resposta do DMAE é citada por protocolo).
 
+**Respondido em 05/11/2026, às 23h03**, no último dia do prazo prorrogado, pelo SIC da **PGM**
+(não pela CTAAPS): o projeto de drenagem não foi elaborado e só será retomado depois das
+desapropriações; ver [Respostas recebidas](#respostas-recebidas).
+
 **Órgão:** SMAMUS — Comissão Técnica de Análise de Projetos Urbanísticos (CTAAPS), autora do
 Parecer nº 093/2020. Tema do e-SIC: "Infraestrutura Urbana" (como nos Pedidos 19 e 24); o formulário não tem campo de órgão.
 
@@ -1096,6 +1100,17 @@ repositório público).
   "projeto inexistente". A PGM já respondeu sobre o tema no Pedido 21 (sem tratar de drenagem), e
   a CTAAPS integra a SMAMUS. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
+- **Pedido 25 (018483-26-57) — respondido (05/11/2026, às 23h03, no último dia do prazo prorrogado): projeto de drenagem não elaborado, adiado até as desapropriações.**
+  Respondeu o **SIC da PGM**, não a CTAAPS, a partir da resposta da GEAR-PGM ao Pedido 21: segue
+  pendente o alargamento dos Trechos 01 e 03, com as interseções da Costa Gama e da Cristiano
+  Kraemer, condicionado à regularização dominial e às desapropriações. Quanto ao **projeto de
+  drenagem**, "sua elaboração permanece pendente" e será **retomada só depois da conclusão das
+  desapropriações**, porque o **Decreto 20.659/2020** dá quatro anos de validade aos projetos
+  complementares. **Limites:** sem expediente, estágio nem data; não diz **quem elabora nem quem
+  executa** o projeto (item b); a CTAAPS não se manifestou. **Prazo do reexame:** até 15/11/2026
+  (domingo; na prática, sexta 13/11), se a comissão quiser insistir no responsável. Resposta
+  guardada em `retornos-protocolos/018483-26-57/`. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações).
 - **Pedido 23 (018163-26-50) — respondido (19/10/2026, por volta das 10h17, quatro dias após o prazo prorrogado), parcial.** A **SMAMUS**
   (Diretoria de Licenciamento e Monitoramento Ambiental) **não localizou cópia do TAC**, mas
   informou que consta dos autos o **documento de arquivamento do Ministério Público** (nº
@@ -1250,7 +1265,7 @@ repositório público).
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **respondido (19/10/2026, ~10h17, quatro dias após o prazo), parcial** — TAC não localizado; arquivamento do MP (doc. 41690350) indica averbações nas matrículas (CONAMA 420/2009), sem números nem cláusula; itens (c) maquinário e (d) Habite-se não tratados; processo físico (~18 volumes) à disposição no Arquivo Municipal, com agendamento; **arquivado por decisão da comissão (19/10/2026): sem reexame e sem consulta ao Arquivo**, com as lacunas registradas — derivado do Pedido 10 + relato de membro da comissão |
 | 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias)** — derivado dos Pedidos 9 e 18 |
-| 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias)** — derivado do Pedido 22 |
+| 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ **05/11/2026** | **respondido (05/11/2026, 23h03, pela PGM)** — projeto de drenagem não elaborado; elaboração adiada até a conclusão das desapropriações (validade de 4 anos dos projetos complementares, Dec. 20.659/2020); não diz quem elabora nem quem executa; prazo do reexame 15/11 — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias)** — complementa o Pedido 16 |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | aguardando resposta — refaz o Pedido 14, vencido |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **07/11/2026** | **prorrogado (+10 dias)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
@@ -1360,6 +1375,8 @@ no Pedido 25, que foi dirigido à SMAMUS/CTAAPS: é o modelo do SIC, não indica
 assumido o Pedido 25. A prorrogação não diz se o órgão detém o dado; a omissão após 05/11 seguiria
 o caminho dos Pedidos 14 e 23 (sem reexame no e-SIC; pedido novo, se a comissão decidir). No
 Pedido 26, o acesso da PGM ao SEI 26.0.000115687-9 (petições iniciais) expirou em 25/10.
+**Atualização (05/11/2026):** a resposta do Pedido 25 também veio assinada pela PGM e parte da
+resposta da GEAR-PGM ao Pedido 21; nesse pedido, quem respondeu foi a PGM, não a CTAAPS.
 
 **Prorrogação do Pedido 29 (28/10/2026, por e-mail):** a SMAMUS (por e-mail do SIC, assinado
 pela SMTC) também prorrogou o prazo por **10 dias**, com a mesma base legal (**art. 14, §3º, do

@@ -835,7 +835,9 @@ A resposta **não envia projeto** e **não diz se existe** projeto de drenagem a
 adequações das interseções com a Cristiano Kraemer (P1) e a Costa Gama (P7), nem seu estágio —
 apenas que nada mudou no DMAE desde 2020. A lacuna registrada pela DEP naquele parecer ("falta
 projeto de drenagem para as adequações viárias") **segue sem confirmação de que tenha sido
-suprida** e sem órgão que se declare responsável por supri-la.
+suprida** e sem órgão que se declare responsável por supri-la. **Atualização (05/11/2026):** a
+PGM, no Pedido 25, confirmou que o projeto não foi elaborado e que só será retomado depois das
+desapropriações ([leitura](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações)).
 
 ## Resposta LAI ao Pedido 17 (22/09/2026): base bruta da EPTC em vez do relatório pedido, reprocessamento dos 9 pontos
 
@@ -1240,6 +1242,10 @@ o dossiê tinha só do lado do projeto: a 2ª fase da interseção Cristiano Kra
 (Pedido 21). A planilha de 19/10/2026 mantém a nota de 2014 como situação vigente. Ela **não diz
 o que precisa ser alterado, nem por quê**, e a leitura de que projeto e desapropriação se travam
 um ao outro é **inferência** (nenhum documento diz que o projeto espera as desapropriações).
+**Atualização (05/11/2026):** no Pedido 25, a PGM diz que o projeto de **drenagem** das
+interseções só será retomado depois da conclusão das desapropriações
+([leitura](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações)); o círculo no P1 continua
+inferência, porque a planilha não diz qual projeto precisa ser alterado.
 
 **Limites.**
 
@@ -1298,15 +1304,71 @@ respectivo".
 - Este dossiê não registra instância posterior ao reexame no e-SIC; a decisão de insistir (por
   outro canal) ou aguardar o ato é da comissão.
 
+## Resposta LAI ao Pedido 25 (05/11/2026): projeto de drenagem das interseções não elaborado e adiado até a conclusão das desapropriações
+
+> A resposta ao **Pedido 25** (protocolo **018483-26-57**) — projeto de drenagem das adequações
+> viárias das interseções da Três Meninas com a Cristiano Kraemer (P1) e com a Costa Gama (P7),
+> dirigido à CTAAPS/SMAMUS depois da resposta do DMAE ao Pedido 22 — foi registrada no e-SIC em
+> **05/11/2026, às 23h03**, no último dia do prazo prorrogado (status "Concluído", sem anexos).
+> Assina o **SIC da Procuradoria-Geral do Município (PGM)**, não a CTAAPS, e o texto parte da
+> resposta da GEAR-PGM ao Pedido 21 (018132-26-62). Texto bruto em
+> `retornos-protocolos/018483-26-57/resposta.md` (fora do repositório público).
+
+**O que a resposta diz.**
+
+- **Repete o quadro dos Pedidos 8 e 21:** segue pendente a obrigação de alargamento da Três
+  Meninas nos **Trechos 01** (Cristiano Kraemer → início do condomínio) e **03** (final do
+  condomínio → Costa Gama), incluindo as intervenções nas interseções com a **Costa Gama** e a
+  **Cristiano Kraemer**; a execução segue condicionada à regularização dominial e à conclusão das
+  desapropriações.
+- **Projeto de drenagem: "sua elaboração permanece pendente".** Não há projeto apresentado,
+  analisado ou aprovado desde 2020. É a resposta negativa ao item (a), que o DMAE (Pedido 22) não
+  tinha dado.
+- **A razão é uma escolha de sequência:** como o **Decreto nº 20.659/2020** dá **quatro anos de
+  validade** aos projetos complementares, a "retomada da elaboração" fica para **depois da
+  conclusão das desapropriações**, "de modo a evitar que o prazo de validade do projeto transcorra
+  antes da efetiva necessidade de sua utilização". É a mesma regra que fez caducar o projeto
+  geométrico do P7 (Pedido 3), agora usada como motivo para não começar o projeto.
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| (a) Projeto apresentado, analisado ou aprovado desde 17/09/2020? | **Não:** a elaboração "permanece pendente". Sem número de expediente nem estágio; "retomada" sugere que houve um início, sem data nem processo. |
+| (b) A pendência segue em aberto? Quem é o responsável pela execução? | **Em aberto**, implicitamente (integra a obrigação de alargamento pendente). **Não diz quem elabora o projeto nem quem o executa** (o empreendedor, pelo Termo de Compromisso, ou o Município). |
+| (c) Órgão que detém a informação | Não se aplica: a PGM respondeu no mérito. A CTAAPS não se manifestou. |
+
+**O que isso muda.**
+
+- **A lacuna de 2020 está confirmada e sem data:** o "falta projeto de drenagem" do Parecer
+  CTAAPS 093/2020 continua valendo para o **P1** e o **P7**, e o projeto só começa depois das
+  desapropriações, que não têm cronograma (o item d do Pedido 16, repetido no Pedido 26, segue sem
+  resposta). A resposta trata os Trechos 01 e 03 em conjunto e não diz se o projeto de cada
+  interseção espera todas as desapropriações do trecho ou só as da própria interseção.
+- **P1: dependência cruzada (inferência).** A planilha do Pedido 20 mostra os sete lotes da
+  Cristiano Kraemer com a negociação **suspensa desde 2014, à espera de "alteração de
+  projeto-CTAAPS"**; esta resposta diz que o projeto de drenagem espera **a conclusão das
+  desapropriações**. São projetos diferentes (a planilha não nomeia o projeto a alterar), mas, se a
+  alteração pendente for a do projeto da interseção, o P1 fica num círculo: a desapropriação espera
+  o projeto, e o projeto complementar espera a desapropriação. Nenhum documento afirma o círculo; é
+  a pergunta a levar à CTAAPS e à PGM.
+- **Argumento para a comissão:** como as desapropriações não têm prazo, adiar o projeto até elas
+  terminarem soma o tempo de projeto e aprovação ao das desapropriações, em vez de sobrepô-los. A
+  comissão pode pedir que ao menos o projeto do P1 e do P7 avance na fase final das
+  desapropriações.
+- **Reexame:** 10 dias da resposta (art. 22 do Decreto 19.990/2018), até **15/11/2026** (domingo;
+  na prática, sexta 13/11). O que ficou sem resposta é **quem responde pela elaboração e pela
+  execução** do projeto (item b); a decisão de pedir reexame é da comissão.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
 |---|---|---|
-| **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020). Nenhum dos cinco decretos de desapropriação conhecidos cobre esta rótula (o Decreto 20.861/2020 é junto à Florestan Fernandes, ver acima). |
+| **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020), que a PGM confirmou em 05/11/2026 não ter sido elaborado e que só será retomado depois das desapropriações (Pedido 25). Nenhum dos cinco decretos de desapropriação conhecidos cobre esta rótula (o Decreto 20.861/2020 é junto à Florestan Fernandes, ver acima). |
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem; a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Sem cobertura específica identificada** | P9 atual | Rua Santuário × Av. Oscar Pereira. A antiga associação ao eixo Cristiano Kraemer referia-se à rótula retirada em 13/08, mantida apenas no histórico de D4. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
 
