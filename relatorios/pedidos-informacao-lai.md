@@ -219,7 +219,7 @@ traz tem quase seis anos.
 ## Pedido 11 — Contrapartidas viárias dos empreendimentos em análise em Vila Nova (P1/P2)
 
 **Órgão:** SMAMUS — Escritório de Licenciamento / EMDU (com encaminhamento à EPTC/SMMU no que couber).
-**Origem:** resposta ao **Pedido 6** (item "c", 13/08/2026), que encaminhou o **Mapa
+**Origem:** resposta ao **Pedido 6** (item "c", 04/08/2026), que encaminhou o **Mapa
 "Empreendimentos Especiais em Análise — Bairro Vila Nova" (SEI nº 26.0.000107561-5)** — oito
 expedientes com contrapartidas viárias vinculadas, **concentrados no nó do P1 e nos eixos
 Cristiano Kraemer – Três Meninas – Belém Velho**, com um traçado viário em análise sobre a
@@ -605,7 +605,7 @@ Tema do e-SIC a conferir no momento do envio.
 
 **Origem:** a **PGM** (Pedido 9, 017700-26-00, 01/09/2026) atribuiu à SMF os itens do depósito;
 a **SMF** (Pedido 18, 018008-26-10) não localizou dados no pedido inicial (22/09) nem no reexame
-(02/10) e orientou novo pedido à SMAMUS. A cadeia PGM → SMF → SMAMUS não resolveu a questão; o
+(30/09) e orientou novo pedido à SMAMUS. A cadeia PGM → SMF → SMAMUS não resolveu a questão; o
 pedido cita as duas respostas por protocolo (a SMF pediu justamente esse contexto e invocou a vedação
 de pedido cumulativo a mais de um órgão — aqui há um órgão só) e pede, em último caso, que a
 SMAMUS **indique expressamente qual órgão detém a informação**.
@@ -973,7 +973,7 @@ repositório público).
   o movimento de acesso a partir da via secundária (João Salomoni no P5)** — a confirmar na
   vistoria técnica se esse é o movimento relatado pela comunidade. Incorporado ao
   [anexo](anexo-matriz-pontos.md).
-- **Pedido 6 (017398-26-07) — respondido (13/08/2026), no prazo prorrogado.** A SMAMUS/DPU
+- **Pedido 6 (017398-26-07) — respondido (04/08/2026, 14h14), antes do prazo prorrogado.** A SMAMUS/DPU
   informou que o entorno das Estradas das Três Meninas e Cristiano Kraemer é abrangido pelas
   **ZOT 1, 3, 14 e 15** (LC 1075/PDUS e LC 1076/LUOS) e que a região **não é área prioritária
   de intensificação** — sem previsão de Área de Intensificação da Ocupação, Operação Urbana
@@ -1068,7 +1068,7 @@ repositório público).
   pendências de implantação das interseções → **GEAR-PGM** (Pedido 21); projeto de drenagem →
   **DMAE** (Pedido 22). Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-10-11092026-tra-nunca-emitido-processo-arquivado-tac-com-o-ministério-público-revelado).
-- **Pedido 15 (017822-26-45) — respondido (15/09/2026), confirma o Pedido 1.** A **SMMU**
+- **Pedido 15 (017822-26-45) — respondido (11/09/2026, 14h02), confirma o Pedido 1.** A **SMMU**
   respondeu com o mesmíssimo teor da resposta da EPTC ao Pedido 1: **sem projeto de sinalização
   aprovado** para a nova interseção Costa Gama × Três Meninas; mesma regra de validade de 4
   anos; mesma conclusão de que o empreendedor precisa reaprovar os projetos funcional e de
@@ -1205,7 +1205,7 @@ repositório público).
   da PGM ao Pedido 9, 017700-26-00) — candidato natural a reexame/complementação, não a um novo
   pedido. **Reexame apresentado em 22/09/2026** (status "Aguardando reexame"), fornecendo os
   quatro itens pedidos e reiterando a pergunta original (a-d).
-  **Resposta ao reexame registrada em 02/10/2026:** a SMF informa que, após verificação nos seus
+  **Resposta ao reexame postada em 30/09/2026, às 17h06** (registrada aqui em 02/10): a SMF informa que, após verificação nos seus
   sistemas, **não localizou nenhuma informação** relacionada ao pedido; diz que, em contato com
   outras secretarias (não identificadas), "levantou-se a possibilidade" de a questão estar
   judicializada, sem que o assunto tenha sido direcionado à SMF; e orienta abrir **nova
@@ -1214,7 +1214,7 @@ repositório público).
   depósito**; a hipótese de judicialização é conjectura da SMF, sem processo indicado, e não
   deve ser tratada como fato. Providência: **Pedido 24** à SMAMUS (protocolado em 02/10, nº 018445-26-82), que
   anexa as duas respostas para atender ao art. 11, parágrafo único, do Decreto 19.990/2018.
-- **Pedido 17 (017904-26-00) — respondido (22/09/2026), não veio o relatório específico.** A
+- **Pedido 17 (017904-26-00) — respondido (21/09/2026, 16h34), não veio o relatório específico.** A
   **EPTC** não enviou o "Relatório de Ocorrências" citado no processo judicial do P7; em vez
   disso, redirecionou ao portal **ObservaMOB** e anexou um **shapefile bruto de sinistros de toda
   a cidade** (`ACIDENTES_TRANSITO_2010_202609`, **264.567 registros**, 2010 a set/2026, incluindo
@@ -1227,7 +1227,7 @@ repositório público).
   internação, fora da janela do relatório judicial de 2019–2024, mas um óbito real, não um erro
   de cadastro). Os dados de 2025–2026 pedidos no item (c) do pedido original também foram
   extraídos. Metodologia completa, tabela comparativa dos 9 pontos e limitações em
-  [acidentes_metodologia.md §Rodada 04](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
+  [acidentes_metodologia.md §Rodada 04](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-21092026).
   **Decisão em aberto para a comissão:** se estes números substituem os já usados nas peças
   aprovadas (memorando, ofício) ou se os dois conjuntos convivem com a ressalva de metodologia.
 - **Pedido 16 (017903-26-42) — respondido (24/09/2026), parcial: acesso ao SEI só ao que não tem dados
@@ -1261,11 +1261,11 @@ repositório público).
 | Pedido | Órgão | Data do protocolo | Nº do protocolo | Prazo (20 dias) | Situação |
 |--------|-------|-------------------|-----------------|-----------------|----------|
 | 1 — Desenhos do Plano Funcional | SMAMUS/EPTC | 10/07/2026 | 017392-26-80 | ~~03/08~~ ~~13/08/2026~~ | **respondido (17/08/2026), parcial** — EPTC: sem sinalização aprovada para a nova interseção Costa Gama (P7); processo migrou à SMMU → Pedido 15 |
-| 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | **respondido (21/07/2026) — parcial:** TRP de 2013 fornecido; saldo das obrigações → PGM (Pedido 8) |
-| 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (21/07/2026):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
+| 2 — Execução e recebimentos | SMAMUS | 10/07/2026 | 017393-26-38 | 03/08/2026 | **respondido (17/07/2026, 15h55) — parcial:** TRP de 2013 fornecido; saldo das obrigações → PGM (Pedido 8) |
+| 3 — Conexão Costa Gama (P7) | SMAMUS/EPTC | 10/07/2026 | 017394-26-96 | 03/08/2026 | **respondido (17/07/2026, 15h42):** projeto entregue; desapropriações → PGM; **projeto caducado (Dec. 20.659/2020)** |
 | 4 — Expedientes complementares (P6) | SMAMUS | 10/07/2026 | 017396-26-01 | ~~03/08~~ ~~13/08/2026~~ | **respondido (14/08/2026)** — quadro de expedientes (…0986x); geométrico …07864 **indeferido (2018)**; sinalização …09872 **sem arquivo digitalizado**; arborização do P6 sem registro; execução → EPV-SMOI / CISE-DMAE / DMU-SMMU / GEAR-PGM |
 | 5 — Av. Monte Cristo (P2) | EPTC/SMMU | 10/07/2026 | 017397-26-59 | ~~03/08~~ ~~13/08/2026~~ | **respondido (24/08/2026), parcial** — SMMU: sinalização concluída, implantação parcial (baias de ônibus paradas desde set/2024, SMSURB); nó do P2 encaminhado à EPTC |
-| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (13/08/2026)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
+| 6 — Zoneamento Vila Nova (PDUS) | SMAMUS | 10/07/2026 | 017398-26-07 | ~~03/08~~ ~~13/08/2026~~ | **respondido (04/08/2026, 14h14)** — ZOT 1/3/14/15; **não é vetor de adensamento**; 8 empreendimentos com contrapartidas viárias |
 | 7 — Dados de tráfego da EPTC | EPTC/SMMU | 10/07/2026 | 017399-26-65 | ~~03/08~~ ~~13/08/2026~~ | **respondido (10/08/2026)** — Waze desde 2019, ObservaMOB, planos semafóricos de P5 e P8 |
 | 8 — Saldo das obrigações e desapropriações (P7) | PGM (tema "Obras Públicas" no e-SIC) | 22/07/2026 | 017520-26-22 | ~~11/08~~ ~~21/08/2026~~ | **respondido (21/08/2026)** — TC vigente; 4 desapropriações detalhadas (P7: 1 por acordo + 1 judicial; P6 aguarda novo decreto; eixo (Três Meninas 1085) judicial); demolição judicial pendente desde 2014 no P7 |
 | 9 — Efetivação das desapropriações de 2020 + depósito da Cláusula Nona | PGM / SMF (tema "Obras Públicas" no e-SIC) | 07/08/2026 | 017700-26-00 | ~~31/08~~ ~~10/09/2026~~ | **respondido (01/09/2026), parcial** — PGM: P7 por acordo em 2025; eixo (Três Meninas 1085) judicial sem imissão provisória; P6 caducou em 28/12/2025 e terá novo decreto a partir de dez/2026; depósito → SMF (Pedido 18 protocolado) |
@@ -1274,10 +1274,10 @@ repositório público).
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ ~~18/09/2026~~ | **respondido (16/09/2026)** — sem sinalização aprovada para P1 e P7; SMMU não guarda cópias, orienta SMAP; derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
 | 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 24/09 e 06/10/2026; sem botão de reexame) — refeito no **Pedido 27**; derivado do Pedido 4 |
-| 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (15/09/2026)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
+| 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (11/09/2026, 14h02)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); prazo do reexame (04/10/2026) venceu sem reexame apresentado — peças restantes pedidas no **Pedido 26** e **recebidas em 05/11/2026** — derivado do Pedido 8 |
-| 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (22/09/2026)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
-| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (02/10/2026), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
+| 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (21/09/2026, 16h34)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
+| 18 — Depósito, cobrança e destinação da Cláusula Nona | SMF (tema "Finanças" no e-SIC) | 01/09/2026 | 018008-26-10 | ~~21/09~~ ~~01/10/2026~~ **02/10/2026** | **respondido ao reexame (30/09/2026, 17h06), sem localização** — SMF não achou nada, cogita judicialização (sem processo indicado) e orienta novo pedido à SMAMUS → **Pedido 24**; derivado do Pedido 9 |
 | 19 — Cópia de pareceres já concluídos em 4 EUs vizinhos ao P1/P6 | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 10/09/2026 | 018104-26-38 | ~~30/09~~ ~~13/10/2026~~ **26/10/2026** (e-SIC, após o reexame; o 13/10 era o prazo prorrogado no e-SIC, e o e-mail da SMAMUS dizia 10/10, sábado) | **respondido (14/10/2026, 11h50, um dia após o prazo), parcial** — SMAMUS enviou os 3 pareceres pedidos (CAADHAP 110/2021 e 007/2025, CEFH 005/2026): obras viárias, recuos e custo de desapropriação a cargo do empreendedor, sem citar o TC do Alphaville nem a rótula do P1; **item "d" (SEI 25.0.000145763-5) sem resposta → reexame apresentado em 14/10 (16h43) → indeferido em 27/10** (documentos "preparatórios", Diretrizes em análise na CEFH; art. 7º, §3º da LAI); derivado do Pedido 11 |
 | 20 — Mapa da situação das desapropriações (CTAAPS 093/2020) | SMF (tema "Finanças" no e-SIC) | 11/09/2026 | 018131-26-04 | ~~05/10~~ **15/10/2026** | **respondido: intermediária no e-SIC (15/10/2026, às 18h08, dentro do prazo prorrogado) e, por e-mail (registrado em 26/10/2026), planta e planilha "atualizada em 19/10/26 pela PAESC/PGM"** — a SMF disse que, extinta a AEAA, a consolidação das desapropriações deixou de ser contínua; o mapa é de cerca de 17/09/2020 (só a planilha é nova): 67 fichas, 3 lotes sem pagamento e **7 lotes na Cristiano Kraemer (P1) com negociação suspensa desde 2014, "aguarda alteração de projeto-CTAAPS"**; sem reexame ([leitura](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-20-complemento-por-e-mail-26102026-planta-e-planilha-das-desapropriações-com-sete-lotes-da-cristiano-kraemer-suspensos-desde-2014)) — derivado do Pedido 10 |
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
@@ -1295,9 +1295,10 @@ repositório público).
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
 sob a justificativa de que "a informação não se encontra sistematizada" nos arquivos do órgão.
 A prorrogação está refletida no próprio e-SIC, que exibe esses cinco pedidos com status
-**`PRAZO_PRORROGADO`** (conferido em 07/08/2026).
+**`PRAZO_PRORROGADO`** (conferido em 07/08/2026; o histórico do e-SIC, porém, registra a conclusão
+do Pedido 6 em 04/08, às 14h14, mesmo horário do anexo).
 Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** O **Pedido 7 respondeu
-adiantado (10/08)**, o **Pedido 6 respondeu no dia (13/08)**, o **Pedido 4 respondeu em 14/08**
+adiantado (10/08)**, o **Pedido 6 já tinha respondido em 04/08**, o **Pedido 4 respondeu em 14/08**
 (um dia após o prazo), o **Pedido 1 respondeu em 17/08** (parcial) e o **Pedido 5 respondeu em
 24/08** (parcial, onze dias após o prazo) — ver bullets acima. **Os cinco pedidos desta
 prorrogação estão todos respondidos** — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
@@ -1421,6 +1422,14 @@ dia do prazo original (28/10), mesmo padrão do Pedido 16, também da PGM. A pro
 a PGM detém o andamento da demolição ou do processo de desapropriação da Rodrigues da Fonseca; a
 omissão após 09/11 seguiria o caminho dos Pedidos 14 e 23 (sem reexame no e-SIC; pedido novo, se a
 comissão decidir).
+
+**Datas de resposta alinhadas ao e-SIC (06/11/2026):** seis datas registradas antes divergiam do
+histórico do e-SIC, provavelmente por serem as datas em que a resposta foi lida ou registrada aqui.
+Passaram a valer as do e-SIC: Pedidos 2 e 3, 17/07 (antes 21/07); Pedido 6, 04/08 (antes 13/08);
+Pedido 15, 11/09 (antes 15/09); Pedido 17, 21/09 (antes 22/09); resposta ao reexame do Pedido 18,
+30/09 (antes 02/10). O texto do Pedido 24, já protocolado, cita a resposta do 18 como de 02/10 e
+fica como foi enviado. As datas de prorrogação seguem as dos e-mails, que às vezes diferem do
+status no e-SIC.
 
 **Prazos dos Pedidos 28, 29 e 30 (conferidos no e-SIC em 06/11/2026):** a lista de solicitações
 mostra **09/11/2026** como prazo final dos três, não o sábado 07/11 dos e-mails de prorrogação; a

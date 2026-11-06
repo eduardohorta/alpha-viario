@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Filtra o DBF de acidentes da EPTC (2010-202609) por proximidade ao P7.
 
-Fonte: anexo do Pedido 17 (protocolo 017904-26-00, resposta de 22/09/2026),
+Fonte: anexo do Pedido 17 (protocolo 017904-26-00, resposta de 21/09/2026),
 shapefile ACIDENTES_TRANSITO_2010_202609 (264.567 registros, todo o município),
 obtido via link do drive.procempa.com.br indicado pela EPTC. O DBF bruto
 (~560 MB) fica em retornos-protocolos/017904-26-00/ (gitignored, fora do

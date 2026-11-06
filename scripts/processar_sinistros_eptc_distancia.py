@@ -8,7 +8,7 @@ Mesma formula de distancia, mesmos pontos de referencia e mesmos limiares
 (100 m/200 m para intersecoes; 50 m/100 m para corredores/rotas) da Rodada 02
 (scripts/processar_sinistros_distancia.py), para permitir comparacao direta.
 
-Fonte: anexo do Pedido 17 (protocolo 017904-26-00, resposta de 22/09/2026),
+Fonte: anexo do Pedido 17 (protocolo 017904-26-00, resposta de 21/09/2026),
 DBF bruto (~560 MB) em retornos-protocolos/017904-26-00/ (gitignored, fora do
 repositorio publico) -- este script nao e reexecutavel sem esse arquivo local;
 serve como registro auditavel do metodo, nao como pipeline via `make data`.
@@ -282,7 +282,7 @@ def main() -> None:
 
     principais = [r for r in associated if r["associacao_principal"] == "sim"]
     metadata = {
-        "fonte": "Shapefile EPTC ACIDENTES_TRANSITO_2010_202609, anexo do Pedido 17 (017904-26-00, 22/09/2026)",
+        "fonte": "Shapefile EPTC ACIDENTES_TRANSITO_2010_202609, anexo do Pedido 17 (017904-26-00, 21/09/2026)",
         "totais_dbf": totals,
         "janela_temporal_fonte": {"campo": "Data", "inicio": data_min, "fim": data_max},
         "associacoes": {

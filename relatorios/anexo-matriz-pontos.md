@@ -43,7 +43,7 @@
 O S06 tem mais feridos graves; o S03, mais fatais; e o S01, na ponta da Cavalhada/Nonoai, a maior
 concentração de ocorrências (1.823 por km), provavelmente dominada pelo próprio entroncamento e
 com poucos graves — a validar em vistoria. Metodologia completa, scripts e dados em
-[dados/tratados/acidentes_metodologia.md §Rodada 04](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
+[dados/tratados/acidentes_metodologia.md §Rodada 04](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-21092026).
 
 **Vistoria e encaminhamento:** Contagem por trecho; velocidades; **vistoriar trechos prioritários**; **trechos prioritários pela base EPTC: S06, S03 e S01**.
 
@@ -106,7 +106,7 @@ com poucos graves — a validar em vistoria. Metodologia completa, scripts e dad
 
 **Evidência de fluidez — sonda própria de tempos de viagem.** Google Routes API: 8.582 medições em 14 rotas, de 04/07 a 01/09/2026; R13/R14 (P9) começaram em 14/08. Os agregados descrevem tempos estimados, assimetria entre sentidos e o índice `duration/staticDuration` (estimativa com tráfego dividida pela estimativa sem considerar tráfego). R05/R06, sentidos opostos no P7, apresentam razão aproximada de 2,0 no tempo e 1,6 na distância; isso não estima isoladamente o ganho de uma alça. Rankings da série inteira misturam janelas de coleta; o [resumo da sonda](../dados/tratados/sonda_tempos_resumo.md) apresenta também a janela comum. Não substitui contagens, validação espacial e medições da EPTC/SMMU.
 
-**Evidência de sinistros — base oficial da EPTC (Pedido 17, 22/09/2026).** Em resposta ao Pedido
+**Evidência de sinistros — base oficial da EPTC (Pedido 17, 21/09/2026).** Em resposta ao Pedido
 17, a EPTC disponibilizou sua **própria base de sinistros, 264.567 registros para todo o município
 (2010–2026)**, incluindo ocorrências sem vítimas registradas (como a base auxiliar). A comissão adotou essa base como
 **base oficial** de sinistros deste anexo (decisão de 24/09/2026). Os 9 pontos foram reprocessados

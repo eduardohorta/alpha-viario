@@ -81,7 +81,7 @@ Não foram localizados, no conjunto examinado, documentos suficientes para afirm
 ## Respostas LAI de julho de 2026: o projeto do P7 foi obtido e caducou
 
 > As respostas aos **Pedidos 2 e 3** da [trilha LAI](pedidos-informacao-lai.md) chegaram em
-> **21/07/2026**, antes do prazo legal. Os documentos brutos e anexos ficam em
+> **17/07/2026** (15h42 e 15h55, pelo histórico do e-SIC), antes do prazo legal. Os documentos brutos e anexos ficam em
 > `retornos-protocolos/` (fora do repositório público, como os expedientes-únicos); abaixo,
 > apenas os fatos institucionais.
 
@@ -439,7 +439,7 @@ caducado (Pedido 3) → alça nomeada em decreto (Decreto 20.860/2020) → desap
 legal vencido (23/12/2025, a confirmar) → 2ª fase nunca implantada (Parecer CTAAPS 093/2020) →
 agora, sinalização nunca aprovada e processo transferido à SMMU.
 
-**Pedido 15 (SMMU, 15/09/2026) — a SMMU confirma o mesmo achado, terceira vez.** O derivado à
+**Pedido 15 (SMMU, 11/09/2026) — a SMMU confirma o mesmo achado, terceira vez.** O derivado à
 SMMU (017822-26-45) respondeu com o **mesmíssimo texto** da EPTC (item 1 acima): sem projeto de
 sinalização aprovado, mesma regra de 4 anos, mesma conclusão sobre a necessidade de o
 empreendedor reaprovar ambos os projetos junto à SMMU/EPTC — agora com a **SMMU confirmando
@@ -567,7 +567,7 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
 - **Cláusula Nona (R$ 200 mil)** — a PGM atribuiu a matéria à **SMF**; o Pedido 9 não confirmou
   depósito, cobrança ou destinação. O **Pedido 18** foi protocolado diretamente à Fazenda em
   01/09/2026 (nº 018008-26-10); a SMF pediu complementação e o **reexame foi apresentado em
-  22/09/2026**. **Resposta ao reexame (02/10/2026): a SMF não localizou nenhuma informação** e
+  22/09/2026**. **Resposta ao reexame (30/09/2026): a SMF não localizou nenhuma informação** e
   orientou novo pedido à SMAMUS; cogitou, sem indicar processo, que a questão possa estar
   judicializada. Segue **sem confirmação de depósito, cobrança ou destinação** por qualquer órgão;
   novo pedido à SMAMUS protocolado em 02/10/2026 (Pedido 24, nº 018445-26-82).
@@ -839,7 +839,7 @@ suprida** e sem órgão que se declare responsável por supri-la. **Atualizaçã
 PGM, no Pedido 25, confirmou que o projeto não foi elaborado e que só será retomado depois das
 desapropriações ([leitura](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações)).
 
-## Resposta LAI ao Pedido 17 (22/09/2026): base bruta da EPTC em vez do relatório pedido, reprocessamento dos 9 pontos
+## Resposta LAI ao Pedido 17 (21/09/2026): base bruta da EPTC em vez do relatório pedido, reprocessamento dos 9 pontos
 
 O **Pedido 17** pedia especificamente o "Relatório de Ocorrências" que o acórdão do agravo de
 instrumento do P7 (5218710-18.2025.8.21.7000) citava como prova no processo judicial. A **EPTC**
@@ -851,7 +851,7 @@ usada no dossiê).
 Como o arquivo cobre a cidade inteira e não vem filtrado, **reprocessamos os 9 pontos do
 projeto**, não só o P7, com o mesmo método (distância geométrica, mesmos limiares — 100 m/200 m
 interseções, 50 m/100 m corredores) já documentado em
-[`dados/tratados/acidentes_metodologia.md`](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
+[`dados/tratados/acidentes_metodologia.md`](../dados/tratados/acidentes_metodologia.md#rodada-04-base-oficial-eptc-via-pedido-17-21092026).
 Os totais são maiores (P4: 409→1.648; P7: 18→67), mas ambas as bases incluem registros sem vítimas. Além da janela maior, a [reconciliação por ID na mesma janela](../dados/tratados/sinistros_reconciliacao.md) identifica diferenças de cobertura e coordenadas. Isso não demonstra tendência de sinistralidade. Entre os achados: o campo "Fatais" da EPTC (= óbito no local + óbito posterior)
 revela **fatais que a base anterior não capturava** — P4 sobe de 2 para 8 registros fatais, e P7
 e P9 aparecem com 1 cada, onde antes registravam zero. O caso do P7 é um registro de 2014 com

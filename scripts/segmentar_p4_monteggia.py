@@ -491,7 +491,7 @@ def main(eptc: bool = False) -> None:
         ),
     }
     if eptc:
-        metadata["fonte"] = "base oficial da EPTC (Pedido 17, 22/09/2026), 2010-2026"
+        metadata["fonte"] = "base oficial da EPTC (Pedido 17, 21/09/2026), 2010-2026"
     (OUT_DIR / f"{prefix}_segmentacao_metadata.json").write_text(
         json.dumps(metadata, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",

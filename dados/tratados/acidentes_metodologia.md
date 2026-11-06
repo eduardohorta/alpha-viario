@@ -4,7 +4,7 @@
 > dossiê é a da **EPTC** (Rodada 04, obtida pelo Pedido 17: 264.567 registros, 2010–2026, todas as
 > ocorrências). A base **Dados Abertos POA** (Rodadas 01–03 e 05, descritas neste arquivo:
 > 2020–2025, com e sem vítimas registradas) permanece como **evidência auxiliar** e continua reproduzível por
-> `make data`. Ver a [Rodada 04](#rodada-04-base-oficial-eptc-via-pedido-17-22092026).
+> `make data`. Ver a [Rodada 04](#rodada-04-base-oficial-eptc-via-pedido-17-21092026).
 
 Fonte consultada: Dados Abertos POA, conjunto "Acidentes de Trânsito - Acidentes", recurso CSV/API `b56f8123-716a-4893-9348-23945f1ea1b9`. Licença **CC-BY**. Origem, URL, SHA-256 e comando de download em [`dados/brutos/manifest.json`](../brutos/manifest.json); reprodução via `make data`.
 
@@ -140,10 +140,10 @@ Contexto ampliado (200 m): 57 ocorrências. Distância mínima registrada: 3,8 m
 
 Revisar manualmente `acidentes_revisao_manual_proximos.csv` e `acidentes_p4_registros_segmentados.csv`, validar a geometria em imagem aérea/base municipal e, se necessário, ajustar os pontos de referência, limiares e marcos do P4. Para relatório externo, usar os números refinados apenas como "indícios preliminares por proximidade", nunca como prova causal.
 
-## Rodada 04: base oficial EPTC via Pedido 17 (22/09/2026)
+## Rodada 04: base oficial EPTC via Pedido 17 (21/09/2026)
 
 **Fonte nova, distinta da Rodada 02.** O Pedido 17 (protocolo 017904-26-00), pedindo o "Relatório
-de Ocorrências" citado no processo judicial do P7, foi respondido em 22/09/2026 com um
+de Ocorrências" citado no processo judicial do P7, foi respondido em 21/09/2026 com um
 redirecionamento ao portal **ObservaMOB** e um link para um shapefile bruto da própria EPTC:
 `ACIDENTES_TRANSITO_2010_202609` — **264.567 registros, todo o município, de 2010 a
 setembro/2026**, incluindo sinistros sem vítimas registradas, presentes também na
