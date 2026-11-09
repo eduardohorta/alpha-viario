@@ -8,6 +8,13 @@ geometry: margin=2.2cm
 fontsize: 11pt
 ---
 
+> **Versão histórica (aviso de 09/11/2026).** Este é o texto de setembro de 2026, preparado para a
+> reunião de 22/09/2026 com a Diretoria da EPTC, e não foi atualizado depois. Já foram superados: (i)
+> no **P2**, o projeto da GPTC-EPTC é o *implantado*, e a ata da reunião registra que o trevo não tem
+> projeto atualmente; (ii) nos **sinistros**, a base oficial passou a ser a da EPTC (Pedido 17), e os
+> números abaixo vêm da base auxiliar; (iii) as respostas LAI posteriores atualizam as desapropriações
+> e as contrapartidas. **Posição atual:** `PENDENCIAS.md` e `relatorios/anexo-matriz-pontos.md`.
+
 > **Finalidade deste documento.** Subsidiar, de forma resumida, a leitura prévia da
 > Diretoria da EPTC antes da reunião com a comissão. Reúne o essencial do diagnóstico, o
 > contexto documental e o que se pretende tratar no encontro. O material técnico completo
