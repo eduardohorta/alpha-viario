@@ -5,7 +5,7 @@
 > não se confundem nem se atrapalham. Qualquer pessoa física pode protocolar, **sem precisar
 > justificar o motivo** (art. 10, §3º), e o órgão tem **20 dias** para responder, prorrogáveis
 > por mais 10 com justificativa (art. 11). **Não dependem da comissão nem da coleta de campo**
-> — podem ser protocolados hoje.
+> — por isso foram protocolados à parte (situação no [acompanhamento](#acompanhamento)).
 >
 > **Por que agora:** metade das pendências de gabinete ([PENDENCIAS §A](../PENDENCIAS.md))
 > são informações que só a Prefeitura tem. As respostas alimentam a
@@ -21,7 +21,7 @@
 - **Um pedido por protocolo.** Assim uma resposta fácil não fica presa a um item difícil,
   e cada negativa pode ser recorrida separadamente (recurso em até 10 dias — art. 15).
 - **Registrar** número e data de cada protocolo na tabela de acompanhamento ao final.
-- **Guardar as respostas** em `expedientes-unicos/` (fora do repositório público, como os
+- **Guardar as respostas** em `retornos-protocolos/` (fora do repositório público, como os
   demais documentos administrativos) e transcrever para a matriz apenas os fatos institucionais.
 
 ---
@@ -686,6 +686,24 @@ indique qual órgão detém a informação.
 
 **Anexos:** nenhum — a resposta do DMAE está no e-SIC da mesma conta e é citada por protocolo.
 
+**Reexame da parte final do item (b) — apresentado em 09/11/2026, às 11h36** (conferido no e-SIC:
+status "Aguardando reexame", prazo final 19/11/2026; a autoridade responde em 10 dias, improrrogável,
+art. 23 do Decreto 19.990/2018). O texto abaixo é o enviado:
+
+> Pedido de reexame (art. 22 do Decreto Municipal nº 19.990/2018) do pedido nº 018483-26-57, respondido em 05/11/2026, restrito à parte final do item (b).
+>
+> A resposta informou que a elaboração do projeto de drenagem das adequações viárias das interseções da Estrada das Três Meninas com a Estrada Cristiano Kraemer e com a Estrada Costa Gama permanece pendente e será retomada após a conclusão dos procedimentos de desapropriação. Não informou quem é o responsável, o que o item (b) pediu expressamente.
+>
+> Solicito:
+>
+> (1) informar quem é o responsável pela elaboração e pela execução desse projeto de drenagem (o empreendedor, por força do Termo de Compromisso nº 41.198/2009, o Município ou outro), e qual órgão ou setor municipal acompanha essa pendência;
+>
+> (2) indicar o fundamento dessa atribuição (por exemplo, a cláusula do Termo de Compromisso ou de seus aditivos);
+>
+> (3) caso este órgão não detenha a informação, indicar expressamente o órgão ou setor que a detém, nos termos do art. 11, §1º, III, da Lei Federal nº 12.527/2011.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros.
+
 ## Pedido 26 — PGM: peças que faltam do Pedido 16 (Parecer 985/1997, Informação 4084/2022) e cronograma dos 4 processos
 
 **Protocolado em 06/10/2026** (nº **018485-26-62**, prazo **26/10/2026** conforme o e-SIC; tema
@@ -1143,8 +1161,8 @@ repositório público).
   drenagem**, "sua elaboração permanece pendente" e será **retomada só depois da conclusão das
   desapropriações**, porque o **Decreto 20.659/2020** dá quatro anos de validade aos projetos
   complementares. **Limites:** sem expediente, estágio nem data; não diz **quem elabora nem quem
-  executa** o projeto (item b); a CTAAPS não se manifestou. **Prazo do reexame:** até 15/11/2026
-  (domingo; na prática, sexta 13/11), se a comissão quiser insistir no responsável. Resposta
+  executa** o projeto (item b); a CTAAPS não se manifestou. **Reexame da parte final do item (b)
+  apresentado em 09/11/2026, às 11h36** (prazo final 19/11/2026), com o texto na seção do Pedido 25. Resposta
   guardada em `retornos-protocolos/018483-26-57/`. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações).
 - **Pedido 26 (018485-26-62) — respondido (05/11/2026, às 23h16, no último dia do prazo prorrogado): peças enviadas, cronograma inexistente.**
@@ -1326,7 +1344,7 @@ repositório público).
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **respondido (19/10/2026, ~10h17, quatro dias após o prazo), parcial** — TAC não localizado; arquivamento do MP (doc. 41690350) indica averbações nas matrículas (CONAMA 420/2009), sem números nem cláusula; itens (c) maquinário e (d) Habite-se não tratados; processo físico (~18 volumes) à disposição no Arquivo Municipal, com agendamento; **arquivado por decisão da comissão (19/10/2026): sem reexame e sem consulta ao Arquivo**, com as lacunas registradas — derivado do Pedido 10 + relato de membro da comissão |
 | 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias) e vencido sem resposta** (conferido no e-SIC em 06/11/2026; status segue PRAZO_PRORROGADO, sem botão de reexame) — derivado dos Pedidos 9 e 18 |
-| 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ **05/11/2026** | **respondido (05/11/2026, 23h03, pela PGM)** — projeto de drenagem não elaborado; elaboração adiada até a conclusão das desapropriações (validade de 4 anos dos projetos complementares, Dec. 20.659/2020); não diz quem elabora nem quem executa; prazo do reexame 15/11 — derivado do Pedido 22 |
+| 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ ~~05/11/2026~~ **19/11/2026** (e-SIC, após o reexame) | **respondido (05/11/2026, 23h03, pela PGM)** — projeto de drenagem não elaborado; elaboração adiada até a conclusão das desapropriações (validade de 4 anos dos projetos complementares, Dec. 20.659/2020); não diz quem elabora nem quem executa; **reexame apresentado em 09/11 (11h36)** — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | ~~26/10~~ **05/11/2026** | **respondido (05/11/2026, 23h16)** — Parecer 985/1997 e Informação 4084/2022 enviados; situação de cada processo com a FC correspondente; cronograma declarado inexistente (art. 12, III, Dec. 19.990/2018) — complementa o Pedido 16, que fica fechado |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que venceu do mesmo modo |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
@@ -1343,7 +1361,7 @@ Novo prazo: **13/08/2026** — **mesmo dia da reunião da comissão.** O **Pedid
 adiantado (10/08)**, o **Pedido 6 já tinha respondido em 04/08**, o **Pedido 4 respondeu em 14/08**
 (um dia após o prazo), o **Pedido 1 respondeu em 17/08** (parcial) e o **Pedido 5 respondeu em
 24/08** (parcial, onze dias após o prazo) — ver bullets acima. **Os cinco pedidos desta
-prorrogação estão todos respondidos** — ver [ROTEIRO §3](../ROTEIRO.md#3-datas-alvo).
+prorrogação estão todos respondidos** — ver [ROTEIRO §3](../ROTEIRO.md#3-histórico-das-metas-julnov2026).
 
 **Prorrogação do Pedido 8 (11/08/2026):** a PGM também prorrogou o prazo por **10 dias**,
 com a mesma base legal (**art. 14, §3º, do Decreto Municipal nº 19.990/2018**) e a mesma
@@ -1482,7 +1500,8 @@ Cláusula Nona) segue com status PRAZO_PRORROGADO depois do prazo de 05/11; o **
 água e esgoto) segue "Aguardando resposta" desde 06/10, sem prorrogação, com o prazo de 26/10
 vencido. Nenhum dos dois tem botão de reexame. O 27 repete a omissão do Pedido 14, sobre o mesmo
 tema e no mesmo órgão. Os dois seguem o caminho dos Pedidos 14 e 23: aguardar alguns dias (o 23
-chegou quatro dias depois do prazo) ou fazer pedido novo, por decisão da comissão.
+chegou quatro dias depois do prazo) ou fazer pedido novo. **Decidido em 09/11/2026: aguardar**, sem
+data-limite definida; os dois seguem sem resposta na conferência do mesmo dia.
 
 **Resposta do Pedido 20 (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado):** intermediária — a SMF informou que o
 levantamento está em análise e será feito pela Divisão de Avaliação de Imóveis em três semanas,

@@ -21,6 +21,9 @@ fontsize: 11pt
 > sonda e documentação oficial — e solicitar à EPTC os dados e a vistoria técnica que a
 > comunidade não tem condições de produzir. Coleta física e questionário permanecem em
 > espera por falta de mobilização e **não são condições do protocolo**.
+>
+> **Situação em 09/11/2026:** o protocolo principal (ofício à SMAMUS) **não foi realizado**, e a
+> comissão articula uma reunião com a SMAMUS. O caminho acima vale se a comissão decidir protocolar.
 
 ## 1. O que está pronto para revisão
 - **Peças externas:** [memorando institucional](relatorios/memorando-externo.md) · [rascunho de ofício](relatorios/oficio-eptc-rascunho.md) · [anexo de pontos](relatorios/anexo-matriz-pontos.md).
@@ -36,18 +39,18 @@ fontsize: 11pt
 - [x] **D2 (retorno) e D3 (capacidade da Cristiano Kraemer):** **incluídas** nas peças em versão genérica (decisão 13/08).
 - [x] **P9 atual:** Rua Santuário × Av. Oscar Pereira; pin incorporado em 14/08. A referência antiga permanece apenas no histórico de D4.
 - [x] **Protocola:** Eduardo. **Canal:** SMAMUS (principal), com cópia à EPTC/SMMU e às Subprefeituras Centro-Sul e Glória.
-- [ ] **Confirmar o encaminhamento:** protocolo baseado em sonda, sinistros e LAIs, com pedido explícito de dados e vistoria técnica da EPTC; coleta comunitária e questionário ficam em espera.
+- [ ] **Confirmar o encaminhamento:** protocolo, ou apoio à reunião com a SMAMUS, baseado em sonda, sinistros e LAIs, com pedido explícito de dados e vistoria técnica da EPTC; coleta comunitária e questionário ficam em espera.
 
-## 3. Consolidação atual — 25/09/2026
+## 3. Consolidação atual — 09/11/2026
 
-- **Ata em preparação pela comissão**, conforme atualização recebida em 25/09. Incorporar quando disponibilizada; não presumir deliberações ou protocolo já realizado.
-- **Sonda:** 8.582 medições em 14 rotas até 01/09. Usar tempos estimados e assimetrias direcionais, com janelas explícitas, sem atribuir causalmente a diferença R05/R06 à alça.
+- **Ata da reunião com a EPTC (22/09):** recebida em 08/10, em versão revisada ainda não final. Não presumir deliberações além do que ela registra; o protocolo principal não foi realizado.
+- **Sonda:** agregados com 8.582 medições em 14 rotas até 01/09 (coleta pausada em 01/11; série até essa data não reagregada). Usar tempos estimados e assimetrias direcionais, com janelas explícitas, sem atribuir causalmente a diferença R05/R06 à alça.
 - **Sinistros:** base EPTC principal e Dados Abertos POA auxiliar, ambas sem filtro de vítimas. [Reconciliação por ID](dados/tratados/sinistros_reconciliacao.md) na mesma janela disponível.
-- **LAIs:** 30 pedidos; acompanhar as respostas de 28/30 (prazo 09/11) e decidir sobre o 24 e o 27, vencidos sem resposta (o 14 venceu sem resposta e foi refeito no 27; as peças restantes do 16 foram pedidas no 26 e recebidas em 05/11, com o cronograma declarado inexistente) no [registro](relatorios/pedidos-informacao-lai.md#acompanhamento). O 20 foi respondido pela SMF (intermediária em 15/10; planta e planilha das desapropriações por e-mail, registradas em 26/10, com 7 lotes da Cristiano Kraemer suspensos desde 2014); o 21 foi respondido em 16/09; o 19 em 14/10, em parte (três pareceres de empreendimentos na Cristiano Kraemer, sem o quarto processo, cujo reexame, apresentado no mesmo dia, foi indeferido em 27/10: documentos preparatórios, com as Diretrizes em análise na CEFH); o 23 em 19/10, em parte (TAC do Ministério Público não localizado, com indício de averbações nas matrículas; arquivado sem reexame); o 29 em 09/11, em parte (expedientes ligados ao P8, suspenso por ordem judicial, e ao P5, em análise, sem contrapartida confirmada; reexame do item 1 apresentado no mesmo dia); o 22 (DMAE, drenagem) em 06/10, sem registro de novo andamento desde 2020, e por isso foi feito o 25 à CTAAPS, respondido pela PGM em 05/11 (projeto não elaborado; elaboração só depois das desapropriações, pela validade de 4 anos do Decreto 20.659/2020); o 18 foi respondido em 30/09 sem localizar o depósito da Cláusula Nona e remetido à SMAMUS (Pedido 24, protocolado no mesmo dia). Pedidos 9 e 10 já foram protocolados e respondidos; não repetir o encaminhamento antigo.
+- **LAIs:** 30 pedidos; acompanhar as respostas de 28/30 (prazo 09/11) e o 24 e o 27, vencidos sem resposta e em espera por decisão de 09/11 (o 14 venceu sem resposta e foi refeito no 27; as peças restantes do 16 foram pedidas no 26 e recebidas em 05/11, com o cronograma declarado inexistente) no [registro](relatorios/pedidos-informacao-lai.md#acompanhamento). O 20 foi respondido pela SMF (intermediária em 15/10; planta e planilha das desapropriações por e-mail, registradas em 26/10, com 7 lotes da Cristiano Kraemer suspensos desde 2014); o 21 foi respondido em 16/09; o 19 em 14/10, em parte (três pareceres de empreendimentos na Cristiano Kraemer, sem o quarto processo, cujo reexame, apresentado no mesmo dia, foi indeferido em 27/10: documentos preparatórios, com as Diretrizes em análise na CEFH); o 23 em 19/10, em parte (TAC do Ministério Público não localizado, com indício de averbações nas matrículas; arquivado sem reexame); o 29 em 09/11, em parte (expedientes ligados ao P8, suspenso por ordem judicial, e ao P5, em análise, sem contrapartida confirmada; reexame do item 1 apresentado no mesmo dia); o 22 (DMAE, drenagem) em 06/10, sem registro de novo andamento desde 2020, e por isso foi feito o 25 à CTAAPS, respondido pela PGM em 05/11 (projeto não elaborado; elaboração só depois das desapropriações, pela validade de 4 anos do Decreto 20.659/2020; reexame sobre o responsável apresentado em 09/11); o 18 foi respondido em 30/09 sem localizar o depósito da Cláusula Nona e remetido à SMAMUS (Pedido 24, protocolado em 02/10 e vencido sem resposta em 05/11). Pedidos 9 e 10 já foram protocolados e respondidos; não repetir o encaminhamento antigo.
 - **Documentos:** parcelas do P7 reconciliadas por decreto/processo; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes, no eixo P6. Manter separadas aprovação, vigência do projeto, desapropriação e execução física.
-- **Peças:** conferir número/data do ofício e comprovação do protocolo principal. O gate automático deve ser acompanhado da leitura factual e da inspeção visual do PDF.
+- **Peças:** conferir número e data do ofício antes de qualquer envio (ainda não há protocolo a comprovar). O gate automático deve ser acompanhado da leitura factual e da inspeção visual do PDF.
 
-## 4. Mínimo suficiente para protocolar na EPTC
+## 4. Mínimo suficiente para protocolar
 > Protocolar quando os requisitos formais abaixo estiverem cumpridos. A ausência de coleta
 > física ou questionário não impede o pedido, que busca justamente a vistoria e os dados da
 > autoridade competente.

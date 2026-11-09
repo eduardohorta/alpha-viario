@@ -7,7 +7,7 @@
 - **D2** — Retorno mais curto no eixo Três Meninas/Cristiano Kraemer *(a avaliar quanto ao benefício público)*.
 - **D3** — Melhoria de capacidade/geometria no eixo Cristiano Kraemer *(a avaliar; hipótese de maior custo)*.
 - **D4 (antigo P9, retirado em 13/08/2026)** — Ajuste geométrico/moderação na Rótula da Vila Nova.
-- **P7** — os expedientes administrativos confirmam uma **conexão projetada em duas etapas** entre Três Meninas e Costa Gama, com solução definitiva condicionada a desapropriações. A descrição comunitária como **“alça à esquerda”** continua sendo hipótese até a identificação do desenho geométrico.
+- **P7** — os expedientes administrativos confirmam uma **conexão projetada em duas etapas** entre Três Meninas e Costa Gama, com solução definitiva condicionada a desapropriações. O desenho obtido em jul/2026 identifica um conector a oeste, e o Decreto 20.860/2020 nomeia a **"alça de ligação"**, que corresponde à descrição comunitária como **“alça à esquerda”**; a adequação atual da solução ainda requer avaliação técnica.
 
 ## Diretrizes de método sugeridas pela comunidade
 - Abordagem **técnica e propositiva** (diagnóstico antes da solução), com material visual (fotos, vídeos, registros 360°).

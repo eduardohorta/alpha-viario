@@ -38,29 +38,29 @@ As **cinco diretrizes centrais do novo PDUS** são: adaptação às mudanças cl
 |---|---|---|---|
 | **Visão Zero** / reduzir 50% das mortes até 2030 | PSVS | Enquadrar TODO o projeto como contribuição à segurança viária; cada proposta deve evidenciar redução de risco | P1–P8 |
 | Gestão de velocidade / moderadores | PSVS | Rótulas (P1,P2) e medidas operacionais reduzem velocidade — bom argumento de aderência | P1,P2,P5,P7,P8 |
-| **Requalificação da Av. Monte Cristo** (projeto já existente) | PSVS | Há projeto municipal em curso na Monte Cristo → **P2 deve dialogar/aproveitar**, não conflitar | **P2** |
+| **Requalificação da Av. Monte Cristo** (projeto já existente) | PSVS | Projeto municipal na Monte Cristo com implantação parcial, parada desde set/2024 (Pedido 5); a ata de 22/09 registra que o trevo não tem projeto atualmente → **P2 deve dialogar**, a confirmar pelo Pedido 30 | **P2** |
 | Tratamento de pontos críticos via **Regiões de Planejamento** | PSVS | **Canal institucional** para protocolar os 8 pontos | P1–P8 |
 | Prioridade a pedestre/ciclista/coletivo (hierarquia modal) | PMU / Lei 12.587/12 | Propostas pró-fluidez veicular (faixa reversível) precisam **salvaguardar travessias e transporte coletivo** | **P4** |
 | Eixo "mobilidade segura" | PMU | Alinhar linguagem técnica e justificativas | P1–P8 |
 | **Redução do tempo de deslocamento** | PDUS 2026 | Gancho direto para o congestionamento | P3,P4,P7,P8 |
-| Adensamento em áreas com infraestrutura | PDUS/LUOS 2026 | Demanda futura cresce → reforça urgência (verificar zoneamento de Vila Nova) | P1–P8 |
+| Adensamento em áreas com infraestrutura | PDUS/LUOS 2026 | Demanda futura cresce → reforça urgência; o Pedido 6 indica que Vila Nova não é vetor de adensamento (ver §2) | P1–P8 |
 | Planejamento baseado em dados | PDUS 2026 | Sustenta a coleta de dados/diagnóstico | P1–P8 |
 
 ## 4. Ganchos de alinhamento (oportunidades a explorar)
 
 1. **Enquadrar o dossiê como contribuição ao PSVS/Visão Zero** — é a narrativa mais forte para a EPTC/SMMU.
-2. **Conectar o P2 à requalificação da Av. Monte Cristo** — possivelmente o caminho mais rápido de implementação (carona em projeto já existente).
+2. **Conectar o P2 à requalificação da Av. Monte Cristo** — hipótese a confirmar: o Pedido 5 mostra implantação parcial e parada, e o Pedido 30 pergunta se há proposta para o nó.
 3. **Usar a diretriz "redução do tempo de deslocamento" do novo PDUS** como amarração urbanística dos pontos de congestionamento.
-4. **Argumento de demanda futura:** se o PDUS/LUOS adensa o entorno, o sistema viário atual fica ainda mais pressionado — justifica agir agora.
+4. **Argumento de demanda futura:** o Pedido 6 indica que Vila Nova não é vetor de adensamento, mas os empreendimentos em análise no eixo (Pedidos 11 e 19) podem pressionar o sistema viário.
 
 ## 5. Pendências a confirmar (com Prefeitura/EPTC)
 
 - [ ] Confirmar no texto final **publicação, vetos e regras de transição** do PDUS/LUOS — há notícia de sanção (ver nota no topo): **sancionados em 14/07/2026** (4 vetos parciais, nenhum na Zona Sul); **vigência 180 dias após a publicação**, com o **PDDUA vigente na transição**. Confirmar a data exata de publicação.
 - [x] **Zoneamento de Vila Nova** no novo PDUS/LUOS — **resolvido pela resposta ao Pedido 6 (04/08/2026, ver §2):** entorno em **ZOT 1, 3, 14 e 15** (LC 1075/1076); **não é vetor de intensificação** (sem AIO/OUC/PTU); 8 empreendimentos com contrapartidas viárias listados pela DEL. Parâmetros referem-se às minutas — reconferir no texto final publicado.
-- [x] **Escopo da requalificação da Av. Monte Cristo** — *resolvido (ver §6):* trecho Eduardo Prado ↔ Estr. Cristiano Kraemer, 1.500 m, prioridade a travessias/acessibilidade/paradas; **termina no nosso P2**. Projeto anunciado em **fev/2025** (asfalto já concluído pela SMSUrb; sinalização/desenho em implantação); **sem data pública de conclusão** — confirmar status atual com a EPTC. Atende Acergs, escola especial e hospital no trecho.
+- [x] **Escopo da requalificação da Av. Monte Cristo** — *resolvido (ver §6):* trecho Eduardo Prado ↔ Estr. Cristiano Kraemer, 1.500 m, prioridade a travessias/acessibilidade/paradas; **termina no nosso P2**. Projeto anunciado em **fev/2025** (asfalto já concluído pela SMSUrb). **Pedido 5 (24/08/2026):** sinalização concluída em projeto e implantação parcial, com baias de ônibus paradas desde set/2024; sem prazo. Atende Acergs, escola especial e hospital no trecho.
 - [x] **Região/subprefeitura de Vila Nova** — *resolvido (ver §6):* Subprefeitura Centro-Sul (Região 12 do OP); Região de Planejamento 6 (Centro-Sul e Sul).
 - [ ] **Diretrizes detalhadas da PMU** (LC 951/2022): baixar o texto integral para hierarquia viária e gestão de velocidade.
-- [x] **Dados de acidentes** nos 8 pontos (Dados Abertos POA) — *concluído:* triagem por distância (R02) e segmentação do P4 (R03); ver [metodologia](../dados/tratados/acidentes_metodologia.md) e [resumo](../dados/tratados/acidentes_resumo_distancia_pontos.csv). **Validação de campo/aerofoto pendente.**
+- [x] **Dados de acidentes** nos pontos (primeira rodada, Dados Abertos POA; hoje a base oficial é a da EPTC, com os 9 pontos) — *concluído:* triagem por distância (R02) e segmentação do P4 (R03); ver [metodologia](../dados/tratados/acidentes_metodologia.md) e [resumo](../dados/tratados/acidentes_resumo_distancia_pontos.csv). **Validação de campo/aerofoto pendente.**
 
 ## 6. Achados institucionais (2026-06-04)
 

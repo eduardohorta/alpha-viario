@@ -34,7 +34,7 @@
 - **⚠️ Tensão com o projeto:** alargamento implica **desapropriação** e **alto custo** — contraria a diretriz de "começar pelo barato / evitar desapropriação" e o princípio **segurança antes de capacidade**. Além disso, a Cristiano Kraemer **acabou de receber requalificação asfáltica (SMSUrb)** — alargar agora seria custoso/conflitante.
 - **Benefício público:** *a comprovar* — só se justifica com dados de saturação real (volume × capacidade) e desde que não piore segurança/travessias.
 - **Evidência a coletar:** VMD e nível de serviço por trecho/hora; faixa de domínio disponível; situação fundiária.
-- **Encaminhamento:** **não** incorporar como proposta sem diagnóstico; tratar como hipótese de **última instância** (topo da escada de intervenção).
+- **Encaminhamento:** **não** incorporar como proposta sem diagnóstico; tratar como hipótese de **última instância** (topo da escada de intervenção). **Atualização:** o D3 entrou nas peças em versão genérica (decisão de 13/08/2026), e a EPTC informou verbalmente, em 22/09/2026, pista adicional em execução na via, a confirmar por escrito.
 
 ## D4 — Divisória na rótula da Vila Nova + revisão de quebra-mola
 - **Relato:** instalar divisória (canteiro) na chegada/saída da Cristiano Kraemer à **rótula da Vila Nova**, permitindo retirar o quebra-mola da **saída** da rótula (mantendo só na chegada), como em frente ao posto/sapataria.

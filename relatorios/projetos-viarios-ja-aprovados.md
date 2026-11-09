@@ -13,7 +13,10 @@
 > Compromisso vigente**, detalhou **quatro desapropriações** em andamento (uma delas resolvida
 > por acordo) e revelou uma **demolição judicial pendente desde 2014** na confluência do P7 — ver
 > [Resposta LAI ao Pedido 8](#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
-> Falta ainda confirmar o **depósito da Cláusula Nona** (Pedido 9, prazo 31/08/2026).
+> O **depósito da Cláusula Nona** segue sem confirmação: a SMF não o localizou (30/09/2026), e o
+> Pedido 24 à SMAMUS venceu sem resposta (05/11/2026).
+>
+> **Atualização (nov/2026):** [Pedido 25](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações), [Pedido 26](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma) e [Pedido 29](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise).
 
 ## Fontes administrativas examinadas
 
@@ -190,7 +193,7 @@ A hipótese levantada em agosto de que todas as declarações de 2020 poderiam t
 - **20.859/P6:** a PGM informa caducidade em 28/12/2025 e revisão do projeto antes de novo decreto, não antes de 29/12/2026.
 - **20.861/faixa junto à Florestan Fernandes:** ação ajuizada em 19/12/2025, sem imissão provisória; não é a rótula P1.
 - **20.860/P7, processo 092:** acordo concluído em 2025.
-- **20.808/P7, processo 093:** escritura em 26/11/2025; registro ainda a confirmar.
+- **20.808/P7, processo 093:** escritura em 26/11/2025; falta o registro (PGM, Pedido 26).
 - **22.570/P7, processo 094:** ação ajuizada em 08/07/2026.
 
 Esses são os estados documentais informados, não certificação de posse ou implantação física. Ver respostas aos Pedidos 8/9 e acesso ao SEI de 24–25/09 abaixo. O relato extraoficial de pagamento, anterior às respostas, fica superado pela informação institucional do processo 092; não comprova o depósito da Cláusula Nona.
@@ -222,7 +225,7 @@ e o segundo aditivo (2013) ainda **ratifica** expressamente as cláusulas remane
 A Cláusula Nona do segundo aditivo obriga a compromissária a **depositar R$ 200.000,00 em favor
 do Município em até 15 dias após a publicação do Decreto de Utilidade Pública** — valor
 reajustado pela **Taxa SELIC**, com **multa de 20% e juros de 1% ao mês** em caso de atraso.
-A data de 23/12/2020 é a de disponibilização dos três decretos; a PGM toma **28/12/2020** como publicação. Há ainda o Decreto 20.808/2020, de novembro. **Não se fixa aqui o vencimento financeiro:** a SMF deve esclarecer qual ato aciona a cláusula, sua publicação, pagamento, cobrança e destinação. O Pedido 18 está em reexame desde 22/09/2026.
+A data de 23/12/2020 é a de disponibilização dos três decretos; a PGM toma **28/12/2020** como publicação. Há ainda o Decreto 20.808/2020, de novembro. **Não se fixa aqui o vencimento financeiro:** a SMF deve esclarecer qual ato aciona a cláusula, sua publicação, pagamento, cobrança e destinação. A SMF não localizou o depósito (resposta ao reexame do Pedido 18, 30/09/2026), e o Pedido 24 à SMAMUS venceu sem resposta em 05/11/2026.
 
 *Nota (24/09/2026):* o primeiro dos decretos hoje conhecidos é o **20.808/2020, de 27/11/2020**
 (ver §2). Se o gatilho da cláusula for o primeiro decreto, e não o de 23/12/2020, o prazo do
@@ -281,12 +284,12 @@ anexo, que **não veio** no conjunto recebido. **Obtido em 26/10/2026** pelo Ped
 
 - **P1** — deixa de ser só "sinistros + previsão documental": a interseção está **implantada
   apenas em 1ª etapa**, o **projeto da 2ª fase não estava aprovado** em 2020, **falta o projeto
-  de drenagem** e há **DUP de 2020** no eixo. É um item inacabado com trilha administrativa aberta.
+  de drenagem** e nenhum dos decretos conhecidos cobre esta rótula. É um item inacabado com trilha administrativa aberta.
 - **P6** — sai de "ponto sem sinistros expressivos, sustentado por precariedade física" para
   **ponto com projetos aprovados (Kanazawa e Florestan Fernandes), desapropriação declarada
   (Decreto 20.859/2020) e nenhuma implantação**. É a mudança de patamar mais significativa.
 - **P7** — passa a ter a cadeia completa: projeto aprovado (2013, caducado) → **alça nomeada em
-  decreto** → **DUP publicada (2020, possivelmente caducada)** → **2ª fase nunca implantada** →
+  decreto** → **DUP publicada (2020; desapropriação concluída por acordo em 2025, Pedido 9)** → **2ª fase nunca implantada** →
   gatilho financeiro de R$ 200 mil disparado. É o ponto mais documentado do dossiê.
 - **Entorno do P8** — a interseção Costa Gama × Oscar Pereira / Sarmento Barata aparece como
   implantada no relato do SMOV, mas como **"Não Executada"** no item I.13 do SMAM. **Não
@@ -303,8 +306,9 @@ correta passa a ser:
 
 > Há um Termo de Compromisso **sem prazo de validade**, cuja cláusula de desoneração foi
 > **suprimida de comum acordo**; projetos aprovados para as interseções do eixo, **nenhum
-> implantado** nas fases finais; desapropriações **declaradas de utilidade pública em 2020** e
-> com prazo legal de efetivação **já vencido**; e um parecer municipal de 2020 que **já
+> implantado** nas fases finais; desapropriações **declaradas de utilidade pública em 2020**, em
+> situações distintas (a do P6 caducou em 28/12/2025; as demais foram concluídas ou estão em ação
+> judicial); e um parecer municipal de 2020 que **já
 > recomendava revisar os projetos** por decurso de tempo. O que se pede é **retomar e concluir**
 > o que a própria cidade pactuou, projetou e declarou — atualizado às condições atuais.
 
@@ -435,8 +439,8 @@ Plano Funcional completo (estacas 0–170).
 **Consequência para o P7.** Reforça, de fonte adicional e independente, que a interseção está
 **sem nenhum projeto vigente** — nem geométrico, nem de sinalização — e que **a própria EPTC**
 reconhece a necessidade de nova aprovação. Some-se à cadeia já documentada: projeto de 2013
-caducado (Pedido 3) → alça nomeada em decreto (Decreto 20.860/2020) → desapropriação com prazo
-legal vencido (23/12/2025, a confirmar) → 2ª fase nunca implantada (Parecer CTAAPS 093/2020) →
+caducado (Pedido 3) → alça nomeada em decreto (Decreto 20.860/2020) → desapropriação
+concluída por acordo em 2025 (Pedido 9) → 2ª fase nunca implantada (Parecer CTAAPS 093/2020) →
 agora, sinalização nunca aprovada e processo transferido à SMMU.
 
 **Pedido 15 (SMMU, 11/09/2026) — a SMMU confirma o mesmo achado, terceira vez.** O derivado à
@@ -526,7 +530,7 @@ Cruzando com os três decretos de 23/12/2020 já documentados:
   quatro processos; o que veio, o que mudou e o que ficou de fora está na seção [Acesso externo ao
   SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação).
 - A **escritura amigável firmada em 093/FC 8059** é compatível com o [indício extraoficial
-  registrado acima](#3-️-os-decretos-podem-ter-caducado-em-23122025--a-confirmar) — o relato de
+  registrado acima](#3-caducidade-e-efetivação-situação-individualizada-pela-pgm) — o relato de
   que a indenização de um dos proprietários do P7 foi paga em quase totalidade — mas trata de uma
   parcela **distinta** da desapropriação do Decreto 20.860 propriamente dita (essa, confirmada
   concluída pelo Pedido 9). A identidade do interessado não é publicada aqui; fica em `interno/`,
@@ -862,14 +866,11 @@ também pedidos no item (c) do Pedido 17 foram extraídos: no P7, 13 ocorrência
 incluindo um agrupamento em 6 datas a 24 m do ponto de referência que pode refletir
 geocodificação num ponto fixo do cruzamento, não a localização exata de cada evento.
 
-**Decisão em aberto para a comissão.** A base da EPTC é bem mais rica e atual que a usada na
-Rodada 02 do dossiê (Dados Abertos POA, 2020–2025), mas cobre uma janela maior e um critério mais
-amplo (inclui dano material). A tabela comparativa completa dos 9 pontos está em
+**Decisão da comissão (24/09/2026): a base oficial é a da EPTC**, e a Dados Abertos POA (Rodada 02,
+2020–2025) fica como auxiliar. As duas incluem registros sem vítimas; a diferença nos totais vem
+sobretudo da janela, de 2010 a 2026 na EPTC. A tabela comparativa completa dos 9 pontos está em
 [`relatorios/anexo-matriz-pontos.md`](anexo-matriz-pontos.md) (seção "Evidência de sinistros —
 base oficial da EPTC").
-Falta decidir se estes números substituem os já usados nas peças aprovadas (memorando, ofício) ou
-se os dois conjuntos convivem com a ressalva de metodologia explicada acima; não é uma pendência
-técnica, é uma escolha de escopo.
 
 ## Acesso externo ao SEI (24/09/2026): laudos e despachos dos quatro processos de desapropriação
 
@@ -915,7 +916,7 @@ R$ 200 mil**. Os quatro processos somam **entre R$ 200 mil e R$ 250 mil**, sem c
 áreas já consolidadas como públicas (item 3).
 
 Para a Cláusula Nona, a soma tem a **mesma ordem de grandeza** dos R$ 200 mil, sem correção pela
-SELIC. Isso torna mais relevante saber se o depósito foi feito e a que se destina (Pedido 18).
+SELIC. Isso torna mais relevante saber se o depósito foi feito e a que se destina (sem confirmação: Pedidos 18 e 24).
 Nenhum documento lido liga a cláusula a essas indenizações: é comparação de grandeza, não vínculo.
 
 ### 3. P6: a PGM quer revisar o projeto antes de refazer o decreto
@@ -994,10 +995,9 @@ ser quando o ato decisório se consuma; e o processo 092, não acessado.
 processos (sem cronograma) vieram pelo Pedido 26 ([leitura](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma)).
 
 Encaminhamento: a PGM disse que os documentos com dados pessoais seriam tarjados e liberados
-depois, e começou a cumprir em menos de 24 horas. O reexame do Pedido 16 (art. 22 do Decreto
-Municipal 19.990/2018) tem prazo de 10 dias da resposta, isto é, até 04/10/2026; se o restante não
-vier até lá, cabe reexame apenas para os itens (b) e (d). O acesso ao SEI dos quatro processos vence
-em **24/10/2026**, e o ao processo do SIC, em **25/10/2026**.
+depois, e começou a cumprir em menos de 24 horas. O prazo do reexame do Pedido 16 (04/10/2026) venceu sem
+reexame apresentado, e as peças restantes foram pedidas no Pedido 26. Os acessos ao SEI dos quatro
+processos e ao processo do SIC venceram em 24/10 e 25/10/2026.
 
 ## Resposta LAI ao Pedido 19 (14/10/2026): pareceres de três empreendimentos na Cristiano Kraemer, com obras viárias e desapropriações a cargo do empreendedor
 
@@ -1348,8 +1348,8 @@ respectivo".
 
 - **A lacuna de 2020 está confirmada e sem data:** o "falta projeto de drenagem" do Parecer
   CTAAPS 093/2020 continua valendo para o **P1** e o **P7**, e o projeto só começa depois das
-  desapropriações, que não têm cronograma (o item d do Pedido 16, repetido no Pedido 26, segue sem
-  resposta). A resposta trata os Trechos 01 e 03 em conjunto e não diz se o projeto de cada
+  desapropriações, que não têm cronograma (a PGM declarou inexistente o cronograma no Pedido 26,
+  no mesmo dia). A resposta trata os Trechos 01 e 03 em conjunto e não diz se o projeto de cada
   interseção espera todas as desapropriações do trecho ou só as da própria interseção.
 - **P1: dependência cruzada (inferência).** A planilha do Pedido 20 mostra os sete lotes da
   Cristiano Kraemer com a negociação **suspensa desde 2014, à espera de "alteração de
@@ -1362,9 +1362,9 @@ respectivo".
   terminarem soma o tempo de projeto e aprovação ao das desapropriações, em vez de sobrepô-los. A
   comissão pode pedir que ao menos o projeto do P1 e do P7 avance na fase final das
   desapropriações.
-- **Reexame:** 10 dias da resposta (art. 22 do Decreto 19.990/2018), até **15/11/2026** (domingo;
-  na prática, sexta 13/11). O que ficou sem resposta é **quem responde pela elaboração e pela
-  execução** do projeto (item b); a decisão de pedir reexame é da comissão.
+- **Reexame apresentado em 09/11/2026, às 11h36** (status "Aguardando reexame", prazo final 19/11/2026
+  no e-SIC), restrito ao que ficou sem resposta: **quem responde pela elaboração e pela execução** do
+  projeto (item b), com o fundamento e o setor que acompanha a pendência.
 
 ## Resposta LAI ao Pedido 26 (05/11/2026): Parecer 985/1997, Informação 4084/2022 e situação dos quatro processos, sem cronograma
 
@@ -1495,7 +1495,7 @@ nem de propor ação de usucapião, por custo-benefício.
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação (a SMF não localizou o depósito, e o Pedido 24 venceu sem resposta); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Sem cobertura específica identificada** | P9 atual | Rua Santuário × Av. Oscar Pereira. A antiga associação ao eixo Cristiano Kraemer referia-se à rótula retirada em 13/08, mantida apenas no histórico de D4. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. Nos P5 e P8, a resposta ao Pedido 29 (09/11/2026) **não confirma** as contrapartidas citadas pela EPTC em 22/09: EVU em análise no P5; EVU de 2023 com tramitação suspensa por ordem judicial no empreendimento ligado ao P8 ([leitura](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise)). |
 
@@ -1509,12 +1509,12 @@ O encaminhamento deve solicitar à Prefeitura:
 4. **números e situação dos expedientes complementares** de pavimentação, drenagem, redes, arborização e sinalização listados no aditamento;
 5. avaliação técnica atual: o que pode ser aproveitado, o que precisa ser atualizado e o que foi superado por projetos posteriores.
 
-Até essa resposta, a formulação pública correta é: **há projetos e obrigações historicamente documentados, com evidência de execução parcial; o saldo e a adequação atual permanecem a confirmar**.
+Enquanto esses itens não forem respondidos por inteiro, a formulação pública correta é: **há projetos e obrigações historicamente documentados, com evidência de execução parcial; o saldo e a adequação atual permanecem a confirmar**.
 
 **Para o P7, as respostas de jul--set/2026** afinam o item 3: o projeto definitivo
 Três Meninas--Costa Gama **existiu, foi aprovado e caducou**, e o **Termo de Compromisso permanece
 vigente**. A PGM informa que o imóvel diretamente referido no Decreto 20.860 foi desapropriado
-por acordo em 2025. A reconciliação de 24/09 identificou três parcelas da mesma alça, com decretos próprios: 092 concluído; 093 com escritura e registro a confirmar; 094 em ação judicial. A formulação
+por acordo em 2025. A reconciliação de 24/09 identificou três parcelas da mesma alça, com decretos próprios: 092 concluído; 093 com escritura, faltando o registro; 094 em ação judicial. A formulação
 pública correta é: **a cidade projetou e aprovou uma solução, não a implantou e a deixou caducar;
 a obrigação de concluí-la segue vigente, mas sua viabilização exige projeto e sinalização novos,
 execução material da demolição judicial e confirmação completa da situação fundiária**.

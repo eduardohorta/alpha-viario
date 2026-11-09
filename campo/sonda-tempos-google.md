@@ -1,5 +1,9 @@
 # Sonda de tempos de viagem (Google Routes API) — coleta, limites e custos
 
+> **Coleta pausada em 01/11/2026.** Os jobs do agendador estão desligados e a infraestrutura continua
+> montada, de modo que a coleta pode ser retomada. A série vai de 04/07 a 01/11/2026; os agregados
+> publicados vão até 01/09. O restante deste documento descreve a operação enquanto ativa.
+
 > Coleta série histórica própria de **tempo de viagem com trânsito** nas 14 rotas de
 > [dados/rotas-sonda-tempos.csv](../dados/rotas-sonda-tempos.csv) (corredor P4 e trecho
 > S06 nos dois sentidos, travessia do P7 nos dois sentidos, semáforo do P8, nós P1/P2,
@@ -37,7 +41,7 @@ privado `alpha-viario-sonda` recebe os registros produzidos por essa execução 
 armazenamento e auditoria; **não é o executor da coleta**. Nem o notebook nem GitHub
 Actions integram a operação corrente.
 
-- **Google Cloud (operação corrente):** executa as consultas agendadas e mantém os
+- **Google Cloud (operação até a pausa):** executa as consultas agendadas e mantém os
   controles de cota, orçamento e credencial fora do repositório público.
 - **`alpha-viario-sonda` (destino privado):** recebe os registros brutos/operacionais
   encaminhados pela coleta em nuvem; serve para acompanhar continuidade e preparar
@@ -76,7 +80,7 @@ Actions integram a operação corrente.
   `dados/tratados/sonda_tempos_agregado.csv` (por rota × janela) e
   `dados/tratados/sonda_tempos_resumo.md` (índice de atraso, p85, assimetria por sentido).
   **Só os agregados** entram no dossiê, com a janela de coleta declarada; o bruto da Google
-  fica gitignored. Reprocessar perto do protocolo, quando a série estiver cheia.
+  fica gitignored. Reagregar a série até 01/11 só se a comissão quiser usá-la.
 - Termos de uso: os dados servem à análise interna e a agregados no dossiê; não
   republicar conteúdo bruto de mapa/rotas do Google.
 

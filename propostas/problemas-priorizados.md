@@ -38,6 +38,7 @@
 ### P1 — Rótula Estr. Três Meninas × Estr. Cristiano Kraemer
 - **Sinistros (base EPTC 2010–2026, ≤100 m):** 58 ocorr. · 3 graves · 0 fatais · 18 motos. *Auxiliar (R02, 2020–2025, sem filtro de vítimas): 29 ocorr. · 4 graves · 6 motos.*
 - **Problema operacional:** estrangulamento na rótula (relato).
+- **Achado documental:** 2ª fase sem projeto aprovado em 2020 (Parecer CTAAPS 093/2020); projeto de drenagem não elaborado, só depois das desapropriações (Pedido 25); sete lotes da Cristiano Kraemer com negociação suspensa desde 2014 (Pedido 20); a EPTC informou verbalmente, em 22/09, pista adicional em execução e nenhuma rótula prevista.
 - **Problema de segurança:** graves e motos sugerem conflito/velocidade na rótula.
 - **Hipótese causal (a testar):** geometria/deflexão inadequada e/ou desbalanceamento de volume; possível velocidade de entrada alta.
 - **Movimento dominante:** a medir.
@@ -54,7 +55,7 @@
 - **Movimento dominante:** a medir.
 - **Modos vulneráveis:** *a levantar*.
 - **Evidência mínima a coletar:** contagem direcional + fila por aproximação + conflitos.
-- **Gancho institucional:** o **projeto PSVS de qualificação da Av. Monte Cristo termina na Estr. Cristiano Kraemer (este nó)** — **sinergia direta** com o P2.
+- **Gancho institucional:** o **projeto PSVS de qualificação da Av. Monte Cristo termina na Estr. Cristiano Kraemer (este nó)** — sinergia **a confirmar** com o P2: o Pedido 5 mostra implantação parcial, parada desde set/2024, a ata de 22/09 registra que o trevo não tem projeto atualmente, e o Pedido 30 pergunta se há proposta.
 - **Benefício público:** segurança numa confluência crítica; sinergia com projeto municipal existente.
 - **Solução candidata (hipótese):** estudo de redesenho da confluência **em sinergia com o projeto da Av. Monte Cristo**; rótula moderna como **uma** das alternativas.
 
@@ -107,7 +108,7 @@
 ### P7 — Acesso à Estr. Costa Gama bairro→centro (sem conversão à esquerda)
 - **Sinistros (base EPTC 2010–2026, ≤100 m):** 67 ocorr. · 6 graves · **1 fatal** (2014, ~89 m; óbito posterior ao acidente) · 17 motos. *Auxiliar (R02): 18 ocorr. · 1 grave.*
 - **Problema operacional:** não é possível converter à esquerda; exige retorno em rótula distante.
-- **Achado documental:** o expediente-mãe confirma projeto geométrico aprovado para a conexão Três Meninas–Costa Gama, dividido em **primeira etapa sem desapropriação** e **solução definitiva após desapropriações**. Correspondência de 2013 informa que a nova ligação estava aprovada na CTAAPS. O desenho obtido em julho/2026 identifica conector a oeste; o Decreto 20.860/2020 nomeia a **alça de ligação**. A atualização do projeto e sua execução permanecem pendentes.
+- **Achado documental:** o expediente-mãe confirma projeto geométrico aprovado para a conexão Três Meninas–Costa Gama, dividido em **primeira etapa sem desapropriação** e **solução definitiva após desapropriações**. Correspondência de 2013 informa que a nova ligação estava aprovada na CTAAPS. O desenho obtido em julho/2026 identifica conector a oeste; o Decreto 20.860/2020 nomeia a **alça de ligação**. A atualização do projeto e sua execução permanecem pendentes; o projeto de drenagem não foi elaborado (Pedido 25).
 - **Problema de segurança:** abrir conversão à esquerda pode **criar** conflito pior que o desvio atual.
 - **Hipótese causal:** o problema real pode ser a **distância/tempo do retorno**, não a proibição.
 - **Evidência mínima a coletar:** distância e tempo do retorno atual + volume do movimento desejado + velocidade na Costa Gama + fila/armazenagem para baia + visibilidade + acidentes no entorno.
@@ -139,11 +140,11 @@
 ---
 
 ## Dimensões adicionais a investigar (contribuição comunitária)
-- **Drenagem / alagamento:** dimensão ainda **não mapeada** nos P1–P9 (que são circulação/segurança). Levantar **pontos de alagamento** no entorno da Estr. das Três Meninas e acessos.
+- **Drenagem / alagamento:** o projeto das interseções do P1 e do P7 não foi elaborado (Parecer CTAAPS 093/2020; Pedido 25), mas o alagamento segue **não mapeado** nos P1–P9 (que são circulação/segurança). Levantar **pontos de alagamento** no entorno da Estr. das Três Meninas e acessos.
 - **Escopo regional:** os problemas afetam também o **Terraville** e demais usuários da Zona Sul — reforça o **benefício público além do condomínio**.
 
 ## Próximos preenchimentos necessários
 - **Sonda:** consolidar os agregados por rota e janela horária, incluindo o índice de estimativas com/sem considerar tráfego e assimetrias entre sentidos no P4/P7, sem isolar o efeito causal de uma intervenção.
 - **Sinistros:** **validar por aerofoto e vistoria técnica da EPTC os segmentos P4-S06/S03/S01** e os registros mais próximos — ver [segmentos (EPTC)](../dados/tratados/eptc_acidentes_p4_segmentos.csv), [segmentos (R03, auxiliar)](../dados/tratados/acidentes_p4_segmentos.csv), [revisão manual](../dados/tratados/acidentes_revisao_manual_notas.md) e [metodologia](../dados/tratados/acidentes_metodologia.md).
 - **Imagem aérea + base SMAMUS:** confirmar geometria real de cada ponto.
-- **Planos oficiais:** zoneamento de Vila Nova no novo PDUS; escopo da requalificação da Av. Monte Cristo.
+- **Planos oficiais:** já respondidos o zoneamento de Vila Nova (Pedido 6) e o escopo da Av. Monte Cristo (Pedido 5); segue aberta a proposta para o nó do P2 (Pedido 30).

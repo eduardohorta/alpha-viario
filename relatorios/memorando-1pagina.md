@@ -2,6 +2,8 @@
 ### Vila Nova / Zona Sul · *"o que queremos resolver e por que importa para a cidade"*
 *Versão 2 — incorpora a revisão CODEX Rodada 02 · 2026-06-04 · Comissão de mobilidade · (uso interno; gerar versão institucional limpa antes de circular)*
 
+> **Versão histórica (aviso de 09/11/2026).** Texto de junho de 2026, não atualizado: os sinistros, o P2, o saldo e as desapropriações foram superados pelas respostas LAI. Posição atual: [memorando externo](memorando-externo.md) e [PENDENCIAS](../PENDENCIAS.md).
+
 **O que queremos resolver.** O entorno do Alphaville (Vila Nova) — vias **100% municipais** — concentra **8 pontos críticos** de segurança e fluidez que afetam moradores do condomínio **e** do entorno (Belém Velho, Costa Gama, Cavalhada, Camaquã). Vão de interseções perigosas (rótula da Estr. das Três Meninas × Estr. Cristiano Kraemer; trevo da Av. Monte Cristo) a um corredor sobrecarregado (Av. Vicente Monteggia) e a acessos precários (rota de chão batido até a Av. Dr. Vergara). Lista completa em [problemas-priorizados.md](../propostas/problemas-priorizados.md).
 
 **Por que isso importa para a cidade (não só para o condomínio).**

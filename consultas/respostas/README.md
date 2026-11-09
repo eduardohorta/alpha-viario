@@ -18,7 +18,7 @@
    salvando como `consultas/respostas/respostas.csv`.
 3. Rodar `make respostas` (ou `python3 scripts/processar_respostas.py`).
    O resumo sai em `resumo-respostas.md`.
-4. Para conferir o gate de volume mínimo do [guia §4](../../relatorios/guia-validacao-comissao.md):
+4. Se a comissão retomar o questionário e quiser conferir um volume mínimo:
    `python3 scripts/processar_respostas.py --gate 50 --gate-entorno 10`
    *(50/10 é a proposta do gabinete — usar o número que a comissão confirmar).*
 

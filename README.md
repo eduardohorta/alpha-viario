@@ -2,14 +2,14 @@
 
 Projeto comunitário para propor melhorias viárias no entorno do Alphaville Porto Alegre (Estr. das Três Meninas, bairro **Vila Nova**), com qualidade técnica para apresentação à **Prefeitura de Porto Alegre (EPTC/SMMU)**. **Todas as vias são municipais.**
 
-## Status atual — 2026-09-25
+## Status atual — 09/11/2026
 A base oficial do dossiê é a **EPTC**, obtida pelo Pedido 17 (01/01/2010–09/09/2026); Dados Abertos POA (01/01/2020–31/08/2025) permanece como auxiliar. **Ambas contêm registros com e sem vítimas registradas.** A [reconciliação por ID na janela comum](dados/tratados/sinistros_reconciliacao.md) distingue diferenças de cobertura e coordenadas. Não interpretar a comparação dos totais como tendência de segurança.
 
-A trilha LAI soma **30 pedidos protocolados**. A situação atual está no [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento): Pedido 14 vencido sem resposta (refeito no 27); 16 com peças faltantes (reexame não apresentado), pedidas no 26 e recebidas em 05/11; 18 respondido em 30/09 sem localização do depósito (remetido à SMAMUS); 28 e 30 aguardando resposta (prazo 09/11); 24 e 27 vencidos sem resposta; o 20 foi respondido pela SMF (intermediária em 15/10; planta e planilha das desapropriações por e-mail, registradas em 26/10: 7 lotes da Cristiano Kraemer com negociação suspensa desde 2014). Os 21 (16/09), 22 (06/10), 19 (14/10, parcial: três pareceres, sem o quarto processo; reexame apresentado no mesmo dia e indeferido em 27/10, por serem documentos preparatórios) e 23 (19/10, parcial: TAC do MP não localizado, com indício de averbações nas matrículas; arquivado sem reexame) foram respondidos; o 25 (drenagem, feito à CTAAPS após a resposta do DMAE) foi respondido pela PGM em 05/11: projeto não elaborado, adiado até a conclusão das desapropriações; o 26 (PGM) trouxe em 05/11 o Parecer 985/1997 e a Informação 4084/2022 e declarou que não há cronograma das desapropriações; o 29 (SMAMUS, 09/11, parcial) informou os expedientes ligados ao P8 (suspenso por ordem judicial) e ao P5 (em análise), sem Termo de Compromisso nem contrapartida confirmada, com reexame do item 1 apresentado no mesmo dia. A documentação de 24–25/09 reconcilia as parcelas fundiárias do P7; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes (P6), não ao P1.
+A trilha LAI soma **30 pedidos protocolados**. A situação atual está no [acompanhamento](relatorios/pedidos-informacao-lai.md#acompanhamento): Pedido 14 vencido sem resposta (refeito no 27); 16 com peças faltantes (reexame não apresentado), pedidas no 26 e recebidas em 05/11; 18 respondido em 30/09 sem localização do depósito (remetido à SMAMUS); 28 e 30 aguardando resposta (prazo 09/11); 24 e 27 vencidos sem resposta; o 20 foi respondido pela SMF (intermediária em 15/10; planta e planilha das desapropriações por e-mail, registradas em 26/10: 7 lotes da Cristiano Kraemer com negociação suspensa desde 2014). Os 21 (16/09), 22 (06/10), 19 (14/10, parcial: três pareceres, sem o quarto processo; reexame apresentado no mesmo dia e indeferido em 27/10, por serem documentos preparatórios) e 23 (19/10, parcial: TAC do MP não localizado, com indício de averbações nas matrículas; arquivado sem reexame) foram respondidos; o 25 (drenagem, feito à CTAAPS após a resposta do DMAE) foi respondido pela PGM em 05/11: projeto não elaborado, adiado até a conclusão das desapropriações, com reexame sobre o responsável apresentado em 09/11; o 26 (PGM) trouxe em 05/11 o Parecer 985/1997 e a Informação 4084/2022 e declarou que não há cronograma das desapropriações; o 29 (SMAMUS, 09/11, parcial) informou os expedientes ligados ao P8 (suspenso por ordem judicial) e ao P5 (em análise), sem Termo de Compromisso nem contrapartida confirmada, com reexame do item 1 apresentado no mesmo dia. A documentação de 24–25/09 reconcilia as parcelas fundiárias do P7; a faixa da Três Meninas 1085 fica junto à Florestan Fernandes (P6), não ao P1.
 
 **Reunião:** a ata da reunião com a Diretoria da EPTC (22/09) foi recebida em 08/10/2026, em versão revisada ainda não final; os encaminhamentos estão em [PENDENCIAS.md](PENDENCIAS.md). As decisões documentadas de 13/08 permanecem como referência. **O protocolo principal (ofício à SMAMUS) não foi realizado; a comissão articula uma reunião com a SMAMUS.**
 
-A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregados são estimativas descritivas e a comparação R05/R06 mede assimetria entre sentidos, não o efeito isolado da alça. Conferido no Console em 26/09/2026: a coleta segue ativa (12 rodadas por dia, 14 rotas), com a cota diária de 200 em cerca de 84% de uso e sem custo da Routes API até então; ver [detalhe](campo/sonda-tempos-google.md). Coleta física e questionário seguem em espera e não bloqueiam o protocolo.
+Os agregados da sonda têm **8.582 medições em 14 rotas**, de 04/07 a 01/09; são estimativas descritivas, e a comparação R05/R06 mede assimetria entre sentidos, não o efeito isolado da alça. A **coleta foi pausada em 01/11/2026** (série de 04/07 a 01/11, ainda não reagregada); ver [detalhe](campo/sonda-tempos-google.md). Coleta física e questionário seguem em espera e não bloqueiam o protocolo.
 
 **Ordem e datas:** [ROTEIRO.md](ROTEIRO.md) — caminho crítico, trilhas paralelas e janelas de calendário (LOA 2027, PDUS). **Pendências abertas:** [PENDENCIAS.md](PENDENCIAS.md). **Antes de circular/protocolar:** [LIBERACAO.md](LIBERACAO.md) (+ `make release-check`). **Inspeção nova? Comece pela** [ARQUITETURA.md](ARQUITETURA.md) — como as peças (dois repositórios, fluxos de dado, governança) se encaixam.
 
@@ -41,14 +41,14 @@ A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregad
 **Plano e propostas**
 - [ROTEIRO.md](ROTEIRO.md) — **caminho crítico, trilhas paralelas e datas-alvo (jul–out 2026)**
 - [plano-de-trabalho.md](plano-de-trabalho.md) — plano fundador (histórico; etapas 0–9)
-- [propostas/problemas-priorizados.md](propostas/problemas-priorizados.md) — **matriz dos pontos — 8 + P9 preliminar (v4)**
+- [propostas/problemas-priorizados.md](propostas/problemas-priorizados.md) — **matriz dos pontos — 8 + P9 preliminar (v7)**
 - [propostas/avaliacao-solucoes-iniciais.md](propostas/avaliacao-solucoes-iniciais.md) — avaliação das 3 soluções + escada de intervenção
 
 **Relatórios e peças**
 - [relatorios/revisao-documental.md](relatorios/revisao-documental.md) — enquadramento legal/institucional
 - [relatorios/memorando-1pagina.md](relatorios/memorando-1pagina.md) — memorando (uso interno, rastreável)
 - [relatorios/memorando-externo.md](relatorios/memorando-externo.md) — **versão institucional limpa**
-- [relatorios/oficio-eptc-rascunho.md](relatorios/oficio-eptc-rascunho.md) — **rascunho de ofício à EPTC**
+- [relatorios/oficio-eptc-rascunho.md](relatorios/oficio-eptc-rascunho.md) — **rascunho de ofício (canal principal SMAMUS, cópia à EPTC/SMMU; não protocolado)**
 - [relatorios/anexo-matriz-pontos.md](relatorios/anexo-matriz-pontos.md) — **anexo externo (1 linha por ponto)**
 - [relatorios/guia-validacao-comissao.md](relatorios/guia-validacao-comissao.md) — **pauta de validação e encaminhamento do protocolo**
 - [relatorios/linha-do-tempo-documental.md](relatorios/linha-do-tempo-documental.md) — **cronologia 2009→2026 em uma página** (o que a cidade pactuou, projetou e declarou, e o que parou); [versão HTML para projetar](relatorios/linha-do-tempo-documental.html)
@@ -92,7 +92,7 @@ A sonda local tem **8.582 medições em 14 rotas**, de 04/07 a 01/09; os agregad
 ## Notas importantes
 - **Dados de sinistros = associação preliminar por distância, não prova causal.** Exigem validação técnica; a vistoria solicitada à EPTC é a via principal para isso.
 - **Grafia:** "Estr. Cristiano **Kraemer**" (confirmada pela comissão).
-- **Marco urbanístico:** PDUS/LUOS **aprovados pela Câmara em 2026**; sanção/publicação e transição **a confirmar**.
+- **Marco urbanístico:** PDUS/LUOS **aprovados pela Câmara em 2026** e **sancionados em 14/07/2026**; textos finais, vetos e transição **a conferir**.
 - A obra asfáltica da Cristiano Kraemer é **SMSUrb (pavimento)**, ≠ projeto PSVS da Monte Cristo.
 - **Privacidade:** nomes de moradores anonimizados (Morador A/B). Revisões internas, expedientes administrativos brutos (com dados pessoais/registrais) e a base bruta de sinistros (~15 MB) não são versionados.
 - **Escopo (contribuição comunitária):** além de circulação/segurança, investigar **drenagem/alagamento**; os impactos alcançam também o Terraville e demais usuários da região.

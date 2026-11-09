@@ -38,7 +38,7 @@ pessoais/registrais ficam no privado ou em `interno/` (gitignored).
 O coletor roda em **Google Cloud (Cloud Function + Scheduler)** nos picos e **commita a
 série no repo privado** `alpha-viario-sonda` — **não** é GitHub Actions (o workflow que
 existe lá é só variante documentada; não confundir "workflow active" com "coletando"). O
-sinal de que está viva é o **commit diário de dados**. Para o dossiê, `make sonda-agg`
+sinal de que está viva é o **commit diário de dados**; os jobs estão **pausados desde 01/11/2026**. Para o dossiê, `make sonda-agg`
 baixa a série (via `gh`) e roda `scripts/agregar_sonda.py`, gerando
 `dados/tratados/sonda_tempos_{agregado.csv,resumo.md}` — **só agregados** entram no dossiê.
 A chave da API nunca entra em nenhum repositório. Detalhe e travas de custo:
@@ -49,7 +49,7 @@ Capturas do Google Maps (e, se acionada, coleta física) → registradas em
 `campo/observacoes/inventario-evidencias.csv` com classificação **público/interno**.
 
 ### 4. Documentos oficiais (LAI) e questionário
-Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (24 protocolados; situação datada no acompanhamento) buscam o que só a
+Os [pedidos LAI](relatorios/pedidos-informacao-lai.md) (30 protocolados; situação datada no acompanhamento) buscam o que só a
 Prefeitura tem. Uma **segunda via documental** é a administração do
 empreendimento, que repassou à comissão o TC integral, aditivos, pareceres e decretos
 (`nova-documentacao/`, gitignored). **As respostas brutas ficam em

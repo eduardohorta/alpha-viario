@@ -29,4 +29,4 @@
 - **P8 — semáforo Costa Gama × A. L. Mariante:** **tempos de semáforo** (ciclo, verde por aproximação); **fila residual após o verde**; defasagem com semáforos vizinhos; volume por aproximação; ônibus/pedestres.
 
 ## Demandas comunitárias a verificar em campo
-- **Estr. Três Meninas — pedido de quebra-molas** (relato Morador A, antes do "Veneto" e do "Lombardia"): registrar **velocidade praticada**, pedestres/travessias e acessos no trecho — necessário para **justificar tecnicamente** uma lombada (CONTRAN Res. 600/2016). Ver [registro de demandas](../../consultas/registro-demandas-comunitarias.md).
+- **Estr. Três Meninas — pedido de quebra-molas** (relato Morador A, antes do "Veneto" e do "Lombardia"): registrar **velocidade praticada**, pedestres/travessias e acessos no trecho — necessário para **justificar tecnicamente** uma lombada (CONTRAN Res. 973/2022). Ver [registro de demandas](../../consultas/registro-demandas-comunitarias.md).

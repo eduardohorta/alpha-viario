@@ -31,7 +31,7 @@
    utilidade pública** as intervenções viárias do eixo da Três Meninas — e a maior parte
    **nunca foi concluída**.
 2. Alguns prazos administrativos **já venceram** (o projeto do P7 caducou; a declaração de
-   utilidade pública do P6 caducou em 28/12/2025), o que torna a apuração **urgente**: os Pedidos
-   8, 9, 10 e 16 pedem exatamente esse status atual.
+   utilidade pública do P6 caducou em 28/12/2025), como a PGM confirmou nos Pedidos 8, 9 e 26: só
+   a declaração do P6 caducou, as demais estão concluídas ou em ação judicial, e **não há cronograma**.
 3. Por isso o pleito não é "façam obras novas", e sim **"retomem e concluam o que já foi
    acordado, projetado e declarado"** — atualizado às condições de hoje.

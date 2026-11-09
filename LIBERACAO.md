@@ -32,25 +32,25 @@
 - [x] **Termos sensíveis:** `interno/termos-sensiveis.txt` **criado**
       — 23 termos conferidos na inspeção de 25/09; atualizar a lista privada antes de cada envio.
 
-## 2. Rechecagem institucional — posição de 25/09/2026 (atualizada em 14/10/2026)
+## 2. Rechecagem institucional — posição de 09/11/2026
 - [ ] **Ata:** a ata da reunião com a EPTC (22/09) foi recebida em 08/10/2026, em versão revisada ainda não final; fechar a versão (no P5, "Dr Vergara" vira "Estr. João Vedana") e cumprir os encaminhamentos (ver [PENDENCIAS.md](PENDENCIAS.md)).
 - [ ] **Protocolo principal:** não realizado (confirmado pela comissão em 08/10/2026); a comissão articula reunião com a SMAMUS. Decidir se o ofício segue como protocolo ou como apoio à reunião; número e data só no ato do envio.
-- [ ] **LAIs:** 30 pedidos protocolados. Acompanhar 14, respostas 28/30 (prazo 09/11) e os vencidos 24 e 27 (o 18 foi respondido sem localização em 30/09 e remetido à SMAMUS, gerando o 24); o 20 em 15/10 (intermediária) e 26/10 (planta e planilha por e-mail); o 21 foi respondido em 16/09, o 19 em 14/10, em parte (reexame do item "d" apresentado no mesmo dia e indeferido em 27/10: documentos preparatórios); o 23 em 19/10, em parte (TAC do MP não localizado; arquivado sem reexame); o 25 em 05/11, pela PGM (projeto de drenagem não elaborado, adiado até a conclusão das desapropriações; reexame até 15/11); o 26 em 05/11 (Parecer 985/1997, Informação 4084/2022 e situação dos quatro processos, sem cronograma; fecha o 16); e o 29 em 09/11, em parte (expedientes dos P8 e P5, sem contrapartida confirmada; reexame do item 1 apresentado no mesmo dia, prazo final 19/11). Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
-- [ ] **LOA 2027:** envio do projeto até 15/out e votação até 5/dez, conforme [fonte municipal](https://prefeitura.poa.br/smpg/lei-orcamentaria-anual-loa). Confirmar viabilidade orçamentária do pleito; o calendário não garante recursos.
+- [ ] **LAIs:** 30 pedidos protocolados. Acompanhar 14, respostas 28/30 (prazo 09/11) e os vencidos 24 e 27, em espera por decisão de 09/11 (o 18 foi respondido sem localização em 30/09 e remetido à SMAMUS, gerando o 24); o 20 em 15/10 (intermediária) e 26/10 (planta e planilha por e-mail); o 21 foi respondido em 16/09, o 19 em 14/10, em parte (reexame do item "d" apresentado no mesmo dia e indeferido em 27/10: documentos preparatórios); o 23 em 19/10, em parte (TAC do MP não localizado; arquivado sem reexame); o 25 em 05/11, pela PGM (projeto de drenagem não elaborado, adiado até a conclusão das desapropriações; reexame sobre o responsável apresentado em 09/11, prazo final 19/11); o 26 em 05/11 (Parecer 985/1997, Informação 4084/2022 e situação dos quatro processos, sem cronograma; fecha o 16); e o 29 em 09/11, em parte (expedientes dos P8 e P5, sem contrapartida confirmada; reexame do item 1 apresentado no mesmo dia, prazo final 19/11). Consultar os prazos na [tabela atual](relatorios/pedidos-informacao-lai.md#acompanhamento).
+- [ ] **LOA 2027:** envio do projeto até 15/out (data já passada; conferir o envio) e votação até 5/dez, conforme [fonte municipal](https://prefeitura.poa.br/smpg/lei-orcamentaria-anual-loa). Confirmar viabilidade orçamentária do pleito; o calendário não garante recursos.
 - [ ] **PDUS/LUOS:** conferir textos finais, vetos, publicação, transição e parâmetros aplicáveis; a resposta do Pedido 6 inclui referências a minutas.
-- [ ] **P2:** acompanhar a manifestação da EPTC sobre o nó da Monte Cristo. A SMMU informou (Pedido 5) que o projeto *implantado* no nó é da GPTC-EPTC; a ata de 22/09 registra que o trevo "não possui nenhum projeto atualmente" (compatível: sem projeto de melhoria). O Pedido 30 (EPTC, 018518-26-45, prazo 28/10) pergunta se há estudo ou proposta.
+- [ ] **P2:** acompanhar a manifestação da EPTC sobre o nó da Monte Cristo. A SMMU informou (Pedido 5) que o projeto *implantado* no nó é da GPTC-EPTC; a ata de 22/09 registra que o trevo "não possui nenhum projeto atualmente" (compatível: sem projeto de melhoria). O Pedido 30 (EPTC, 018518-26-45, prazo 09/11) pergunta se há estudo ou proposta.
 - [ ] **Desenhos e execução:** manter distinta a aprovação histórica, a validade atual, a situação fundiária e a implantação física.
 - [ ] **Canais:** confirmar setor de protocolo, encaminhamento das cópias e enquadramento territorial do novo P9.
 
 ## 3. Base de evidência e enquadramento técnico
-- [x] **Sonda local:** 8.582 medições, 14 rotas, 04/07–01/09/2026; [resumo](dados/tratados/sonda_tempos_resumo.md). R05/R06 medem assimetria direcional, sem isolar o efeito da alça. Conferir série posterior em produção quando necessário.
+- [x] **Sonda local:** 8.582 medições, 14 rotas, 04/07–01/09/2026; [resumo](dados/tratados/sonda_tempos_resumo.md). R05/R06 medem assimetria direcional, sem isolar o efeito da alça. Coleta pausada em 01/11/2026; a série até essa data só precisa ser reagregada se a comissão quiser usá-la.
 - [x] **Sinistros:** base EPTC principal, auxiliar sem filtro de vítimas e [reconciliação por ID na janela comum](dados/tratados/sinistros_reconciliacao.md).
 - [x] **Novo P9:** Rua Santuário × Av. Oscar Pereira, pin de 14/08; 55 sinistros EPTC e 17 auxiliares.
 - [ ] **LAIs:** incorporar respostas futuras e manter pendências datadas.
 - [ ] **Pedido institucional:** preservar o caráter indicativo, a solicitação de vistoria e a validação pela autoridade competente.
 
 ## 4. Residuais para o ato do protocolo
-- Confirmar número/data do ofício (atualmente nº 01/2026, setembro de 2026).
+- Confirmar número/data do ofício (atualmente nº 01/2026, setembro de 2026; a data já passou e deve ser ajustada no ato).
 - Gerar `make pacote` e executar `make release-check`; verificar visualmente o PDF. O gate automático não certifica o conteúdo jurídico nem substitui essa inspeção.
 - Conferir a lista privada de termos sensíveis e os anexos que efetivamente serão enviados.
 
