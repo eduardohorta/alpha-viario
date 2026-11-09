@@ -16,7 +16,7 @@
 > O **depósito da Cláusula Nona** segue sem confirmação: a SMF não o localizou (30/09/2026), e o
 > Pedido 24 à SMAMUS venceu sem resposta (05/11/2026).
 >
-> **Atualização (nov/2026):** [Pedido 25](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações), [Pedido 26](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma) e [Pedido 29](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise).
+> **Atualização (nov/2026):** [Pedido 25](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações), [Pedido 26](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma), [Pedido 28](#resposta-lai-ao-pedido-28-09112026-demolição-designada-para-2810-sem-notificação-ao-empreendedor-e-sem-processo-de-desapropriação-na-rodrigues-da-fonseca) e [Pedido 29](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise).
 
 ## Fontes administrativas examinadas
 
@@ -564,7 +564,8 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
   2025. *(24/09/2026: reconciliado. A alça tem ao menos três parcelas, cada uma com decreto
   próprio — 20.860/2020, concluída por acordo em 2025; 20.808/2020, com escritura em 26/11/2025 e
   registro aparentemente em andamento; e 22.570/2024, em ação judicial desde 08/07/2026.)* A
-  demolição judicial permanece um obstáculo físico separado.
+  demolição judicial permanece um obstáculo físico separado. *(09/11/2026: executada, segundo informação da
+  comissão, sem confirmação oficial; ver o Pedido 28.)*
 - **Eixo (Três Meninas 1085)** — a desapropriação (Decreto 20.861/2020) está **em ação judicial dentro do prazo**,
   sem imissão provisória na posse; não houve caducidade, mas a área ainda não está disponível por
   essa via.
@@ -670,7 +671,8 @@ segurança e trafegabilidade", permite uso de força policial se necessário, e 
 "**bem público de uso comum do povo**". O mandado foi expedido com **prioridade em 03/07/2026** —
 ou seja, a demolição do obstáculo físico do P7 está **juridicamente resolvida**, pendente apenas
 da execução material, que o Município deve reportar à Justiça com fotos em até 15 dias após
-cumprida.
+cumprida. **Atualização (09/11/2026):** a PGM informa a data de 28/10/2026 para o cumprimento, sem dizer se
+ocorreu; a comissão informa que a demolição já foi executada, sem confirmação oficial até aqui ([leitura](#resposta-lai-ao-pedido-28-09112026-demolição-designada-para-2810-sem-notificação-ao-empreendedor-e-sem-processo-de-desapropriação-na-rodrigues-da-fonseca)).
 
 O **próprio agravo de instrumento** (julgado por unanimidade em 12/02/2026) foi lido na íntegra e
 traz três achados que vão além do que a resposta do Pedido 8 resumia: (1) resolve **definitivamente**
@@ -1487,6 +1489,45 @@ nem de propor ação de usucapião, por custo-benefício.
   do Arado. O item 2 ficou de fora: o reexame do Pedido 19 foi indeferido com documentos tratados como
   preparatórios, e o EVU segue em análise.
 
+## Resposta LAI ao Pedido 28 (09/11/2026): demolição designada para 28/10, sem notificação ao empreendedor e sem processo de desapropriação na Rodrigues da Fonseca
+
+> A resposta ao **Pedido 28** (protocolo **018515-26-81**), sobre a confluência do P7 e a Av. Rodrigues
+> da Fonseca, foi registrada no e-SIC em **09/11/2026, às 12h03**, no último dia do prazo prorrogado, sem
+> anexos. Responde o SIC da **PGM**, com a apuração de três setores (PUMARF, GEAR e PAESC). Texto bruto
+> em `retornos-protocolos/018515-26-81/resposta.md` (fora do repositório público).
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| 1(a) Mandado de demolição cumprido ou agendado? | **Data designada: 28/10/2026.** A resposta é de 12 dias depois dessa data e **não diz se o mandado foi cumprido**. A comissão informou no mesmo dia que a demolição já foi executada. |
+| 1(b) Outro imóvel na esquina com demolição prevista? | **Sem resposta direta.** Diz só que o mandado tem por objeto o galpão de madeira e zinco sobre o passeio público, "não se confundindo com o restante da construção". |
+| 2 Notificações ao empreendedor, prazo ou cobrança | **"Não há registro, nesta Gerência, de notificação ao empreendedor para execução da segunda fase da interseção."** Não cita prazo nem procedimento de cobrança; repete que a implantação está integrada ao alargamento e condicionada à regularização dominial e desapropriatória e ao cronograma das intervenções. |
+| 3 Alargamento da Rodrigues da Fonseca | **Não consta do Termo de Compromisso nº 41.198/2009**, nem há vínculo com outro termo acompanhado pela GEAR. A PAESC **não localizou processo de desapropriação** e diz que não recebeu solicitação para efetivá-la. Há apenas "processo da EPTC, em tramitação", sobre a proposta de alargamento, **sem o número**. |
+
+**O que isso muda.**
+
+- **P7, demolição:** a comissão informou em 09/11/2026 que a demolição **já foi executada**; falta a **confirmação
+  oficial**, com a data e o que de fato foi demolido. Pelas decisões já lidas, o Município deve comprovar o
+  cumprimento à Justiça com fotos em até 15 dias, o que, se ocorrido em 28/10, levaria a cerca de 12/11. Como o
+  mandado alcança só o galpão,
+  o "restante da construção", incluindo a casa citada na ata de 22/09, **não está coberto** por ele; a resposta
+  não indica outro processo. Pela observação da comissão, o trecho demolido seria só a ponta da confluência, onde ficava o
+  galpão sobre o passeio; não se sabe se a casa foi atingida.
+- **P7, cobrança:** desde o Parecer 093/2020, a GEAR não registra notificação ao empreendedor pela 2ª fase, embora a
+  própria GEAR tenha afirmado, em 28/03/2025, que as obrigações dele permanecem. A ressalva vale para os registros "nesta
+  Gerência". A leitura de que a cobrança não anda porque depende de desapropriações a cargo do próprio
+  Município é **inferência**: a resposta condiciona a implantação a elas, mas não explica a falta de notificação.
+- **Rodrigues da Fonseca:** o encaminhamento da ata de 22/09 dizia que o alargamento dependia da PGM. A PGM diz que nada
+  chegou a ela, e o processo localizado é da EPTC. O próximo passo é da **EPTC**, e não há contrapartida do Termo de
+  Compromisso a cobrar. O número do processo pode ser pedido à própria EPTC, junto com a confirmação por escrito das
+  informações da reunião.
+- **Reexame apresentado em 09/11/2026, às 13h52** (status "Aguardando reexame", prazo final 19/11/2026 no e-SIC),
+  restrito ao que ficou sem resposta: a data e o alcance da demolição, com a certidão de cumprimento; se há
+  demolição, desocupação ou desapropriação prevista para as demais edificações da confluência e se elas são
+  atingidas pelos decretos da alça ou pelo projeto da 2ª fase; a cobrança ao empreendedor em outros setores da
+  PGM; e o número e a situação do processo da EPTC sobre a Rodrigues da Fonseca.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -1495,7 +1536,7 @@ nem de propor ação de usucapião, por custo-benefício.
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação (a SMF não localizou o depósito, e o Pedido 24 venceu sem resposta); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026; cumprimento designado para 28/10/2026, Pedido 28, e executado segundo informação da comissão em 09/11/2026, sem confirmação oficial); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação (a SMF não localizou o depósito, e o Pedido 24 venceu sem resposta); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Sem cobertura específica identificada** | P9 atual | Rua Santuário × Av. Oscar Pereira. A antiga associação ao eixo Cristiano Kraemer referia-se à rótula retirada em 13/08, mantida apenas no histórico de D4. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. Nos P5 e P8, a resposta ao Pedido 29 (09/11/2026) **não confirma** as contrapartidas citadas pela EPTC em 22/09: EVU em análise no P5; EVU de 2023 com tramitação suspensa por ordem judicial no empreendimento ligado ao P8 ([leitura](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise)). |
 
@@ -1517,4 +1558,4 @@ vigente**. A PGM informa que o imóvel diretamente referido no Decreto 20.860 fo
 por acordo em 2025. A reconciliação de 24/09 identificou três parcelas da mesma alça, com decretos próprios: 092 concluído; 093 com escritura, faltando o registro; 094 em ação judicial. A formulação
 pública correta é: **a cidade projetou e aprovou uma solução, não a implantou e a deixou caducar;
 a obrigação de concluí-la segue vigente, mas sua viabilização exige projeto e sinalização novos,
-execução material da demolição judicial e confirmação completa da situação fundiária**.
+confirmação oficial da demolição judicial e confirmação completa da situação fundiária**.

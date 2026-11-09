@@ -796,6 +796,10 @@ perguntas, cita o protocolo vencido e **não substitui** o Pedido 14, que segue 
 **Protocolado em 08/10/2026** (nº **018515-26-81**, prazo **28/10/2026** conforme o e-SIC; tema
 "Obras Públicas"; sem anexos).
 
+**Respondido em 09/11/2026, às 12h03**, no último dia do prazo prorrogado: demolição designada para
+28/10 (executada, segundo a comissão, sem confirmação oficial), sem registro de notificação ao empreendedor e sem processo de desapropriação na Rodrigues da
+Fonseca; ver [Respostas recebidas](#respostas-recebidas).
+
 **Órgão:** Procuradoria-Geral do Município (PGM), mesmo canal dos Pedidos 8, 16, 21 e 26.
 
 **Origem:** encaminhamento 2 da ata da reunião com a Diretoria da EPTC (22/09/2026): a EPTC orientou
@@ -836,6 +840,34 @@ Pedido 26 (peças restantes do 16) segue em aberto.
 > preservando os fatos institucionais e jurídicos.
 
 **Anexos:** nenhum.
+
+**Reexame dos itens 1, 2 e 3(b) — apresentado em 09/11/2026, às 13h52** (conferido no e-SIC: status
+"Aguardando reexame", prazo final 19/11/2026; a autoridade responde em 10 dias, improrrogável, art. 23
+do Decreto 19.990/2018). Não repete o que foi respondido com clareza (alargamento da Rodrigues da Fonseca
+fora do Termo de Compromisso, sem processo nem solicitação de desapropriação na PGM). O texto abaixo é o
+enviado:
+
+> Pedido de reexame (art. 22 do Decreto Municipal nº 19.990/2018) do pedido nº 018515-26-81, respondido em 09/11/2026, restrito aos pontos abaixo, que ficaram sem resposta.
+>
+> Quanto ao item 1, a resposta informou que foi designada a data de 28/10/2026 para o cumprimento do mandado de demolição no processo nº 5003552-35.2014.8.21.0001 e que seu objeto é o galpão de madeira e zinco erigido sobre o passeio público, "não se confundindo com o restante da construção". Não informou se o mandado foi cumprido (item 1a) nem se há demolição ou desocupação prevista para outro imóvel na esquina (item 1b).
+>
+> Quanto ao item 2, informou que não há registro de notificação ao empreendedor "nesta Gerência", sem tratar do restante da PGM nem do prazo, cronograma ou procedimento de cobrança, também pedidos.
+>
+> Quanto ao item 3, informou que há processo da EPTC em tramitação sobre a proposta de alargamento da Av. Rodrigues da Fonseca, sem o número e a situação, pedidos no item 3(b).
+>
+> Solicito:
+>
+> (1) informar se o mandado de demolição foi cumprido, em que data e o que foi efetivamente demolido, com cópia do auto ou certidão de cumprimento, se houver, ou informar a nova data, se não foi cumprido;
+>
+> (2) informar se há demolição, desocupação ou desapropriação prevista, judicial ou administrativamente, para o restante da construção referida na resposta ou para outras edificações situadas entre a Estrada das Três Meninas e a Estrada Costa Gama, junto à confluência, e se essas edificações são atingidas pelos Decretos nº 20.808/2020, 20.860/2020 ou 22.570/2024 ou pelo projeto da segunda fase da interseção, indicando o processo e a situação, ou a informação expressa de que não há previsão;
+>
+> (3) informar se outro setor da PGM tem registro de notificação ou cobrança ao empreendedor do Termo de Compromisso nº 41.198/2009 quanto à segunda fase da interseção, posterior ao Parecer CTAAPS nº 093/2020, e se há prazo, cronograma ou procedimento de cobrança em curso, ou a informação expressa de que não há;
+>
+> (4) informar o número e a situação do processo da EPTC localizado sobre a proposta de alargamento da Av. Rodrigues da Fonseca;
+>
+> (5) caso este órgão não detenha alguma dessas informações, indicar expressamente o órgão ou setor que a detém, nos termos do art. 11, §1º, III, da Lei Federal nº 12.527/2011.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros; se os documentos contiverem esses dados, podem ser tarjados.
 
 ## Pedido 29 — SMAMUS: Termos de Compromisso e contrapartidas viárias dos empreendimentos Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5)
 
@@ -1178,6 +1210,8 @@ repositório público).
   reexame:** até 15/11/2026, sem necessidade aparente. Resposta e anexos em
   `retornos-protocolos/018485-26-62/`. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma).
+- **Pedido 28 (018515-26-81) — respondido (09/11/2026, às 12h03, no último dia do prazo prorrogado), parcial.** A **PGM** informou: (1) data de **28/10/2026** designada para o mandado de demolição, que alcança só o galpão sobre o passeio público, "não se confundindo com o restante da construção"; (2) a GEAR **não tem registro de notificação ao empreendedor** pela 2ª fase da interseção com a Costa Gama, e a implantação segue condicionada às desapropriações; (3) o alargamento da **Rodrigues da Fonseca** não consta do Termo de Compromisso, não há processo de desapropriação nem solicitação recebida, e existe só um processo da EPTC sobre a proposta. **Limites:** não diz se a demolição ocorreu (a comissão informou no mesmo dia que já foi executada, sem confirmação oficial), não trata diretamente de outro imóvel na esquina (item 1b), não cita prazo ou cobrança e não dá o número do processo da EPTC. **Reexame dos itens 1, 2 e 3(b) apresentado em 09/11/2026, às 13h52** (prazo final 19/11/2026), com o texto na seção do Pedido 28: pede a data e o alcance da demolição, a situação das demais edificações da confluência, a cobrança ao empreendedor em outros setores da PGM e o número do processo da EPTC. Resposta guardada em `retornos-protocolos/018515-26-81/`. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-28-09112026-demolição-designada-para-2810-sem-notificação-ao-empreendedor-e-sem-processo-de-desapropriação-na-rodrigues-da-fonseca).
 - **Pedido 29 (018516-26-39) — respondido (09/11/2026, às 09h42, no último dia do prazo prorrogado), parcial: expedientes informados, sem Termo de Compromisso nem contrapartida.**
   A **SMAMUS** (Diretoria de Planejamento Urbano) informou: **item 1**, EU 002.330742.00.5, SEI
   22.0.000091061-2, Av. Lami, 2229, com EVU aprovado pela CAUGE em 19/05/2023 (Parecer 021/2023) e
@@ -1347,7 +1381,7 @@ repositório público).
 | 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ ~~05/11/2026~~ **19/11/2026** (e-SIC, após o reexame) | **respondido (05/11/2026, 23h03, pela PGM)** — projeto de drenagem não elaborado; elaboração adiada até a conclusão das desapropriações (validade de 4 anos dos projetos complementares, Dec. 20.659/2020); não diz quem elabora nem quem executa; **reexame apresentado em 09/11 (11h36)** — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | ~~26/10~~ **05/11/2026** | **respondido (05/11/2026, 23h16)** — Parecer 985/1997 e Informação 4084/2022 enviados; situação de cada processo com a FC correspondente; cronograma declarado inexistente (art. 12, III, Dec. 19.990/2018) — complementa o Pedido 16, que fica fechado |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que venceu do mesmo modo |
-| 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
+| 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 12h03), parcial** — demolição designada para 28/10, sem dizer se ocorreu (executada, segundo a comissão, sem confirmação oficial); sem registro de notificação ao empreendedor; Rodrigues da Fonseca fora do Termo de Compromisso, sem processo de desapropriação, só processo da EPTC; **reexame dos itens 1, 2 e 3(b) apresentado em 09/11 (13h52)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
 | 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 09h42), parcial** — expedientes informados (EU 002.330742.00.5, EVU de 2023 com tramitação suspensa por ordem judicial; EU 002.202375.00.0, EVU em análise), sem Termo de Compromisso, parecer ou peça viária; **reexame do item 1 apresentado em 09/11 (11h06)** — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
 | 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
@@ -1493,7 +1527,7 @@ status no e-SIC.
 
 **Prazos dos Pedidos 28, 29 e 30 (conferidos no e-SIC em 06/11/2026):** a lista de solicitações
 mostra **09/11/2026** como prazo final dos três, não o sábado 07/11 dos e-mails de prorrogação; a
-resposta da PGM ao Pedido 26 também cita 09/11 como prazo do Pedido 28. Vale o prazo do e-SIC. O Pedido 29 foi respondido em 09/11, às 09h42, e teve reexame apresentado às 11h06.
+resposta da PGM ao Pedido 26 também cita 09/11 como prazo do Pedido 28. Vale o prazo do e-SIC. O Pedido 29 foi respondido em 09/11, às 09h42, e teve reexame apresentado às 11h06; o Pedido 28, às 12h03, com reexame às 13h52.
 
 **Pedidos 24 e 27 vencidos sem resposta (conferidos no e-SIC em 06/11/2026):** o **24** (SMAMUS,
 Cláusula Nona) segue com status PRAZO_PRORROGADO depois do prazo de 05/11; o **27** (DMAE, redes de
