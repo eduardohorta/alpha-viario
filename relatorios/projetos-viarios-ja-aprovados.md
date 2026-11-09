@@ -1432,6 +1432,61 @@ nem de propor ação de usucapião, por custo-benefício.
   Não há reexame a fazer; o prazo, se a comissão quiser insistir no cronograma, vai até 15/11/2026
   (domingo; na prática, sexta 13/11).
 
+## Resposta LAI ao Pedido 29 (09/11/2026): Ponta do Arado com EVU aprovado e tramitação suspensa por ordem judicial; Av. da Cavalhada, 4050, com EVU ainda em análise
+
+> A resposta ao **Pedido 29** (protocolo **018516-26-39**), sobre as contrapartidas que a EPTC citou
+> na reunião de 22/09/2026 para o P8 e o P5, foi registrada no e-SIC em **09/11/2026, às 09h42**, no
+> último dia do prazo prorrogado, sem anexos. Assinam a **Diretoria de Planejamento Urbano** e o SIC
+> da **SMAMUS**. Texto bruto em `retornos-protocolos/018516-26-39/resposta.md` (fora do repositório
+> público).
+
+**Por item do pedido.**
+
+| | Item 1: Ponta do Arado (P8) | Item 2: esquina João Salomoni × Cavalhada (P5) |
+|---|---|---|
+| (a) EU, SEI e endereço | EU **002.330742.00.5**; SEI **22.0.000091061-2** (aprovação de EVU); Av. Lami, nº 2229 | EU **002.202375.00.0**; SEI **25.0.000178080-0**; Av. da Cavalhada, nº 4050 |
+| Etapa informada | EVU aprovado pela CAUGE em **19/05/2023** (Parecer 021/2023); tramitações na Prefeitura **suspensas "por determinação judicial"** | EVU de parcelamento do solo (loteamento) **em análise** nas secretarias da comissão de parcelamento do solo, na CTAAPS |
+| (b) Termo de Compromisso e parecer | **Não enviados:** "não temos as demais informações" | **Não enviados:** "ainda não é possível fornecer maiores informações" |
+| (c) Projeto viário | Não enviado | Não enviado, sem o traçado da nova via |
+
+**Conferência da identidade dos empreendimentos.** A resposta não repete os nomes usados no pedido.
+
+- **Item 1:** a SMAMUS não escreve "Ponta do Arado" e trata de um **loteamento**, não de um condomínio.
+  A [imprensa](https://www.jornaldocomercio.com/colunas/pensar-a-cidade/2023/06/amp/1112897-avanca-projeto-para-construir-na-fazenda-do-arado.html)
+  dá a "avenida do Lami, 2.229, bairro Belém Novo" como endereço do loteamento de 428 hectares da
+  Fazenda do Arado, e a [Prefeitura](https://prefeitura.poa.br/smamus/noticias/aprovado-projeto-para-construcoes-na-fazenda-do-arado)
+  noticiou a aprovação do EVU pelo Conselho do Plano Diretor em 22/08/2023. Nenhuma das duas páginas
+  cita o EU, o SEI ou o Parecer 021/2023.
+- **A ordem judicial não é identificada** pela SMAMUS. A [imprensa](https://www.brasildefato.com.br/2024/06/06/juiza-suspende-lei-que-permitiu-construcao-de-bairro-planejado-na-fazenda-do-arado/)
+  noticiou, em junho de 2024, uma liminar da 20ª Vara da Fazenda Pública, em ação civil pública do
+  Ministério Público, que suspendeu a aplicação da Lei Complementar 935/2022, a lei que permitiu o
+  parcelamento da área. É compatível com a resposta, mas o dossiê **não conferiu** que seja a mesma
+  decisão, nem a situação atual do processo.
+- **Item 2:** a SMAMUS não cita a incorporadora, a esquina ou a nova via. Pela numeração, o nº 4050 é
+  compatível com a esquina: o nº 3000 da Cavalhada fica a cerca de 890 m, em linha reta, da João
+  Salomoni (OpenStreetMap). É estimativa, a conferir no SEI. A resposta não cita a Dr. Vergara nem a
+  João Vedana.
+
+**O que isso muda.**
+
+- **P8: a contrapartida citada pela EPTC segue sem documento.** A área fica a mais de 10 km do P8, em
+  linha reta, e as contrapartidas [noticiadas em 2023](https://www.jornaldocomercio.com/colunas/pensar-a-cidade/2023/06/amp/1112897-avanca-projeto-para-construir-na-fazenda-do-arado.html)
+  (orla de Belém Novo, unidades de saúde, lote para estação de tratamento de água) não mencionam a
+  Costa Gama nem a Afonso Lourenço Mariante, embora a matéria ressalve outras medidas mitigadoras ou
+  compensatórias. Mesmo que exista, nada avança enquanto a suspensão durar. O P8 segue como pleito
+  próprio, sem contar com essa contrapartida.
+- **P5: ainda não há instrumento definido.** A nova via informada pela EPTC não tem documento, porque
+  o EVU está em análise. A leitura de que esta é a etapa em que as contrapartidas se definem é
+  **inferência**: a comissão pode acompanhar o SEI 25.0.000178080-0, levar a conversão do P5 às
+  secretarias da CTAAPS e repetir o pedido quando o EVU sair.
+- **Lacuna no item 1:** o Parecer CAUGE 021/2023 já existe. A suspensão explica por que o processo não
+  andou, mas não por que uma peça concluída não foi enviada, e a resposta não alega sigilo. **Reexame
+  apresentado em 09/11/2026, às 11h06** (status "Aguardando reexame", prazo final 19/11/2026 no e-SIC),
+  restrito ao item 1: pede a cópia do parecer, a situação do Termo de Compromisso, se há contrapartida
+  viária no P8, a identificação da decisão judicial e a confirmação de que o expediente é o de Ponta
+  do Arado. O item 2 ficou de fora: o reexame do Pedido 19 foi indeferido com documentos tratados como
+  preparatórios, e o EVU segue em análise.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -1442,7 +1497,7 @@ nem de propor ação de usucapião, por custo-benefício.
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
 | **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026, pendente de execução material); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação financeira pela SMF (Pedido 18); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Sem cobertura específica identificada** | P9 atual | Rua Santuário × Av. Oscar Pereira. A antiga associação ao eixo Cristiano Kraemer referia-se à rótula retirada em 13/08, mantida apenas no histórico de D4. |
-| **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. |
+| **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. Nos P5 e P8, a resposta ao Pedido 29 (09/11/2026) **não confirma** as contrapartidas citadas pela EPTC em 22/09: EVU em análise no P5; EVU de 2023 com tramitação suspensa por ordem judicial no empreendimento ligado ao P8 ([leitura](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise)). |
 
 ## Consequência prática para o projeto
 

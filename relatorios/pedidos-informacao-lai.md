@@ -824,6 +824,10 @@ Pedido 26 (peças restantes do 16) segue em aberto.
 **Protocolado em 08/10/2026** (nº **018516-26-39**, prazo **28/10/2026** conforme o e-SIC; tema
 "Infraestrutura Urbana"; sem anexos).
 
+**Respondido em 09/11/2026, às 09h42**, no último dia do prazo prorrogado: vieram os números dos
+expedientes, sem Termo de Compromisso, parecer ou projeto viário; ver
+[Respostas recebidas](#respostas-recebidas).
+
 **Órgão:** SMAMUS, mesmo canal dos Pedidos 11, 19 e 24.
 
 **Origem:** encaminhamento 6 da ata da reunião com a Diretoria da EPTC (22/09/2026): foram citadas
@@ -870,7 +874,35 @@ enquanto a Estr. João Vedana corre uns 290 m ao norte da Av. João Salomoni, pa
 duas começam junto à Av. da Cavalhada. Não há, portanto, ligação dessa via com o P6. A grafia usual
 da incorporadora é "Melnick"; a ata escreve "Melnik". O pedido identifica o empreendimento pela
 esquina e pede o traçado da nova via, então a SMAMUS ainda pode atendê-lo; se a resposta vier em
-torno da Dr. Vergara, o caminho é o reexame.
+torno da Dr. Vergara, o caminho é o reexame. **Atualização (09/11/2026):** a resposta identifica o
+item 2 pelo endereço e não cita a Dr. Vergara nem a João Vedana.
+
+**Reexame do item 1 — apresentado em 09/11/2026, às 11h06** (conferido no e-SIC: status "Aguardando
+reexame", prazo final 19/11/2026; a autoridade responde em 10 dias, improrrogável, art. 23 do Decreto
+19.990/2018). O item 2 fica de fora, porque o EVU está em análise; retomar por pedido novo quando
+ele sair. O texto abaixo é o enviado:
+
+> Pedido de reexame (art. 22 do Decreto Municipal nº 19.990/2018) do pedido nº 018516-26-39, respondido em 09/11/2026, restrito ao item 1 (Expediente Único 002.330742.00.5, SEI 22.0.000091061-2, Av. Lami, nº 2229).
+>
+> A resposta informou que a CAUGE aprovou o EVU em 19/05/2023, pelo Parecer nº 021/2023, e que, por determinação judicial, foram suspensas as tramitações que dariam sequência ao projeto de loteamento, razão pela qual não haveria as demais informações solicitadas.
+>
+> A suspensão explica a falta de novos atos, mas não explica a falta de documentos já existentes. O Parecer nº 021/2023 é um ato concluído, e a resposta não enviou cópia, não informou que seja sigiloso e não indicou a razão da recusa. O art. 11, §1º, II e III, da Lei Federal nº 12.527/2011 prevê a indicação das razões da recusa ou a comunicação de que o órgão não possui a informação, e o art. 7º, §2º, assegura o acesso à parte não sigilosa.
+>
+> Solicito, quanto ao item 1:
+>
+> (1) cópia do Parecer CAUGE nº 021/2023, com as diretrizes ou condicionantes que o integram;
+>
+> (2) informar se o Termo de Compromisso foi assinado antes da suspensão, com cópia, ou cópia da minuta, se houver, ou a informação expressa de que não existe;
+>
+> (3) informar se o parecer ou o Termo preveem contrapartida viária relacionada ao cruzamento da Estrada Costa Gama com a Estrada Afonso Lourenço Mariante, referida em reunião com a Diretoria da EPTC em 22/09/2026, com cópia das peças de projeto viário já existentes, ou a informação expressa de que não preveem;
+>
+> (4) identificar a determinação judicial mencionada (juízo e número do processo) e informar se ela impede o fornecimento de cópia de documentos já produzidos;
+>
+> (5) confirmar se esse expediente corresponde ao empreendimento citado no pedido como Condomínio Ponta do Arado.
+>
+> Se alguma peça for mantida restrita, solicito a indicação da hipótese legal e da data ou do evento em que a restrição cessa, e o fornecimento da parte não restrita.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros; se as peças contiverem esses dados, podem ser tarjados.
 
 ## Pedido 30 — EPTC: projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2)
 
@@ -1128,6 +1160,16 @@ repositório público).
   reexame:** até 15/11/2026, sem necessidade aparente. Resposta e anexos em
   `retornos-protocolos/018485-26-62/`. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma).
+- **Pedido 29 (018516-26-39) — respondido (09/11/2026, às 09h42, no último dia do prazo prorrogado), parcial: expedientes informados, sem Termo de Compromisso nem contrapartida.**
+  A **SMAMUS** (Diretoria de Planejamento Urbano) informou: **item 1**, EU 002.330742.00.5, SEI
+  22.0.000091061-2, Av. Lami, 2229, com EVU aprovado pela CAUGE em 19/05/2023 (Parecer 021/2023) e
+  tramitações **suspensas "por determinação judicial"**; **item 2**, EU 002.202375.00.0, SEI
+  25.0.000178080-0, Av. da Cavalhada, 4050, com EVU de loteamento **em análise** na CTAAPS. **Limites:**
+  não envia parecer, Termo de Compromisso nem peça viária; não identifica a decisão judicial; não cita
+  os nomes usados no pedido, nem contrapartida no P8 ou a nova via do P5. O Parecer 021/2023 já existe
+  e a resposta não alega sigilo. **Reexame do item 1 apresentado em 09/11/2026, às 11h06** (prazo final
+  19/11/2026), com o texto na seção do Pedido 29. Resposta guardada em `retornos-protocolos/018516-26-39/`. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise).
 - **Pedido 23 (018163-26-50) — respondido (19/10/2026, por volta das 10h17, quatro dias após o prazo prorrogado), parcial.** A **SMAMUS**
   (Diretoria de Licenciamento e Monitoramento Ambiental) **não localizou cópia do TAC**, mas
   informou que consta dos autos o **documento de arquivamento do Ministério Público** (nº
@@ -1288,7 +1330,7 @@ repositório público).
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | ~~26/10~~ **05/11/2026** | **respondido (05/11/2026, 23h16)** — Parecer 985/1997 e Informação 4084/2022 enviados; situação de cada processo com a FC correspondente; cronograma declarado inexistente (art. 12, III, Dec. 19.990/2018) — complementa o Pedido 16, que fica fechado |
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que venceu do mesmo modo |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
-| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias)** — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
+| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 09h42), parcial** — expedientes informados (EU 002.330742.00.5, EVU de 2023 com tramitação suspensa por ordem judicial; EU 002.202375.00.0, EVU em análise), sem Termo de Compromisso, parecer ou peça viária; **reexame do item 1 apresentado em 09/11 (11h06)** — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
 | 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
@@ -1433,7 +1475,7 @@ status no e-SIC.
 
 **Prazos dos Pedidos 28, 29 e 30 (conferidos no e-SIC em 06/11/2026):** a lista de solicitações
 mostra **09/11/2026** como prazo final dos três, não o sábado 07/11 dos e-mails de prorrogação; a
-resposta da PGM ao Pedido 26 também cita 09/11 como prazo do Pedido 28. Vale o prazo do e-SIC.
+resposta da PGM ao Pedido 26 também cita 09/11 como prazo do Pedido 28. Vale o prazo do e-SIC. O Pedido 29 foi respondido em 09/11, às 09h42, e teve reexame apresentado às 11h06.
 
 **Pedidos 24 e 27 vencidos sem resposta (conferidos no e-SIC em 06/11/2026):** o **24** (SMAMUS,
 Cláusula Nona) segue com status PRAZO_PRORROGADO depois do prazo de 05/11; o **27** (DMAE, redes de
