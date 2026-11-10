@@ -1528,6 +1528,44 @@ nem de propor ação de usucapião, por custo-benefício.
   atingidas pelos decretos da alça ou pelo projeto da 2ª fase; a cobrança ao empreendedor em outros setores da
   PGM; e o número e a situação do processo da EPTC sobre a Rodrigues da Fonseca.
 
+## Resposta LAI ao Pedido 14 (10/11/2026): coletor tronco de esgoto recebido em 2013, rede de água sem resposta
+
+> A resposta ao **Pedido 14** (protocolo **017791-26-78**), sobre a execução e o recebimento das redes de
+> água e esgoto do corredor, foi registrada no e-SIC em **10/11/2026, às 10h41**, 63 dias depois do prazo de
+> 08/09/2026, que não foi prorrogado. Responde o SIC do **DMAE**, com base na área técnica, e anexa uma
+> certidão de uma página digitalizada. As mesmas perguntas foram refeitas no **Pedido 27** (018487-26-78),
+> que segue "Aguardando resposta" (conferido no e-SIC em 10/11/2026). Texto bruto e anexo em
+> `retornos-protocolos/017791-26-78/` (fora do repositório público).
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| (a) Redes executadas e recebidas, e em que trechos | **Só o esgoto.** A certidão do DMAE nº 003.002133.10.5, de **02/10/2013**, "recebe" o **coletor tronco de esgoto cloacal do Loteamento Alphaville**, em PVC, executado pela Alphaville Porto Alegre Empreendimentos Imobiliários Ltda. (contratante, com ART citada): Estr. Cristiano Kraemer, DN 400, 113,30 m; Estr. Jorge Pereira Nunes, DN 300, 1.052,00 m; Rua Rio Grande, DN 400, 483,90 m; total de **1.649,20 m**. A **rede de água** (expediente …09861, aprovado em 12/11/2010) não é mencionada: nem execução, nem recebimento. |
+| (b) Situação do projeto de esgoto …09862 | No expediente não consta pedido de reavaliação ou revalidação do projeto, e a área técnica "entende" que o projeto apresentado **foi executado**. Não diz se houve projeto executivo aprovado depois das diretrizes de 22/05/2013. O processo 003.002133.10.5, citado na certidão, **não foi localizado fisicamente nem convertido ao SEI**. |
+| (c) Peças e termos de recebimento | Só a certidão. As **peças gráficas** das redes podem ser pedidas à equipe de cadastro de esgoto do DMAE, por e-mail institucional indicado na resposta. |
+
+**O que isso muda.**
+
+- **O que está documentado:** um recebimento formal de esgoto, de 2013, com trechos e extensões. Uma anotação
+  manuscrita no alto da certidão a liga ao expediente 002.302984.00.0.0986… (o último dígito está rasurado;
+  pela ordem dos expedientes, seria o …09862).
+- **O que a certidão não diz:** ela trata do coletor "do Loteamento Alphaville", a partir de um requerimento de
+  2010, e não cita o Termo de Compromisso nem o 2º aditamento. **Nenhum dos três logradouros é a própria Estrada
+  das Três Meninas.** As datas também não fecham por si: diretrizes do …09862 em 22/05/2013, despacho de
+  recebimento em 01/07/2013, 2º aditamento em 23/08/2013 e certidão em 02/10/2013. Que o coletor recebido seja a
+  obra do …09862 é a leitura do DMAE ("entende-se"), sem projeto executivo nem termo de recebimento do corredor
+  que a comprove.
+- **Rede de água:** o item (a) a incluía e a resposta a ignora sem negar. É lacuna a registrar.
+- **Para o pleito, o efeito é pequeno:** as redes não são um dos pontos P1–P9, e a certidão não localiza os
+  trechos em estacas nem diz se cruzam as interseções. O dado útil é o coletor de 113,30 m na Cristiano Kraemer,
+  a considerar se a adequação do P1 exigir remanejamento de redes.
+- **Sem reexame (decidido em 10/11/2026).** O reexame caberia até 20/11/2026 sobre a rede de água e o projeto
+  executivo do esgoto, mas as redes pesam pouco para as melhorias viárias: as interferências com a obra se
+  resolvem no projeto executivo das interseções, e o DMAE já tinha dito em 2013 que as redes de água não
+  precisavam ser remanejadas (Pedido 4). A frente que trava as interseções do P1 e do P7 é a **drenagem
+  pluvial**, já em reexame no Pedido 25. O Pedido 27, com as mesmas perguntas, segue aberto e corre sem cobrança.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |

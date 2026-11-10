@@ -292,6 +292,10 @@ para as informações de **execução e recebimento** de pavimentação e geomet
 **Origem:** resposta ao **Pedido 4** (14/08/2026) — a SMAMUS indicou a **CISE-DMAE** como competente
 para as informações de **execução e recebimento** das redes.
 
+**Respondido em 10/11/2026, às 10h41**, 63 dias depois do prazo e sem prorrogação: o DMAE anexou a
+certidão de recebimento, de 2013, do coletor tronco de esgoto do loteamento e não tratou da rede de
+água; ver [Respostas recebidas](#respostas-recebidas).
+
 **Texto para protocolar:**
 
 > Com base na Lei Federal 12.527/2011, e em complemento à resposta do **pedido nº 017396-26-01**
@@ -767,6 +771,9 @@ em 08/09/2026, sem resposta nem prorrogação (conferido no e-SIC em 06/10/2026,
 atraso). O e-SIC não oferece reexame nem recurso para a falta de resposta. O pedido refaz as
 perguntas, cita o protocolo vencido e **não substitui** o Pedido 14, que segue aberto.
 
+**Atualização (10/11/2026):** o Pedido 14 foi respondido nesta data; o 27 segue "Aguardando resposta"
+(conferido no e-SIC no mesmo dia).
+
 **Texto para protocolar:**
 
 > Com base na Lei Federal nº 12.527/2011, e em complemento à resposta do **pedido nº
@@ -1222,6 +1229,20 @@ repositório público).
   e a resposta não alega sigilo. **Reexame do item 1 apresentado em 09/11/2026, às 11h06** (prazo final
   19/11/2026), com o texto na seção do Pedido 29. Resposta guardada em `retornos-protocolos/018516-26-39/`. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise).
+- **Pedido 14 (017791-26-78) — respondido (10/11/2026, às 10h41, 63 dias após o prazo, sem prorrogação), parcial: só o esgoto.**
+  O **DMAE** anexou a **certidão nº 003.002133.10.5, de 02/10/2013**, que recebe o **coletor tronco
+  de esgoto cloacal do Loteamento Alphaville** (PVC, executado pela Alphaville): Estr. Cristiano
+  Kraemer, DN 400, 113,30 m; Estr. Jorge Pereira Nunes, DN 300, 1.052,00 m; Rua Rio Grande, DN 400,
+  483,90 m; total de 1.649,20 m. Sobre o projeto de esgoto …09862, não há pedido de revalidação no
+  expediente, e a área técnica "entende" que ele foi executado; o processo da certidão não foi
+  localizado nem convertido ao SEI. As peças gráficas das redes podem ser pedidas por e-mail à equipe
+  de cadastro do DMAE. **Limites:** a **rede de água** (…09861) não é mencionada; não diz se houve
+  projeto executivo do esgoto; a certidão não cita o Termo de Compromisso, e nenhum dos três
+  logradouros é a Estrada das Três Meninas. **Fechado sem reexame (decidido em 10/11/2026):** as redes
+  pesam pouco para as melhorias viárias, e a frente que trava as interseções é a drenagem (Pedido 25);
+  o **Pedido 27**, com as mesmas perguntas, segue sem resposta e corre sem cobrança. Resposta e anexo em `retornos-protocolos/017791-26-78/`.
+  Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-14-10112026-coletor-tronco-de-esgoto-recebido-em-2013-rede-de-água-sem-resposta).
 - **Pedido 23 (018163-26-50) — respondido (19/10/2026, por volta das 10h17, quatro dias após o prazo prorrogado), parcial.** A **SMAMUS**
   (Diretoria de Licenciamento e Monitoramento Ambiental) **não localizou cópia do TAC**, mas
   informou que consta dos autos o **documento de arquivamento do Ministério Público** (nº
@@ -1367,7 +1388,7 @@ repositório público).
 | 11 — Contrapartidas viárias dos 8 empreendimentos em análise (P1/P2) | SMAMUS – Licenciamento/EMDU (tema "Infraestrutura Urbana" no e-SIC) | 13/08/2026 | 017781-26-28 | ~~02/09~~ ~~12/09/2026~~ | **respondido (10/09/2026), parcial-negativo** — itens a/b/e indeferidos (art. 12 III Dec. 19.990/2018); c/d deferidos: **contrapartida viária confirmada no EU …796.00.4 (P1+P6)**, Diretriz Viária da Kanazawa confirmada |
 | 12 — Projeto de sinalização viária (…09872) | SMMU/DMU (tema "Trânsito" no e-SIC) | 14/08/2026 | 017789-26-61 | ~~08/09~~ ~~18/09/2026~~ | **respondido (16/09/2026)** — sem sinalização aprovada para P1 e P7; SMMU não guarda cópias, orienta SMAP; derivado do Pedido 4 |
 | 13 — Execução/recebimento de pavimentação e geometria | SMOI/EPV (tema "Obras Públicas" no e-SIC) | 14/08/2026 | 017790-26-10 | 08/09/2026 | **respondido (26/08/2026), incompleto** — anexo (após reexame) confirmado idêntico ao TRP já conhecido (Pedido 2); resto (quadro de execução, saldo, estaqueamento) redirecionado genericamente à PGM, sem resposta substantiva |
-| 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 24/09 e 06/10/2026; sem botão de reexame) — refeito no **Pedido 27**; derivado do Pedido 4 |
+| 14 — Execução/recebimento das redes de água e esgoto | DMAE/CISE (tema "Água" no e-SIC) | 14/08/2026 | 017791-26-78 | 08/09/2026 | **respondido (10/11/2026, 10h41, 63 dias após o prazo), parcial** — certidão de 2013 do recebimento do coletor tronco de esgoto do loteamento (Cristiano Kraemer, Jorge Pereira Nunes e Rua Rio Grande, 1.649,20 m); rede de água sem resposta; sem reexame (decidido em 10/11/2026: as redes de água e esgoto pesam pouco para as melhorias viárias, e a frente que trava as interseções é a drenagem pluvial, já em reexame no Pedido 25) — refeito no **Pedido 27** quando venceu; derivado do Pedido 4 |
 | 15 — Projeto funcional/sinalização da nova interseção Costa Gama (P7) | SMMU (tema "Trânsito" no e-SIC) | 17/08/2026 | 017822-26-45 | ~~08/09~~ ~~18/09/2026~~ | **respondido (11/09/2026, 14h02)** — confirma o Pedido 1: sem sinalização aprovada, mesma conclusão; derivado do Pedido 1 |
 | 16 — Peças técnicas e cronograma dos 4 processos de desapropriação (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 21/08/2026 | 017903-26-42 | ~~14/09~~ ~~24/09/2026~~ | **respondido (24/09/2026), parcial** — acesso externo ao SEI só aos documentos sem dados pessoais (laudos e três despachos); a PGM disse que os demais "serão tarjados" e liberados depois, e em **25/09 liberou as petições iniciais das duas ações** (item c; SEI 26.0.000115687-9); faltam o Parecer 985/1997, a Informação 4084/2022 (item b) e o cronograma (item d); prazo do reexame (04/10/2026) venceu sem reexame apresentado — peças restantes pedidas no **Pedido 26** e **recebidas em 05/11/2026** — derivado do Pedido 8 |
 | 17 — Relatório de ocorrências (sinistros) da confluência do P7 | EPTC/SMMU (tema "Trânsito" no e-SIC) | 21/08/2026 | 017904-26-00 | ~~14/09~~ ~~24/09/2026~~ | **respondido (21/09/2026, 16h34)** — não veio o relatório específico, mas um shapefile bruto de 264 mil sinistros (todo o município); P7 extraído (67 ocorrências, 100 m); derivado do Pedido 7 |
@@ -1380,10 +1401,10 @@ repositório público).
 | 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias) e vencido sem resposta** (conferido no e-SIC em 06/11/2026; status segue PRAZO_PRORROGADO, sem botão de reexame) — derivado dos Pedidos 9 e 18 |
 | 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ ~~05/11/2026~~ **19/11/2026** (e-SIC, após o reexame) | **respondido (05/11/2026, 23h03, pela PGM)** — projeto de drenagem não elaborado; elaboração adiada até a conclusão das desapropriações (validade de 4 anos dos projetos complementares, Dec. 20.659/2020); não diz quem elabora nem quem executa; **reexame apresentado em 09/11 (11h36)** — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | ~~26/10~~ **05/11/2026** | **respondido (05/11/2026, 23h16)** — Parecer 985/1997 e Informação 4084/2022 enviados; situação de cada processo com a FC correspondente; cronograma declarado inexistente (art. 12, III, Dec. 19.990/2018) — complementa o Pedido 16, que fica fechado |
-| 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que venceu do mesmo modo |
+| 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11 e 10/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que foi respondido em 10/11/2026 |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 12h03), parcial** — demolição designada para 28/10, sem dizer se ocorreu (executada, segundo a comissão, sem confirmação oficial); sem registro de notificação ao empreendedor; Rodrigues da Fonseca fora do Termo de Compromisso, sem processo de desapropriação, só processo da EPTC; **reexame dos itens 1, 2 e 3(b) apresentado em 09/11 (13h52)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
 | 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 09h42), parcial** — expedientes informados (EU 002.330742.00.5, EVU de 2023 com tramitação suspensa por ordem judicial; EU 002.202375.00.0, EVU em análise), sem Termo de Compromisso, parecer ou peça viária; **reexame do item 1 apresentado em 09/11 (11h06)** — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
-| 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias)** — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
+| 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias) e vencido sem resposta** (conferido no e-SIC em 10/11/2026; status PRAZO_PRORROGADO); **decidido em 10/11/2026: aguardar**, sem data-limite — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
@@ -1535,7 +1556,11 @@ Cláusula Nona) segue com status PRAZO_PRORROGADO depois do prazo de 05/11; o **
 vencido. Nenhum dos dois tem botão de reexame. O 27 repete a omissão do Pedido 14, sobre o mesmo
 tema e no mesmo órgão. Os dois seguem o caminho dos Pedidos 14 e 23: aguardar alguns dias (o 23
 chegou quatro dias depois do prazo) ou fazer pedido novo. **Decidido em 09/11/2026: aguardar**, sem
-data-limite definida; os dois seguem sem resposta na conferência do mesmo dia.
+data-limite definida; os dois seguem sem resposta na conferência do mesmo dia. **Em 10/11/2026** o
+Pedido 14, que o 27 refaz, foi respondido pelo DMAE (63 dias após o prazo); o 27 segue "Aguardando
+resposta" na conferência do mesmo dia. O **Pedido 30** (EPTC) venceu em 09/11 depois de prorrogado e
+segue PRAZO_PRORROGADO em 10/11, sem botão de reexame; **decidido em 10/11/2026: aguardar**, como nos
+24 e 27.
 
 **Resposta do Pedido 20 (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado):** intermediária — a SMF informou que o
 levantamento está em análise e será feito pela Divisão de Avaliação de Imóveis em três semanas,
