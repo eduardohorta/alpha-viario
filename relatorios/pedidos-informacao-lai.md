@@ -1012,6 +1012,12 @@ também não mostra nenhum; a resposta pediu que a EPTC informe se localizar o e
 outro número. O e-mail e a resposta ficam em `retornos-protocolos/018518-26-45/` (fora do
 repositório público).
 
+**Resposta (16/11/2026, às 15h50, sete dias após o prazo prorrogado).** A EPTC enviou o projeto de
+sinalização da rotatória (quatro pranchas da GPTC, de 11/11/2024, revisadas em 14/01/2025, processo
+24.16.000028890-0) e o projeto de acessibilidade da SMOI (março de 2026), e disse que a implantação
+integral depende da execução da acessibilidade. Não tratou do item (c). Ver
+[Respostas recebidas](#respostas-recebidas).
+
 ---
 
 ## Respostas recebidas
@@ -1108,7 +1114,9 @@ repositório público).
   um encaminhamento interno da SMMU, não uma orientação para novo pedido; acompanhar se a EPTC
   se manifesta neste mesmo protocolo antes de cogitar um novo pedido adicional). **Atualização
   (14/10/2026):** o "processo" encaminhado é a própria demanda e-SIC, sem número de SEI; a EPTC o
-  pediu por e-mail no Pedido 30 (ver lá). Incorporado ao
+  pediu por e-mail no Pedido 30 (ver lá). **Atualização (16/11/2026):** a EPTC respondeu ao Pedido 30
+  com o projeto de sinalização da rotatória (2024, revisado em 2025) e o projeto de acessibilidade
+  da SMOI, sem tratar do encaminhamento. Incorporado ao
   [anexo](anexo-matriz-pontos.md).
 - **Pedido 13 (017790-26-10) — respondido (26/08/2026), incompleto.** A **SMOI** informou que o
   **Termo de Recebimento Provisório de 10/04/2013** (a mesma peça já obtida no Pedido 2) estaria
@@ -1243,6 +1251,23 @@ repositório público).
   o **Pedido 27**, com as mesmas perguntas, segue sem resposta e corre sem cobrança. Resposta e anexo em `retornos-protocolos/017791-26-78/`.
   Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-14-10112026-coletor-tronco-de-esgoto-recebido-em-2013-rede-de-água-sem-resposta).
+- **Pedido 30 (018518-26-45) — respondido (16/11/2026, às 15h50, sete dias após o prazo prorrogado), parcial: projeto da rotatória enviado, implantação integral à espera da acessibilidade.**
+  A **EPTC** anexou o projeto de sinalização da rotatória Monte Cristo × Rodrigues da Fonseca (pranchas
+  0183.001.24.1a a 1d da GPTC, de **11/11/2024**, revisadas em **14/01/2025** para compatibilizar com o
+  "projeto SMMU — SEI 24.0.000087562-3"; processo **24.16.000028890-0**) e o **projeto de acessibilidade da
+  SMOI** para o mesmo local (11 pranchas, março de 2026). O projeto mantém a geometria e prevê faixas de
+  pedestres, **dois semáforos de pedestres com botoeira**, **lombadas físicas** em três aproximações,
+  **30 km/h** e acessibilidade em todas as travessias; as obras civis (lombadas físicas, passeios e rampas) ficam
+  com a **DCVU-SMSURB**, a mesma unidade que parou as baias da Monte Cristo em set/2024 (Pedido 5). A resposta
+  diz que "a implantação do projeto na íntegra depende da execução da acessibilidade". **Limites:** não diz o
+  que já está implantado, não dá fase nem prazo, e **não trata do item (c)** (manifestação sobre o
+  encaminhamento da SMMU). A ata de 22/09 registrou o trevo como "sem projeto atualmente"; os documentos mostram
+  um projeto da EPTC com implantação pendente. A comissão observou em 16/11 implantação parcial, com mudanças
+  pequenas e lentas, e aparente início de obra, sem confirmação oficial. **Fechado sem reexame (decidido em
+  17/11/2026):** a resposta provável seria "depende da SMSURB, sem prazo", e o essencial já está por escrito;
+  opção para janeiro: pedido novo à SMSURB. Resposta e anexos em
+  `retornos-protocolos/018518-26-45/`. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-30-16112026-projeto-de-sinalização-da-eptc-para-a-rotatória-do-p2-de-2024-com-implantação-integral-à-espera-da-acessibilidade).
 - **Pedido 23 (018163-26-50) — respondido (19/10/2026, por volta das 10h17, quatro dias após o prazo prorrogado), parcial.** A **SMAMUS**
   (Diretoria de Licenciamento e Monitoramento Ambiental) **não localizou cópia do TAC**, mas
   informou que consta dos autos o **documento de arquivamento do Ministério Público** (nº
@@ -1404,7 +1429,7 @@ repositório público).
 | 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11 e 10/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que foi respondido em 10/11/2026 |
 | 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 12h03), parcial** — demolição designada para 28/10, sem dizer se ocorreu (executada, segundo a comissão, sem confirmação oficial); sem registro de notificação ao empreendedor; Rodrigues da Fonseca fora do Termo de Compromisso, sem processo de desapropriação, só processo da EPTC; **reexame dos itens 1, 2 e 3(b) apresentado em 09/11 (13h52)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
 | 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 09h42), parcial** — expedientes informados (EU 002.330742.00.5, EVU de 2023 com tramitação suspensa por ordem judicial; EU 002.202375.00.0, EVU em análise), sem Termo de Compromisso, parecer ou peça viária; **reexame do item 1 apresentado em 09/11 (11h06)** — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
-| 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **prorrogado (+10 dias) e vencido sem resposta** (conferido no e-SIC em 10/11/2026; status PRAZO_PRORROGADO); **decidido em 10/11/2026: aguardar**, sem data-limite — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
+| 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (16/11/2026, 15h50, sete dias após o prazo), parcial** — projeto de sinalização da rotatória (GPTC, 11/11/2024, rev. 14/01/2025, processo 24.16.000028890-0) e projeto de acessibilidade da SMOI (mar/2026); implantação integral depende da acessibilidade (DCVU-SMSURB); sem dizer o que está implantado; item (c) não tratado; **fechado sem reexame (decidido em 17/11/2026)**; a comissão observou implantação parcial e aparente início de obra (16/11) — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,
@@ -1560,7 +1585,8 @@ data-limite definida; os dois seguem sem resposta na conferência do mesmo dia. 
 Pedido 14, que o 27 refaz, foi respondido pelo DMAE (63 dias após o prazo); o 27 segue "Aguardando
 resposta" na conferência do mesmo dia. O **Pedido 30** (EPTC) venceu em 09/11 depois de prorrogado e
 segue PRAZO_PRORROGADO em 10/11, sem botão de reexame; **decidido em 10/11/2026: aguardar**, como nos
-24 e 27.
+24 e 27. **O Pedido 30 foi respondido em 16/11/2026, às 15h50**, sete dias depois do prazo (ver
+"Respostas recebidas").
 
 **Resposta do Pedido 20 (recebida em 15/10/2026, às 18h08, dentro do prazo prorrogado):** intermediária — a SMF informou que o
 levantamento está em análise e será feito pela Divisão de Avaliação de Imóveis em três semanas,

@@ -55,7 +55,7 @@
 - **Movimento dominante:** a medir.
 - **Modos vulneráveis:** *a levantar*.
 - **Evidência mínima a coletar:** contagem direcional + fila por aproximação + conflitos.
-- **Gancho institucional:** o **projeto PSVS de qualificação da Av. Monte Cristo termina na Estr. Cristiano Kraemer (este nó)** — sinergia **a confirmar** com o P2: o Pedido 5 mostra implantação parcial, parada desde set/2024, a ata de 22/09 registra que o trevo não tem projeto atualmente, e o Pedido 30 pergunta se há proposta.
+- **Gancho institucional:** o **projeto PSVS de qualificação da Av. Monte Cristo termina na Estr. Cristiano Kraemer (este nó)** — sinergia **a confirmar** com o P2: o Pedido 5 mostra implantação parcial, parada desde set/2024, e a ata de 22/09 registra que o trevo não tem projeto atualmente. **Atualização (16/11/2026, Pedido 30):** a EPTC tem projeto de sinalização para a rotatória (nov/2024, revisado em jan/2025 para compatibilizar com o projeto da SMMU, que termina na R. Catarino Andreatta), com semáforos de pedestres, lombadas físicas e 30 km/h, sem mudar a geometria; a implantação integral espera a acessibilidade a cargo da DCVU-SMSURB (projeto da SMOI, mar/2026). O primeiro pedido no P2 passa a ser **concluir esse projeto**; o redesenho fica para depois de avaliar se ele basta.
 - **Benefício público:** segurança numa confluência crítica; sinergia com projeto municipal existente.
 - **Solução candidata (hipótese):** estudo de redesenho da confluência **em sinergia com o projeto da Av. Monte Cristo**; rótula moderna como **uma** das alternativas.
 
@@ -147,4 +147,4 @@
 - **Sonda:** consolidar os agregados por rota e janela horária, incluindo o índice de estimativas com/sem considerar tráfego e assimetrias entre sentidos no P4/P7, sem isolar o efeito causal de uma intervenção.
 - **Sinistros:** **validar por aerofoto e vistoria técnica da EPTC os segmentos P4-S06/S03/S01** e os registros mais próximos — ver [segmentos (EPTC)](../dados/tratados/eptc_acidentes_p4_segmentos.csv), [segmentos (R03, auxiliar)](../dados/tratados/acidentes_p4_segmentos.csv), [revisão manual](../dados/tratados/acidentes_revisao_manual_notas.md) e [metodologia](../dados/tratados/acidentes_metodologia.md).
 - **Imagem aérea + base SMAMUS:** confirmar geometria real de cada ponto.
-- **Planos oficiais:** já respondidos o zoneamento de Vila Nova (Pedido 6) e o escopo da Av. Monte Cristo (Pedido 5); segue aberta a proposta para o nó do P2 (Pedido 30).
+- **Planos oficiais:** já respondidos o zoneamento de Vila Nova (Pedido 6) e o escopo da Av. Monte Cristo (Pedido 5); o projeto da EPTC para o nó do P2 veio no Pedido 30 (16/11/2026), com implantação integral à espera da acessibilidade.

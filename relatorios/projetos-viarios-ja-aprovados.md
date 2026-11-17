@@ -1566,12 +1566,83 @@ nem de propor ação de usucapião, por custo-benefício.
   precisavam ser remanejadas (Pedido 4). A frente que trava as interseções do P1 e do P7 é a **drenagem
   pluvial**, já em reexame no Pedido 25. O Pedido 27, com as mesmas perguntas, segue aberto e corre sem cobrança.
 
+## Resposta LAI ao Pedido 30 (16/11/2026): projeto de sinalização da EPTC para a rotatória do P2, de 2024, com implantação integral à espera da acessibilidade
+
+> A resposta ao **Pedido 30** (protocolo **018518-26-45**), sobre o nó Monte Cristo × Rodrigues da Fonseca ×
+> Belém Velho × Cristiano Kraemer, foi registrada no e-SIC em **16/11/2026, às 15h50**, sete dias depois do
+> prazo prorrogado (09/11/2026). Responde o SIC da **EPTC**, com cinco anexos: quatro pranchas da
+> GPTC-EPTC e um projeto de acessibilidade da SMOI. Texto bruto e anexos em
+> `retornos-protocolos/018518-26-45/` (fora do repositório público).
+
+**O texto da resposta.** A EPTC encaminha "os documentos referentes aos projetos da confluência" e esclarece
+que "a implantação do projeto na íntegra depende da execução da acessibilidade", para a segurança dos
+pedestres junto com o disciplinamento viário projetado. Anexa também os projetos de acessibilidade da
+Secretaria Municipal de Obras e Infraestrutura (SMOI).
+
+**Os anexos.**
+
+| Anexo | Conteúdo |
+|---|---|
+| Pranchas 0183.001.24.1a a 1d (EPTC) | Projeto "Av. Monte Cristo × Rua Rodrigues da Fonseca (rotatória)", da Coordenação de Projetos Leste-Sul da GPTC, datado de **11/11/2024**, processo nº **24.16.000028890-0**. Duas revisões: **11/11/2024**, "em caráter de urgência", pintura das linhas de retenção e das legendas "PARE"; **14/01/2025**, "compatibilização com projeto SMMU — SEI 24.0.000087562-3". Quatro pranchas: (a) sinalização viária, 1:500, com a pintura urgente; (b) sinalização horizontal; (c) sinalização vertical; (d) obras a cargo da DCVU-SMSURB "conforme projeto ATOV/SMOI". |
+| Projeto de Acessibilidade (SMOI) | "Estrada Cristiano Kraemer", 11 pranchas, **março de 2026**, no mesmo processo 24.16.000028890-0: planta geral da rotatória com nove detalhes de rampas, recorte do canteiro central nas travessias, concretagem de calçada até o alinhamento, rota acessível no eixo da calçada e poda de árvore. Num dos cantos (junto ao ponto de táxi), anota que não há espaço para rampa. |
+
+**O que o projeto prevê.** A geometria da rotatória fica como está. O projeto prevê:
+
+- **faixas de pedestres** em todas as aproximações;
+- **dois semáforos de pedestres**, com braço de 6 m, auxiliar e botoeira, mais dois grupos focais com botoeira,
+  nas travessias junto à Monte Cristo e à Belém Velho;
+- **lombadas físicas tipo A** (Resolução 973/2022) em três aproximações, a executar pela DCVU-SMSURB, e lombadas
+  pintadas;
+- **limite de 30 km/h** nas aproximações (placas R-19 e legendas no pavimento), com placas de advertência de lombada;
+- marcações de canalização com tachões, balizadores, ajustes de placas de regulamentação e de orientação;
+- **acessibilidades e passeios públicos** em todas as travessias, a executar pela DCVU-SMSURB conforme o projeto
+  da SMOI.
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| (a) Cópia do projeto implantado | **Atendido**, com uma ressalva: a resposta não diz o que já foi implantado. Pela própria resposta, a implantação ainda **não está completa**, e a única intervenção datada como urgente é a pintura das linhas de retenção e das legendas "PARE" (11/11/2024). |
+| (b) Estudo, projeto ou proposta de intervenção, com processo e situação | **Parcial.** O projeto enviado já contém a intervenção (semáforos de pedestres, lombadas físicas, 30 km/h, acessibilidade), no processo 24.16.000028890-0, que aparece nas pranchas e não no texto. A situação informada é só a dependência da acessibilidade, sem fase nem prazo. Não menciona alteração geométrica nem outro estudo, e não diz que não existe. |
+| (c) Manifestação da EPTC no processo encaminhado pela SMMU | **Não tratado.** A resposta não cita a demanda 017397-26-59 nem o encaminhamento, informado à EPTC por e-mail em 14/10/2026. |
+
+**O que isso muda.**
+
+- **P2 tem projeto documentado.** Até aqui, o dossiê sabia só que o desenho implantado era da GPTC-EPTC
+  (Pedido 5), e a ata de 22/09 registrava que o trevo "não possui nenhum projeto atualmente". Os documentos
+  mostram um **projeto da própria EPTC, de nov/2024, revisado em jan/2025, com implantação integral
+  pendente**. A fala da reunião pode ter se referido a um redesenho geométrico, que o projeto não traz. Mesmo
+  assim, a ata, ainda não final, não deve registrar o trevo como "sem projeto".
+- **Os dois projetos se encontram na R. Catarino Andreatta.** O projeto de sinalização da Av. Monte Cristo, da
+  SMMU, vai da Av. Eduardo Prado à R. Catarino Andreatta (Pedido 5). As pranchas da EPTC marcam "projeto SMMU
+  SEI 24.0.000087562-3" no trecho da Monte Cristo junto a essa rua e registram a compatibilização em 14/01/2025.
+  Que esse SEI seja o projeto de sinalização da Monte Cristo citado no Pedido 5 é **inferência** pela
+  localização: a resposta da SMMU não deu número.
+- **O gargalo é a execução da acessibilidade.** A prancha (d) atribui as lombadas físicas, os passeios e as
+  rampas à **DCVU-SMSURB**, conforme o projeto da SMOI de março de 2026. É a mesma unidade cujas obras das baias
+  de ônibus da Monte Cristo estão **paradas desde set/2024** (Pedido 5). Nos dois casos, a sinalização
+  projetada está pronta e espera obra civil pequena da SMSURB. A resposta não informa cronograma, ordem de
+  serviço nem processo da SMSURB.
+- **Para o pleito:** no P2, o pedido mais imediato passa a ser **concluir o projeto que já existe** (acessibilidade,
+  semáforos de pedestres, lombadas físicas e 30 km/h), antes de qualquer redesenho. Se o projeto basta para o
+  conflito apontado pelos 150 sinistros de 2010–2026 é avaliação técnica que a resposta não faz.
+- **Observação da comissão (16/11/2026):** quem passa diariamente pelo local relata implantação **parcial**, com
+  mudanças pequenas e lentas, e aparente **início de obra**. Não há confirmação oficial do que foi feito nem de
+  quem executa.
+- **Fechado sem reexame (decidido em 17/11/2026).** O reexame caberia até 26/11/2026 sobre a situação do processo
+  e o item (c), mas o ganho seria pequeno: a EPTC projeta e não executa a acessibilidade, e a resposta provável
+  seria "depende da SMSURB, sem prazo", como a da SMMU no Pedido 5. O que importa para o pleito (projeto pronto,
+  obra pequena sem desapropriação, execução a cargo da SMSURB) já está por escrito, e a comissão só volta a se
+  reunir em janeiro de 2027. Do encaminhamento da SMMU (item c), o conteúdo chegou nos anexos; ficou sem resposta
+  só o cronograma que o Pedido 5 pedia. **Opção para janeiro:** pedido novo à SMSURB (quem executa a
+  acessibilidade do nó, processo e previsão), com a situação da obra já mais clara.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
 |---|---|---|
 | **Direta — execução parcial documentada** | P1 | Interseção Cristiano Kraemer × Três Meninas prevista expressamente e **implantada só em 1ª etapa**; o **projeto da 2ª fase não estava aprovado** em 2020 e **falta o projeto de drenagem** da adequação (Parecer CTAAPS 093/2020), que a PGM confirmou em 05/11/2026 não ter sido elaborado e que só será retomado depois das desapropriações (Pedido 25). Nenhum dos cinco decretos de desapropriação conhecidos cobre esta rótula (o Decreto 20.861/2020 é junto à Florestan Fernandes, ver acima). |
-| **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. |
+| **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. A EPTC enviou em 16/11/2026 (Pedido 30) o projeto de sinalização da rotatória, de nov/2024, revisado em jan/2025, com semáforos de pedestres, lombadas físicas e 30 km/h, cuja implantação integral depende da acessibilidade a cargo da DCVU-SMSURB (projeto da SMOI, mar/2026); a geometria não muda ([leitura](#resposta-lai-ao-pedido-30-16112026-projeto-de-sinalização-da-eptc-para-a-rotatória-do-p2-de-2024-com-implantação-integral-à-espera-da-acessibilidade)). |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
 | **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026; cumprimento designado para 28/10/2026, Pedido 28, e executado segundo informação da comissão em 09/11/2026, sem confirmação oficial); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação (a SMF não localizou o depósito, e o Pedido 24 venceu sem resposta); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
