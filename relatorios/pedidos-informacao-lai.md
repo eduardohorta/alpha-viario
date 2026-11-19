@@ -1090,6 +1090,39 @@ morador; o processo judicial identifica o local.
 
 ---
 
+## Pedido 32 — SMAMUS: etapa de EVU do Loteamento Village Sul (EU 002.345695.00.1)
+
+**Protocolado em 19/11/2026, às 19h16** (nº **019049-26-88**, prazo **14/12/2026** conforme o e-SIC; tema
+"Infraestrutura Urbana"; sem anexos).
+
+**Órgão:** SMAMUS, autora das Diretrizes (CAADHAP), mesmo canal dos Pedidos 11, 19, 24 e 29.
+
+**Origem:** o Parecer CAADHAP nº 007/2025 (Diretrizes de 19/11/2025), obtido no Pedido 19, impõe exigências
+viárias na Cristiano Kraemer (P1), com desapropriações a cargo do empreendedor, e prevê como próxima etapa o
+EVU com Licença Prévia concomitante ([leitura](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-19-14102026-pareceres-de-três-empreendimentos-na-cristiano-kraemer-com-obras-viárias-e-desapropriações-a-cargo-do-empreendedor)). A validade de 12 meses
+terminaria por volta de 19/11/2026 (contagem a confirmar). No SEI público, em 19/11/2026, o processo das
+Diretrizes não tinha andamento desde 10/12/2025, e a pesquisa por texto não localizou EVU nem o próprio
+processo, sem valor conclusivo. O pedido pede números, datas e fatos de sim ou não, e não peças de etapa em
+análise (negadas como preparatórias no reexame do Pedido 19).
+
+**Texto protocolado:**
+
+> Com base na Lei Federal nº 12.527/2011, e em complemento à resposta ao pedido nº 018104-26-38 (SMAMUS, 14/10/2026), que forneceu o Parecer CAADHAP nº 007/2025 de Diretrizes, emitido em 19/11/2025 no Expediente Único 002.345695.00.1 (processo SEI nº 25.0.000013939-7), referente ao Loteamento Residencial Village Sul I, II e III, na Estrada Cristiano Kraemer, solicito:
+>
+> (a) informar se foi protocolada, para esse Expediente Único, a etapa seguinte às Diretrizes (Estudo de Viabilidade Urbanística, com ou sem Licença Prévia concomitante), indicando o número do processo SEI, a data do protocolo e a unidade em que se encontra, ou a informação expressa de que não foi protocolada;
+>
+> (b) informar o prazo de validade das Diretrizes emitidas no Parecer CAADHAP nº 007/2025, com a data final e a norma que o fixa, e se houve pedido de prorrogação ou revalidação, com o número do processo e a decisão, se houver;
+>
+> (c) caso as Diretrizes tenham perdido a validade, informar se há novo pedido de Diretrizes para a mesma gleba, com o número do processo, ou a informação expressa de que não há;
+>
+> (d) caso alguma parte do pedido não possa ser atendida, informar ao menos os números dos processos correspondentes, nos termos do parágrafo único do art. 12 do Decreto Municipal nº 19.990/2018, e, caso este órgão não detenha a informação, indicar expressamente o órgão ou setor que a detém, nos termos do art. 11, § 1º, III, da Lei Federal nº 12.527/2011.
+>
+> O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros.
+
+**Anexos:** nenhum.
+
+---
+
 ## Respostas recebidas
 
 > As respostas administrativas brutas e seus anexos ficam em `retornos-protocolos/` (fora do
@@ -1535,6 +1568,7 @@ morador; o processo judicial identifica o local.
 | 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 09h42), parcial** — expedientes informados (EU 002.330742.00.5, EVU de 2023 com tramitação suspensa por ordem judicial; EU 002.202375.00.0, EVU em análise), sem Termo de Compromisso, parecer ou peça viária; **reexame do item 1 apresentado em 09/11 (11h06) e provido em 19/11 (13h55)**: Parecer CAUGE 021/2023 enviado, sem contrapartida viária no P8; Termo de Compromisso não assinado; ACP 5104278-57.2021.8.21.0001 identificada — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
 | 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (16/11/2026, 15h50, sete dias após o prazo), parcial** — projeto de sinalização da rotatória (GPTC, 11/11/2024, rev. 14/01/2025, processo 24.16.000028890-0) e projeto de acessibilidade da SMOI (mar/2026); implantação integral depende da acessibilidade (DCVU-SMSURB); sem dizer o que está implantado; item (c) não tratado; **fechado sem reexame (decidido em 17/11/2026)**; a comissão observou implantação parcial e aparente início de obra (16/11) — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 | 31 — Cobrança ao empreendedor pela 2ª fase do P7 e construção remanescente na confluência (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 19/11/2026 | 019047-26-72 | 14/12/2026 (e-SIC) | **aguardando resposta** — derivado do reexame do Pedido 28 (sugestão da PGM de nova solicitação) |
+| 32 — Etapa de EVU do Loteamento Village Sul (EU 002.345695.00.1), validade das Diretrizes | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 19/11/2026 | 019049-26-88 | 14/12/2026 (e-SIC) | **aguardando resposta** — derivado do Pedido 19 (Parecer CAADHAP 007/2025) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
 prazo por **10 dias**, com base no **art. 14, §3º, do Decreto Municipal nº 19.990/2018**,

@@ -25,7 +25,7 @@
 | **23–28/12/2025** | Vence o **prazo legal de 5 anos** (art. 10 do Decreto-Lei federal 3.365/1941) para efetivar as desapropriações declaradas em 2020. | **Só a declaração do P6 caducou** (28/12/2025, Pedido 9 e SEI): o eixo (Três Meninas 1085) foi ajuizado em 19/12/2025 e a alça teve acordo (092 e 093) ou ação (094). A PGM quer revisar o projeto do P6 e só pode editar novo decreto a partir de **29/12/2026**. |
 | **Jul/2026 (confirmação)** | A resposta LAI confirma que o **projeto complementar do P7 está caducado** (Dec. 20.659/2020). A data exata da perda de validade não foi estabelecida. | A solução deve ser atualizada/revalidada antes de executar. |
 | **28/10/2026** | Cumprido o **mandado de demolição** do galpão de madeira e zinco sobre o passeio na confluência do **P7** (ação de 2014), com terraplenagem que, segundo a certidão, tirou terra que tapava a visão de quem chega pela Três Meninas e pela Costa Gama (PGM, reexame do Pedido 28, 19/11/2026). | A residência vizinha ficou de pé; a 2ª fase da interseção segue sem implantação. |
-| **2026** | A comissão retoma o tema com **evidência própria** (sinistros, sonda de tempos de viagem, 31 pedidos LAI) e a **documentação da administração do empreendimento**. O novo **PDUS/LUOS** é sancionado em **14/07/2026**. | Reúne-se a base para pedir à cidade que **conclua o que ela mesma começou**. |
+| **2026** | A comissão retoma o tema com **evidência própria** (sinistros, sonda de tempos de viagem, 32 pedidos LAI) e a **documentação da administração do empreendimento**. O novo **PDUS/LUOS** é sancionado em **14/07/2026**. | Reúne-se a base para pedir à cidade que **conclua o que ela mesma começou**. |
 
 ## Leitura em três frases
 

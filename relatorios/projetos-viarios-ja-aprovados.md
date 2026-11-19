@@ -765,7 +765,9 @@ sem peça obtida, sem esperar por mais uma resposta LAI:
   **aprovado em 14/04/2026** (Parecer CEFH nº 005/2026, assinado em 15/04/2026) — confirma a
   resposta ao Pedido 11. *Correção de 14/10/2026, pelo texto do parecer: a data de 26/06/2026 vista
   no SEI público em 10/09 não é a do parecer.*
-- **EU 002.322436.00.8** (SEI 25.0.000145763-5): **muito ativo** — 107 andamentos, o mais recente
+- **EU 002.322436.00.8** (SEI 25.0.000145763-5) — *atualização (19/11/2026): 158 andamentos; "em análise" na
+  CEFH desde 14/09/2026, sem andamento posterior; em 04/09 ficara em complementação, à espera de o requerente
+  atualizar documentos.* Em 10/09: **muito ativo** — 107 andamentos, o mais recente
   em **04/09/2026** (seis dias antes desta consulta), atualmente em complementação na CEFH.
 
 Nenhuma peça ou documento ficou acessível pelo portal público — só a **lista de andamentos**
@@ -1068,7 +1070,12 @@ como prazo final.
   de 87.567 m²). Destinação pública calculada sobre **5% da gleba** (em 2021, 18%) e **condicionantes
   transferíveis ao Habite-se**. Próxima etapa: EVU com Licença Prévia concomitante. **Validade de 12
   meses** (art. 10 do Decreto 20.659/2020): contada da emissão, até 19/11/2026 (contagem a
-  confirmar).
+  confirmar). **Conferência no SEI público (19/11/2026):** o processo das Diretrizes não tem andamento
+  desde 10/12/2025 (131 registros; o último é a conclusão na CPM-SMMU, depois do parecer juntado pela
+  CAADHAP em 24/11/2025). O EVU, se aberto, seria outro processo e **não foi localizado**: a pesquisa
+  pública por texto (número do EU e "Village Sul") não achou nada, nem o próprio processo das
+  Diretrizes, e por isso não serve para afirmar que o EVU não existe. A pergunta foi feita à SMAMUS no
+  **Pedido 32** (019049-26-88, 19/11/2026, prazo 14/12).
 - **SMMU (15/05/2025):** diz que as condições de mobilidade da região são "deficitárias" e que a Rua
   Catarino Andreatta será "rota alternativa para acesso à Estrada Cristiano Kraemer". Exige
   **prolongar** a Catarino Andreatta (norte–sul, até a Av. Romeu Samarani Ferreira; 20 m), a Rua
