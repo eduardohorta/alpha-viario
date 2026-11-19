@@ -2,15 +2,15 @@
   "gerado_por": "scripts/build_pacote.py",
   "comando": "python3 scripts/build_pacote.py",
   "fontes": {
-    "relatorios/guia-validacao-comissao.md": "4966f8711d88b43634fab0688213a92492e96698c43634c7816750b8497dc99e",
+    "relatorios/guia-validacao-comissao.md": "72a3233f4d6e91aa18e35d6bd72f3f404787b89d20d631336a6ac592707037f7",
     "relatorios/memorando-externo.md": "f2294489212729e9312aab84ac8db10aa4cf1b7511b97bca7a1a001920d2372f",
     "relatorios/anexo-matriz-pontos.md": "4ca413c61d17b5a352b28ac0e7478e0012657108e8f3fbe6cc58de2d14bf6d43",
     "scripts/build_pacote.py": "3d5ce4721273c4df09206bb8d41d057f8854521fa6d5fc0dc6f178c8811344d0",
     "mapas/mapa-pontos.png": "30a0b046d5f413d3f29d4af45d3c1ff1b2c02e217cedd5ded7776e38f4439367"
   },
-  "saida_md_sha256": "fb5e7ec43087cd6b51dd4d9592ce1d46983a53488409dfbb4aa7815f9072ff6a",
+  "saida_md_sha256": "1ee9549e688a0bb80b0025068df7a753e6733830f57b40983b5b8f36c4bfd90a",
   "pdf_proveniencia": {
     "gerador": "pandoc 2.18"
   },
-  "saida_pdf_sha256": "a0ce93163f41fde10b8ffc139afe91871522b7e5eb3bdc3692169cf1e3d2fee3"
+  "saida_pdf_sha256": "feef2d9b82cde0927b1710a7a7668b8562b49a122582fae823d39e0f139e0c84"
 }

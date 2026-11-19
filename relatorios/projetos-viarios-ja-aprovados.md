@@ -13,10 +13,12 @@
 > Compromisso vigente**, detalhou **quatro desapropriações** em andamento (uma delas resolvida
 > por acordo) e revelou uma **demolição judicial pendente desde 2014** na confluência do P7 — ver
 > [Resposta LAI ao Pedido 8](#resposta-lai-ao-pedido-8-21082026-pgm-detalha-as-quatro-desapropriações-pendentes-e-confirma-o-termo-vigente).
-> O **depósito da Cláusula Nona** segue sem confirmação: a SMF não o localizou (30/09/2026), e o
-> Pedido 24 à SMAMUS venceu sem resposta (05/11/2026).
+> O **depósito da Cláusula Nona** ficou meses sem confirmação: a SMF não o localizou (30/09/2026), e o
+> Pedido 24 à SMAMUS venceu em 05/11/2026. **Atualização (19/11/2026):** a resposta tardia ao Pedido 24
+> traz despacho da PGM que dá a cláusula por **cumprida em 2017** (R$ 430.672,73), ligada aos decretos de
+> 2014–2015, e não aos de 2020, como o dossiê supunha ([leitura](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)).
 >
-> **Atualização (nov/2026):** [Pedido 25](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações), [Pedido 26](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma), [Pedido 28](#resposta-lai-ao-pedido-28-09112026-demolição-designada-para-2810-sem-notificação-ao-empreendedor-e-sem-processo-de-desapropriação-na-rodrigues-da-fonseca) e [Pedido 29](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise).
+> **Atualização (nov/2026):** [Pedido 25](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações), [Pedido 26](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma), [Pedido 28](#resposta-lai-ao-pedido-28-09112026-demolição-designada-para-2810-sem-notificação-ao-empreendedor-e-sem-processo-de-desapropriação-na-rodrigues-da-fonseca) e [Pedido 29](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise), com o [reexame](#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada); [Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015) (Cláusula Nona).
 
 ## Fontes administrativas examinadas
 
@@ -232,6 +234,11 @@ A data de 23/12/2020 é a de disponibilização dos três decretos; a PGM toma *
 depósito (15 dias após a publicação) teria vencido já em meados de dezembro de 2020. E a soma dos laudos de 2025 dos quatro processos
 lidos tem a mesma ordem de grandeza dos R$ 200 mil (ver [Acesso externo ao
 SEI](#acesso-externo-ao-sei-24092026-laudos-e-despachos-dos-quatro-processos-de-desapropriação)).
+
+**Correção (19/11/2026):** o gatilho não eram os decretos de 2020. Segundo despacho da PGM enviado no
+Pedido 24, a cláusula foi **cumprida em 2017**, com pagamento de R$ 430.672,73 comunicado pela SMF em
+28/07/2017, ligado às desapropriações dos **Decretos 18.699/2014, 18.700/2014 e 19.145/2015**. A leitura
+acima fica como registro da hipótese de então ([leitura](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)).
 
 ### 6. Parecer CTAAPS nº 093/2020 — o quadro de execução que faltava
 
@@ -575,7 +582,8 @@ supressão da cláusula de escape no 1º aditivo (ver item 4 acima).
   22/09/2026**. **Resposta ao reexame (30/09/2026): a SMF não localizou nenhuma informação** e
   orientou novo pedido à SMAMUS; cogitou, sem indicar processo, que a questão possa estar
   judicializada. Segue **sem confirmação de depósito, cobrança ou destinação** por qualquer órgão;
-  novo pedido à SMAMUS protocolado em 02/10/2026 (Pedido 24, nº 018445-26-82).
+  novo pedido à SMAMUS protocolado em 02/10/2026 (Pedido 24, nº 018445-26-82). **Atualização
+  (19/11/2026):** a PGM dá a cláusula por cumprida em 2017 ([Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)).
 
 ## Resposta LAI ao Pedido 9 (01/09/2026): três decretos individualizados; depósito segue a confirmar com a SMF
 
@@ -629,6 +637,11 @@ Fazenda (SMF)**. A PGM apenas reproduz informação genérica de setor da SMF so
 recurso referente a desapropriações regidas por outros decretos; ela não identifica a Cláusula
 Nona, o Termo de Compromisso ou os Decretos 20.859--20.861. Logo, esse trecho não confirma nem
 afasta o depósito perguntado.
+
+**Correção (19/11/2026):** esse trecho era a resposta. A PGM (despacho de 03/11/2026, enviado no Pedido
+24) liga a Cláusula Nona justamente aos Decretos 18.699, 18.700 e 19.145 e a dá por cumprida em 2017. A
+leitura de que se tratava de "outros decretos" partia da suposição, sem base no texto da cláusula, de que o
+gatilho eram os decretos de 2020 ([leitura](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)).
 
 O encaminhamento documental adequado é pedido direto à SMF, com referência a esta resposta,
 para que informe o pagamento ou a cobrança e a destinação, preservados dados pessoais e bancários
@@ -920,6 +933,8 @@ R$ 200 mil**. Os quatro processos somam **entre R$ 200 mil e R$ 250 mil**, sem c
 Para a Cláusula Nona, a soma tem a **mesma ordem de grandeza** dos R$ 200 mil, sem correção pela
 SELIC. Isso torna mais relevante saber se o depósito foi feito e a que se destina (sem confirmação: Pedidos 18 e 24).
 Nenhum documento lido liga a cláusula a essas indenizações: é comparação de grandeza, não vínculo.
+**Atualização (19/11/2026):** a comparação perdeu o objeto. A cláusula foi paga em 2017 e se refere às
+desapropriações dos decretos de 2014–2015, e não a estes processos ([Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)).
 
 ### 3. P6: a PGM quer revisar o projeto antes de refazer o decreto
 
@@ -1463,7 +1478,9 @@ nem de propor ação de usucapião, por custo-benefício.
   noticiou, em junho de 2024, uma liminar da 20ª Vara da Fazenda Pública, em ação civil pública do
   Ministério Público, que suspendeu a aplicação da Lei Complementar 935/2022, a lei que permitiu o
   parcelamento da área. É compatível com a resposta, mas o dossiê **não conferiu** que seja a mesma
-  decisão, nem a situação atual do processo.
+  decisão, nem a situação atual do processo. **Atualização (19/11/2026):** o reexame identificou a ação
+  (ACP 5104278-57.2021.8.21.0001, do Ministério Público) e confirmou que o expediente é o de Ponta do
+  Arado ([leitura](#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada)).
 - **Item 2:** a SMAMUS não cita a incorporadora, a esquina ou a nova via. Pela numeração, o nº 4050 é
   compatível com a esquina: o nº 3000 da Cavalhada fica a cerca de 890 m, em linha reta, da João
   Salomoni (OpenStreetMap). É estimativa, a conferir no SEI. A resposta não cita a Dr. Vergara nem a
@@ -1487,7 +1504,8 @@ nem de propor ação de usucapião, por custo-benefício.
   restrito ao item 1: pede a cópia do parecer, a situação do Termo de Compromisso, se há contrapartida
   viária no P8, a identificação da decisão judicial e a confirmação de que o expediente é o de Ponta
   do Arado. O item 2 ficou de fora: o reexame do Pedido 19 foi indeferido com documentos tratados como
-  preparatórios, e o EVU segue em análise.
+  preparatórios, e o EVU segue em análise. **Reexame provido em 19/11/2026**, com o parecer anexo e sem
+  contrapartida viária no P8 ([leitura](#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada)).
 
 ## Resposta LAI ao Pedido 28 (09/11/2026): demolição designada para 28/10, sem notificação ao empreendedor e sem processo de desapropriação na Rodrigues da Fonseca
 
@@ -1637,6 +1655,125 @@ Secretaria Municipal de Obras e Infraestrutura (SMOI).
   só o cronograma que o Pedido 5 pedia. **Opção para janeiro:** pedido novo à SMSURB (quem executa a
   acessibilidade do nó, processo e previsão), com a situação da obra já mais clara.
 
+## Resposta LAI ao reexame do Pedido 29 (19/11/2026): Parecer CAUGE 021/2023 sem contrapartida viária no P8, Termo de Compromisso não assinado e ação civil pública identificada
+
+> A resposta ao **reexame do item 1 do Pedido 29** (protocolo **018516-26-39**) foi registrada no e-SIC em
+> **19/11/2026, às 13h55**, no último dia do prazo. Decide a autoridade máxima da **SMAMUS**, que conhece
+> do reexame e lhe **dá provimento** para responder aos cinco quesitos. Anexo: o **Parecer CAUGE nº 021/2023**
+> (13 páginas, mais anexos). Texto bruto e anexo em `retornos-protocolos/018516-26-39/` (fora do
+> repositório público).
+
+**Por quesito do reexame.**
+
+| Quesito | Resposta |
+|---|---|
+| (1) Cópia do Parecer CAUGE 021/2023 | **Enviada**, com os anexos: o parecer do COMPAHC de 2016 sobre a preservação da Fazenda do Arado, a Resolução CGOF 025/2021 e a planta do EVU. A SMAMUS reconhece que é ato concluído e de natureza pública |
+| (2) Termo de Compromisso | **Não foi assinado**, por causa da suspensão judicial; a SMAMUS certifica que o termo assinado não existe. Eventual minuta é documento preparatório, acessível só depois do ato (art. 7º, §3º, da LAI) |
+| (3) Contrapartida viária na Costa Gama × Afonso Lourenço Mariante | As condicionantes viárias aprovadas "estão registradas no próprio Parecer"; **não há projetos viários executivos** apresentados e aprovados, e a SMAMUS certifica que não existem |
+| (4) Decisão judicial | **Ação Civil Pública nº 5104278-57.2021.8.21.0001**, do Ministério Público, na Vara da Fazenda Pública de Porto Alegre. Suspende aprovação, licenciamento, regularização e cobrança de contrapartidas com base na **LC 935/2022, declarada nula em primeira instância**; não impede cópia de atos já concluídos |
+| (5) Identidade do empreendimento | **Confirmada:** o EU 002.330742.00.5 é o "Loteamento/Condomínio Fazenda do Arado / Ponta do Arado", da Arado Empreendimentos Imobiliários S/A |
+
+**O que o Parecer 021/2023 traz.** Aprova, em 19/05/2023, o EVU do Loteamento Fazenda do Arado (Projeto
+Especial de Impacto Urbano de 2º Grau, revisão R-22, de 26/04/2023), com base na LC 935/2022. As
+contrapartidas pela alteração do regime urbanístico, a constar do Termo de Compromisso, são todas em
+Belém Novo: revitalização da orla, com manutenção por 5 anos; percurso de pedestres e ciclistas pela orla
+e pelo bairro, ligando locais de interesse histórico; reforma e ampliação de duas unidades de saúde; e
+doação de lote ao DMAE para a estação de tratamento de água. O DMAE exige ainda melhorias na ETE Belém Novo
+e a ampliação de um bueiro sob a Av. do Lami. As condicionantes viárias tratam só da gleba e das vias
+lindeiras: ciclovias, passeios, largura da via interna principal, perfis viários e projeto de
+sinalização a aprovar na EPTC-SMMU. A SMOI acrescenta uma regra geral: medidas viárias "resultantes do
+Estudo de Circulação e/ou solicitadas pela EPTC/SMMU" que alterem a geometria das vias terão projeto
+executivo aprovado na CTAAPS e obra a cargo do empreendedor. **O parecer não cita a Costa Gama, a Afonso
+Lourenço Mariante, a Três Meninas nem a Vila Nova.**
+
+**O que isso muda.**
+
+- **P8: o parecer que aprovou o EVU não tem a contrapartida citada pela EPTC.** A SMAMUS remete ao
+  parecer, e nenhuma condicionante dele alcança a interseção do P8. Resta uma possibilidade sem documento:
+  uma medida vinda do Estudo de Circulação, que o parecer só cita de forma genérica (é **inferência**; o
+  estudo não foi pedido). De todo modo, a contrapartida dependeria de um Termo de Compromisso que não
+  existe e não pode ser firmado enquanto vigorar a ordem judicial. O P8 segue como pleito próprio.
+- **Dúvida registrada para a próxima reunião (decidido em 19/11/2026):** de onde veio a contrapartida no
+  P8 citada pela EPTC em 22/09, se o parecer que aprovou o EVU não a traz? Pode estar em outro documento
+  (Estudo de Circulação, EIA-RIMA, pedido da própria EPTC) ou ter sido só intenção. A pergunta vai à EPTC
+  ou à SMAMUS na próxima reunião, e não por novo pedido LAI.
+- **A ordem judicial está identificada.** A imprensa noticiou em junho de 2024 uma liminar (ver a leitura
+  da resposta de 09/11, acima); a SMAMUS fala agora em LC 935/2022 "declarada nula em primeira
+  instância", o que sugere uma sentença posterior à liminar. É **inferência**: o dossiê não consultou o
+  processo no TJRS.
+- **Fechamento.** O reexame atendeu os cinco quesitos. O despacho abre recurso à **CMRI** em 10 dias (art.
+  24 do Decreto 19.990/2018), mas não há peça existente que tenha ficado de fora: a minuta do termo seria
+  documento preparatório, e o projeto viário não existe. O item 2 (P5) segue fora, com EVU em análise.
+
+## Resposta LAI ao Pedido 24 (19/11/2026): Cláusula Nona dada como cumprida em 2017, com pagamento ligado aos decretos de 2014 e 2015
+
+> A resposta ao **Pedido 24** (protocolo **018445-26-82**), sobre o depósito da Cláusula Nona do 2º aditivo,
+> foi registrada no e-SIC em **19/11/2026, às 14h52**, 14 dias depois do prazo prorrogado (05/11/2026). O
+> SIC da **SMAMUS** só "disponibiliza os documentos em anexo": (i) cópia de duas folhas do Expediente Único
+> 002.302984.00.0, um e-mail interno de 07/08/2017 e a **Nota Técnica nº 222/2016** da Procuradoria de
+> Urbanismo e Meio Ambiente da PGM, de 06/04/2016; e (ii) o **Despacho 42018717** da Gerência de
+> Engenharia e Arquitetura (CAF/PGM), de **03/11/2026**, no SEI 26.0.000158240-1, dirigido à
+> ASSETEC/SMAMUS. Texto bruto e anexos em `retornos-protocolos/018445-26-82/` (fora do repositório
+> público).
+
+**O que dizem os documentos.**
+
+- **Despacho da PGM (03/11/2026).** A obrigação da Cláusula Nona "foi devidamente cumprida", conforme
+  comunicação da **SMF de 28/07/2017** (fls. 390–391 do processo 002.302984.00.0.07880). O compromissário
+  pagou ao Município **R$ 430.672,73**, valor que inclui a atualização das avaliações e as complementações
+  decorrentes das alterações do projeto. O pagamento cobriu as desapropriações parciais dos lotes **FC 8002,
+  8003, 8005 e 8006** (Estr. das Três Meninas, nº 1134 a 1184), e todos esses procedimentos foram
+  concluídos. Conclusão da PGM: não restam pendências quanto à cláusula.
+- **E-mail interno (07/08/2017).** Reproduz a cláusula: o depósito de R$ 200 mil vence "até 15 (quinze) dias
+  após a publicação do Decreto de Utilidade Pública", **sem número de decreto**. Registra o pagamento de
+  R$ 430.672,73, comunicado por e-mail da SMF em 28/07/2017.
+- **Nota Técnica 222/2016 (06/04/2016), à SMF.** Pede a atualização, até abril de 2016, do valor de R$ 200
+  mil (a partir de 23/08/2013, data do aditivo) e das avaliações de quatro desapropriações declaradas pelos
+  **Decretos 18.699 (publicado em 11/07/2014), 18.700 (07/10/2014) e 19.145 (29/09/2015, duas áreas)**, e
+  pede a confirmação da conta do Município (§4º da Cláusula Nona).
+
+**Por item do pedido.**
+
+| Item | Resposta |
+|---|---|
+| (a) Depósito, data, valor e atualização | **Pago**, segundo a PGM: R$ 430.672,73, comunicado pela SMF em 28/07/2017. Sem comprovante, sem a data exata do depósito e sem o índice aplicado (a NT pede reajuste até abril de 2016; a cláusula, segundo o dossiê, prevê SELIC) |
+| (b) Crédito e cobrança | Prejudicado: a obrigação é dada como cumprida |
+| (c) Destinação dos valores | **Não respondido** |
+| (d) Processo judicial ou administrativo | Não tratado diretamente; a conclusão da PGM afasta a judicialização aventada pela SMF |
+| (e) Órgão que detém a informação | Implícito: a PGM (GEAR/CAF) e a SMF |
+
+**Correção (19/11/2026): o gatilho da Cláusula Nona não eram os decretos de 2020.** O dossiê tratava os
+Decretos 20.859, 20.860 e 20.861, de 23/12/2020, como o gatilho do depósito, e os Pedidos 9, 18 e 24 foram
+redigidos assim. A cláusula, de 2013, fala só em "Decreto de Utilidade Pública", e a PGM liga o pagamento aos
+**Decretos 18.699/2014, 18.700/2014 e 19.145/2015**. São os decretos que a resposta ao Pedido 9 (01/09/2026)
+já citava ao reproduzir a SMF: houve "ingresso do recurso referente ao pagamento das desapropriações" desses
+decretos, "com juros e multa". O dossiê descartou essa informação como "outros decretos", e ela era a
+resposta. Perdem o objeto a comparação de grandeza com os laudos de 2025 (§2 do acesso externo ao SEI) e a
+hipótese, registrada em `interno/`, de crédito municipal não cobrado. Os registros anteriores ficam como
+estavam, com esta nota.
+
+**Inconsistências a registrar.**
+
+- A **SMF**, que segundo a PGM comunicou o pagamento em 2017, respondeu ao Pedido 18 (30/09/2026) que não
+  localizou nenhuma informação.
+- O despacho da PGM é de **03/11/2026**, dois dias antes do prazo prorrogado, mas a SMAMUS só respondeu em
+  19/11.
+- O despacho chama o termo de "41.198/2007" (o Termo de Compromisso é de 2009), e o e-mail de 2017 chama o
+  aditivo de "registrado sob nº 41198" (o 2º aditivo tem o registro 53.107). São lapsos prováveis, sem efeito
+  sobre a identificação.
+- A **composição dos R$ 430.672,73** não está demonstrada. Pela NT, o valor somaria aos R$ 200 mil
+  atualizados as avaliações das quatro desapropriações, mas a nota não traz o cálculo final (inferência).
+
+**O que isso muda.**
+
+- **A Cláusula Nona sai das pendências.** A PGM a dá por cumprida em 2017, e não há crédito a cobrar.
+- **As desapropriações de 2014–2015 estão concluídas**, segundo a PGM. As que seguem pendentes são as dos
+  decretos de 2020 em diante (P6, P7 e Três Meninas, 1085). A resposta não trata delas; a cláusula
+  reproduzida diz que os custos das novas desapropriações foram "assumidos pelo ente público".
+- **Fechado sem reexame (decidido em 19/11/2026).** O reexame caberia até 29/11/2026 para a destinação
+  (item c), a data do depósito e a cópia da comunicação da SMF (fls. 390–391), mas o fato central já está
+  por escrito. Essas três informações ficam como lacuna registrada.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -1645,9 +1782,9 @@ Secretaria Municipal de Obras e Infraestrutura (SMOI).
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. A EPTC enviou em 16/11/2026 (Pedido 30) o projeto de sinalização da rotatória, de nov/2024, revisado em jan/2025, com semáforos de pedestres, lombadas físicas e 30 km/h, cuja implantação integral depende da acessibilidade a cargo da DCVU-SMSURB (projeto da SMOI, mar/2026); a geometria não muda ([leitura](#resposta-lai-ao-pedido-30-16112026-projeto-de-sinalização-da-eptc-para-a-rotatória-do-p2-de-2024-com-implantação-integral-à-espera-da-acessibilidade)). |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026; cumprimento designado para 28/10/2026, Pedido 28, e executado segundo informação da comissão em 09/11/2026, sem confirmação oficial); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** segue sem confirmação (a SMF não localizou o depósito, e o Pedido 24 venceu sem resposta); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026; cumprimento designado para 28/10/2026, Pedido 28, e executado segundo informação da comissão em 09/11/2026, sem confirmação oficial); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** foi dada como cumprida em 2017 pela PGM, ligada às desapropriações dos decretos de 2014–2015 (FC 8002 a 8006), e não às dos decretos de 2020 em diante ([Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Sem cobertura específica identificada** | P9 atual | Rua Santuário × Av. Oscar Pereira. A antiga associação ao eixo Cristiano Kraemer referia-se à rótula retirada em 13/08, mantida apenas no histórico de D4. |
-| **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. Nos P5 e P8, a resposta ao Pedido 29 (09/11/2026) **não confirma** as contrapartidas citadas pela EPTC em 22/09: EVU em análise no P5; EVU de 2023 com tramitação suspensa por ordem judicial no empreendimento ligado ao P8 ([leitura](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise)). |
+| **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. Nos P5 e P8, a resposta ao Pedido 29 (09/11/2026) **não confirma** as contrapartidas citadas pela EPTC em 22/09: EVU em análise no P5; EVU de 2023 com tramitação suspensa por ordem judicial no empreendimento ligado ao P8 ([leitura](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise)). No P8, o reexame (19/11/2026) trouxe o Parecer CAUGE 021/2023, cujas contrapartidas ficam em Belém Novo, sem nada na Costa Gama × Afonso Lourenço Mariante, e sem Termo de Compromisso assinado ([leitura](#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada)). |
 
 ## Consequência prática para o projeto
 

@@ -604,6 +604,11 @@ doação de maquinário à SMAM. Este pedido busca a peça diretamente.
 **Protocolado em 02/10/2026** (nº **018445-26-82**, prazo **26/10/2026** conforme o e-SIC; tema
 "Infraestrutura Urbana"; sem anexos — as respostas anteriores são citadas por protocolo).
 
+**Respondido em 19/11/2026, às 14h52**, 14 dias depois do prazo prorrogado (05/11): a SMAMUS enviou um
+despacho da PGM (03/11/2026) que dá a Cláusula Nona por **cumprida em 2017**, com pagamento de R$ 430.672,73,
+ligado aos decretos de 2014–2015. O texto acima parte da suposição, corrigida em 19/11/2026, de que o gatilho
+eram os decretos de 2020; ver [Respostas recebidas](#respostas-recebidas).
+
 **Órgão:** SMAMUS (órgão que conduz o Expediente Único 002.302984.00.0 e o Termo de Compromisso).
 Tema do e-SIC a conferir no momento do envio.
 
@@ -961,6 +966,9 @@ ele sair. O texto abaixo é o enviado:
 >
 > O pedido não requer identificação, CPF, dados bancários ou dados individualizados de terceiros; se as peças contiverem esses dados, podem ser tarjados.
 
+**Reexame provido em 19/11/2026, às 13h55**, no último dia do prazo: a autoridade máxima da SMAMUS enviou o
+Parecer CAUGE 021/2023 e respondeu aos cinco quesitos; ver [Respostas recebidas](#respostas-recebidas).
+
 ## Pedido 30 — EPTC: projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2)
 
 **Protocolado em 08/10/2026** (nº **018518-26-45**, prazo **28/10/2026** conforme o e-SIC; tema
@@ -1237,6 +1245,18 @@ integral depende da execução da acessibilidade. Não tratou do item (c). Ver
   e a resposta não alega sigilo. **Reexame do item 1 apresentado em 09/11/2026, às 11h06** (prazo final
   19/11/2026), com o texto na seção do Pedido 29. Resposta guardada em `retornos-protocolos/018516-26-39/`. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise).
+  **Reexame provido (19/11/2026, às 13h55, no último dia do prazo).** A autoridade máxima da SMAMUS enviou
+  o **Parecer CAUGE 021/2023** e informou: o **Termo de Compromisso não foi assinado** (certifica que não
+  existe; eventual minuta é documento preparatório); as condicionantes viárias estão no próprio parecer, e
+  **não há projetos viários executivos aprovados**; a suspensão vem da **ACP 5104278-57.2021.8.21.0001**, do
+  Ministério Público, que suspende os atos baseados na LC 935/2022, declarada nula em primeira instância, mas
+  não impede cópias de atos concluídos; e o expediente é o de **Ponta do Arado** (Arado Empreendimentos
+  Imobiliários S/A). O parecer aprova o EVU do loteamento com contrapartidas **em Belém Novo** (orla, percurso
+  de pedestres e ciclistas, duas unidades de saúde, lote para a ETA, melhorias na ETE) e condicionantes viárias
+  limitadas à gleba e às vias lindeiras; **não cita a Costa Gama nem a Afonso Lourenço Mariante**. A origem da
+  contrapartida citada pela EPTC em 22/09 fica como pergunta para a próxima reunião (decidido em 19/11/2026). Cabe recurso
+  à CMRI em 10 dias, sem peça existente que tenha ficado de fora. Anexo guardado na mesma pasta. Leitura em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada).
 - **Pedido 14 (017791-26-78) — respondido (10/11/2026, às 10h41, 63 dias após o prazo, sem prorrogação), parcial: só o esgoto.**
   O **DMAE** anexou a **certidão nº 003.002133.10.5, de 02/10/2013**, que recebe o **coletor tronco
   de esgoto cloacal do Loteamento Alphaville** (PVC, executado pela Alphaville): Estr. Cristiano
@@ -1268,6 +1288,21 @@ integral depende da execução da acessibilidade. Não tratou do item (c). Ver
   opção para janeiro: pedido novo à SMSURB. Resposta e anexos em
   `retornos-protocolos/018518-26-45/`. Leitura completa em
   [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-30-16112026-projeto-de-sinalização-da-eptc-para-a-rotatória-do-p2-de-2024-com-implantação-integral-à-espera-da-acessibilidade).
+- **Pedido 24 (018445-26-82) — respondido (19/11/2026, às 14h52, 14 dias após o prazo prorrogado): Cláusula Nona dada como cumprida em 2017.**
+  A **SMAMUS** só encaminhou dois anexos. O **Despacho 42018717 da GEAR/CAF-PGM** (03/11/2026, SEI
+  26.0.000158240-1) conclui que a obrigação "foi devidamente cumprida": a SMF comunicou em **28/07/2017** o
+  pagamento de **R$ 430.672,73** pelo compromissário, com atualização das avaliações e complementações pelas
+  alterações do projeto, cobrindo as desapropriações parciais dos lotes FC 8002, 8003, 8005 e 8006 (Estr. das
+  Três Meninas, nº 1134 a 1184), todas concluídas. A cópia de folhas do EU 002.302984.00.0 traz um e-mail interno
+  de 2017, que reproduz a cláusula (depósito em 15 dias da publicação "do Decreto de Utilidade Pública", sem
+  número), e a Nota Técnica 222/2016 da PGM, que pede à SMF a atualização dos R$ 200 mil e das avaliações dos
+  **Decretos 18.699/2014, 18.700/2014 e 19.145/2015**. **Limites:** sem comprovante nem data exata do
+  depósito; índice de atualização não informado; **destinação (item c) não respondida**; composição do valor
+  não demonstrada. **Correção:** o dossiê tratava os decretos de 2020 como gatilho da cláusula e descartou
+  como "outros decretos" a informação da SMF reproduzida no Pedido 9, que era a resposta. A SMF, que segundo a
+  PGM comunicou o pagamento em 2017, não o localizou no Pedido 18. **Fechado sem reexame (decidido em
+  19/11/2026):** o fato central já está por escrito; destinação, data e comprovante ficam como lacuna. Anexos em `retornos-protocolos/018445-26-82/`. Leitura completa em
+  [projetos-viarios-ja-aprovados.md](projetos-viarios-ja-aprovados.md#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015).
 - **Pedido 23 (018163-26-50) — respondido (19/10/2026, por volta das 10h17, quatro dias após o prazo prorrogado), parcial.** A **SMAMUS**
   (Diretoria de Licenciamento e Monitoramento Ambiental) **não localizou cópia do TAC**, mas
   informou que consta dos autos o **documento de arquivamento do Ministério Público** (nº
@@ -1354,6 +1389,8 @@ integral depende da execução da acessibilidade. Não tratou do item (c). Ver
   depósito**; a hipótese de judicialização é conjectura da SMF, sem processo indicado, e não
   deve ser tratada como fato. Providência: **Pedido 24** à SMAMUS (protocolado em 02/10, nº 018445-26-82), que
   anexa as duas respostas para atender ao art. 11, parágrafo único, do Decreto 19.990/2018.
+  **Atualização (19/11/2026):** no Pedido 24, a PGM informa que a própria SMF comunicou o pagamento em
+  28/07/2017 e dá a cláusula por cumprida; a hipótese de judicialização não se confirmou.
 - **Pedido 17 (017904-26-00) — respondido (21/09/2026, 16h34), não veio o relatório específico.** A
   **EPTC** não enviou o "Relatório de Ocorrências" citado no processo judicial do P7; em vez
   disso, redirecionou ao portal **ObservaMOB** e anexou um **shapefile bruto de sinistros de toda
@@ -1423,12 +1460,12 @@ integral depende da execução da acessibilidade. Não tratou do item (c). Ver
 | 21 — Quadro de pendências de implantação das interseções | GEAR-PGM (tema "Obras Públicas" no e-SIC) | 11/09/2026 | 018132-26-62 | ~~05/10/2026~~ | **respondido (16/09/2026)** — sem alteração desde 2020; implantação condicionada às desapropriações e ao cronograma dos Trechos 01/03; derivado do Pedido 10 |
 | 22 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama | DMAE (tema "Água" no e-SIC) | 11/09/2026 | 018133-26-10 | 05/10/2026 | **respondido (registrado em 06/10/2026)** — DMAE: sem registro de novo andamento de projeto ou obra de drenagem desde o Parecer CTAAPS 093/2020; não envia projeto nem diz se existe; indica CTAAPS e PGM; derivado do Pedido 10 |
 | 23 — TAC nº 00833.00096/2010 (Ministério Público) | SMAMUS/SMAM (tema "Ambiental" no e-SIC) | 12/09/2026 | 018163-26-50 | ~~05/10~~ **15/10/2026** | **respondido (19/10/2026, ~10h17, quatro dias após o prazo), parcial** — TAC não localizado; arquivamento do MP (doc. 41690350) indica averbações nas matrículas (CONAMA 420/2009), sem números nem cláusula; itens (c) maquinário e (d) Habite-se não tratados; processo físico (~18 volumes) à disposição no Arquivo Municipal, com agendamento; **arquivado por decisão da comissão (19/10/2026): sem reexame e sem consulta ao Arquivo**, com as lacunas registradas — derivado do Pedido 10 + relato de membro da comissão |
-| 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | ~~26/10~~ **05/11/2026** | **prorrogado (+10 dias) e vencido sem resposta** (conferido no e-SIC em 06/11/2026; status segue PRAZO_PRORROGADO, sem botão de reexame) — derivado dos Pedidos 9 e 18 |
-| 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ ~~05/11/2026~~ **19/11/2026** (e-SIC, após o reexame) | **respondido (05/11/2026, 23h03, pela PGM)** — projeto de drenagem não elaborado; elaboração adiada até a conclusão das desapropriações (validade de 4 anos dos projetos complementares, Dec. 20.659/2020); não diz quem elabora nem quem executa; **reexame apresentado em 09/11 (11h36)** — derivado do Pedido 22 |
+| 24 — Depósito, cobrança e destinação da Cláusula Nona (após remessa da SMF) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 02/10/2026 | 018445-26-82 | ~~26/10~~ **05/11/2026** | **respondido (19/11/2026, 14h52), 14 dias após o prazo** — despacho da PGM (03/11/2026): Cláusula Nona **cumprida em 2017** (R$ 430.672,73, comunicado pela SMF em 28/07/2017), ligada aos Decretos 18.699/2014, 18.700/2014 e 19.145/2015; destinação não respondida; **fechado sem reexame** (decidido em 19/11) — derivado dos Pedidos 9 e 18 |
+| 25 — Projeto de drenagem das interseções Cristiano Kraemer e Costa Gama (CTAAPS) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 06/10/2026 | 018483-26-57 | ~~26/10~~ ~~05/11/2026~~ **19/11/2026** (e-SIC, após o reexame) | **respondido (05/11/2026, 23h03, pela PGM)** — projeto de drenagem não elaborado; elaboração adiada até a conclusão das desapropriações (validade de 4 anos dos projetos complementares, Dec. 20.659/2020); não diz quem elabora nem quem executa; **reexame apresentado em 09/11 (11h36)**, sem resposta na conferência de 19/11 (16h45) — derivado do Pedido 22 |
 | 26 — Parecer 985/1997, Informação 4084/2022 e cronograma dos 4 processos (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 06/10/2026 | 018485-26-62 | ~~26/10~~ **05/11/2026** | **respondido (05/11/2026, 23h16)** — Parecer 985/1997 e Informação 4084/2022 enviados; situação de cada processo com a FC correspondente; cronograma declarado inexistente (art. 12, III, Dec. 19.990/2018) — complementa o Pedido 16, que fica fechado |
-| 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11 e 10/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que foi respondido em 10/11/2026 |
-| 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 12h03), parcial** — demolição designada para 28/10, sem dizer se ocorreu (executada, segundo a comissão, sem confirmação oficial); sem registro de notificação ao empreendedor; Rodrigues da Fonseca fora do Termo de Compromisso, sem processo de desapropriação, só processo da EPTC; **reexame dos itens 1, 2 e 3(b) apresentado em 09/11 (13h52)** — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
-| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 09h42), parcial** — expedientes informados (EU 002.330742.00.5, EVU de 2023 com tramitação suspensa por ordem judicial; EU 002.202375.00.0, EVU em análise), sem Termo de Compromisso, parecer ou peça viária; **reexame do item 1 apresentado em 09/11 (11h06)** — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
+| 27 — Execução/recebimento das redes de água e esgoto (refaz o 14) | DMAE (tema "Água" no e-SIC) | 06/10/2026 | 018487-26-78 | 26/10/2026 | **prazo vencido sem resposta nem prorrogação** (conferido no e-SIC em 06/11, 10/11 e 19/11/2026; status "Aguardando resposta", sem botão de reexame) — refaz o Pedido 14, que foi respondido em 10/11/2026 |
+| 28 — Demolição na confluência do P7, cobrança ao empreendedor e alargamento da Rodrigues da Fonseca (PGM) | PGM (tema "Obras Públicas" no e-SIC) | 08/10/2026 | 018515-26-81 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 12h03), parcial** — demolição designada para 28/10, sem dizer se ocorreu (executada, segundo a comissão, sem confirmação oficial); sem registro de notificação ao empreendedor; Rodrigues da Fonseca fora do Termo de Compromisso, sem processo de desapropriação, só processo da EPTC; **reexame dos itens 1, 2 e 3(b) apresentado em 09/11 (13h52)**, sem resposta na conferência de 19/11 (16h45) — derivado da reunião com a EPTC (22/09) e dos Pedidos 8 e 21 |
+| 29 — Termos de Compromisso e contrapartidas viárias de Ponta do Arado (P8) e da esquina João Salomoni × Cavalhada (P5) | SMAMUS (tema "Infraestrutura Urbana" no e-SIC) | 08/10/2026 | 018516-26-39 | ~~28/10~~ ~~09/11/2026~~ **19/11/2026** (e-SIC, após o reexame; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (09/11/2026, 09h42), parcial** — expedientes informados (EU 002.330742.00.5, EVU de 2023 com tramitação suspensa por ordem judicial; EU 002.202375.00.0, EVU em análise), sem Termo de Compromisso, parecer ou peça viária; **reexame do item 1 apresentado em 09/11 (11h06) e provido em 19/11 (13h55)**: Parecer CAUGE 021/2023 enviado, sem contrapartida viária no P8; Termo de Compromisso não assinado; ACP 5104278-57.2021.8.21.0001 identificada — derivado da reunião com a EPTC (22/09) e do Pedido 11; o item 2 cita a Dr. Vergara por erro da ata (a via do P5 liga à Estr. João Vedana) |
 | 30 — Projeto do nó Monte Cristo × Rodrigues da Fonseca × Belém Velho × Cristiano Kraemer (P2) | EPTC (tema "Trânsito" no e-SIC) | 08/10/2026 | 018518-26-45 | ~~28/10~~ **09/11/2026** (e-SIC; o e-mail da prorrogação dizia 07/11, sábado) | **respondido (16/11/2026, 15h50, sete dias após o prazo), parcial** — projeto de sinalização da rotatória (GPTC, 11/11/2024, rev. 14/01/2025, processo 24.16.000028890-0) e projeto de acessibilidade da SMOI (mar/2026); implantação integral depende da acessibilidade (DCVU-SMSURB); sem dizer o que está implantado; item (c) não tratado; **fechado sem reexame (decidido em 17/11/2026)**; a comissão observou implantação parcial e aparente início de obra (16/11) — derivado do Pedido 5; em 14/10 a EPTC pediu por e-mail o número do processo do item (c) e foi informada (e-SIC 017397-26-59) |
 
 **Prorrogação (22/07/2026):** os Pedidos 1, 4, 5, 6 e 7 receberam, por e-mail, prorrogação de
