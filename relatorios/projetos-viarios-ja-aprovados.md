@@ -18,7 +18,7 @@
 > traz despacho da PGM que dá a cláusula por **cumprida em 2017** (R$ 430.672,73), ligada aos decretos de
 > 2014–2015, e não aos de 2020, como o dossiê supunha ([leitura](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)).
 >
-> **Atualização (nov/2026):** [Pedido 25](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações), [Pedido 26](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma), [Pedido 28](#resposta-lai-ao-pedido-28-09112026-demolição-designada-para-2810-sem-notificação-ao-empreendedor-e-sem-processo-de-desapropriação-na-rodrigues-da-fonseca) e [Pedido 29](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise), com o [reexame](#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada); [Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015) (Cláusula Nona).
+> **Atualização (nov/2026):** [Pedido 25](#resposta-lai-ao-pedido-25-05112026-projeto-de-drenagem-das-interseções-não-elaborado-e-adiado-até-a-conclusão-das-desapropriações), [Pedido 26](#resposta-lai-ao-pedido-26-05112026-parecer-9851997-informação-40842022-e-situação-dos-quatro-processos-sem-cronograma), [Pedido 28](#resposta-lai-ao-pedido-28-09112026-demolição-designada-para-2810-sem-notificação-ao-empreendedor-e-sem-processo-de-desapropriação-na-rodrigues-da-fonseca) e [Pedido 29](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise), com o [reexame](#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada); [Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015) (Cláusula Nona); [reexames dos Pedidos 25 e 28](#respostas-lai-aos-reexames-dos-pedidos-25-e-28-19112026-demolição-cumprida-em-2810-situação-dos-três-decretos-da-alça-do-p7-e-drenagem-sem-resposta) (demolição no P7 cumprida em 28/10; drenagem sem resposta).
 
 ## Fontes administrativas examinadas
 
@@ -906,7 +906,7 @@ base oficial da EPTC").
 |---|---|---|---|---|
 | **077** (8040) | eixo (Três Meninas 1085) | 20.861/2020 | 429,08 m² | Ação distribuída em 19/12/2025, dentro do prazo (a PGM conta até 28/12/2025), **sem pedido de imissão provisória na posse**. Sem movimentação administrativa entre 14/01/2026 e 24/09/2026. |
 | **092** (8058) | P7, alça | 20.860/2020 | 1.334,07 m² | Concluído por acordo em 2025 (Pedido 9). Não foi objeto deste acesso. |
-| **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, **na véspera** de completar cinco anos da disponibilização do decreto no DOPA (27/11/2020); empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). |
+| **093** (8059) | P7, alça | 20.808/2020 | 48,02 m² | Escritura pública em 26/11/2025, **na véspera** de completar cinco anos da disponibilização do decreto no DOPA (27/11/2020); empenho, liquidação e comprovante de pagamento em dez/2025. **Registro aparentemente em andamento:** exigência do registro impugnada em 01/2026, croqui e memorial em 03/2026 e e-mails ao tabelionato até 04/09/2026 (inferência pelos títulos; documentos restritos). **Atualização (19/11/2026):** a PGM informou que o registro está pendente por impugnação formalizada pelo cartório (reexame do Pedido 28). |
 | **094** (8060) | P7, alça | 22.570/2024 | 28,33 m² | Minuta de acordo em abr/2025, sem êxito segundo a própria petição inicial; ação proposta em 08/07/2026, **sem pedido de imissão provisória na posse**. Decreto válido até cerca de 03/2029. |
 | **101** (8067) | P6 | 20.859/2020 | 1.806,73 m² | **Decreto caducou em 28/12/2025.** Sem petição nem minuta de novo decreto; a PGM programa reabrir em dez/2026. |
 
@@ -1381,7 +1381,9 @@ respectivo".
   desapropriações.
 - **Reexame apresentado em 09/11/2026, às 11h36** (status "Aguardando reexame", prazo final 19/11/2026
   no e-SIC), restrito ao que ficou sem resposta: **quem responde pela elaboração e pela execução** do
-  projeto (item b), com o fundamento e o setor que acompanha a pendência.
+  projeto (item b), com o fundamento e o setor que acompanha a pendência. **Atualização (19/11/2026):** a PGM
+  respondeu com o mesmo texto do reexame do Pedido 28, sem tratar da drenagem; os três quesitos seguem sem
+  resposta ([leitura](#respostas-lai-aos-reexames-dos-pedidos-25-e-28-19112026-demolição-cumprida-em-2810-situação-dos-três-decretos-da-alça-do-p7-e-drenagem-sem-resposta)).
 
 ## Resposta LAI ao Pedido 26 (05/11/2026): Parecer 985/1997, Informação 4084/2022 e situação dos quatro processos, sem cronograma
 
@@ -1531,7 +1533,9 @@ nem de propor ação de usucapião, por custo-benefício.
   mandado alcança só o galpão,
   o "restante da construção", incluindo a casa citada na ata de 22/09, **não está coberto** por ele; a resposta
   não indica outro processo. Pela observação da comissão, o trecho demolido seria só a ponta da confluência, onde ficava o
-  galpão sobre o passeio; não se sabe se a casa foi atingida.
+  galpão sobre o passeio; não se sabe se a casa foi atingida. **Atualização (19/11/2026):** confirmada pela certidão de
+  cumprimento do mandado: demolição do galpão em 28/10/2026, com terraplenagem até 3 m da parede da residência, que ficou
+  de pé ([leitura](#respostas-lai-aos-reexames-dos-pedidos-25-e-28-19112026-demolição-cumprida-em-2810-situação-dos-três-decretos-da-alça-do-p7-e-drenagem-sem-resposta)).
 - **P7, cobrança:** desde o Parecer 093/2020, a GEAR não registra notificação ao empreendedor pela 2ª fase, embora a
   própria GEAR tenha afirmado, em 28/03/2025, que as obrigações dele permanecem. A ressalva vale para os registros "nesta
   Gerência". A leitura de que a cobrança não anda porque depende de desapropriações a cargo do próprio
@@ -1544,7 +1548,9 @@ nem de propor ação de usucapião, por custo-benefício.
   restrito ao que ficou sem resposta: a data e o alcance da demolição, com a certidão de cumprimento; se há
   demolição, desocupação ou desapropriação prevista para as demais edificações da confluência e se elas são
   atingidas pelos decretos da alça ou pelo projeto da 2ª fase; a cobrança ao empreendedor em outros setores da
-  PGM; e o número e a situação do processo da EPTC sobre a Rodrigues da Fonseca.
+  PGM; e o número e a situação do processo da EPTC sobre a Rodrigues da Fonseca. **Respondido em 19/11/2026**, em
+  parte: demolição confirmada, com a certidão; situação dos três decretos da alça; cobrança e edificações remanescentes
+  remetidas a nova solicitação; número do processo remetido à EPTC ([leitura](#respostas-lai-aos-reexames-dos-pedidos-25-e-28-19112026-demolição-cumprida-em-2810-situação-dos-três-decretos-da-alça-do-p7-e-drenagem-sem-resposta)).
 
 ## Resposta LAI ao Pedido 14 (10/11/2026): coletor tronco de esgoto recebido em 2013, rede de água sem resposta
 
@@ -1774,6 +1780,88 @@ estavam, com esta nota.
   (item c), a data do depósito e a cópia da comunicação da SMF (fls. 390–391), mas o fato central já está
   por escrito. Essas três informações ficam como lacuna registrada.
 
+## Respostas LAI aos reexames dos Pedidos 25 e 28 (19/11/2026): demolição cumprida em 28/10, situação dos três decretos da alça do P7 e drenagem sem resposta
+
+> Os reexames do **Pedido 28** (protocolo **018515-26-81**, às 17h36) e do **Pedido 25** (protocolo
+> **018483-26-57**, às 17h37) foram respondidos em **19/11/2026**, no último dia do prazo, pelo SIC da
+> **PGM**, "de ordem da autoridade máxima". **Os dois receberam o mesmo texto, palavra por palavra, e o
+> mesmo anexo**: a certidão de cumprimento do mandado de demolição (TJRS, 1 página). O texto responde
+> ao reexame do Pedido 28 e **não trata do projeto de drenagem** do Pedido 25. Textos brutos e anexo em
+> `retornos-protocolos/018515-26-81/` e `retornos-protocolos/018483-26-57/` (fora do repositório
+> público). Os nomes de particulares, de oficiais de justiça e de servidores que constam da certidão
+> ficam fora do dossiê.
+
+**O que a resposta diz.**
+
+- **Pede nova solicitação:** "como a resposta a esses novos pontos exige a oitiva de múltiplos setores
+  da Administração, sugere-se que o cidadão abra nova solicitação". Responde só no que cabe à
+  Procuradoria de Aquisições e Escrituras (PAESC, art. 38 do Decreto 21.688/2022) e à demolição.
+- **Demolição cumprida em 28/10/2026**, com terraplenagem do local. A certidão anexa (auto de demolição
+  da Central de Mandados, processo 5003552-35.2014.8.21.0001) registra que foi demolido o **galpão de
+  madeira e zinco**, "não se confundindo com o restante da construção", onde reside o réu. Por acordo
+  entre as partes e a equipe técnica, sem coordenadas geográficas e diante do risco de desmoronamento
+  da edificação vizinha, a terraplenagem e a retirada de terra foram feitas **até 3 m da parede da
+  residência**. Segundo a certidão, essa terra **impedia a vista** de quem trafega pela Três Meninas e
+  pela Costa Gama. O cumprimento foi acompanhado pela força policial e por equipes técnicas da
+  Prefeitura, sem resistência do réu.
+- **Situação dos três decretos da alça do P7, por processo (PAESC):**
+
+| Decreto | Processo | Situação (PGM, 19/11/2026) |
+|---|---|---|
+| 20.808/2020 | 002.079093.09.4 (FC 8059) | Escritura pública de desapropriação amigável (doc. SEI 36780805), **pendente de registro por impugnação formalizada pelo cartório imobiliário**. |
+| 20.860/2020 | 002.079092.09.8 (FC 8058) | Desapropriação amigável **registrada na matrícula**. |
+| 22.570/2024 | 002.079094.09.0 (FC 8060) | Ação de desapropriação 5194093-05.2026.8.21.0001, "em tramitação perante a 2ª Vara da Fazenda Pública". |
+
+- **Rodrigues da Fonseca:** reitera que não há procedimento expropriatório na PAESC e indica a **EPTC**
+  como competente para informar o número e o andamento do processo (art. 11, § 1º, III, da LAI).
+
+**Reexame do Pedido 28, por quesito.**
+
+| Quesito do reexame | Resposta |
+|---|---|
+| (1) Cumprimento, data e alcance da demolição, com a certidão | **Respondido:** cumprido em 28/10/2026; só o galpão, com terraplenagem; certidão anexa. |
+| (2) Demolição, desocupação ou desapropriação prevista para o restante da construção e as demais edificações da confluência; se são atingidas pelos decretos da alça ou pela 2ª fase | **Sem resposta direta.** A certidão confirma que a residência ficou de pé. A PGM lista a situação de cada decreto, mas não diz se a residência ou outra edificação da esquina está na área de algum deles nem se há previsão para elas. |
+| (3) Notificação ou cobrança ao empreendedor em outros setores da PGM; prazo ou cronograma | **Sem resposta**; remetido a nova solicitação. |
+| (4) Número e situação do processo da EPTC sobre a Rodrigues da Fonseca | **Remetido à EPTC.** |
+| (5) Órgão que detém a informação | Indicou a EPTC para o item (4); para os itens (2) e (3), só sugeriu nova solicitação. |
+
+**Reexame do Pedido 25.** Os três quesitos (quem elabora e quem executa o projeto de drenagem, o
+fundamento da atribuição e o setor que acompanha a pendência) **ficaram sem resposta**. O texto
+recebido é o do Pedido 28, colado no protocolo errado ou nos dois; a sugestão de "nova solicitação"
+fala de "novos pontos" que exigem vários setores, o que não descreve um pedido sobre o responsável por
+um projeto.
+
+**Divergências a anotar.**
+
+- A resposta chama a construção demolida de "casebre erigido em área pública de calçada"; a certidão e
+  a resposta de 09/11 falam em **galpão** de madeira e zinco, distinto da residência. Vale a certidão.
+- A PGM situa a ação do processo 094 na **2ª Vara** da Fazenda Pública (como já fizera no Pedido 26, ao
+  dizer "na mesma vara" da ação do 1085); a consulta ao TJRS registrada acima a situava no 2º Juízo da
+  **3ª Vara**. A conferir no eproc antes de citar a vara em peça externa.
+- A resposta usa "Procuradoria de **Aquisições** e Escrituras"; a de 09/11, "Procuradoria de
+  **Apropriações** e Escrituras". Mesma sigla (PAESC).
+
+**O que isso muda.**
+
+- **P7, demolição: confirmada oficialmente.** O galpão da ponta da confluência saiu em 28/10/2026, e
+  a terraplenagem retirou terra que, segundo a própria certidão, tapava a visão de quem chega pelas
+  duas estradas. A residência continua, e
+  nenhum documento diz se ela é atingida pelos decretos da alça ou pela 2ª fase.
+- **P7, parcela 093:** a escritura de 26/11/2025 segue sem registro por **impugnação do cartório**, o
+  que confirma a inferência feita pelos títulos do SEI (exigência do registro em 01/2026, croqui e
+  memorial em 03/2026, e-mails ao tabelionato até 09/2026). O motivo da impugnação não foi informado.
+- **P7, parcela 092:** registrada, como a PGM já dissera no Pedido 9. Das três parcelas da alça, só
+  esta está concluída de ponta a ponta.
+- **Cobrança ao empreendedor e responsável pela drenagem:** continuam sem resposta. A PGM sugere nova
+  solicitação para o primeiro; para o segundo, a resposta nem trata do tema.
+- **Rodrigues da Fonseca:** o número do processo fica com a **EPTC**, que pode ser perguntada na próxima
+  reunião ou por pedido LAI próprio.
+- **Caminhos possíveis (decisão da comissão):** recurso à **CMRI** (art. 24 do Decreto 19.990/2018; 10
+  dias da ciência, até 29/11/2026), mais forte no Pedido 25, cuja resposta é de outro protocolo; ou
+  **novos pedidos**: à PGM, sobre a cobrança ao empreendedor e as edificações remanescentes da
+  confluência; à PGM ou à SMAMUS, sobre o responsável pelo projeto de drenagem; e à EPTC, sobre o
+  processo da Rodrigues da Fonseca.
+
 ## Relação com os pontos do projeto
 
 | Cobertura documental | Pontos | Leitura segura |
@@ -1782,7 +1870,7 @@ estavam, com esta nota.
 | **Direta, mas parcial quanto ao problema atual** | P2 | O nó aparece nas obrigações de sinalização; isso não prova que o desenho histórico resolva a configuração e a demanda atuais. A EPTC enviou em 16/11/2026 (Pedido 30) o projeto de sinalização da rotatória, de nov/2024, revisado em jan/2025, com semáforos de pedestres, lombadas físicas e 30 km/h, cuja implantação integral depende da acessibilidade a cargo da DCVU-SMSURB (projeto da SMOI, mar/2026); a geometria não muda ([leitura](#resposta-lai-ao-pedido-30-16112026-projeto-de-sinalização-da-eptc-para-a-rotatória-do-p2-de-2024-com-implantação-integral-à-espera-da-acessibilidade)). |
 | **Parcial** | P3 | Rodrigues da Fonseca integra o nó de sinalização, mas o acesso específico à Vicente Monteggia não está demonstrado. |
 | **Direta — projetos aprovados e não implantados** | P6 | Kanazawa e Florestan Fernandes tiveram **estudos exigidos (2013), projetos aprovados e nenhuma implantação** (Parecer CTAAPS 093/2020), além de desapropriação declarada na esquina com a Kanazawa (Decreto 20.859/2020). A PGM (Pedido 9, 01/09/2026) confirma que a DUP **caducou em 28/12/2025**, após revisão topográfica e de memorial em jan--fev/2026, e que novo decreto é previsto a partir de dezembro de 2026; os despachos do SEI (24/09/2026) mostram que a PGM quer antes **revisar o projeto** para excluir áreas já consolidadas como públicas, e que o novo decreto só pode sair a partir de 29/12/2026. A faixa do Decreto 20.861/2020, junto ao cruzamento da Três Meninas com a Florestan Fernandes, está em ação judicial e integra o mesmo alargamento. A EPIARB confirma **sem registro de arborização** — aprovação ou recebimento — nessas interseções (Pedido 4, ago/2026). A rota completa até a Dr. Vergara segue fora da cobertura. |
-| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro aparentemente em andamento, a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026; cumprimento designado para 28/10/2026, Pedido 28, e executado segundo informação da comissão em 09/11/2026, sem confirmação oficial); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** foi dada como cumprida em 2017 pela PGM, ligada às desapropriações dos decretos de 2014–2015 (FC 8002 a 8006), e não às dos decretos de 2020 em diante ([Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
+| **Direta — cadeia documental completa** | P7 | Projeto geométrico em duas etapas **em mãos** e **caducado** (Dec. 20.659/2020); **"alça de ligação" nomeada no Decreto 20.860/2020**. A PGM (Pedido 9, 01/09/2026) confirma que o imóvel diretamente referido nesse decreto (processo 092) foi desapropriado por acordo em 2025 — **concluído**. Reconciliado com a resposta ao Pedido 8: os processos 093 e 094, citados ali, são **parcelas distintas** da mesma obra, cada uma com **decreto próprio** (20.808/2020 e 22.570/2024, ver o SEI de 24/09/2026) — a 093 com escritura em 26/11/2025 e registro pendente por impugnação do cartório (PGM, 19/11/2026), a 094 em ação judicial desde 08/07/2026. A **demolição do galpão irregular da confluência** foi juridicamente resolvida em 23/04/2026 (mandado expedido com prioridade em 03/07/2026; cumprimento designado para 28/10/2026, Pedido 28, e **cumprido em 28/10/2026**, com terraplenagem que, segundo a certidão, tirou terra que tapava a visão das duas estradas; a residência vizinha ficou, reexame do Pedido 28); a **2ª fase nunca foi implantada**; falta projeto de drenagem (não elaborado e adiado até a conclusão das desapropriações, Pedido 25); a **Cláusula Nona** foi dada como cumprida em 2017 pela PGM, ligada às desapropriações dos decretos de 2014–2015 (FC 8002 a 8006), e não às dos decretos de 2020 em diante ([Pedido 24](#resposta-lai-ao-pedido-24-19112026-cláusula-nona-dada-como-cumprida-em-2017-com-pagamento-ligado-aos-decretos-de-2014-e-2015)); a sinalização viária nunca foi aprovada para a nova interseção (Pedido 1→15); e o Termo de Compromisso permanece vigente. |
 | **Sem cobertura específica identificada** | P9 atual | Rua Santuário × Av. Oscar Pereira. A antiga associação ao eixo Cristiano Kraemer referia-se à rótula retirada em 13/08, mantida apenas no histórico de D4. |
 | **Fora da cobertura identificada** | P4, P5, P8 | Permanecem pleitos ou estudos próprios. A interseção Costa Gama × Afonso Lourenço Mariante (P8) não é a interseção Costa Gama/Oscar Pereira citada no termo. Nos P5 e P8, a resposta ao Pedido 29 (09/11/2026) **não confirma** as contrapartidas citadas pela EPTC em 22/09: EVU em análise no P5; EVU de 2023 com tramitação suspensa por ordem judicial no empreendimento ligado ao P8 ([leitura](#resposta-lai-ao-pedido-29-09112026-ponta-do-arado-com-evu-aprovado-e-tramitação-suspensa-por-ordem-judicial-av-da-cavalhada-4050-com-evu-ainda-em-análise)). No P8, o reexame (19/11/2026) trouxe o Parecer CAUGE 021/2023, cujas contrapartidas ficam em Belém Novo, sem nada na Costa Gama × Afonso Lourenço Mariante, e sem Termo de Compromisso assinado ([leitura](#resposta-lai-ao-reexame-do-pedido-29-19112026-parecer-cauge-0212023-sem-contrapartida-viária-no-p8-termo-de-compromisso-não-assinado-e-ação-civil-pública-identificada)). |
 
