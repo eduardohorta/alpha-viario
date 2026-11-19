@@ -1861,6 +1861,10 @@ um projeto.
   **novos pedidos**: à PGM, sobre a cobrança ao empreendedor e as edificações remanescentes da
   confluência; à PGM ou à SMAMUS, sobre o responsável pelo projeto de drenagem; e à EPTC, sobre o
   processo da Rodrigues da Fonseca.
+- **Decidido e feito em 19/11/2026:** **recurso à CMRI no Pedido 25** (18h47; "Avaliando recurso", prazo final
+  22/02/2027 no e-SIC) e, no lugar de recurso no Pedido 28, **Pedido 31 à PGM** (019047-26-72, 18h46, prazo
+  14/12/2026) sobre a cobrança ao empreendedor e a construção remanescente. O processo da Rodrigues da Fonseca
+  vai no envio da ata de 22/09 à EPTC.
 
 ## Relação com os pontos do projeto
 
